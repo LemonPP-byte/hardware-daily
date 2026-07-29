@@ -20,8 +20,11 @@ const RSS_SOURCES = [
   // 设计/新锐品牌
   { name: 'Dezeen Technology', url: 'https://www.dezeen.com/technology/feed/', source: 'Dezeen' },
   { name: 'Core77', url: 'https://feeds.feedburner.com/core77/blog', source: 'Core77' },
-  // Product Hunt (公开 RSS)
+  // Product Hunt
   { name: 'Product Hunt', url: 'https://www.producthunt.com/feed', source: 'Product Hunt' },
+  // 充电/配件/智能硬件相关
+  { name: '9to5Mac', url: 'https://9to5mac.com/feed/', source: '9to5Mac' },
+  { name: 'ChargerLAB', url: 'https://www.chargerlab.com/feed/', source: 'ChargerLAB' },
 ];
 
 const HN_API = 'https://hacker-news.firebaseio.com/v0';

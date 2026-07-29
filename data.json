@@ -3,52 +3,52 @@
     "date": "2026-07-29",
     "items": [
       {
-        "brief": "**Ozlo Sleepbuds 2** 是 Bose 睡眠耳塞的精神续作，续航翻倍且支持自定义白噪音混搭，海外失眠社区反响热烈。",
+        "brief": "**Ozlo Sleepbuds 2** 是 Bose 睡眠耳塞的精神续作，续航翻倍且支持自定义白噪音混搭，海外失眠社区反响热烈，是睡眠场景下的精准硬件创新。",
         "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
         "source": "TechCrunch",
         "score": 4,
-        "recurring": true,
-        "tier": "成熟品牌",
+        "recurring": false,
+        "tier": "每日头条",
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/Case-Product-Hero.jpg?resize=1200,800"
       },
       {
-        "brief": "**Logitech** 宣布欧洲版鼠标将采用可更换电池设计，效仿任天堂 Switch 2 策略，引发对消费电子环保与用户自主维修的讨论。",
+        "brief": "**$9 NFC物理锁钥匙** 通过触碰手机解锁被锁定的成瘾App，用实体交互对抗数字沉迷，极低成本带来强购买冲动，适合配件化思考。",
+        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200"
+      },
+      {
+        "brief": "**Logitech** 将仅在欧洲推出用户可更换电池鼠标，响应欧盟环保法规，这一设计趋势可能影响未来充电配件形态，值得图拉斯关注。",
         "url": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
         "source": "The Verge",
-        "score": 4,
+        "score": 3,
         "recurring": false,
         "tier": "成熟品牌",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257737_logitech_mouse__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "brief": "**$9 NFC 物理钥匙** 通过扫描实体钥匙解锁手机成瘾应用，将数字戒断转化为物理交互，创意十足且引发广泛讨论。",
-        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200"
-      },
-      {
-        "brief": "**ReFrame 电子纸相机** 以复古形态结合电子纸显示，提供无屏幕干扰的拍摄体验，在 Hacker News 上获得 90 分热度。",
+        "brief": "**ReFrame EPaper Camera** 是一款电子纸相机，用低功耗墨水屏实现复古拍摄体验，AI辅助构图但无社交干扰，极客社区讨论热烈。",
         "url": "https://reframe.camera/",
         "source": "Hacker News",
         "score": 4,
-        "recurring": true,
+        "recurring": false,
         "tier": "AI 硬件",
         "image": "https://reframe.camera/assets/site-images/og-reframe.jpg"
       },
       {
-        "brief": "**Una GPS 智能手表** 主打可修复性、USB-C 充电和开发者友好，在 Hacker News 上获得 175 分和 117 条评论，极客社区追捧。",
+        "brief": "**Una GPS智能手表** 主打可维修、USB-C充电、开发者友好，社区评分175，是反Apple Watch的极客向穿戴硬件，充电接口设计有参考价值。",
         "url": "https://unawatch.com/",
         "source": "Hacker News",
         "score": 4,
-        "recurring": true,
-        "tier": "新锐产品",
+        "recurring": false,
+        "tier": "AI 硬件",
         "image": "https://unawatch.com/cdn/shop/files/linkedin_banner.jpg?v=1756823125"
       },
       {
-        "brief": "**Leatherman Garage Batch #009 棘轮批头驱动器** 是品牌实验线产品，小批量生产，工具爱好者社区讨论热烈。",
+        "brief": "**Leatherman Garage Batch #009** 实验性棘轮批头工具，限量发售，将多工具理念做到极致，对图拉斯探索工具化充电配件形态有启发。",
         "url": "https://www.core77.com/posts/144841/Leathermans-Experimental-Ratcheting-Bit-Driver",
         "source": "Core77",
         "score": 3,
@@ -57,20 +57,29 @@
         "image": "https://s3files.core77.com/blog/images/1842728_81_144841_m2kdRRLW0.jpg"
       },
       {
-        "brief": "**Elide 随身衣物除皱器** 利用吸力在穿着时抚平衣物褶皱，便携设计解决差旅痛点，设计媒体广泛报道。",
+        "brief": "**Flatbike折叠配件** 让普通自行车实现平放折叠存储，解决城市空间痛点，设计巧思可迁移至折叠充电座或便携支架产品线。",
+        "url": "https://www.core77.com/posts/144867/Flatbikes-Accessories-Let-You-Fold-Your-Bike-Flat-for-Storage",
+        "source": "Core77",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://s3files.core77.com/blog/images/1843145_81_144867_mZq4gYLBY.jpeg"
+      },
+      {
+        "brief": "**Elide便携除皱器** 利用吸力在穿着时抚平衣物褶皱，可穿戴+便携形态，对图拉斯探索穿戴式充电/散热配件有跨界灵感。",
         "url": "https://www.dezeen.com/2026/07/28/elide-dewrinkler-safaa-fojdar/",
         "source": "Dezeen",
         "score": 3,
-        "recurring": true,
+        "recurring": false,
         "tier": "野生灵感",
         "image": "http://static.dezeen.com/uploads/2026/07/sq-elide-safaa-fojdar_dezeen_2364_col_0-411x411.jpg"
       },
       {
-        "brief": "**人体冰箱** 是日本厂商 SDRS 推出的人形不锈钢冷藏舱，旨在应对致命热浪，概念荒诞但引发消费者对极端气候产品的讨论。",
+        "brief": "**人类冰箱** 是日本厂商推出的可容纳单人的人形降温舱，应对极端热浪，极端场景下的穿戴式散热思路可启发户外充电配件散热设计。",
         "url": "https://www.dezeen.com/2026/07/27/human-refrigerator-sdrs-trusco-nakayama/",
         "source": "Dezeen",
-        "score": 3,
-        "recurring": true,
+        "score": 2,
+        "recurring": false,
         "tier": "野生灵感",
         "image": "http://static.dezeen.com/uploads/2026/07/sq-trusco-human-fridge_dezeen_2364_col_0-411x411.jpg"
       }

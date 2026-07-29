@@ -7,237 +7,187 @@
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
-            --bg: #ffffff;
             --text: #1c1c1e;
             --muted: #8e8e93;
             --accent: #E8652B;
-            --glass: rgba(255,255,255,0.65);
-            --glass-border: rgba(255,255,255,0.45);
+            --glass: rgba(255,255,255,0.6);
+            --glass-border: rgba(255,255,255,0.5);
         }
         body {
             font-family: -apple-system, 'SF Pro Display', 'Noto Sans SC', 'Helvetica Neue', sans-serif;
-            background: var(--bg);
+            background: #E8652B;
             color: var(--text);
             line-height: 1.5;
             overflow-x: hidden;
-            position: relative;
             min-height: 100vh;
+            position: relative;
         }
 
-        /* === Animated gradient background === */
-        .bg-gradient {
-            position: fixed;
-            inset: 0;
-            z-index: 0;
-            overflow: hidden;
-            pointer-events: none;
+        /* === Orange bg with flowing white orbs === */
+        .bg-layer {
+            position: fixed; inset: 0; z-index: 0;
+            overflow: hidden; pointer-events: none;
+            background: linear-gradient(160deg, #E8652B 0%, #d4551f 50%, #c74a18 100%);
         }
-        .bg-gradient .orb {
-            position: absolute;
-            border-radius: 50%;
-            filter: blur(80px);
-            opacity: 0.5;
-            animation: float 25s ease-in-out infinite;
+        .bg-layer .orb {
+            position: absolute; border-radius: 50%;
+            filter: blur(100px);
+            background: rgba(255,255,255,0.25);
+            animation: drift 30s ease-in-out infinite;
         }
-        .bg-gradient .orb-1 {
-            width: 600px; height: 600px;
-            background: radial-gradient(circle, #ffd180 0%, #ffab40 40%, transparent 70%);
-            top: -10%; left: -10%;
-            animation-delay: 0s;
-            animation-duration: 22s;
+        .bg-layer .orb-1 { width: 700px; height: 700px; top: -15%; left: -10%; animation-duration: 25s; }
+        .bg-layer .orb-2 { width: 500px; height: 500px; bottom: -10%; right: -5%; animation-delay: -10s; animation-duration: 32s; }
+        .bg-layer .orb-3 { width: 450px; height: 450px; top: 35%; left: 40%; animation-delay: -18s; animation-duration: 28s; }
+        @keyframes drift {
+            0% { transform: translate(0,0) scale(1); }
+            20% { transform: translate(50px,-60px) scale(1.06); }
+            40% { transform: translate(-40px,50px) scale(0.94); }
+            60% { transform: translate(70px,30px) scale(1.04); }
+            80% { transform: translate(-50px,-40px) scale(0.96); }
+            100% { transform: translate(0,0) scale(1); }
         }
-        .bg-gradient .orb-2 {
-            width: 500px; height: 500px;
-            background: radial-gradient(circle, #ffe0a0 0%, #f5a623 50%, transparent 70%);
-            bottom: 10%; right: -5%;
-            animation-delay: -7s;
-            animation-duration: 28s;
-        }
-        .bg-gradient .orb-3 {
-            width: 400px; height: 400px;
-            background: radial-gradient(circle, #fff3c4 0%, #ffb74d 40%, transparent 70%);
-            top: 40%; left: 30%;
-            animation-delay: -14s;
-            animation-duration: 32s;
-        }
-        @keyframes float {
-            0% { transform: translate(0, 0) scale(1); }
-            20% { transform: translate(60px, -50px) scale(1.05); }
-            40% { transform: translate(-40px, 60px) scale(0.95); }
-            60% { transform: translate(80px, 30px) scale(1.03); }
-            80% { transform: translate(-60px, -40px) scale(0.97); }
-            100% { transform: translate(0, 0) scale(1); }
-        }
+
+        /* === Content === */
+        .content-wrap { position: relative; z-index: 1; }
 
         /* === Top bar === */
         .top-bar {
-            position: fixed;
-            top: 0; left: 0; right: 0;
-            z-index: 200;
-            height: 44px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 0 28px;
-            background: rgba(255,255,255,0.8);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-            border-bottom: 1px solid rgba(0,0,0,0.04);
+            position: fixed; top: 0; left: 0; right: 0; z-index: 200;
+            height: 44px; display: flex; align-items: center;
+            justify-content: space-between; padding: 0 28px;
+            background: rgba(232,101,43,0.85);
+            backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255,255,255,0.1);
         }
-        .top-bar-left {
-            display: flex; align-items: center; gap: 8px;
-        }
-        .top-bar-left span { font-size: 13px; font-weight: 600; }
-        .top-bar-right { font-size: 11px; color: var(--muted); }
-
-        /* === Content wrapper === */
-        .content-wrap {
-            position: relative;
-            z-index: 1;
-        }
+        .top-bar-left { display: flex; align-items: center; gap: 8px; }
+        .top-bar-left svg rect { fill: #fff; }
+        .top-bar-left svg path { fill: #E8652B; }
+        .top-bar-left span { font-size: 13px; font-weight: 600; color: #fff; }
+        .top-bar-right { font-size: 11px; color: rgba(255,255,255,0.7); }
 
         /* === Hero === */
-        .hero {
-            padding: 64px 32px 24px;
-            text-align: center;
-        }
+        .hero { padding: 68px 32px 28px; text-align: center; }
         .hero-title {
             font-size: clamp(36px, 5vw, 56px);
-            font-weight: 900;
-            letter-spacing: -1.5px;
-            background: linear-gradient(135deg, var(--accent) 0%, #ff9a6c 50%, #ffcba4 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 8px;
-            margin-top: 10px;
-            filter: drop-shadow(0 4px 12px rgba(232,101,43,0.15));
+            font-weight: 900; letter-spacing: -1.5px;
+            color: #fff; margin-bottom: 8px;
         }
-        .hero-sub {
-            font-size: 13px;
-            color: #8B6B4A;
-            opacity: 0.4;
+        .hero-sub { font-size: 13px; color: rgba(255,255,255,0.55); }
+        .hero-note { font-size: 11px; color: rgba(255,255,255,0.3); margin-top: 4px; }
+
+        /* === Hero Banner (每日头条) === */
+        .hero-banner {
+            max-width: 1200px; margin: 20px auto 0;
+            border-radius: 20px; overflow: hidden;
+            background: rgba(255,255,255,0.15);
+            backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+            border: 1px solid rgba(255,255,255,0.2);
+            display: flex; align-items: stretch;
+            transition: transform 0.2s, box-shadow 0.2s;
         }
-        .hero-note {
-            font-size: 11px;
-            color: var(--text);
-            opacity: 0.2;
-            margin-top: 4px;
+        .hero-banner:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 40px rgba(0,0,0,0.15);
+        }
+        .hero-banner a { text-decoration: none; color: inherit; display: flex; width: 100%; }
+        .hero-banner-img {
+            width: 45%; aspect-ratio: 21/9; object-fit: cover; display: block;
+        }
+        .hero-banner-img-placeholder {
+            width: 45%; aspect-ratio: 21/9;
+            background: rgba(255,255,255,0.1);
+            display: flex; align-items: center; justify-content: center;
+            font-size: 12px; color: rgba(255,255,255,0.4);
+        }
+        .hero-banner-body {
+            flex: 1; padding: 24px 28px; display: flex;
+            flex-direction: column; justify-content: center;
+        }
+        .hero-banner-label {
+            font-size: 11px; font-weight: 700; color: rgba(255,255,255,0.6);
+            letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px;
+        }
+        .hero-banner-brief {
+            font-size: 16px; font-weight: 500; color: #fff; line-height: 1.7;
+        }
+        .hero-banner-brief strong { font-weight: 800; }
+        .hero-banner-meta {
+            margin-top: 12px; font-size: 11px; color: rgba(255,255,255,0.5);
         }
 
         /* === Main === */
-        main { padding: 16px 28px 48px; }
+        main { padding: 24px 28px 48px; max-width: 1300px; margin: 0 auto; }
+
+        /* === Day container === */
         .day {
             margin-bottom: 28px;
-            background: rgba(255,255,255,0.55);
-            backdrop-filter: blur(24px);
-            -webkit-backdrop-filter: blur(24px);
+            background: rgba(255,255,255,0.7);
+            backdrop-filter: blur(24px); -webkit-backdrop-filter: blur(24px);
             border: 1px solid rgba(255,255,255,0.6);
-            border-radius: 24px;
-            padding: 28px 24px 32px;
+            border-radius: 24px; padding: 28px 24px 32px;
         }
+        .day.past { opacity: 0.7; }
         .day-date {
             font-size: 12px; font-weight: 600;
             color: var(--muted); margin-bottom: 16px;
         }
 
-        /* Past days fade */
-        .day.past .tier-header { opacity: 0.7; }
-        .day.past .card { opacity: 0.75; }
-
         /* === 4-col tier grid === */
         .tier-grid {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 18px;
+            display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;
         }
         .tier-col { display: flex; flex-direction: column; gap: 12px; }
 
-        /* === Tier header === */
+        /* Tier header */
         .tier-header {
-            border-radius: 18px;
-            padding: 20px 20px 16px;
-            position: relative;
+            border-radius: 16px; padding: 18px 18px 14px;
             overflow: hidden;
         }
         .tier-header h2 {
-            font-size: 22px;
-            font-weight: 900;
-            color: #fff;
-            text-shadow: 0 1px 8px rgba(0,0,0,0.15);
+            font-size: 20px; font-weight: 900; color: #fff;
+            text-shadow: 0 1px 6px rgba(0,0,0,0.12);
         }
         .tier-header p {
-            font-size: 11px;
-            color: rgba(255,255,255,0.5);
-            margin-top: 4px;
+            font-size: 10px; color: rgba(255,255,255,0.5); margin-top: 3px;
         }
+        .tier-col:nth-child(1) .tier-header { background: linear-gradient(135deg, #2e7d32 0%, #43a047 30%, #a5d6a7 70%, #c8e6c9 100%); }
+        .tier-col:nth-child(2) .tier-header { background: linear-gradient(135deg, #0d47a1 0%, #1e88e5 30%, #90caf9 70%, #bbdefb 100%); }
+        .tier-col:nth-child(3) .tier-header { background: linear-gradient(135deg, #e65100 0%, #fb8c00 30%, #ffcc80 70%, #ffe0b2 100%); }
+        .tier-col:nth-child(4) .tier-header { background: linear-gradient(135deg, #4a148c 0%, #8e24aa 30%, #ce93d8 70%, #e1bee7 100%); }
 
-        /* Tier gradients - deep top-left, lighter bottom-right */
-        .tier-col:nth-child(1) .tier-header {
-            background: linear-gradient(135deg, #2e7d32 0%, #43a047 30%, #a5d6a7 70%, #c8e6c9 100%);
-        }
-        .tier-col:nth-child(2) .tier-header {
-            background: linear-gradient(135deg, #0d47a1 0%, #1e88e5 30%, #90caf9 70%, #bbdefb 100%);
-        }
-        .tier-col:nth-child(3) .tier-header {
-            background: linear-gradient(135deg, #e65100 0%, #fb8c00 30%, #ffcc80 70%, #ffe0b2 100%);
-        }
-        .tier-col:nth-child(4) .tier-header {
-            background: linear-gradient(135deg, #4a148c 0%, #8e24aa 30%, #ce93d8 70%, #e1bee7 100%);
-        }
-
-        /* === Glass Card === */
+        /* Glass card */
         .card {
-            background: var(--glass);
-            backdrop-filter: blur(16px);
-            -webkit-backdrop-filter: blur(16px);
-            border: 1px solid var(--glass-border);
-            border-radius: 16px;
-            overflow: hidden;
+            background: rgba(255,255,255,0.75);
+            backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(0,0,0,0.04);
+            border-radius: 14px; overflow: hidden;
             transition: transform 0.2s, box-shadow 0.2s;
         }
-        .card:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 28px rgba(0,0,0,0.07);
-        }
+        .card:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.06); }
         .card a { text-decoration: none; color: inherit; display: block; }
-        .card-img {
-            width: 100%; aspect-ratio: 16/10;
-            object-fit: cover; display: block;
-        }
+        .card-img { width: 100%; aspect-ratio: 16/10; object-fit: cover; display: block; }
         .card-img-placeholder {
             width: 100%; aspect-ratio: 16/10;
             background: linear-gradient(135deg, #f5f5f5, #eee);
             display: flex; align-items: center; justify-content: center;
             font-size: 11px; color: #ccc;
         }
-        .card-body { padding: 12px 14px 14px; }
-        .card-brief {
-            font-size: 13px; color: #333; line-height: 1.7;
-        }
+        .card-body { padding: 11px 13px 13px; }
+        .card-brief { font-size: 12px; color: #444; line-height: 1.7; }
         .card-brief strong { font-weight: 700; color: var(--text); }
-        .card-footer {
-            margin-top: 8px;
-            display: flex; align-items: center; justify-content: space-between;
-        }
+        .card-footer { margin-top: 7px; display: flex; align-items: center; justify-content: space-between; }
         .card-source { font-size: 10px; color: var(--muted); font-weight: 500; }
         .card-score { display: flex; gap: 2px; }
-        .card-score .bar {
-            width: 9px; height: 3px; border-radius: 1.5px;
-            background: rgba(0,0,0,0.07);
-        }
+        .card-score .bar { width: 9px; height: 3px; border-radius: 1.5px; background: rgba(0,0,0,0.07); }
         .card-score .bar.on { background: var(--accent); }
-        .card-badge {
-            position: absolute; top: 6px; right: 6px;
-            font-size: 9px; font-weight: 700;
-            background: var(--accent); color: #fff;
-            padding: 2px 6px; border-radius: 4px;
-        }
+        .card-badge { position: absolute; top: 6px; right: 6px; font-size: 9px; font-weight: 700; background: var(--accent); color: #fff; padding: 2px 6px; border-radius: 4px; }
         .card-img-wrap { position: relative; }
 
         @media (max-width: 1200px) {
-            .tier-grid { grid-template-columns: 1fr 1fr; gap: 14px; }
-            main { padding: 16px 16px 40px; }
+            .tier-grid { grid-template-columns: 1fr 1fr; }
+            main { padding: 20px 16px 40px; }
+            .hero-banner { flex-direction: column; }
+            .hero-banner-img, .hero-banner-img-placeholder { width: 100%; aspect-ratio: 21/9; }
         }
         @media (max-width: 640px) {
             .tier-grid { grid-template-columns: 1fr; }
@@ -246,8 +196,7 @@
     </style>
 </head>
 <body>
-    <!-- Animated background orbs -->
-    <div class="bg-gradient">
+    <div class="bg-layer">
         <div class="orb orb-1"></div>
         <div class="orb orb-2"></div>
         <div class="orb orb-3"></div>
@@ -257,8 +206,8 @@
         <div class="top-bar">
             <div class="top-bar-left">
                 <svg width="24" height="24" viewBox="0 0 36 36" fill="none">
-                    <rect width="36" height="36" rx="8" fill="#E8652B"/>
-                    <path d="M20.5 8L13 19.5H17.5L15.5 28L23 16.5H18.5L20.5 8Z" fill="white"/>
+                    <rect width="36" height="36" rx="8"/>
+                    <path d="M20.5 8L13 19.5H17.5L15.5 28L23 16.5H18.5L20.5 8Z"/>
                 </svg>
                 <span>图拉斯 · 硬件产品每日新鲜事</span>
             </div>
@@ -266,20 +215,21 @@
         </div>
 
         <div class="hero">
-            <div class="hero-title">图拉斯 · 硬件产品每日新鲜事</div>
-            <p class="hero-sub">每日 8 条海外消费硬件速递 · 自动更新</p>
+            <div class="hero-title">硬件产品每日新鲜事</div>
+            <p class="hero-sub">每日海外消费硬件速递 · 自动更新</p>
             <p class="hero-note">本站用于产品中心资讯获取渠道，如有建议欢迎跟炅昊沟通</p>
         </div>
 
+        <div id="hero-banner-container"></div>
         <main id="feed"></main>
     </div>
 
     <script>
     const tierMeta = {
-        '成熟品牌': '已验证品牌的最新动态',
-        'AI 硬件': 'AI 驱动的消费级硬件',
-        '新锐产品': '高潜力新品牌与众筹',
-        '野生灵感': '意想不到的跨界创新'
+        '成熟品牌': '已验证品牌动态',
+        'AI 硬件': 'AI消费级硬件',
+        '新锐产品': '高潜力新品',
+        '野生灵感': '跨界创新'
     };
 
     async function loadFeed() {
@@ -288,16 +238,41 @@
             const days = await res.json();
             const feed = document.getElementById('feed');
             const meta = document.getElementById('meta');
+            const heroCtn = document.getElementById('hero-banner-container');
             if (days.length > 0) meta.textContent = `更新于 ${days[0].date}`;
 
             days.forEach((day, dayIndex) => {
+                // Extract hero item
+                const heroItem = day.items.find(i => i.tier === '每日头条');
+                const regularItems = day.items.filter(i => i.tier !== '每日头条');
+
+                // Render hero banner (only for today)
+                if (dayIndex === 0 && heroItem) {
+                    const heroBrief = (heroItem.brief || '').replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+                    const heroImg = heroItem.image
+                        ? `<img class="hero-banner-img" src="${heroItem.image}" alt="" onerror="this.style.display='none'">`
+                        : `<div class="hero-banner-img-placeholder">TODAY'S PICK</div>`;
+                    heroCtn.innerHTML = `
+                    <div class="hero-banner">
+                        <a href="${heroItem.url}" target="_blank" rel="noopener">
+                            ${heroImg}
+                            <div class="hero-banner-body">
+                                <div class="hero-banner-label">⚡ 每日头条</div>
+                                <p class="hero-banner-brief">${heroBrief}</p>
+                                <p class="hero-banner-meta">${heroItem.source} · 评分 ${'●'.repeat(heroItem.score||3)}${'○'.repeat(5-(heroItem.score||3))}</p>
+                            </div>
+                        </a>
+                    </div>`;
+                }
+
+                // Day section
                 const section = document.createElement('section');
                 section.className = dayIndex === 0 ? 'day' : 'day past';
                 const d = new Date(day.date + 'T00:00:00');
                 const wk = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
 
                 const tiers = { '成熟品牌': [], 'AI 硬件': [], '新锐产品': [], '野生灵感': [] };
-                day.items.forEach(item => {
+                regularItems.forEach(item => {
                     const t = item.tier || '新锐产品';
                     if (tiers[t]) tiers[t].push(item);
                     else tiers['新锐产品'].push(item);
@@ -305,54 +280,33 @@
 
                 let html = `<div class="day-date">${day.date} · ${wk}</div>`;
                 html += '<div class="tier-grid">';
-
                 const tierNames = ['成熟品牌', 'AI 硬件', '新锐产品', '野生灵感'];
                 tierNames.forEach(tierName => {
                     const items = tiers[tierName] || [];
                     html += `<div class="tier-col">`;
-                    html += `<div class="tier-header"><h2>${tierName}</h2><p>${tierMeta[tierName] || ''}</p></div>`;
+                    html += `<div class="tier-header"><h2>${tierName}</h2><p>${tierMeta[tierName]||''}</p></div>`;
                     items.forEach(item => { html += renderCard(item); });
-                    if (items.length === 0) {
-                        html += '<p style="font-size:11px;color:#ccc;padding:16px;text-align:center">暂无</p>';
-                    }
+                    if (items.length === 0) html += '<p style="font-size:11px;color:#ccc;padding:12px;text-align:center">暂无</p>';
                     html += '</div>';
                 });
-
                 html += '</div>';
                 section.innerHTML = html;
                 feed.appendChild(section);
             });
         } catch (err) {
-            document.getElementById('feed').innerHTML =
-                '<p style="color:#888;padding:60px;text-align:center">加载失败，请刷新</p>';
+            document.getElementById('feed').innerHTML = '<p style="color:rgba(255,255,255,0.6);padding:60px;text-align:center">加载失败，请刷新</p>';
         }
     }
 
     function renderCard(item) {
         const score = item.score || 3;
-        const bars = Array.from({length: 5}, (_, i) =>
-            `<span class="bar ${i < score ? 'on' : ''}"></span>`
-        ).join('');
+        const bars = Array.from({length:5},(_,i)=>`<span class="bar ${i<score?'on':''}"></span>`).join('');
         const badge = item.recurring ? '<span class="card-badge">热议</span>' : '';
         const imgHtml = item.image
             ? `<img class="card-img" src="${item.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
             : `<div class="card-img-placeholder">${item.source}</div>`;
-        const brief = (item.brief || item.title || '')
-            .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
-
-        return `
-        <article class="card">
-            <a href="${item.url}" target="_blank" rel="noopener">
-                <div class="card-img-wrap">${imgHtml}${badge}</div>
-                <div class="card-body">
-                    <p class="card-brief">${brief}</p>
-                    <div class="card-footer">
-                        <span class="card-source">${item.source}</span>
-                        <div class="card-score">${bars}</div>
-                    </div>
-                </div>
-            </a>
-        </article>`;
+        const brief = (item.brief||item.title||'').replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
+        return `<article class="card"><a href="${item.url}" target="_blank" rel="noopener"><div class="card-img-wrap">${imgHtml}${badge}</div><div class="card-body"><p class="card-brief">${brief}</p><div class="card-footer"><span class="card-source">${item.source}</span><div class="card-score">${bars}</div></div></div></a></article>`;
     }
 
     loadFeed();

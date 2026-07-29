@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>图拉斯 · 硬件产品每日新鲜事</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --bg: #ffffff;
+            --text: #1c1c1e;
+            --muted: #8e8e93;
+            --accent: #E8652B;
+            --glass: rgba(255,255,255,0.65);
+            --glass-border: rgba(255,255,255,0.45);
+        }
+        body {
+            font-family: -apple-system, 'SF Pro Display', 'Noto Sans SC', 'Helvetica Neue', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.5;
+            overflow-x: hidden;
+            position: relative;
+            min-height: 100vh;
+        }
+
+        /* === Animated gradient background === */
+        .bg-gradient {
+            position: fixed;
+            inset: 0;
+            z-index: 0;
+            overflow: hidden;
+            pointer-events: none;
+        }
+        .bg-gradient .orb {
+            position: absolute;
+            border-radius: 50%;
+            filter: blur(80px);
+            opacity: 0.5;
+            animation: float 25s ease-in-out infinite;
+        }
+        .bg-gradient .orb-1 {
+            width: 600px; height: 600px;
+            background: radial-gradient(circle, #ffd180 0%, #ffab40 40%, transparent 70%);
+            top: -10%; left: -10%;
+            animation-delay: 0s;
+            animation-duration: 22s;
+        }
+        .bg-gradient .orb-2 {
+            width: 500px; height: 500px;
+            background: radial-gradient(circle, #ffe0a0 0%, #f5a623 50%, transparent 70%);
+            bottom: 10%; right: -5%;
+            animation-delay: -7s;
+            animation-duration: 28s;
+        }
+        .bg-gradient .orb-3 {
+            width: 400px; height: 400px;
+            background: radial-gradient(circle, #fff3c4 0%, #ffb74d 40%, transparent 70%);
+            top: 40%; left: 30%;
+            animation-delay: -14s;
+            animation-duration: 32s;
+        }
+        @keyframes float {
+            0% { transform: translate(0, 0) scale(1); }
+            20% { transform: translate(60px, -50px) scale(1.05); }
+            40% { transform: translate(-40px, 60px) scale(0.95); }
+            60% { transform: translate(80px, 30px) scale(1.03); }
+            80% { transform: translate(-60px, -40px) scale(0.97); }
+            100% { transform: translate(0, 0) scale(1); }
+        }
+
+        /* === Top bar === */
+        .top-bar {
+            position: fixed;
+            top: 0; left: 0; right: 0;
+            z-index: 200;
+            height: 44px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 28px;
+            background: rgba(255,255,255,0.8);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(0,0,0,0.04);
+        }
+        .top-bar-left {
+            display: flex; align-items: center; gap: 8px;
+        }
+        .top-bar-left span { font-size: 13px; font-weight: 600; }
+        .top-bar-right { font-size: 11px; color: var(--muted); }
+
+        /* === Content wrapper === */
+        .content-wrap {
+            position: relative;
+            z-index: 1;
+        }
+
+        /* === Hero === */
+        .hero {
+            padding: 64px 32px 24px;
+            text-align: center;
+        }
+        .hero-title {
+            font-size: clamp(36px, 5vw, 56px);
+            font-weight: 900;
+            letter-spacing: -1.5px;
+            background: linear-gradient(135deg, var(--accent) 0%, #ff9a6c 50%, #ffcba4 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 8px;
+            margin-top: 10px;
+            filter: drop-shadow(0 4px 12px rgba(232,101,43,0.15));
+        }
+        .hero-sub {
+            font-size: 13px;
+            color: #8B6B4A;
+            opacity: 0.4;
+        }
+        .hero-note {
+            font-size: 11px;
+            color: var(--text);
+            opacity: 0.2;
+            margin-top: 4px;
+        }
+
+        /* === Main === */
+        main { padding: 16px 28px 48px; }
+        .day {
+            margin-bottom: 28px;
+            background: rgba(255,255,255,0.55);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
+            border: 1px solid rgba(255,255,255,0.6);
+            border-radius: 24px;
+            padding: 28px 24px 32px;
+        }
+        .day-date {
+            font-size: 12px; font-weight: 600;
+            color: var(--muted); margin-bottom: 16px;
+        }
+
+        /* Past days fade */
+        .day.past .tier-header { opacity: 0.7; }
+        .day.past .card { opacity: 0.75; }
+
+        /* === 4-col tier grid === */
+        .tier-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 18px;
+        }
+        .tier-col { display: flex; flex-direction: column; gap: 12px; }
+
+        /* === Tier header === */
+        .tier-header {
+            border-radius: 18px;
+            padding: 20px 20px 16px;
+            position: relative;
+            overflow: hidden;
+        }
+        .tier-header h2 {
+            font-size: 22px;
+            font-weight: 900;
+            color: #fff;
+            text-shadow: 0 1px 8px rgba(0,0,0,0.15);
+        }
+        .tier-header p {
+            font-size: 11px;
+            color: rgba(255,255,255,0.5);
+            margin-top: 4px;
+        }
+
+        /* Tier gradients - deep top-left, lighter bottom-right */
+        .tier-col:nth-child(1) .tier-header {
+            background: linear-gradient(135deg, #2e7d32 0%, #43a047 30%, #a5d6a7 70%, #c8e6c9 100%);
+        }
+        .tier-col:nth-child(2) .tier-header {
+            background: linear-gradient(135deg, #0d47a1 0%, #1e88e5 30%, #90caf9 70%, #bbdefb 100%);
+        }
+        .tier-col:nth-child(3) .tier-header {
+            background: linear-gradient(135deg, #e65100 0%, #fb8c00 30%, #ffcc80 70%, #ffe0b2 100%);
+        }
+        .tier-col:nth-child(4) .tier-header {
+            background: linear-gradient(135deg, #4a148c 0%, #8e24aa 30%, #ce93d8 70%, #e1bee7 100%);
+        }
+
+        /* === Glass Card === */
+        .card {
+            background: var(--glass);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 28px rgba(0,0,0,0.07);
+        }
+        .card a { text-decoration: none; color: inherit; display: block; }
+        .card-img {
+            width: 100%; aspect-ratio: 16/10;
+            object-fit: cover; display: block;
+        }
+        .card-img-placeholder {
+            width: 100%; aspect-ratio: 16/10;
+            background: linear-gradient(135deg, #f5f5f5, #eee);
+            display: flex; align-items: center; justify-content: center;
+            font-size: 11px; color: #ccc;
+        }
+        .card-body { padding: 12px 14px 14px; }
+        .card-brief {
+            font-size: 13px; color: #333; line-height: 1.7;
+        }
+        .card-brief strong { font-weight: 700; color: var(--text); }
+        .card-footer {
+            margin-top: 8px;
+            display: flex; align-items: center; justify-content: space-between;
+        }
+        .card-source { font-size: 10px; color: var(--muted); font-weight: 500; }
+        .card-score { display: flex; gap: 2px; }
+        .card-score .bar {
+            width: 9px; height: 3px; border-radius: 1.5px;
+            background: rgba(0,0,0,0.07);
+        }
+        .card-score .bar.on { background: var(--accent); }
+        .card-badge {
+            position: absolute; top: 6px; right: 6px;
+            font-size: 9px; font-weight: 700;
+            background: var(--accent); color: #fff;
+            padding: 2px 6px; border-radius: 4px;
+        }
+        .card-img-wrap { position: relative; }
+
+        @media (max-width: 1200px) {
+            .tier-grid { grid-template-columns: 1fr 1fr; gap: 14px; }
+            main { padding: 16px 16px 40px; }
+        }
+        @media (max-width: 640px) {
+            .tier-grid { grid-template-columns: 1fr; }
+            .hero { padding: 56px 20px 20px; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Animated background orbs -->
+    <div class="bg-gradient">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+
+    <div class="content-wrap">
+        <div class="top-bar">
+            <div class="top-bar-left">
+                <svg width="24" height="24" viewBox="0 0 36 36" fill="none">
+                    <rect width="36" height="36" rx="8" fill="#E8652B"/>
+                    <path d="M20.5 8L13 19.5H17.5L15.5 28L23 16.5H18.5L20.5 8Z" fill="white"/>
+                </svg>
+                <span>图拉斯 · 硬件产品每日新鲜事</span>
+            </div>
+            <div class="top-bar-right" id="meta"></div>
+        </div>
+
+        <div class="hero">
+            <div class="hero-title">图拉斯 · 硬件产品每日新鲜事</div>
+            <p class="hero-sub">每日 8 条海外消费硬件速递 · 自动更新</p>
+            <p class="hero-note">本站用于产品中心资讯获取渠道，如有建议欢迎跟炅昊沟通</p>
+        </div>
+
+        <main id="feed"></main>
+    </div>
+
+    <script>
+    const tierMeta = {
+        '成熟品牌': '已验证品牌的最新动态',
+        'AI 硬件': 'AI 驱动的消费级硬件',
+        '新锐产品': '高潜力新品牌与众筹',
+        '野生灵感': '意想不到的跨界创新'
+    };
+
+    async function loadFeed() {
+        try {
+            const res = await fetch('./data.json?_=' + Date.now());
+            const days = await res.json();
+            const feed = document.getElementById('feed');
+            const meta = document.getElementById('meta');
+            if (days.length > 0) meta.textContent = `更新于 ${days[0].date}`;
+
+            days.forEach((day, dayIndex) => {
+                const section = document.createElement('section');
+                section.className = dayIndex === 0 ? 'day' : 'day past';
+                const d = new Date(day.date + 'T00:00:00');
+                const wk = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
+
+                const tiers = { '成熟品牌': [], 'AI 硬件': [], '新锐产品': [], '野生灵感': [] };
+                day.items.forEach(item => {
+                    const t = item.tier || '新锐产品';
+                    if (tiers[t]) tiers[t].push(item);
+                    else tiers['新锐产品'].push(item);
+                });
+
+                let html = `<div class="day-date">${day.date} · ${wk}</div>`;
+                html += '<div class="tier-grid">';
+
+                const tierNames = ['成熟品牌', 'AI 硬件', '新锐产品', '野生灵感'];
+                tierNames.forEach(tierName => {
+                    const items = tiers[tierName] || [];
+                    html += `<div class="tier-col">`;
+                    html += `<div class="tier-header"><h2>${tierName}</h2><p>${tierMeta[tierName] || ''}</p></div>`;
+                    items.forEach(item => { html += renderCard(item); });
+                    if (items.length === 0) {
+                        html += '<p style="font-size:11px;color:#ccc;padding:16px;text-align:center">暂无</p>';
+                    }
+                    html += '</div>';
+                });
+
+                html += '</div>';
+                section.innerHTML = html;
+                feed.appendChild(section);
+            });
+        } catch (err) {
+            document.getElementById('feed').innerHTML =
+                '<p style="color:#888;padding:60px;text-align:center">加载失败，请刷新</p>';
+        }
+    }
+
+    function renderCard(item) {
+        const score = item.score || 3;
+        const bars = Array.from({length: 5}, (_, i) =>
+            `<span class="bar ${i < score ? 'on' : ''}"></span>`
+        ).join('');
+        const badge = item.recurring ? '<span class="card-badge">热议</span>' : '';
+        const imgHtml = item.image
+            ? `<img class="card-img" src="${item.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
+            : `<div class="card-img-placeholder">${item.source}</div>`;
+        const brief = (item.brief || item.title || '')
+            .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+
+        return `
+        <article class="card">
+            <a href="${item.url}" target="_blank" rel="noopener">
+                <div class="card-img-wrap">${imgHtml}${badge}</div>
+                <div class="card-body">
+                    <p class="card-brief">${brief}</p>
+                    <div class="card-footer">
+                        <span class="card-source">${item.source}</span>
+                        <div class="card-score">${bars}</div>
+                    </div>
+                </div>
+            </a>
+        </article>`;
+    }
+
+    loadFeed();
+    </script>
+</body>
+</html>

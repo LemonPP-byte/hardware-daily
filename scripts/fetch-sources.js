@@ -13,13 +13,15 @@ const parser = new RSSParser({
 
 // ===== 信息源配置 =====
 const RSS_SOURCES = [
+  // 成熟品牌动态
   { name: 'TechCrunch Hardware', url: 'https://techcrunch.com/category/hardware/feed/', source: 'TechCrunch' },
   { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml', source: 'The Verge' },
   { name: 'Wired', url: 'https://www.wired.com/feed/rss', source: 'Wired' },
+  // 设计/新锐品牌
   { name: 'Dezeen Technology', url: 'https://www.dezeen.com/technology/feed/', source: 'Dezeen' },
   { name: 'Core77', url: 'https://feeds.feedburner.com/core77/blog', source: 'Core77' },
-  { name: 'Kickstarter Tech', url: 'https://www.kickstarter.com/discover/categories/technology.atom', source: 'Kickstarter' },
-  { name: 'Indiegogo Tech', url: 'https://www.indiegogo.com/private_api/explore/categories/tech-innovation.atom', source: 'Indiegogo' },
+  // Product Hunt (公开 RSS)
+  { name: 'Product Hunt', url: 'https://www.producthunt.com/feed', source: 'Product Hunt' },
 ];
 
 const HN_API = 'https://hacker-news.firebaseio.com/v0';

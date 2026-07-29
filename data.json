@@ -3,44 +3,49 @@
     "date": "2026-07-29",
     "items": [
       {
-        "title": "微波炉静音神器",
-        "summary": "一个两人初创公司开发了一款设备，能消除微波炉完成时刺耳的“哔哔”声，解决现代生活中最令人讨厌的声音之一。产品创意简单直接，直击日常痛点，在Wired上引发大量消费者共鸣和讨论。",
-        "url": "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
-        "source": "Wired",
+        "title": "Ozlo睡眠耳塞2代",
+        "summary": "Ozlo推出睡眠耳塞2代，在Bose原有基础上改进，续航更长、连接更稳、音质更好，新增睡眠功能。作为已获市场验证的成熟品牌迭代，海外用户讨论积极，期待其解决初代痛点。",
+        "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+        "source": "TechCrunch",
         "score": 4,
-        "recurring": true
+        "recurring": true,
+        "tier": "成熟品牌"
       },
       {
-        "title": "Elide随身熨衣器",
-        "summary": "一款可穿戴的便携去皱设备，利用吸力在穿着时抚平衣物褶皱，无需脱衣或使用熨斗。产品形态极具新意，将个护电器与日常穿搭场景结合，在Dezeen上获得设计圈关注。",
-        "url": "https://www.dezeen.com/2026/07/28/elide-dewrinkler-safaa-fojdar/",
-        "source": "Dezeen",
-        "score": 4,
-        "recurring": false
-      },
-      {
-        "title": "人体冰箱防暑舱",
-        "summary": "日本厂商推出人形不锈钢冰箱，供人在极端热浪中进入降温防暑，形似科幻逃生舱。产品场景极端新颖，虽小众但话题性极强，在Dezeen上引发大量讨论。",
-        "url": "https://www.dezeen.com/2026/07/27/human-refrigerator-sdrs-trusco-nakayama/",
-        "source": "Dezeen",
+        "title": "Framework Laptop 13 Pro",
+        "summary": "Framework Laptop 13 Pro评测显示电池续航大幅提升，但价格更高。作为模块化笔记本标杆品牌，新品在Reddit引发讨论，用户对续航改进表示认可，但对价格上涨有争议。",
+        "url": "https://www.reddit.com/r/hardware/comments/1v8h3di/framework_laptop_13_pro_review_much_better/",
+        "source": "Reddit",
         "score": 3,
-        "recurring": false
+        "recurring": false,
+        "tier": "成熟品牌"
       },
       {
-        "title": "Una可维修GPS手表",
-        "summary": "一款主打可维修性、USB-C充电、对开发者友好的GPS智能手表，挑战Apple Watch等封闭生态。在Hacker News上获得152分和99条评论，极客社区反响热烈。",
+        "title": "Una GPS智能手表",
+        "summary": "Una GPS智能手表主打可修复性、USB-C充电和开发者友好，在Hacker News获得172分和112条评论。作为新锐产品，强调环保和开源理念，社区反响热烈，已可购买。",
         "url": "https://unawatch.com/",
         "source": "Hacker News",
-        "score": 3,
-        "recurring": false
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品"
       },
       {
-        "title": "Flatbike折叠套件",
-        "summary": "一套配件可将普通自行车折叠平放，方便收纳和运输，解决城市骑行和车载痛点。产品形态实用且创新，在Core77上获得设计爱好者关注。",
-        "url": "https://www.core77.com/posts/144867/Flatbikes-Accessories-Let-You-Fold-Your-Bike-Flat-for-Storage",
+        "title": "Leatherman实验棘轮批头",
+        "summary": "Leatherman Garage系列推出Batch #009实验性棘轮批头工具，小批量生产测试市场。作为新锐产品，在Core77引发工具爱好者讨论，设计创新且实用。",
+        "url": "https://www.core77.com/posts/144841/Leathermans-Experimental-Ratcheting-Bit-Driver",
         "source": "Core77",
         "score": 3,
-        "recurring": false
+        "recurring": true,
+        "tier": "新锐产品"
+      },
+      {
+        "title": "人体冰箱应对致命热浪",
+        "summary": "日本自动售货机厂商SDRS推出人形不锈钢冰箱，用于在极端热浪中防中暑。这款产品形态荒诞但实用，在Dezeen引发大量讨论，被视为应对气候变化的野生创意。",
+        "url": "https://www.dezeen.com/2026/07/27/human-refrigerator-sdrs-trusco-nakayama/",
+        "source": "Dezeen",
+        "score": 4,
+        "recurring": false,
+        "tier": "野生灵感"
       }
     ]
   },

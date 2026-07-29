@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>大聪明硬件每日新鲜事</title>
+    <title>硬件产品新鲜事</title>
     <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600;6..72,700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -13,8 +13,10 @@
             --muted: #78716C;
             --accent: #B45930;
             --rule: #E7E0D6;
-            --star-on: #B45930;
-            --star-off: #DDD5CB;
+            --card-bg: #FDFBF8;
+            --tier-brand: #2B5E4A;
+            --tier-rising: #8B5E3C;
+            --tier-wild: #6B5B8A;
         }
         body {
             font-family: 'Noto Sans SC', -apple-system, sans-serif;
@@ -23,100 +25,126 @@
             line-height: 1.7;
         }
 
+        /* Masthead */
         .masthead {
-            padding: 64px 24px 40px;
-            text-align: center;
-            border-bottom: 1px solid var(--rule);
+            padding: 72px 24px 48px;
+            max-width: 660px;
+            margin: 0 auto;
         }
         .masthead h1 {
             font-family: 'Newsreader', serif;
-            font-size: 32px;
+            font-size: 36px;
             font-weight: 700;
-            letter-spacing: -0.5px;
-            margin-bottom: 6px;
+            letter-spacing: -0.8px;
+            margin-bottom: 12px;
         }
         .masthead .tagline {
-            font-size: 13px;
+            font-size: 14px;
             color: var(--muted);
-            letter-spacing: 0.5px;
+            line-height: 1.7;
         }
 
+        /* Content */
         .content {
-            max-width: 620px;
+            max-width: 660px;
             margin: 0 auto;
-            padding: 0 24px;
+            padding: 0 24px 60px;
         }
 
         /* Day section */
         .day {
-            padding: 44px 0;
-            border-bottom: 1px solid var(--rule);
+            margin-bottom: 56px;
         }
-        .day:last-child { border-bottom: none; }
+        .day-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 28px;
+        }
         .day-date {
             font-size: 12px;
             font-weight: 500;
             color: var(--muted);
-            letter-spacing: 1.5px;
-            margin-bottom: 32px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
+            letter-spacing: 1px;
+            white-space: nowrap;
         }
-        .day-date::after {
+        .day-header::after {
             content: '';
             flex: 1;
             height: 1px;
             background: var(--rule);
         }
 
-        /* Item */
-        .item { margin-bottom: 36px; }
-        .item:last-child { margin-bottom: 0; }
+        /* Tier divider */
+        .tier-label {
+            font-size: 10px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin: 28px 0 16px;
+            padding-left: 2px;
+        }
+        .tier-label.brand { color: var(--tier-brand); }
+        .tier-label.rising { color: var(--tier-rising); }
+        .tier-label.wild { color: var(--tier-wild); }
+        .tier-label:first-child { margin-top: 0; }
 
-        .item-header {
+        /* Item */
+        .item {
+            background: var(--card-bg);
+            border: 1px solid var(--rule);
+            border-radius: 8px;
+            padding: 20px 24px;
+            margin-bottom: 12px;
+            transition: border-color 0.2s;
+        }
+        .item:hover {
+            border-color: #ccc5ba;
+        }
+
+        .item-top {
             display: flex;
             align-items: center;
-            gap: 10px;
-            margin-bottom: 8px;
+            gap: 8px;
+            margin-bottom: 10px;
         }
         .item-source {
             font-size: 11px;
             font-weight: 500;
-            color: var(--accent);
+            color: var(--muted);
+        }
+        .item-badge {
+            font-size: 9px;
+            font-weight: 600;
+            padding: 2px 7px;
+            border-radius: 3px;
             letter-spacing: 0.3px;
         }
-        .item-source::before {
-            content: '';
-            display: inline-block;
-            width: 12px;
-            height: 1.5px;
-            background: var(--accent);
-            margin-right: 6px;
-            vertical-align: middle;
+        .item-badge.recurring {
+            color: var(--accent);
+            background: rgba(180,89,48,0.08);
         }
         .item-score {
             margin-left: auto;
             display: flex;
-            gap: 2px;
+            gap: 3px;
+            align-items: center;
         }
-        .item-score .dot {
-            width: 8px;
-            height: 8px;
-            border-radius: 50%;
-            background: var(--star-off);
+        .item-score .bar {
+            width: 14px;
+            height: 4px;
+            border-radius: 2px;
+            background: var(--rule);
         }
-        .item-score .dot.on {
-            background: var(--star-on);
-        }
+        .item-score .bar.on { background: var(--accent); }
 
         .item-title {
             font-family: 'Newsreader', serif;
-            font-size: 21px;
+            font-size: 20px;
             font-weight: 700;
             line-height: 1.4;
             margin-bottom: 8px;
-            letter-spacing: -0.3px;
+            letter-spacing: -0.2px;
         }
         .item-title a {
             color: var(--text);
@@ -126,92 +154,133 @@
         .item-title a:hover { color: var(--accent); }
 
         .item-summary {
-            font-size: 15px;
+            font-size: 14px;
             font-weight: 300;
             color: var(--muted);
             line-height: 1.8;
             text-wrap: pretty;
         }
-        .item-footer {
-            margin-top: 10px;
+        .item-link {
+            display: inline-block;
+            margin-top: 12px;
             font-size: 12px;
-        }
-        .item-footer a {
+            font-weight: 500;
             color: var(--accent);
             text-decoration: none;
-            font-weight: 500;
+            transition: opacity 0.15s;
         }
-        .item-footer a:hover { text-decoration: underline; }
+        .item-link:hover { opacity: 0.7; }
 
-        /* Recurring badge */
-        .item-recurring {
-            display: inline-block;
-            font-size: 10px;
-            font-weight: 500;
-            color: var(--accent);
-            background: rgba(180,89,48,0.08);
-            padding: 2px 8px;
-            border-radius: 3px;
-            margin-left: 8px;
-            letter-spacing: 0.3px;
-        }
-
+        /* Footer */
         .colophon {
-            padding: 36px 24px 56px;
-            text-align: center;
+            max-width: 660px;
+            margin: 0 auto;
+            padding: 32px 24px 56px;
+            border-top: 1px solid var(--rule);
             font-size: 11px;
             color: var(--muted);
-            letter-spacing: 0.5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .colophon-sources {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px 12px;
         }
 
         @media (max-width: 640px) {
-            .masthead { padding: 48px 20px 32px; }
-            .masthead h1 { font-size: 26px; }
+            .masthead { padding: 48px 20px 36px; }
+            .masthead h1 { font-size: 28px; }
+            .content { padding: 0 16px 48px; }
+            .item { padding: 16px 18px; }
             .item-title { font-size: 18px; }
-            .content { padding: 0 20px; }
+            .colophon { flex-direction: column; gap: 8px; align-items: flex-start; padding: 24px 16px 40px; }
         }
     </style>
 </head>
 <body>
     <div class="masthead">
-        <h1>大聪明硬件每日新鲜事</h1>
-        <p class="tagline">每天五条 · 海外消费硬件热度榜</p>
+        <h1>硬件产品新鲜事</h1>
+        <p class="tagline">每日五条海外消费硬件速递，分层呈现成熟品牌动态、新锐产品与野生灵感。</p>
     </div>
     <main class="content" id="feed"></main>
-    <div class="colophon">Product Hunt · Hacker News · Kickstarter · TechCrunch · Dezeen · Wired · Reddit</div>
+    <div class="colophon">
+        <span>每日自动更新</span>
+        <div class="colophon-sources">
+            <span>TechCrunch</span><span>The Verge</span><span>Wired</span>
+            <span>Dezeen</span><span>Core77</span><span>Hacker News</span><span>Reddit</span>
+        </div>
+    </div>
 
     <script>
     async function loadFeed() {
-        const res = await fetch('./data.json');
-        const days = await res.json();
-        const feed = document.getElementById('feed');
-        days.forEach(day => {
-            const section = document.createElement('section');
-            section.className = 'day';
-            const d = new Date(day.date+'T00:00:00');
-            const wk = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
-            let html = `<div class="day-date">${day.date} · ${wk}</div>`;
-            day.items.forEach(item => {
-                const dots = Array.from({length: 5}, (_, i) =>
-                    `<span class="dot ${i < item.score ? 'on' : ''}"></span>`
-                ).join('');
-                const recurring = item.recurring ? '<span class="item-recurring">持续热议</span>' : '';
-                html += `
-                <article class="item">
-                    <div class="item-header">
-                        <span class="item-source">${item.source}</span>
-                        ${recurring}
-                        <div class="item-score">${dots}</div>
-                    </div>
-                    <h2 class="item-title"><a href="${item.url}" target="_blank" rel="noopener">${item.title}</a></h2>
-                    <p class="item-summary">${item.summary}</p>
-                    <p class="item-footer"><a href="${item.url}" target="_blank" rel="noopener">阅读原文 →</a></p>
-                </article>`;
+        try {
+            const res = await fetch('./data.json');
+            const days = await res.json();
+            const feed = document.getElementById('feed');
+
+            days.forEach(day => {
+                const section = document.createElement('section');
+                section.className = 'day';
+                const d = new Date(day.date + 'T00:00:00');
+                const wk = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
+
+                let html = `<div class="day-header"><span class="day-date">${day.date} · ${wk}</span></div>`;
+
+                // Group items by tier
+                const tiers = { '成熟品牌': [], '新锐产品': [], '野生灵感': [] };
+                day.items.forEach(item => {
+                    const tier = item.tier || '新锐产品';
+                    if (!tiers[tier]) tiers[tier] = [];
+                    tiers[tier].push(item);
+                });
+
+                const tierConfig = {
+                    '成熟品牌': { class: 'brand', label: '成熟品牌' },
+                    '新锐产品': { class: 'rising', label: '新锐产品' },
+                    '野生灵感': { class: 'wild', label: '野生灵感' }
+                };
+
+                for (const [tierName, items] of Object.entries(tiers)) {
+                    if (items.length === 0) continue;
+                    const cfg = tierConfig[tierName] || tierConfig['新锐产品'];
+                    html += `<div class="tier-label ${cfg.class}">${cfg.label}</div>`;
+                    items.forEach(item => {
+                        html += renderItem(item);
+                    });
+                }
+
+                section.innerHTML = html;
+                feed.appendChild(section);
             });
-            section.innerHTML = html;
-            feed.appendChild(section);
-        });
+        } catch (err) {
+            document.getElementById('feed').innerHTML =
+                '<p style="color:var(--muted);padding:60px 0;text-align:center">加载失败，请刷新</p>';
+        }
     }
+
+    function renderItem(item) {
+        const score = item.score || 3;
+        const bars = Array.from({length: 5}, (_, i) =>
+            `<span class="bar ${i < score ? 'on' : ''}"></span>`
+        ).join('');
+        const recurring = item.recurring
+            ? '<span class="item-badge recurring">持续热议</span>' : '';
+
+        return `
+        <article class="item">
+            <div class="item-top">
+                <span class="item-source">${item.source}</span>
+                ${recurring}
+                <div class="item-score">${bars}</div>
+            </div>
+            <h2 class="item-title"><a href="${item.url}" target="_blank" rel="noopener">${item.title}</a></h2>
+            <p class="item-summary">${item.summary}</p>
+            <a href="${item.url}" target="_blank" rel="noopener" class="item-link">阅读原文 →</a>
+        </article>`;
+    }
+
     loadFeed();
     </script>
 </body>

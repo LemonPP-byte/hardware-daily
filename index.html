@@ -66,7 +66,7 @@
         .top-bar-right { font-size: 11px; color: rgba(255,255,255,0.7); }
 
         /* === Hero === */
-        .hero { padding: 68px 32px 28px; text-align: center; }
+        .hero { padding: 76px 32px 28px; text-align: center; }
         .hero-title {
             font-size: clamp(36px, 5vw, 56px);
             font-weight: 900; letter-spacing: -1.5px;
@@ -129,7 +129,7 @@
         .day.past { opacity: 0.7; }
         .day-date {
             font-size: 12px; font-weight: 600;
-            color: var(--muted); margin-bottom: 16px;
+            color: rgba(255,255,255,0.9); margin-bottom: 16px;
         }
 
         /* === 4-col tier grid === */
@@ -140,15 +140,16 @@
 
         /* Tier header */
         .tier-header {
-            border-radius: 16px; padding: 18px 18px 14px;
+            border-radius: 14px; padding: 12px 16px;
             overflow: hidden;
+            display: flex; align-items: baseline; gap: 8px;
         }
         .tier-header h2 {
-            font-size: 20px; font-weight: 900; color: #fff;
+            font-size: 18px; font-weight: 900; color: #fff;
             text-shadow: 0 1px 6px rgba(0,0,0,0.12);
         }
         .tier-header p {
-            font-size: 10px; color: rgba(255,255,255,0.5); margin-top: 3px;
+            font-size: 10px; color: rgba(255,255,255,0.5);
         }
         .tier-col:nth-child(1) .tier-header { background: linear-gradient(135deg, #2e7d32 0%, #43a047 30%, #a5d6a7 70%, #c8e6c9 100%); }
         .tier-col:nth-child(2) .tier-header { background: linear-gradient(135deg, #0d47a1 0%, #1e88e5 30%, #90caf9 70%, #bbdefb 100%); }

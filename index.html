@@ -47,11 +47,11 @@
             margin-bottom: 20px;
         }
 
-        /* 3-column tier layout */
+        /* 4-column tier layout */
         .tier-grid {
             display: grid;
-            grid-template-columns: 1fr 1fr 1fr;
-            gap: 24px;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            gap: 20px;
         }
         .tier-col {}
         .tier-title {
@@ -62,8 +62,9 @@
             border-bottom: 4px solid var(--accent);
         }
         .tier-col:nth-child(1) .tier-title { color: #2B7A4B; border-color: #2B7A4B; }
-        .tier-col:nth-child(2) .tier-title { color: var(--accent); border-color: var(--accent); }
-        .tier-col:nth-child(3) .tier-title { color: #6B5B8A; border-color: #6B5B8A; }
+        .tier-col:nth-child(2) .tier-title { color: #0A7ABA; border-color: #0A7ABA; }
+        .tier-col:nth-child(3) .tier-title { color: var(--accent); border-color: var(--accent); }
+        .tier-col:nth-child(4) .tier-title { color: #6B5B8A; border-color: #6B5B8A; }
 
         /* Card */
         .card {
@@ -135,10 +136,13 @@
         }
         .card-img-wrap { position: relative; }
 
-        @media (max-width: 1024px) {
-            .tier-grid { grid-template-columns: 1fr; }
+        @media (max-width: 1200px) {
+            .tier-grid { grid-template-columns: 1fr 1fr; }
             .day { padding: 20px 20px 32px; }
             header { padding: 20px 20px 16px; }
+        }
+        @media (max-width: 640px) {
+            .tier-grid { grid-template-columns: 1fr; }
         }
     </style>
 </head>
@@ -165,7 +169,7 @@
                 const wk = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
 
                 // Group by tier
-                const tiers = { '成熟品牌': [], '新锐产品': [], '野生灵感': [] };
+                const tiers = { '成熟品牌': [], 'AI 硬件': [], '新锐产品': [], '野生灵感': [] };
                 day.items.forEach(item => {
                     const t = item.tier || '新锐产品';
                     if (tiers[t]) tiers[t].push(item);
@@ -175,7 +179,7 @@
                 let html = `<div class="day-date">${day.date} · ${wk}</div>`;
                 html += '<div class="tier-grid">';
 
-                const tierNames = ['成熟品牌', '新锐产品', '野生灵感'];
+                const tierNames = ['成熟品牌', 'AI 硬件', '新锐产品', '野生灵感'];
                 tierNames.forEach(tierName => {
                     const items = tiers[tierName] || [];
                     html += `<div class="tier-col">`;

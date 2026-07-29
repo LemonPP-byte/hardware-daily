@@ -4,7 +4,7 @@
     "items": [
       {
         "title": "Ozlo睡眠耳塞2代",
-        "summary": "Ozlo推出睡眠耳塞2代，基于Bose技术遗产，续航更长、连接更稳、音频增强，新增睡眠功能。海外社区讨论热烈，用户对改善睡眠质量期待高。",
+        "summary": "Ozlo推出睡眠耳塞2代，基于Bose技术遗产，提升续航、连接和音频功能。海外社区讨论热烈，被视为改善睡眠质量的创新硬件。",
         "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
         "source": "TechCrunch",
         "score": 4,
@@ -14,37 +14,57 @@
       },
       {
         "title": "Framework Laptop 13 Pro",
-        "summary": "Framework Laptop 13 Pro评测显示电池续航大幅提升，但价格上涨。模块化设计延续，用户对可维修性和性能平衡有积极讨论，但价格争议较大。",
+        "summary": "Framework Laptop 13 Pro评测显示电池续航大幅提升，但价格上涨。模块化设计持续吸引消费者，Reddit讨论活跃。",
         "url": "https://www.reddit.com/r/hardware/comments/1v8h3di/framework_laptop_13_pro_review_much_better/",
         "source": "Reddit",
         "score": 4,
-        "recurring": false,
+        "recurring": true,
         "tier": "成熟品牌",
         "image": "https://frame.work/cdn/shop/files/Laptop-13-Pro-Front_1200x.png"
       },
       {
+        "title": "ReFrame电子纸相机",
+        "summary": "ReFrame是一款电子纸相机，结合复古设计与现代电子纸显示技术，提供独特拍摄体验。Hacker News上获得90分和20条评论，消费者兴趣浓厚。",
+        "url": "https://reframe.camera/",
+        "source": "Hacker News",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://reframe.camera/assets/site-images/og-reframe.jpg"
+      },
+      {
         "title": "Una GPS智能手表",
-        "summary": "Una GPS智能手表主打可修复性、USB-C充电和开发者友好，Hacker News上175分、117条评论，社区对开放硬件和环保设计反响积极。",
+        "summary": "Una GPS智能手表强调可修复性、USB-C充电和开发者友好，Hacker News上175分和117条评论，社区反响积极。",
         "url": "https://unawatch.com/",
         "source": "Hacker News",
         "score": 4,
         "recurring": true,
-        "tier": "新锐产品",
+        "tier": "AI 硬件",
         "image": "https://unawatch.com/cdn/shop/files/linkedin_banner.jpg?v=1756823125"
       },
       {
-        "title": "ReFrame电子纸相机",
-        "summary": "ReFrame电子纸相机在Hacker News上获90分、20条评论，以电子纸显示和复古设计吸引摄影爱好者，已可购买，社区讨论集中于拍摄体验和低功耗特性。",
-        "url": "https://reframe.camera/",
-        "source": "Hacker News",
+        "title": "NFC钥匙锁应用",
+        "summary": "一款9美元的NFC钥匙，需物理扫描才能解锁手机上瘾应用，创新戒断方案。TechCrunch报道，消费者讨论其独特性和实用性。",
+        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+        "source": "TechCrunch",
         "score": 3,
-        "recurring": true,
+        "recurring": false,
         "tier": "新锐产品",
-        "image": "https://reframe.camera/assets/site-images/og-reframe.jpg"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200"
+      },
+      {
+        "title": "Flatbike折叠配件",
+        "summary": "Flatbike推出配件让自行车可平折存放，解决存储难题。Core77报道，消费者对便携性设计感兴趣。",
+        "url": "https://www.core77.com/posts/144867/Flatbikes-Accessories-Let-You-Fold-Your-Bike-Flat-for-Storage",
+        "source": "Core77",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://s3files.core77.com/blog/images/1843145_81_144867_mZq4gYLBY.jpeg"
       },
       {
         "title": "Elide随身衣物除皱器",
-        "summary": "Elide便携除皱器原型采用吸力技术，可在穿着时抚平衣物褶皱，Dezeen报道后引发消费者对日常便利性的讨论，设计新颖但尚未量产。",
+        "summary": "Elide是一款便携除皱器，利用吸力在穿着时平滑衣物，设计独特。Dezeen报道，消费者讨论其创新性和日常实用性。",
         "url": "https://www.dezeen.com/2026/07/28/elide-dewrinkler-safaa-fojdar/",
         "source": "Dezeen",
         "score": 3,
@@ -54,11 +74,11 @@
       },
       {
         "title": "人体冰箱应对致命热浪",
-        "summary": "日本SDRS公司开发人体尺寸不锈钢冰箱，用于酷暑中降温防中暑，Dezeen报道后引发广泛讨论，消费者对极端气候下的个人降温设备兴趣浓厚。",
+        "summary": "日本公司SDRS推出人形不锈钢冰箱，用于预防中暑，设计大胆。Dezeen报道，消费者讨论其极端气候应对方案。",
         "url": "https://www.dezeen.com/2026/07/27/human-refrigerator-sdrs-trusco-nakayama/",
         "source": "Dezeen",
         "score": 3,
-        "recurring": false,
+        "recurring": true,
         "tier": "野生灵感",
         "image": "http://static.dezeen.com/uploads/2026/07/sq-trusco-human-fridge_dezeen_2364_col_0-411x411.jpg"
       }

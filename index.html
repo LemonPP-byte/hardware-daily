@@ -36,32 +36,37 @@
             position: absolute;
             border-radius: 50%;
             filter: blur(80px);
-            opacity: 0.4;
-            animation: float 20s ease-in-out infinite;
+            opacity: 0.1;
+            animation: float 25s ease-in-out infinite;
         }
         .bg-gradient .orb-1 {
             width: 600px; height: 600px;
-            background: radial-gradient(circle, #ffb088 0%, #ff7043 40%, transparent 70%);
+            background: radial-gradient(circle, #ffd180 0%, #ffab40 40%, transparent 70%);
             top: -10%; left: -10%;
             animation-delay: 0s;
+            animation-duration: 22s;
         }
         .bg-gradient .orb-2 {
             width: 500px; height: 500px;
-            background: radial-gradient(circle, #ffccbc 0%, #E8652B 50%, transparent 70%);
+            background: radial-gradient(circle, #ffe0a0 0%, #f5a623 50%, transparent 70%);
             bottom: 10%; right: -5%;
             animation-delay: -7s;
+            animation-duration: 28s;
         }
         .bg-gradient .orb-3 {
             width: 400px; height: 400px;
-            background: radial-gradient(circle, #ffe0cc 0%, #ff9a6c 40%, transparent 70%);
+            background: radial-gradient(circle, #fff3c4 0%, #ffb74d 40%, transparent 70%);
             top: 40%; left: 30%;
             animation-delay: -14s;
+            animation-duration: 32s;
         }
         @keyframes float {
-            0%, 100% { transform: translate(0, 0) scale(1); }
-            25% { transform: translate(30px, -40px) scale(1.05); }
-            50% { transform: translate(-20px, 20px) scale(0.95); }
-            75% { transform: translate(40px, 30px) scale(1.02); }
+            0% { transform: translate(0, 0) scale(1); }
+            20% { transform: translate(60px, -50px) scale(1.05); }
+            40% { transform: translate(-40px, 60px) scale(0.95); }
+            60% { transform: translate(80px, 30px) scale(1.03); }
+            80% { transform: translate(-60px, -40px) scale(0.97); }
+            100% { transform: translate(0, 0) scale(1); }
         }
 
         /* === Top bar === */

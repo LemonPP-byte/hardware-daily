@@ -150,12 +150,14 @@
             font-size: 11px; color: #ccc;
         }
         .card-body { padding: 12px 14px 14px; }
-        .card-title {
-            font-size: 13px; font-weight: 700;
-            line-height: 1.4; margin-bottom: 5px;
+        .card-brief {
+            font-size: 13px;
+            color: #333;
+            line-height: 1.7;
         }
-        .card-summary {
-            font-size: 11px; color: var(--muted); line-height: 1.6;
+        .card-brief strong {
+            font-weight: 700;
+            color: var(--text);
         }
         .card-footer {
             margin-top: 8px;
@@ -269,13 +271,16 @@
             ? `<img class="card-img" src="${item.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
             : `<div class="card-img-placeholder">${item.source}</div>`;
 
+        // Render brief: convert **text** to <strong>text</strong>
+        const brief = (item.brief || item.title || '')
+            .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+
         return `
         <article class="card">
             <a href="${item.url}" target="_blank" rel="noopener">
                 <div class="card-img-wrap">${imgHtml}${badge}</div>
                 <div class="card-body">
-                    <h3 class="card-title">${item.title}</h3>
-                    <p class="card-summary">${item.summary}</p>
+                    <p class="card-brief">${brief}</p>
                     <div class="card-footer">
                         <span class="card-source">${item.source}</span>
                         <div class="card-score">${bars}</div>

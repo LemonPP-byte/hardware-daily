@@ -3,8 +3,7 @@
     "date": "2026-07-29",
     "items": [
       {
-        "title": "Ozlo睡眠耳塞2代",
-        "summary": "Ozlo推出睡眠耳塞2代，基于Bose技术遗产，提升续航、连接和音频功能。海外社区讨论热烈，被视为改善睡眠质量的创新硬件。",
+        "brief": "**Ozlo Sleepbuds 2** 是 Bose 睡眠耳塞的精神续作，续航翻倍且支持自定义白噪音混搭，海外失眠社区反响热烈。",
         "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
         "source": "TechCrunch",
         "score": 4,
@@ -13,18 +12,25 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/Case-Product-Hero.jpg?resize=1200,800"
       },
       {
-        "title": "Framework Laptop 13 Pro",
-        "summary": "Framework Laptop 13 Pro评测显示电池续航大幅提升，但价格上涨。模块化设计持续吸引消费者，Reddit讨论活跃。",
-        "url": "https://www.reddit.com/r/hardware/comments/1v8h3di/framework_laptop_13_pro_review_much_better/",
-        "source": "Reddit",
+        "brief": "**Logitech** 宣布欧洲版鼠标将采用可更换电池设计，效仿任天堂 Switch 2 策略，引发对消费电子环保与用户自主维修的讨论。",
+        "url": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
+        "source": "The Verge",
         "score": 4,
-        "recurring": true,
+        "recurring": false,
         "tier": "成熟品牌",
-        "image": "https://frame.work/cdn/shop/files/Laptop-13-Pro-Front_1200x.png"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257737_logitech_mouse__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "ReFrame电子纸相机",
-        "summary": "ReFrame是一款电子纸相机，结合复古设计与现代电子纸显示技术，提供独特拍摄体验。Hacker News上获得90分和20条评论，消费者兴趣浓厚。",
+        "brief": "**$9 NFC 物理钥匙** 通过扫描实体钥匙解锁手机成瘾应用，将数字戒断转化为物理交互，创意十足且引发广泛讨论。",
+        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200"
+      },
+      {
+        "brief": "**ReFrame 电子纸相机** 以复古形态结合电子纸显示，提供无屏幕干扰的拍摄体验，在 Hacker News 上获得 90 分热度。",
         "url": "https://reframe.camera/",
         "source": "Hacker News",
         "score": 4,
@@ -33,38 +39,25 @@
         "image": "https://reframe.camera/assets/site-images/og-reframe.jpg"
       },
       {
-        "title": "Una GPS智能手表",
-        "summary": "Una GPS智能手表强调可修复性、USB-C充电和开发者友好，Hacker News上175分和117条评论，社区反响积极。",
+        "brief": "**Una GPS 智能手表** 主打可修复性、USB-C 充电和开发者友好，在 Hacker News 上获得 175 分和 117 条评论，极客社区追捧。",
         "url": "https://unawatch.com/",
         "source": "Hacker News",
         "score": 4,
         "recurring": true,
-        "tier": "AI 硬件",
+        "tier": "新锐产品",
         "image": "https://unawatch.com/cdn/shop/files/linkedin_banner.jpg?v=1756823125"
       },
       {
-        "title": "NFC钥匙锁应用",
-        "summary": "一款9美元的NFC钥匙，需物理扫描才能解锁手机上瘾应用，创新戒断方案。TechCrunch报道，消费者讨论其独特性和实用性。",
-        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200"
-      },
-      {
-        "title": "Flatbike折叠配件",
-        "summary": "Flatbike推出配件让自行车可平折存放，解决存储难题。Core77报道，消费者对便携性设计感兴趣。",
-        "url": "https://www.core77.com/posts/144867/Flatbikes-Accessories-Let-You-Fold-Your-Bike-Flat-for-Storage",
+        "brief": "**Leatherman Garage Batch #009 棘轮批头驱动器** 是品牌实验线产品，小批量生产，工具爱好者社区讨论热烈。",
+        "url": "https://www.core77.com/posts/144841/Leathermans-Experimental-Ratcheting-Bit-Driver",
         "source": "Core77",
         "score": 3,
         "recurring": false,
         "tier": "新锐产品",
-        "image": "https://s3files.core77.com/blog/images/1843145_81_144867_mZq4gYLBY.jpeg"
+        "image": "https://s3files.core77.com/blog/images/1842728_81_144841_m2kdRRLW0.jpg"
       },
       {
-        "title": "Elide随身衣物除皱器",
-        "summary": "Elide是一款便携除皱器，利用吸力在穿着时平滑衣物，设计独特。Dezeen报道，消费者讨论其创新性和日常实用性。",
+        "brief": "**Elide 随身衣物除皱器** 利用吸力在穿着时抚平衣物褶皱，便携设计解决差旅痛点，设计媒体广泛报道。",
         "url": "https://www.dezeen.com/2026/07/28/elide-dewrinkler-safaa-fojdar/",
         "source": "Dezeen",
         "score": 3,
@@ -73,8 +66,7 @@
         "image": "http://static.dezeen.com/uploads/2026/07/sq-elide-safaa-fojdar_dezeen_2364_col_0-411x411.jpg"
       },
       {
-        "title": "人体冰箱应对致命热浪",
-        "summary": "日本公司SDRS推出人形不锈钢冰箱，用于预防中暑，设计大胆。Dezeen报道，消费者讨论其极端气候应对方案。",
+        "brief": "**人体冰箱** 是日本厂商 SDRS 推出的人形不锈钢冷藏舱，旨在应对致命热浪，概念荒诞但引发消费者对极端气候产品的讨论。",
         "url": "https://www.dezeen.com/2026/07/27/human-refrigerator-sdrs-trusco-nakayama/",
         "source": "Dezeen",
         "score": 3,

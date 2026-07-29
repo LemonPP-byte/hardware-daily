@@ -106,13 +106,12 @@ ${itemList}
 
 请返回严格的 JSON 数组，包含 8 个对象（按上述 1-2-3-4-5-6-7-8 结构排列），每个对象字段：
 - "index": 原始编号（整数）
-- "title": 中文标题（产品名+一句话卖点，15字以内）
-- "summary": 中文摘要（2-3句话，说清楚这是什么产品、为什么有趣、海外消费者反应如何）
+- "brief": 一段式概要（40-60字，把产品名、卖点、为什么值得关注融合成一段话。用 **加粗** 标记其中最关键的产品名或核心卖点，最多加粗2处。例："**Ozlo Sleepbuds 2** 是 Bose 睡眠耳塞的精神续作，续航翻倍且支持自定义白噪音混搭，海外失眠社区反响热烈。"）
 - "url": 候选内容中的原始链接（直接复制，不可修改）
 - "source": 来源名称
 - "score": 评分（1-5整数）
 - "recurring": 是否为跨日复现内容（true/false）
-- "tier": 层级标签（"成熟品牌" / "新锐产品" / "野生灵感"）
+- "tier": 层级标签（"成熟品牌" / "AI 硬件" / "新锐产品" / "野生灵感"）
 
 只返回 JSON 数组，不要其他文字。`;
 
@@ -134,7 +133,8 @@ ${itemList}
   selected.forEach((item, i) => {
     const stars = '●'.repeat(item.score) + '○'.repeat(5 - item.score);
     const tag = item.recurring ? ' [持续热议]' : '';
-    console.log(`  ${i + 1}. [${stars}] ${item.title}${tag}`);
+    const label = (item.brief || '').replace(/\*\*/g, '').slice(0, 40);
+    console.log(`  ${i + 1}. [${stars}] ${label}...${tag}`);
     console.log(`     ${item.source} → ${item.url}`);
     console.log('');
   });
@@ -144,8 +144,7 @@ ${itemList}
   const todayItems = selected.map((item, i) => {
     const rawItem = rawItems[item.index] || {};
     return {
-      title: item.title,
-      summary: item.summary,
+      brief: item.brief || `**${item.title}** ${item.summary || ''}`,
       url: item.url,
       source: item.source,
       score: item.score || 3,

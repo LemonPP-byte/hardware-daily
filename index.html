@@ -4,105 +4,164 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>大聪明硬件每日新鲜事</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        brand: '#05CE78',
-                        'brand-dark': '#028858',
-                        'brand-light': '#E6FAF0',
-                        dark: '#282828',
-                    }
-                }
-            }
-        }
-    </script>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;900&display=swap');
-        body { font-family: 'Noto Sans SC', -apple-system, sans-serif; }
-        .card {
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        :root {
+            --text-primary: #1a1a1a;
+            --text-secondary: #666;
+            --text-muted: #999;
+            --border: #eee;
+            --bg: #fff;
+            --accent: #05CE78;
         }
-        .card:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 12px 24px rgba(0,0,0,0.1);
+
+        body {
+            font-family: -apple-system, 'SF Pro Text', 'Noto Sans SC', sans-serif;
+            background: var(--bg);
+            color: var(--text-primary);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
         }
-        .card-img {
-            transition: transform 0.3s ease;
+
+        /* === Layout === */
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 0 24px;
         }
-        .card:hover .card-img {
-            transform: scale(1.05);
+
+        /* === Header === */
+        header {
+            padding: 80px 0 60px;
         }
-        .fade-in {
-            animation: fadeIn 0.4s ease-out;
+        header h1 {
+            font-size: 14px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            color: var(--accent);
+            margin-bottom: 16px;
         }
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(12px); }
-            to { opacity: 1; transform: translateY(0); }
+        header p {
+            font-size: 15px;
+            color: var(--text-muted);
+            max-width: 400px;
+        }
+
+        /* === Day Section === */
+        .day {
+            margin-bottom: 64px;
+        }
+        .day-header {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            margin-bottom: 32px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid var(--border);
+        }
+        .day-date {
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--text-muted);
+            white-space: nowrap;
+        }
+        .day-label {
+            font-size: 12px;
+            color: var(--accent);
+            font-weight: 500;
+        }
+
+        /* === Item === */
+        .item {
+            margin-bottom: 36px;
+            padding-bottom: 36px;
+            border-bottom: 1px solid #f5f5f5;
+        }
+        .item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        .item-number {
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--accent);
+            margin-bottom: 8px;
+            font-variant-numeric: tabular-nums;
+        }
+        .item-title {
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 1.4;
+            margin-bottom: 10px;
+            letter-spacing: -0.3px;
+        }
+        .item-title a {
+            color: var(--text-primary);
+            text-decoration: none;
+            transition: color 0.15s;
+        }
+        .item-title a:hover {
+            color: var(--accent);
+        }
+        .item-summary {
+            font-size: 15px;
+            color: var(--text-secondary);
+            line-height: 1.7;
+        }
+        .item-meta {
+            margin-top: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .item-source {
+            font-size: 12px;
+            color: var(--text-muted);
+            font-weight: 500;
+        }
+        .item-link {
+            font-size: 12px;
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .item-link:hover {
+            text-decoration: underline;
+        }
+
+        /* === Footer === */
+        footer {
+            padding: 40px 0 60px;
+            border-top: 1px solid var(--border);
+            margin-top: 20px;
+        }
+        footer p {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        /* === Responsive === */
+        @media (max-width: 640px) {
+            header { padding: 48px 0 36px; }
+            .item-title { font-size: 18px; }
+            .day { margin-bottom: 48px; }
         }
     </style>
 </head>
-<body class="bg-white min-h-screen">
-
-    <!-- Nav -->
-    <nav class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm">
-        <div class="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
-            <div class="flex items-center gap-2.5">
-                <div class="w-7 h-7 bg-brand rounded-md flex items-center justify-center">
-                    <span class="text-white font-bold text-xs">DC</span>
-                </div>
-                <span class="font-semibold text-dark text-sm">大聪明硬件每日新鲜事</span>
-            </div>
-            <div class="flex items-center gap-4">
-                <span class="text-xs text-gray-400" id="update-badge"></span>
-            </div>
-        </div>
-    </nav>
-
-    <!-- Hero -->
-    <section class="pt-16 pb-20 px-6">
-        <div class="max-w-6xl mx-auto">
-            <h1 class="text-4xl md:text-5xl font-black text-dark leading-[1.15] tracking-tight">
-                每天 3 个值得关注的<br>
-                <span class="text-brand">海外消费硬件新鲜事</span>
-            </h1>
-            <p class="mt-5 text-gray-400 text-base max-w-md leading-relaxed">
-                自动追踪 Kickstarter、Product Hunt、Hacker News 等海外社区<br>
-                AI 筛选最有消费洞察价值的新产品
-            </p>
-        </div>
-    </section>
-
-    <!-- Feed -->
-    <main class="max-w-6xl mx-auto px-6 py-10" id="feed"></main>
-
-    <!-- Footer -->
-    <footer class="border-t border-gray-100 mt-12">
-        <div class="max-w-6xl mx-auto px-6 py-8 flex flex-col md:flex-row items-center justify-between gap-4">
-            <p class="text-xs text-gray-400">
-                © 大聪明硬件每日新鲜事 · 每日自动更新
-            </p>
-            <div class="flex flex-wrap gap-2">
-                <span class="tag">Product Hunt</span>
-                <span class="tag">Hacker News</span>
-                <span class="tag">Kickstarter</span>
-                <span class="tag">Indiegogo</span>
-                <span class="tag">TechCrunch</span>
-                <span class="tag">Dezeen</span>
-                <span class="tag">Core77</span>
-                <span class="tag">Wired</span>
-                <span class="tag">Reddit</span>
-            </div>
-        </div>
-    </footer>
-
-    <style>
-        .tag {
-            @apply text-xs px-2.5 py-1 bg-gray-50 text-gray-400 rounded-full border border-gray-100;
-        }
-    </style>
+<body>
+    <div class="container">
+        <header>
+            <h1>大聪明硬件每日新鲜事</h1>
+            <p>每天 3 条海外消费硬件新产品速递，自动追踪筛选，只看值得关注的。</p>
+        </header>
+        <main id="feed"></main>
+        <footer>
+            <p>数据来源：Product Hunt · Hacker News · Kickstarter · TechCrunch · Dezeen · Wired · Reddit</p>
+        </footer>
+    </div>
 
     <script>
     async function loadFeed() {
@@ -110,115 +169,60 @@
             const res = await fetch('./data.json');
             const days = await res.json();
             const feed = document.getElementById('feed');
-            const badge = document.getElementById('update-badge');
 
-            if (days.length > 0) {
-                badge.innerHTML = `<span class="inline-block w-2 h-2 bg-brand rounded-full mr-1.5 animate-pulse"></span>最近更新 ${days[0].date}`;
-            }
-
-            days.forEach((day, dayIndex) => {
+            days.forEach(day => {
                 const section = document.createElement('section');
-                section.className = 'mb-14 fade-in';
-                section.style.animationDelay = `${dayIndex * 0.1}s`;
+                section.className = 'day';
 
-                // Date header - Kickstarter style
-                const header = document.createElement('div');
-                header.className = 'flex items-center gap-3 mb-6';
-                header.innerHTML = `
-                    <div class="w-1 h-8 bg-brand rounded-full"></div>
-                    <div>
-                        <h2 class="text-lg font-bold text-dark">${formatDate(day.date)}</h2>
-                        <p class="text-xs text-gray-400">${day.items.length} 条新鲜事</p>
+                const dateStr = formatDate(day.date);
+                const label = getLabel(day.date);
+
+                section.innerHTML = `
+                    <div class="day-header">
+                        <span class="day-date">${dateStr}</span>
+                        ${label ? `<span class="day-label">${label}</span>` : ''}
                     </div>
                 `;
-                section.appendChild(header);
-
-                // Cards grid
-                const grid = document.createElement('div');
-                grid.className = 'grid grid-cols-1 md:grid-cols-3 gap-6';
 
                 day.items.forEach((item, i) => {
-                    const card = createCard(item, i);
-                    grid.appendChild(card);
+                    const el = document.createElement('div');
+                    el.className = 'item';
+                    el.innerHTML = `
+                        <div class="item-number">0${i + 1}</div>
+                        <h2 class="item-title">
+                            <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+                        </h2>
+                        <p class="item-summary">${item.summary}</p>
+                        <div class="item-meta">
+                            <span class="item-source">${item.source}</span>
+                            <span style="color:#ddd">·</span>
+                            <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="item-link">查看原文 ↗</a>
+                        </div>
+                    `;
+                    section.appendChild(el);
                 });
 
-                section.appendChild(grid);
                 feed.appendChild(section);
             });
         } catch (err) {
-            console.error('Failed to load feed:', err);
-            document.getElementById('feed').innerHTML = `
-                <div class="text-center py-20">
-                    <p class="text-gray-400">数据加载失败</p>
-                    <p class="text-sm text-gray-300 mt-2">请刷新页面重试</p>
-                </div>`;
+            document.getElementById('feed').innerHTML = '<p style="color:#999;padding:40px 0">加载失败，请刷新重试</p>';
         }
-    }
-
-    function createCard(item, index) {
-        const card = document.createElement('article');
-        card.className = 'card bg-white rounded-2xl overflow-hidden border border-gray-100';
-
-        const sourceColors = {
-            'Product Hunt': 'bg-orange-50 text-orange-600',
-            'Hacker News': 'bg-amber-50 text-amber-700',
-            'Kickstarter': 'bg-green-50 text-green-700',
-            'Indiegogo': 'bg-pink-50 text-pink-600',
-            'TechCrunch': 'bg-emerald-50 text-emerald-700',
-            'Dezeen': 'bg-slate-50 text-slate-600',
-            'Core77': 'bg-blue-50 text-blue-600',
-            'Wired': 'bg-gray-100 text-gray-700',
-            'The Verge': 'bg-purple-50 text-purple-600',
-            'Reddit': 'bg-orange-50 text-orange-500',
-        };
-        const tagClass = sourceColors[item.source] || 'bg-gray-50 text-gray-600';
-
-        card.innerHTML = `
-            <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="block">
-                <div class="overflow-hidden aspect-[16/10]">
-                    <img src="${item.image}" alt="${item.title}"
-                         class="card-img w-full h-full object-cover"
-                         loading="lazy"
-                         onerror="this.src='https://placehold.co/600x375/f8f8f8/ccc?text=${encodeURIComponent(item.source)}'">
-                </div>
-            </a>
-            <div class="p-5">
-                <div class="mb-3">
-                    <span class="text-xs font-medium px-2.5 py-1 rounded-full ${tagClass}">${item.source}</span>
-                </div>
-                <h3 class="font-bold text-dark text-[15px] leading-snug mb-2.5 line-clamp-2">
-                    <a href="${item.url}" target="_blank" rel="noopener noreferrer"
-                       class="hover:text-brand transition-colors duration-200">
-                        ${item.title}
-                    </a>
-                </h3>
-                <p class="text-sm text-gray-500 leading-relaxed line-clamp-3">${item.summary}</p>
-                <div class="mt-4 pt-3 border-t border-gray-50">
-                    <a href="${item.url}" target="_blank" rel="noopener noreferrer"
-                       class="text-xs font-medium text-brand hover:text-brand-dark transition-colors inline-flex items-center gap-1">
-                        查看原文
-                        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
-                        </svg>
-                    </a>
-                </div>
-            </div>
-        `;
-
-        return card;
     }
 
     function formatDate(dateStr) {
         const date = new Date(dateStr + 'T00:00:00');
+        const weekdays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+        return `${dateStr} ${weekdays[date.getDay()]}`;
+    }
+
+    function getLabel(dateStr) {
+        const date = new Date(dateStr + 'T00:00:00');
         const today = new Date();
         today.setHours(0, 0, 0, 0);
-        const diff = Math.floor((today - date) / (1000 * 60 * 60 * 24));
-        const weekdays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
-        const dayLabel = weekdays[date.getDay()];
-
-        if (diff === 0) return `今天 · ${dayLabel}`;
-        if (diff === 1) return `昨天 · ${dayLabel}`;
-        return `${dateStr} · ${dayLabel}`;
+        const diff = Math.floor((today - date) / 86400000);
+        if (diff === 0) return '今天';
+        if (diff === 1) return '昨天';
+        return '';
     }
 
     loadFeed();

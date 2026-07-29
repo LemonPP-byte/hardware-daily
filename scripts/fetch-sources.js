@@ -143,8 +143,36 @@ async function main() {
 
   console.log(`\n📊 总计抓取: ${allItems.length} 条, 48h内: ${recent.length} 条`);
 
+  // 对没有图片的文章，尝试从页面 og:image 获取封面图
+  console.log('\n[补充封面图]');
+  let fetched = 0;
+  for (const item of recent) {
+    if (item.image || !item.url) continue;
+    if (fetched >= 15) break; // 限制请求数量
+    try {
+      const res = await fetch(item.url, {
+        headers: { 'User-Agent': 'HardwareDaily/1.0 (RSS Reader)' },
+        redirect: 'follow',
+        signal: AbortSignal.timeout(8000)
+      });
+      if (!res.ok) continue;
+      const html = await res.text();
+      // 提取 og:image
+      const ogMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
+        || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+      if (ogMatch && ogMatch[1]) {
+        item.image = ogMatch[1];
+        fetched++;
+        console.log(`  ✓ ${item.title.slice(0, 40)}...`);
+      }
+    } catch (err) {
+      // 静默跳过
+    }
+  }
+  console.log(`  补充了 ${fetched} 张封面图`);
+
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(recent, null, 2));
-  console.log(`💾 保存到: ${OUTPUT_PATH}\n`);
+  console.log(`\n💾 保存到: ${OUTPUT_PATH}\n`);
 }
 
 main().catch(err => {

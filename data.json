@@ -4,28 +4,28 @@
     "items": [
       {
         "title": "Ozlo睡眠耳塞2代",
-        "summary": "Ozlo推出第二代睡眠耳塞，基于Bose技术遗产，续航更长、连接更稳、音频更佳。海外社区讨论热烈，被视为失眠人群的刚需升级品。",
+        "summary": "Ozlo推出睡眠耳塞2代，在Bose原有技术基础上大幅提升续航、连接稳定性和音频质量，并新增睡眠监测功能。海外用户对这款专为睡眠设计的耳塞升级版讨论热烈，认为它解决了初代痛点，购买意愿强。",
         "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
         "source": "TechCrunch",
         "score": 4,
         "recurring": true,
         "tier": "成熟品牌",
-        "image": ""
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Case-Product-Hero.jpg?resize=1200,800"
       },
       {
-        "title": "9美元物理锁屏钥匙",
-        "summary": "一款仅9美元的NFC钥匙，需物理扫描才能解锁手机上的成瘾应用。创意极简，引发关于数字戒断的广泛讨论，购买意愿高。",
-        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-        "source": "TechCrunch",
-        "score": 4,
+        "title": "Leatherman实验性棘轮批头工具",
+        "summary": "Leatherman Garage系列推出Batch #009实验性棘轮批头驱动器，小批量生产测试市场。这款工具将棘轮机制集成到经典多功能工具中，引发工具爱好者和EDC社区的强烈兴趣，讨论集中在创新性和收藏价值。",
+        "url": "https://www.core77.com/posts/144841/Leathermans-Experimental-Ratcheting-Bit-Driver",
+        "source": "Core77",
+        "score": 3,
         "recurring": false,
         "tier": "成熟品牌",
-        "image": ""
+        "image": "https://s3files.core77.com/blog/images/1842728_81_144841_m2kdRRLW0.jpg"
       },
       {
-        "title": "ReFrame电子纸相机",
-        "summary": "一款采用电子纸屏幕的数码相机，主打极简摄影体验和低功耗。在Hacker News上获得83分和19条评论，摄影爱好者社区讨论积极。",
-        "url": "https://reframe.camera/",
+        "title": "Una GPS智能手表",
+        "summary": "Una Watch是一款可修复、USB-C充电、开发者友好的GPS智能手表，主打开源和模块化设计。在Hacker News上获得175分和117条评论，社区对其反计划报废理念和实用功能高度认可，预购意愿强烈。",
+        "url": "https://unawatch.com/",
         "source": "Hacker News",
         "score": 4,
         "recurring": false,
@@ -33,22 +33,32 @@
         "image": ""
       },
       {
-        "title": "Flatbike折叠自行车配件",
-        "summary": "Flatbike推出配件套件，可将普通自行车折叠成扁平状，便于存放和携带。已在Core77引发消费者讨论，适合城市通勤和房车用户。",
-        "url": "https://www.core77.com/posts/144867/Flatbikes-Accessories-Let-You-Fold-Your-Bike-Flat-for-Storage",
-        "source": "Core77",
-        "score": 3,
-        "recurring": false,
+        "title": "ReFrame电子纸相机",
+        "summary": "ReFrame是一款使用电子纸屏幕的数码相机，提供类似拍立得的物理照片体验但无需耗材。在Hacker News上获得90分和20条评论，消费者对其复古形态和低功耗设计讨论积极，认为它满足了数字时代的实体照片需求。",
+        "url": "https://reframe.camera/",
+        "source": "Hacker News",
+        "score": 4,
+        "recurring": true,
         "tier": "新锐产品",
-        "image": "https://s3files.core77.com/blog/images/1843145_81_144867_mZq4gYLBY.jpeg"
+        "image": ""
+      },
+      {
+        "title": "9美元物理锁屏钥匙",
+        "summary": "一款仅售9美元的NFC钥匙，需物理扫描才能解锁手机上令人上瘾的App。这种通过物理动作打断数字习惯的设计在TechCrunch引发热议，消费者认为它比软件限制更有效，购买讨论集中在戒断社交媒体场景。",
+        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": true,
+        "tier": "野生灵感",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200"
       },
       {
         "title": "Elide随身衣物除皱器",
-        "summary": "一款可穿戴的便携除皱设备，利用吸力在穿着时抚平衣物褶皱。设计毕业生作品，在Dezeen上引发关于生活硬件创新的热议。",
+        "summary": "一款便携式衣物除皱器原型，利用吸力在穿着时即可抚平衣物褶皱。Dezeen报道后引发消费者对旅行和日常使用场景的讨论，认为它解决了传统熨斗不便携带的痛点，但原型阶段让部分用户持观望态度。",
         "url": "https://www.dezeen.com/2026/07/28/elide-dewrinkler-safaa-fojdar/",
         "source": "Dezeen",
         "score": 3,
-        "recurring": false,
+        "recurring": true,
         "tier": "野生灵感",
         "image": "http://static.dezeen.com/uploads/2026/07/sq-elide-safaa-fojdar_dezeen_2364_col_0-411x411.jpg"
       }

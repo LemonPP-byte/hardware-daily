@@ -36,7 +36,7 @@
             position: absolute;
             border-radius: 50%;
             filter: blur(80px);
-            opacity: 0.1;
+            opacity: 0.2;
             animation: float 25s ease-in-out infinite;
         }
         .bg-gradient .orb-1 {
@@ -125,7 +125,15 @@
 
         /* === Main === */
         main { padding: 16px 28px 48px; }
-        .day { margin-bottom: 40px; }
+        .day {
+            margin-bottom: 28px;
+            background: rgba(255,255,255,0.55);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
+            border: 1px solid rgba(255,255,255,0.6);
+            border-radius: 24px;
+            padding: 28px 24px 32px;
+        }
         .day-date {
             font-size: 12px; font-weight: 600;
             color: var(--muted); margin-bottom: 16px;

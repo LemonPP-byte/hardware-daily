@@ -142,15 +142,20 @@ ${itemList}
   const tierByPosition = ['成熟品牌','成熟品牌','新锐产品','新锐产品','野生灵感'];
   const todayEntry = {
     date: TODAY,
-    items: selected.map((item, i) => ({
-      title: item.title,
-      summary: item.summary,
-      url: item.url,
-      source: item.source,
-      score: item.score || 3,
-      recurring: item.recurring || false,
-      tier: item.tier || tierByPosition[i] || '新锐产品'
-    }))
+    items: selected.map((item, i) => {
+      // 从 raw feed 中找到对应条目的图片
+      const rawItem = rawItems[item.index] || {};
+      return {
+        title: item.title,
+        summary: item.summary,
+        url: item.url,
+        source: item.source,
+        score: item.score || 3,
+        recurring: item.recurring || false,
+        tier: item.tier || tierByPosition[i] || '新锐产品',
+        image: rawItem.image || ''
+      };
+    })
   };
 
   // 如果今天已经有数据，替换；否则插入到最前面

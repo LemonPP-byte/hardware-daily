@@ -140,23 +140,46 @@ ${itemList}
 
   // 构造今日数据（按位置补 tier fallback）
   const tierByPosition = ['成熟品牌','成熟品牌','新锐产品','新锐产品','野生灵感','野生灵感'];
-  const todayEntry = {
-    date: TODAY,
-    items: selected.map((item, i) => {
-      // 从 raw feed 中找到对应条目的图片
-      const rawItem = rawItems[item.index] || {};
-      return {
-        title: item.title,
-        summary: item.summary,
-        url: item.url,
-        source: item.source,
-        score: item.score || 3,
-        recurring: item.recurring || false,
-        tier: item.tier || tierByPosition[i] || '新锐产品',
-        image: rawItem.image || ''
-      };
-    })
-  };
+  const todayItems = selected.map((item, i) => {
+    const rawItem = rawItems[item.index] || {};
+    return {
+      title: item.title,
+      summary: item.summary,
+      url: item.url,
+      source: item.source,
+      score: item.score || 3,
+      recurring: item.recurring || false,
+      tier: item.tier || tierByPosition[i] || '新锐产品',
+      image: rawItem.image || ''
+    };
+  });
+
+  // 对没有图片的条目，尝试从原文页面提取 og:image
+  console.log('\n🖼️  补充缺失图片...');
+  for (const item of todayItems) {
+    if (item.image || !item.url) continue;
+    try {
+      const res = await fetch(item.url, {
+        headers: { 'User-Agent': 'HardwareDaily/1.0' },
+        redirect: 'follow',
+        signal: AbortSignal.timeout(10000)
+      });
+      if (!res.ok) continue;
+      const html = await res.text();
+      const ogMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
+        || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+      if (ogMatch && ogMatch[1]) {
+        item.image = ogMatch[1];
+        console.log(`  ✓ ${item.title}`);
+      } else {
+        console.log(`  ✗ ${item.title} (no og:image found)`);
+      }
+    } catch (err) {
+      console.log(`  ✗ ${item.title} (${err.message})`);
+    }
+  }
+
+  const todayEntry = { date: TODAY, items: todayItems };
 
   // 如果今天已经有数据，替换；否则插入到最前面
   const todayIndex = existingData.findIndex(d => d.date === TODAY);

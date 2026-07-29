@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-07-29",
+    "items": [
+      {
+        "title": "Ozlo睡眠耳塞2代",
+        "summary": "Ozlo推出Sleepbuds 2，在Bose睡眠耳塞基础上改进，续航更长、连接更稳、音质提升，新增睡眠功能。专为睡眠场景设计的入耳式硬件，海外用户期待已久。",
+        "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+        "source": "TechCrunch",
+        "image": "https://source.unsplash.com/600x400/?Ozlo%20Sleepbuds%202%20sleep%20earbuds"
+      },
+      {
+        "title": "9美元物理锁屏钥匙",
+        "summary": "一款仅9美元的NFC物理钥匙，需扫描才能解锁手机上最易上瘾的App。用实体交互对抗数字成瘾，创意十足，海外社交媒体讨论热烈。",
+        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+        "source": "TechCrunch",
+        "image": "https://source.unsplash.com/600x400/?NFC%20key%20physical%20app%20lock"
+      },
+      {
+        "title": "消除微波炉提示音神器",
+        "summary": "一家两人初创公司推出设备，解决了现代生活中最令人讨厌的“哔哔”声（如微波炉提示音）。小巧实用，精准击中日常痛点，海外网友纷纷求购。",
+        "url": "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
+        "source": "Wired",
+        "image": "https://source.unsplash.com/600x400/?device%20silences%20microwave%20beep"
+      }
+    ]
+  },
+  {
     "date": "2026-07-28",
     "items": [
       {

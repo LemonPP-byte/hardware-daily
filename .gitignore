@@ -1,0 +1,4 @@
+node_modules/
+raw-feed.json
+.env
+.DS_Store

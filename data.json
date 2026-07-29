@@ -1,0 +1,80 @@
+[
+  {
+    "date": "2026-07-28",
+    "items": [
+      {
+        "title": "Rabbit R1 团队开源了其 LAM 模型的推理引擎",
+        "summary": "Rabbit 在 GitHub 上开源了 Large Action Model 的推理层，允许开发者在本地硬件上运行 AI Agent 操作。Hacker News 上 600+ 讨论，社区认为这可能让 AI 硬件从「云端依赖」走向「端侧自治」。",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
+        "url": "https://news.ycombinator.com",
+        "source": "Hacker News"
+      },
+      {
+        "title": "Kickstarter 上一款手持热成像+AI 识别设备火了",
+        "summary": "来自深圳的团队 InfiRay 推出消费级热成像仪，内置 AI 自动识别电路故障点和管道泄漏。上线 3 天筹到 80 万美元，Reddit r/electronics 称其为「万用表之后最值得买的工具」。",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&h=400&fit=crop",
+        "url": "https://www.kickstarter.com",
+        "source": "Kickstarter"
+      },
+      {
+        "title": "Product Hunt #1: 开源桌面机器人手臂 SO-ARM100",
+        "summary": "Hugging Face 背书的开源机械臂项目冲上 Product Hunt 日榜第一。全套 BOM 成本 $300 以内，支持用自然语言控制抓取动作。TechCrunch 评价「具身智能终于有了个人开发者的入口」。",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+        "url": "https://www.producthunt.com",
+        "source": "Product Hunt"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "items": [
+      {
+        "title": "Framework 宣布 Laptop 16 支持外接 GPU 模块热插拔",
+        "summary": "Framework 更新了 Laptop 16 的扩展坞规范，现在支持运行中热插拔 GPU 模块而不需要重启。Hacker News 讨论认为这是模块化笔记本「真正可用」的里程碑，不再只是噱头。",
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&h=400&fit=crop",
+        "url": "https://news.ycombinator.com",
+        "source": "Hacker News"
+      },
+      {
+        "title": "Indiegogo: 一块能当显示器用的太阳能充电板",
+        "summary": "荷兰团队 Luminext 把柔性电子墨水屏集成到太阳能板表面，充电时显示功率数据和天气预报。Dezeen 称这种「功能可见化」设计是可再生能源产品的新方向。",
+        "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&h=400&fit=crop",
+        "url": "https://www.indiegogo.com",
+        "source": "Indiegogo"
+      },
+      {
+        "title": "Teenage Engineering 发布 OP-XY 合成器，定义「协作式乐器」",
+        "summary": "TE 新品 OP-XY 支持多台设备通过蓝牙 mesh 自动组网即兴演奏，无需任何配置。Core77 评价其交互设计「把专业音乐硬件的门槛降到了玩具级别，但产出是专业级」。",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600&h=400&fit=crop",
+        "url": "https://www.core77.com",
+        "source": "Core77"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-26",
+    "items": [
+      {
+        "title": "MIT 开源可降解电路板项目，硬件设计文件全部上 GitHub",
+        "summary": "MIT Media Lab 的丝蛋白 PCB 项目正式开源所有设计文件和制造流程文档。Wired 称其为「电子垃圾问题的第一个真正有前途的方案」，Reddit r/sustainability 讨论 400+。",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+        "url": "https://www.wired.com",
+        "source": "Wired"
+      },
+      {
+        "title": "Nothing 把透明设计语言延伸到了智能家居网关",
+        "summary": "Nothing 首款 Matter 智能家居网关曝光，延续标志性透明外壳。Carl Pei 在 Product Hunt 发布页写道「家里的科技产品不该被藏起来」。设计圈热议硬件美学是否正在成为差异化核心。",
+        "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=600&h=400&fit=crop",
+        "url": "https://www.producthunt.com",
+        "source": "Product Hunt"
+      },
+      {
+        "title": "日本众筹平台 Makuake 年度硬件趋势报告：AI 玩具品类增长 430%",
+        "summary": "Makuake 发布半年报显示 AI 玩具/教育硬件品类同比增长 430%，超越智能家居成为增速最快品类。TechCrunch 分析指出日本市场对「有温度的 AI 硬件」的独特偏好。",
+        "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&h=400&fit=crop",
+        "url": "https://techcrunch.com",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+]

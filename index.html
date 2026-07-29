@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>硬件日报 — 每日海外硬件创新速递</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap');
+        body { font-family: 'Noto Sans SC', sans-serif; }
+        .card-img {
+            transition: transform 0.3s ease, filter 0.3s ease;
+        }
+        .card-img:hover {
+            transform: scale(1.03);
+            filter: brightness(0.85);
+        }
+        .date-divider::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 50%;
+            height: 1px;
+            background: #e5e7eb;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <!-- Header -->
+    <header class="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-gray-100">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+            <div>
+                <h1 class="text-xl font-bold text-gray-900 tracking-tight">⚡ 硬件日报</h1>
+                <p class="text-xs text-gray-400 mt-0.5">每日 3 条海外硬件创新速递</p>
+            </div>
+            <div class="text-xs text-gray-400" id="update-time"></div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-6 py-8" id="feed"></main>
+
+    <!-- Footer -->
+    <footer class="max-w-7xl mx-auto px-6 py-8 border-t border-gray-100">
+        <p class="text-xs text-gray-400 text-center">
+            数据来源：Product Hunt · Hacker News · Kickstarter · Indiegogo · TechCrunch · Dezeen · Core77 · Wired · The Verge · Reddit
+        </p>
+    </footer>
+
+    <script>
+    async function loadFeed() {
+        try {
+            const res = await fetch('./data.json');
+            const days = await res.json();
+            const feed = document.getElementById('feed');
+            const updateTime = document.getElementById('update-time');
+
+            if (days.length > 0) {
+                updateTime.textContent = `最近更新：${days[0].date}`;
+            }
+
+            days.forEach((day, index) => {
+                // Date section
+                const section = document.createElement('section');
+                section.className = index === 0 ? 'mb-12' : 'mb-12 pt-8';
+
+                // Date header
+                const dateHeader = document.createElement('div');
+                dateHeader.className = 'relative date-divider mb-6 flex items-center';
+                const dateLabel = document.createElement('span');
+                dateLabel.className = 'relative bg-gray-50 pr-4 text-sm font-medium text-gray-500';
+                dateLabel.textContent = formatDate(day.date);
+                dateHeader.appendChild(dateLabel);
+                section.appendChild(dateHeader);
+
+                // Cards grid
+                const grid = document.createElement('div');
+                grid.className = 'grid grid-cols-1 md:grid-cols-3 gap-6';
+
+                day.items.forEach(item => {
+                    const card = createCard(item);
+                    grid.appendChild(card);
+                });
+
+                section.appendChild(grid);
+                feed.appendChild(section);
+            });
+        } catch (err) {
+            console.error('Failed to load feed:', err);
+            document.getElementById('feed').innerHTML =
+                '<p class="text-center text-gray-400 py-20">数据加载失败，请稍后刷新</p>';
+        }
+    }
+
+    function createCard(item) {
+        const card = document.createElement('article');
+        card.className = 'bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300';
+
+        card.innerHTML = `
+            <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="block">
+                <div class="overflow-hidden aspect-[3/2]">
+                    <img src="${item.image}" alt="${item.title}"
+                         class="card-img w-full h-full object-cover"
+                         loading="lazy"
+                         onerror="this.src='https://placehold.co/600x400/f3f4f6/9ca3af?text=No+Image'">
+                </div>
+            </a>
+            <div class="p-4">
+                <div class="flex items-center gap-2 mb-2">
+                    <span class="text-xs px-2 py-0.5 bg-gray-100 text-gray-500 rounded-full">${item.source}</span>
+                </div>
+                <h3 class="font-medium text-gray-900 text-sm leading-snug mb-2">
+                    <a href="${item.url}" target="_blank" rel="noopener noreferrer"
+                       class="hover:text-blue-600 transition-colors">
+                        ${item.title}
+                    </a>
+                </h3>
+                <p class="text-xs text-gray-500 leading-relaxed">${item.summary}</p>
+            </div>
+        `;
+
+        return card;
+    }
+
+    function formatDate(dateStr) {
+        const date = new Date(dateStr + 'T00:00:00');
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+        const diff = Math.floor((today - date) / (1000 * 60 * 60 * 24));
+
+        const weekdays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+        const dayLabel = weekdays[date.getDay()];
+
+        if (diff === 0) return `📍 今天 · ${dateStr} ${dayLabel}`;
+        if (diff === 1) return `昨天 · ${dateStr} ${dayLabel}`;
+        return `${dateStr} ${dayLabel}`;
+    }
+
+    loadFeed();
+    </script>

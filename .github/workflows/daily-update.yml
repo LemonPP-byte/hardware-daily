@@ -1,0 +1,49 @@
+name: Daily Hardware Feed Update
+
+on:
+  schedule:
+    # 每天早上 7:00 北京时间 (UTC 23:00 前一天)
+    - cron: '0 23 * * *'
+  workflow_dispatch: # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch sources
+        run: node scripts/fetch-sources.js
+
+      - name: AI curate (select top 3)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/curate.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "Hardware Daily Bot"
+          git config user.email "bot@hardware-daily.dev"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📡 daily update: $(date +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Clean up raw feed
+        run: rm -f raw-feed.json

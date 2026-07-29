@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>大聪明硬件每日新鲜事</title>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --bg: #FFFCF8;
+            --text: #1a1a1a;
+            --muted: #7a7a7a;
+            --day1: #E8F4FD;
+            --day1-accent: #2B7CB3;
+            --day2: #FDF2E8;
+            --day2-accent: #C47A3A;
+            --day3: #E8FDF0;
+            --day3-accent: #3AAF6B;
+            --radius: 16px;
+        }
+        body {
+            font-family: 'Noto Sans SC', -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            padding: 48px 24px 80px;
+        }
+        .container { max-width: 640px; margin: 0 auto; }
+
+        /* Header */
+        header { margin-bottom: 48px; }
+        header h1 {
+            font-family: 'Nunito', sans-serif;
+            font-size: 28px;
+            font-weight: 900;
+            color: var(--text);
+            margin-bottom: 6px;
+        }
+        header p { font-size: 14px; color: var(--muted); }
+
+        /* Day block */
+        .day { margin-bottom: 40px; }
+        .day-header {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 700;
+            margin-bottom: 16px;
+        }
+        .day:nth-child(1) .day-header { background: var(--day1); color: var(--day1-accent); }
+        .day:nth-child(2) .day-header { background: var(--day2); color: var(--day2-accent); }
+        .day:nth-child(3) .day-header { background: var(--day3); color: var(--day3-accent); }
+
+        /* Item card */
+        .item {
+            background: #fff;
+            border-radius: var(--radius);
+            padding: 20px 24px;
+            margin-bottom: 12px;
+            box-shadow: 0 2px 0 rgba(0,0,0,0.04);
+            border: 1.5px solid #f0f0f0;
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+        }
+        .item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 0 rgba(0,0,0,0.06);
+        }
+        .item-num {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 24px; height: 24px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: 800;
+            font-family: 'Nunito', sans-serif;
+            color: #fff;
+            margin-bottom: 10px;
+        }
+        .day:nth-child(1) .item-num { background: var(--day1-accent); }
+        .day:nth-child(2) .item-num { background: var(--day2-accent); }
+        .day:nth-child(3) .item-num { background: var(--day3-accent); }
+
+        .item-title {
+            font-size: 17px;
+            font-weight: 700;
+            line-height: 1.4;
+            margin-bottom: 8px;
+        }
+        .item-title a {
+            color: var(--text);
+            text-decoration: none;
+        }
+        .item-title a:hover { text-decoration: underline; }
+        .item-summary {
+            font-size: 14px;
+            color: var(--muted);
+            line-height: 1.7;
+            margin-bottom: 12px;
+        }
+        .item-footer {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .item-source {
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--muted);
+        }
+        .item-link {
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--day1-accent);
+            text-decoration: none;
+        }
+        .item-link:hover { text-decoration: underline; }
+
+        footer {
+            margin-top: 48px;
+            padding-top: 24px;
+            border-top: 1.5px solid #f0f0f0;
+            font-size: 12px;
+            color: var(--muted);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>大聪明硬件每日新鲜事</h1>
+            <p>每天 3 条海外消费硬件新产品速递</p>
+        </header>
+        <main id="feed"></main>
+        <footer>数据来源：Product Hunt · Hacker News · Kickstarter · TechCrunch · Dezeen · Wired</footer>
+    </div>
+    <script>
+    async function loadFeed() {
+        const res = await fetch('./data.json');
+        const days = await res.json();
+        const feed = document.getElementById('feed');
+        const colors = [['var(--day1)','var(--day1-accent)'],['var(--day2)','var(--day2-accent)'],['var(--day3)','var(--day3-accent)']];
+        days.forEach((day, di) => {
+            const section = document.createElement('section');
+            section.className = 'day';
+            const d = new Date(day.date+'T00:00:00');
+            const wk = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
+            section.innerHTML = `<div class="day-header">${day.date} ${wk}</div>`;
+            day.items.forEach((item, i) => {
+                section.innerHTML += `
+                <div class="item">
+                    <div class="item-num">${i+1}</div>
+                    <h2 class="item-title"><a href="${item.url}" target="_blank">${item.title}</a></h2>
+                    <p class="item-summary">${item.summary}</p>
+                    <div class="item-footer">
+                        <span class="item-source">${item.source}</span>
+                        <a href="${item.url}" target="_blank" class="item-link">原文 ↗</a>
+                    </div>
+                </div>`;
+            });
+            feed.appendChild(section);
+        });
+    }
+    loadFeed();
+    </script>
+</body>
+</html>

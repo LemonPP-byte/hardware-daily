@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>大聪明硬件每日新鲜事</title>
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600;6..72,700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600;6..72,700&family=Noto+Sans+SC:wght@400;500&display=swap" rel="stylesheet">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
@@ -13,8 +13,6 @@
             --muted: #78716C;
             --accent: #B45930;
             --rule: #E7E0D6;
-            --star-on: #B45930;
-            --star-off: #DDD5CB;
         }
         body {
             font-family: 'Noto Sans SC', -apple-system, sans-serif;
@@ -23,8 +21,9 @@
             line-height: 1.7;
         }
 
+        /* Masthead */
         .masthead {
-            padding: 64px 24px 40px;
+            padding: 56px 24px 40px;
             text-align: center;
             border-bottom: 1px solid var(--rule);
         }
@@ -33,23 +32,24 @@
             font-size: 32px;
             font-weight: 700;
             letter-spacing: -0.5px;
-            margin-bottom: 6px;
+            margin-bottom: 4px;
         }
         .masthead .tagline {
             font-size: 13px;
             color: var(--muted);
-            letter-spacing: 0.5px;
+            letter-spacing: 1px;
         }
 
+        /* Content */
         .content {
-            max-width: 620px;
+            max-width: 600px;
             margin: 0 auto;
             padding: 0 24px;
         }
 
         /* Day section */
         .day {
-            padding: 44px 0;
+            padding: 40px 0;
             border-bottom: 1px solid var(--rule);
         }
         .day:last-child { border-bottom: none; }
@@ -57,64 +57,36 @@
             font-size: 12px;
             font-weight: 500;
             color: var(--muted);
+            text-transform: uppercase;
             letter-spacing: 1.5px;
-            margin-bottom: 32px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-        .day-date::after {
-            content: '';
-            flex: 1;
-            height: 1px;
-            background: var(--rule);
+            margin-bottom: 28px;
         }
 
         /* Item */
-        .item { margin-bottom: 36px; }
+        .item { margin-bottom: 32px; }
         .item:last-child { margin-bottom: 0; }
-
-        .item-header {
+        .item-label {
+            font-family: 'Newsreader', serif;
+            font-size: 12px;
+            color: var(--accent);
+            font-weight: 600;
+            margin-bottom: 6px;
             display: flex;
             align-items: center;
-            gap: 10px;
-            margin-bottom: 8px;
+            gap: 6px;
         }
-        .item-source {
-            font-size: 11px;
-            font-weight: 500;
-            color: var(--accent);
-            letter-spacing: 0.3px;
-        }
-        .item-source::before {
+        .item-label::before {
             content: '';
-            display: inline-block;
-            width: 12px;
+            display: block;
+            width: 16px;
             height: 1.5px;
             background: var(--accent);
-            margin-right: 6px;
-            vertical-align: middle;
         }
-        .item-score {
-            margin-left: auto;
-            display: flex;
-            gap: 2px;
-        }
-        .item-score .dot {
-            width: 8px;
-            height: 8px;
-            border-radius: 50%;
-            background: var(--star-off);
-        }
-        .item-score .dot.on {
-            background: var(--star-on);
-        }
-
         .item-title {
             font-family: 'Newsreader', serif;
-            font-size: 21px;
+            font-size: 22px;
             font-weight: 700;
-            line-height: 1.4;
+            line-height: 1.35;
             margin-bottom: 8px;
             letter-spacing: -0.3px;
         }
@@ -124,40 +96,27 @@
             transition: color 0.15s;
         }
         .item-title a:hover { color: var(--accent); }
-
         .item-summary {
             font-size: 15px;
-            font-weight: 300;
             color: var(--muted);
-            line-height: 1.8;
+            line-height: 1.75;
             text-wrap: pretty;
         }
-        .item-footer {
+        .item-meta {
             margin-top: 10px;
             font-size: 12px;
+            color: var(--muted);
         }
-        .item-footer a {
+        .item-meta a {
             color: var(--accent);
             text-decoration: none;
             font-weight: 500;
         }
-        .item-footer a:hover { text-decoration: underline; }
+        .item-meta a:hover { text-decoration: underline; }
 
-        /* Recurring badge */
-        .item-recurring {
-            display: inline-block;
-            font-size: 10px;
-            font-weight: 500;
-            color: var(--accent);
-            background: rgba(180,89,48,0.08);
-            padding: 2px 8px;
-            border-radius: 3px;
-            margin-left: 8px;
-            letter-spacing: 0.3px;
-        }
-
+        /* Footer */
         .colophon {
-            padding: 36px 24px 56px;
+            padding: 32px 24px 48px;
             text-align: center;
             font-size: 11px;
             color: var(--muted);
@@ -165,20 +124,18 @@
         }
 
         @media (max-width: 640px) {
-            .masthead { padding: 48px 20px 32px; }
             .masthead h1 { font-size: 26px; }
-            .item-title { font-size: 18px; }
-            .content { padding: 0 20px; }
+            .item-title { font-size: 19px; }
         }
     </style>
 </head>
 <body>
     <div class="masthead">
         <h1>大聪明硬件每日新鲜事</h1>
-        <p class="tagline">每天五条 · 海外消费硬件热度榜</p>
+        <p class="tagline">每天三条 · 海外消费硬件速递</p>
     </div>
     <main class="content" id="feed"></main>
-    <div class="colophon">Product Hunt · Hacker News · Kickstarter · TechCrunch · Dezeen · Wired · Reddit</div>
+    <div class="colophon">Product Hunt · Hacker News · Kickstarter · TechCrunch · Dezeen · Wired</div>
 
     <script>
     async function loadFeed() {
@@ -191,21 +148,13 @@
             const d = new Date(day.date+'T00:00:00');
             const wk = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
             let html = `<div class="day-date">${day.date} · ${wk}</div>`;
-            day.items.forEach(item => {
-                const dots = Array.from({length: 5}, (_, i) =>
-                    `<span class="dot ${i < item.score ? 'on' : ''}"></span>`
-                ).join('');
-                const recurring = item.recurring ? '<span class="item-recurring">持续热议</span>' : '';
+            day.items.forEach((item, i) => {
                 html += `
                 <article class="item">
-                    <div class="item-header">
-                        <span class="item-source">${item.source}</span>
-                        ${recurring}
-                        <div class="item-score">${dots}</div>
-                    </div>
+                    <div class="item-label">${item.source}</div>
                     <h2 class="item-title"><a href="${item.url}" target="_blank" rel="noopener">${item.title}</a></h2>
                     <p class="item-summary">${item.summary}</p>
-                    <p class="item-footer"><a href="${item.url}" target="_blank" rel="noopener">阅读原文 →</a></p>
+                    <p class="item-meta"><a href="${item.url}" target="_blank" rel="noopener">阅读原文 →</a></p>
                 </article>`;
             });
             section.innerHTML = html;

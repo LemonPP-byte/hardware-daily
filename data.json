@@ -3,25 +3,44 @@
     "date": "2026-07-29",
     "items": [
       {
-        "title": "Ozlo睡眠耳塞2代",
-        "summary": "Ozlo推出Sleepbuds 2，在Bose睡眠耳塞基础上改进，续航更长、连接更稳、音质提升，新增睡眠功能。专为睡眠场景设计的入耳式硬件，海外用户期待已久。",
-        "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-        "source": "TechCrunch",
-        "image": "https://source.unsplash.com/600x400/?Ozlo%20Sleepbuds%202%20sleep%20earbuds"
-      },
-      {
-        "title": "9美元物理锁屏钥匙",
-        "summary": "一款仅9美元的NFC物理钥匙，需扫描才能解锁手机上最易上瘾的App。用实体交互对抗数字成瘾，创意十足，海外社交媒体讨论热烈。",
-        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-        "source": "TechCrunch",
-        "image": "https://source.unsplash.com/600x400/?NFC%20key%20physical%20app%20lock"
-      },
-      {
-        "title": "消除微波炉提示音神器",
-        "summary": "一家两人初创公司推出设备，解决了现代生活中最令人讨厌的“哔哔”声（如微波炉提示音）。小巧实用，精准击中日常痛点，海外网友纷纷求购。",
+        "title": "微波炉静音神器",
+        "summary": "一个两人初创公司开发了一款设备，能消除微波炉完成时刺耳的“哔哔”声，解决现代生活中最令人讨厌的声音之一。产品创意简单直接，直击日常痛点，在Wired上引发大量消费者共鸣和讨论。",
         "url": "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
         "source": "Wired",
-        "image": "https://source.unsplash.com/600x400/?device%20silences%20microwave%20beep"
+        "score": 4,
+        "recurring": true
+      },
+      {
+        "title": "Elide随身熨衣器",
+        "summary": "一款可穿戴的便携去皱设备，利用吸力在穿着时抚平衣物褶皱，无需脱衣或使用熨斗。产品形态极具新意，将个护电器与日常穿搭场景结合，在Dezeen上获得设计圈关注。",
+        "url": "https://www.dezeen.com/2026/07/28/elide-dewrinkler-safaa-fojdar/",
+        "source": "Dezeen",
+        "score": 4,
+        "recurring": false
+      },
+      {
+        "title": "人体冰箱防暑舱",
+        "summary": "日本厂商推出人形不锈钢冰箱，供人在极端热浪中进入降温防暑，形似科幻逃生舱。产品场景极端新颖，虽小众但话题性极强，在Dezeen上引发大量讨论。",
+        "url": "https://www.dezeen.com/2026/07/27/human-refrigerator-sdrs-trusco-nakayama/",
+        "source": "Dezeen",
+        "score": 3,
+        "recurring": false
+      },
+      {
+        "title": "Una可维修GPS手表",
+        "summary": "一款主打可维修性、USB-C充电、对开发者友好的GPS智能手表，挑战Apple Watch等封闭生态。在Hacker News上获得152分和99条评论，极客社区反响热烈。",
+        "url": "https://unawatch.com/",
+        "source": "Hacker News",
+        "score": 3,
+        "recurring": false
+      },
+      {
+        "title": "Flatbike折叠套件",
+        "summary": "一套配件可将普通自行车折叠平放，方便收纳和运输，解决城市骑行和车载痛点。产品形态实用且创新，在Core77上获得设计爱好者关注。",
+        "url": "https://www.core77.com/posts/144867/Flatbikes-Accessories-Let-You-Fold-Your-Bike-Flat-for-Storage",
+        "source": "Core77",
+        "score": 3,
+        "recurring": false
       }
     ]
   },

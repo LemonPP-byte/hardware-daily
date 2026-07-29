@@ -6,36 +6,36 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const RAW_PATH = path.join(__dirname, '..', 'raw-feed.json');
 const DATA_PATH = path.join(__dirname, '..', 'data.json');
 
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-if (!ANTHROPIC_API_KEY) {
-  console.error('❌ 缺少 ANTHROPIC_API_KEY 环境变量');
+const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY;
+if (!DEEPSEEK_API_KEY) {
+  console.error('❌ 缺少 DEEPSEEK_API_KEY 环境变量');
   process.exit(1);
 }
 
 const TODAY = new Date().toISOString().split('T')[0];
 
-async function callClaude(prompt) {
-  const res = await fetch('https://api.anthropic.com/v1/messages', {
+async function callLLM(prompt) {
+  const res = await fetch('https://api.deepseek.com/chat/completions', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'x-api-key': ANTHROPIC_API_KEY,
-      'anthropic-version': '2023-06-01'
+      'Authorization': `Bearer ${DEEPSEEK_API_KEY}`
     },
     body: JSON.stringify({
-      model: 'claude-sonnet-5-20250514',
+      model: 'deepseek-chat',
       max_tokens: 2000,
+      temperature: 0.3,
       messages: [{ role: 'user', content: prompt }]
     })
   });
 
   if (!res.ok) {
     const err = await res.text();
-    throw new Error(`Claude API error ${res.status}: ${err}`);
+    throw new Error(`DeepSeek API error ${res.status}: ${err}`);
   }
 
   const data = await res.json();
-  return data.content[0].text;
+  return data.choices[0].message.content;
 }
 
 async function main() {
@@ -83,7 +83,7 @@ ${itemList}
 
 只返回 JSON 数组，不要其他文字。`;
 
-  const response = await callClaude(prompt);
+  const response = await callLLM(prompt);
 
   // 解析 AI 返回
   let selected;

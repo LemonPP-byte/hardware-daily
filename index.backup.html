@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>图拉斯 · 硬件产品每日新鲜事</title>
+    <title>图拉斯 · 硬件产品新鲜事</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
@@ -11,8 +11,6 @@
             --text: #1c1c1e;
             --muted: #8e8e93;
             --accent: #E8652B;
-            --glass: rgba(255,255,255,0.65);
-            --glass-border: rgba(255,255,255,0.45);
         }
         body {
             font-family: -apple-system, 'SF Pro Display', 'Noto Sans SC', 'Helvetica Neue', sans-serif;
@@ -20,48 +18,6 @@
             color: var(--text);
             line-height: 1.5;
             overflow-x: hidden;
-            position: relative;
-            min-height: 100vh;
-        }
-
-        /* === Animated gradient background === */
-        .bg-gradient {
-            position: fixed;
-            inset: 0;
-            z-index: 0;
-            overflow: hidden;
-            pointer-events: none;
-        }
-        .bg-gradient .orb {
-            position: absolute;
-            border-radius: 50%;
-            filter: blur(80px);
-            opacity: 0.4;
-            animation: float 20s ease-in-out infinite;
-        }
-        .bg-gradient .orb-1 {
-            width: 600px; height: 600px;
-            background: radial-gradient(circle, #ffb088 0%, #ff7043 40%, transparent 70%);
-            top: -10%; left: -10%;
-            animation-delay: 0s;
-        }
-        .bg-gradient .orb-2 {
-            width: 500px; height: 500px;
-            background: radial-gradient(circle, #ffccbc 0%, #E8652B 50%, transparent 70%);
-            bottom: 10%; right: -5%;
-            animation-delay: -7s;
-        }
-        .bg-gradient .orb-3 {
-            width: 400px; height: 400px;
-            background: radial-gradient(circle, #ffe0cc 0%, #ff9a6c 40%, transparent 70%);
-            top: 40%; left: 30%;
-            animation-delay: -14s;
-        }
-        @keyframes float {
-            0%, 100% { transform: translate(0, 0) scale(1); }
-            25% { transform: translate(30px, -40px) scale(1.05); }
-            50% { transform: translate(-20px, 20px) scale(0.95); }
-            75% { transform: translate(40px, 30px) scale(1.02); }
         }
 
         /* === Top bar === */
@@ -74,7 +30,7 @@
             align-items: center;
             justify-content: space-between;
             padding: 0 28px;
-            background: rgba(255,255,255,0.8);
+            background: rgba(255,255,255,0.75);
             backdrop-filter: blur(20px);
             -webkit-backdrop-filter: blur(20px);
             border-bottom: 1px solid rgba(0,0,0,0.04);
@@ -85,15 +41,9 @@
         .top-bar-left span { font-size: 13px; font-weight: 600; }
         .top-bar-right { font-size: 11px; color: var(--muted); }
 
-        /* === Content wrapper === */
-        .content-wrap {
-            position: relative;
-            z-index: 1;
-        }
-
         /* === Hero === */
         .hero {
-            padding: 64px 32px 24px;
+            padding: 64px 32px 32px;
             text-align: center;
         }
         .hero-title {
@@ -104,31 +54,21 @@
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
-            margin-bottom: 8px;
+            margin-bottom: 6px;
         }
         .hero-sub {
-            font-size: 13px;
-            color: var(--text);
-            opacity: 0.2;
-        }
-        .hero-note {
-            font-size: 11px;
-            color: var(--text);
-            opacity: 0.2;
-            margin-top: 4px;
+            font-size: 14px;
+            color: var(--muted);
+            font-weight: 400;
         }
 
         /* === Main === */
         main { padding: 16px 28px 48px; }
-        .day { margin-bottom: 40px; }
+        .day { margin-bottom: 32px; }
         .day-date {
             font-size: 12px; font-weight: 600;
             color: var(--muted); margin-bottom: 16px;
         }
-
-        /* Past days fade */
-        .day.past .tier-header { opacity: 0.7; }
-        .day.past .card { opacity: 0.75; }
 
         /* === 4-col tier grid === */
         .tier-grid {
@@ -136,28 +76,41 @@
             grid-template-columns: repeat(4, 1fr);
             gap: 18px;
         }
-        .tier-col { display: flex; flex-direction: column; gap: 12px; }
 
-        /* === Tier header === */
+        /* === Tier column === */
+        .tier-col { display: flex; flex-direction: column; gap: 14px; }
+
+        /* === Tier header blob (Toss-style gradient pill) === */
         .tier-header {
             border-radius: 18px;
-            padding: 20px 20px 16px;
+            padding: 18px 20px;
             position: relative;
             overflow: hidden;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+        }
+        .tier-header::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            border-radius: 18px;
+            opacity: 0.9;
         }
         .tier-header h2 {
-            font-size: 22px;
-            font-weight: 900;
+            position: relative;
+            z-index: 1;
+            font-size: 18px;
+            font-weight: 800;
             color: #fff;
             text-shadow: 0 1px 8px rgba(0,0,0,0.15);
         }
         .tier-header p {
-            font-size: 11px;
-            color: rgba(255,255,255,0.5);
+            position: relative; z-index: 1;
+            font-size: 11px; color: rgba(255,255,255,0.8);
             margin-top: 4px;
         }
 
-        /* Tier gradients - deep top-left, lighter bottom-right */
+        /* Tier colors - deep top-left, light bottom-right */
         .tier-col:nth-child(1) .tier-header {
             background: linear-gradient(135deg, #2e7d32 0%, #43a047 30%, #a5d6a7 70%, #c8e6c9 100%);
         }
@@ -173,10 +126,10 @@
 
         /* === Glass Card === */
         .card {
-            background: var(--glass);
+            background: rgba(245,245,247,0.7);
             backdrop-filter: blur(16px);
             -webkit-backdrop-filter: blur(16px);
-            border: 1px solid var(--glass-border);
+            border: 1px solid rgba(0,0,0,0.05);
             border-radius: 16px;
             overflow: hidden;
             transition: transform 0.2s, box-shadow 0.2s;
@@ -198,9 +151,14 @@
         }
         .card-body { padding: 12px 14px 14px; }
         .card-brief {
-            font-size: 13px; color: #333; line-height: 1.7;
+            font-size: 13px;
+            color: #333;
+            line-height: 1.7;
         }
-        .card-brief strong { font-weight: 700; color: var(--text); }
+        .card-brief strong {
+            font-weight: 700;
+            color: var(--text);
+        }
         .card-footer {
             margin-top: 8px;
             display: flex; align-items: center; justify-content: space-between;
@@ -226,38 +184,28 @@
         }
         @media (max-width: 640px) {
             .tier-grid { grid-template-columns: 1fr; }
-            .hero { padding: 56px 20px 20px; }
+            .hero { padding: 56px 20px 24px; }
         }
     </style>
 </head>
 <body>
-    <!-- Animated background orbs -->
-    <div class="bg-gradient">
-        <div class="orb orb-1"></div>
-        <div class="orb orb-2"></div>
-        <div class="orb orb-3"></div>
+    <div class="top-bar">
+        <div class="top-bar-left">
+            <svg width="24" height="24" viewBox="0 0 36 36" fill="none">
+                <rect width="36" height="36" rx="8" fill="#E8652B"/>
+                <path d="M20.5 8L13 19.5H17.5L15.5 28L23 16.5H18.5L20.5 8Z" fill="white"/>
+            </svg>
+            <span>图拉斯 · 硬件产品新鲜事</span>
+        </div>
+        <div class="top-bar-right" id="meta"></div>
     </div>
 
-    <div class="content-wrap">
-        <div class="top-bar">
-            <div class="top-bar-left">
-                <svg width="24" height="24" viewBox="0 0 36 36" fill="none">
-                    <rect width="36" height="36" rx="8" fill="#E8652B"/>
-                    <path d="M20.5 8L13 19.5H17.5L15.5 28L23 16.5H18.5L20.5 8Z" fill="white"/>
-                </svg>
-                <span>图拉斯 · 硬件产品每日新鲜事</span>
-            </div>
-            <div class="top-bar-right" id="meta"></div>
-        </div>
-
-        <div class="hero">
-            <div class="hero-title">图拉斯 · 硬件产品每日新鲜事</div>
-            <p class="hero-sub">每日 8 条海外消费硬件速递 · 自动更新</p>
-            <p class="hero-note">本站用于产品中心资讯获取渠道，如有建议欢迎跟炅昊沟通</p>
-        </div>
-
-        <main id="feed"></main>
+    <div class="hero">
+        <div class="hero-title">图拉斯 · 硬件产品新鲜事</div>
+        <p class="hero-sub">每日 8 条海外消费硬件速递 · 自动更新</p>
     </div>
+
+    <main id="feed"></main>
 
     <script>
     const tierMeta = {
@@ -275,9 +223,9 @@
             const meta = document.getElementById('meta');
             if (days.length > 0) meta.textContent = `更新于 ${days[0].date}`;
 
-            days.forEach((day, dayIndex) => {
+            days.forEach(day => {
                 const section = document.createElement('section');
-                section.className = dayIndex === 0 ? 'day' : 'day past';
+                section.className = 'day';
                 const d = new Date(day.date + 'T00:00:00');
                 const wk = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
 
@@ -322,6 +270,8 @@
         const imgHtml = item.image
             ? `<img class="card-img" src="${item.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
             : `<div class="card-img-placeholder">${item.source}</div>`;
+
+        // Render brief: convert **text** to <strong>text</strong>
         const brief = (item.brief || item.title || '')
             .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
 

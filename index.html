@@ -153,7 +153,7 @@
     <script>
     async function loadFeed() {
         try {
-            const res = await fetch('./data.json');
+            const res = await fetch('./data.json?_=' + Date.now());
             const days = await res.json();
             const feed = document.getElementById('feed');
             const meta = document.getElementById('meta');

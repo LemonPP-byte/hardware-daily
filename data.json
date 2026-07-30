@@ -1,5 +1,91 @@
 [
   {
+    "date": "2026-07-30",
+    "items": [
+      {
+        "brief": "**Ozlo Sleepbuds 2** 是 Bose 睡眠耳塞的精神续作，续航翻倍且支持自定义白噪音混搭，海外失眠社区反响热烈。",
+        "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Case-Product-Hero.jpg?resize=1200,800"
+      },
+      {
+        "brief": "Apple 2026 款 **AirPods** 迎来最高 $100 折扣，新品在降噪和空间音频上持续迭代，是 MagSafe 生态核心配件。",
+        "url": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://media.wired.com/photos/6a6a501f4a743f1551e95445/191:100/w_1280,c_limit/If-You%E2%80%99ve-Been-Waiting-to-Upgrade-Your-AirPods,-This-Is-Your-Chance.jpg"
+      },
+      {
+        "brief": "Dyson 2026 年 **吸尘器** 全系对比评测，新款在续航和吸力上均有突破，是高端家居清洁硬件的风向标。",
+        "url": "https://www.wired.com/story/dyson-vacuum-comparison-2026/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://media.wired.com/photos/6a69252ebd14a916c83ccf41/191:100/w_1280,c_limit/Which-of-Dyson%E2%80%99s-2026-Stick-Vacuums-Is-Worth-the-Upgrade-.jpg"
+      },
+      {
+        "brief": "OpenAI 总裁确认正在打造 **AI 硬件设备家族**，将深度集成 ChatGPT，可能重新定义 AI 交互终端形态。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+        "source": "The Verge",
+        "score": 5,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Light Phone** 创始人谈反智能手机设计哲学，极简功能机在屏幕成瘾时代引发强烈共鸣，讨论热度极高。",
+        "url": "https://techcrunch.com/podcast/if-this-isnt-addiction-i-dont-know-what-is-lights-founders-get-real-about-screen-time/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Light-founders.jpeg?resize=1200,960"
+      },
+      {
+        "brief": "Keychron 发布首款 **开源固件游戏鼠标**，支持完全自定义按键和宏，硬件极客社区讨论热烈。",
+        "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+        "source": "Hacker News",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://images.digitalfoundry.net/fd99c70884c44/large.jpg"
+      },
+      {
+        "brief": "Unitree 推出 **越野机器狗**，兼具负重运输与复杂地形适应能力，消费级四足机器人新标杆。",
+        "url": "https://www.core77.com/posts/144886/Unitrees-Impressive-Off-Road-Dog-BotPack-Mule",
+        "source": "Core77",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://s3files.core77.com/blog/images/1843426_81_144886_DbZzbVoiz.jpg"
+      },
+      {
+        "brief": "**Elide 便携除皱器** 利用吸力在穿着时抚平衣物褶皱，解决差旅痛点，设计巧妙且实用。",
+        "url": "https://www.dezeen.com/2026/07/28/elide-dewrinkler-safaa-fojdar/",
+        "source": "Dezeen",
+        "score": 3,
+        "recurring": false,
+        "tier": "野生灵感",
+        "image": "http://static.dezeen.com/uploads/2026/07/sq-elide-safaa-fojdar_dezeen_2364_col_0-411x411.jpg"
+      },
+      {
+        "brief": "**自动升降车顶行李架** 通过电动臂解决装卸重物难题，中国厂商量产，户外自驾场景刚需。",
+        "url": "https://www.core77.com/posts/144891/Roof-Racks-That-Automatically-Lift-and-Lower-the-Load-For-You",
+        "source": "Core77",
+        "score": 3,
+        "recurring": false,
+        "tier": "野生灵感",
+        "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1843472_lead_400_144891_.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-07-29",
     "items": [
       {

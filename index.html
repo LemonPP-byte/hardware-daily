@@ -84,12 +84,12 @@
             border-top: 1px solid rgba(0,0,0,0.04);
         }
 
-        /* === 4-col layout: headline left + 3 tiers right === */
+        /* === 3-col layout: headline left (tall) + 2 tiers right === */
         .day-grid {
             display: grid;
-            grid-template-columns: 1.3fr 1fr 1fr 1fr;
+            grid-template-columns: 1.4fr 1fr 1fr;
             gap: 16px;
-            align-items: start;
+            align-items: stretch;
         }
         /* === Headline column (left) === */
         .headline-col {
@@ -101,23 +101,25 @@
             border-radius: 16px; overflow: hidden;
             box-shadow: 0 2px 12px rgba(0,0,0,0.06);
             transition: transform 0.2s, box-shadow 0.2s;
+            display: flex; flex-direction: column;
+            height: 100%;
         }
         .headline-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.1); }
-        .headline-card a { text-decoration: none; color: inherit; display: block; }
-        .headline-card-img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
+        .headline-card a { text-decoration: none; color: inherit; display: flex; flex-direction: column; height: 100%; }
+        .headline-card-img { width: 100%; flex: 1; min-height: 220px; object-fit: cover; display: block; }
         .headline-card-img-placeholder {
-            width: 100%; aspect-ratio: 16/9;
+            width: 100%; flex: 1; min-height: 220px;
             background: linear-gradient(135deg, #fff5f0, #fee);
             display: flex; align-items: center; justify-content: center;
-            font-size: 13px; color: var(--accent); font-weight: 600;
+            font-size: 15px; color: var(--accent); font-weight: 600;
         }
-        .headline-card-body { padding: 16px 18px 18px; }
+        .headline-card-body { padding: 20px 22px 22px; }
         .headline-card-label {
-            font-size: 10px; font-weight: 700; color: var(--accent);
-            letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 6px;
+            font-size: 13px; font-weight: 800; color: var(--accent);
+            letter-spacing: 0.5px; margin-bottom: 10px;
         }
         .headline-card-brief {
-            font-size: 15px; font-weight: 500; color: var(--accent); line-height: 1.7;
+            font-size: 17px; font-weight: 500; color: var(--accent); line-height: 1.8;
         }
         .headline-card-brief strong { font-weight: 700; color: var(--text); }
         .headline-card-meta {
@@ -137,20 +139,19 @@
         /* === Tier columns === */
         .tier-col { display: flex; flex-direction: column; gap: 12px; }
         .tier-header {
-            border-radius: 14px; padding: 14px 16px;
+            border-radius: 14px; padding: 16px 18px;
             overflow: hidden;
-            display: flex; flex-direction: column; gap: 2px;
+            display: flex; flex-direction: column; gap: 3px;
         }
         .tier-header h2 {
-            font-size: 16px; font-weight: 900; color: #fff;
+            font-size: 20px; font-weight: 900; color: #fff;
             text-shadow: 0 1px 6px rgba(0,0,0,0.12);
         }
         .tier-header p {
-            font-size: 10px; color: rgba(255,255,255,0.6);
+            font-size: 11px; color: rgba(255,255,255,0.65);
         }
         .tier-col:nth-child(1) .tier-header { background: linear-gradient(135deg, #2e7d32 0%, #43a047 30%, #a5d6a7 70%, #c8e6c9 100%); }
         .tier-col:nth-child(2) .tier-header { background: linear-gradient(135deg, #0d47a1 0%, #1e88e5 30%, #90caf9 70%, #bbdefb 100%); }
-        .tier-col:nth-child(3) .tier-header { background: linear-gradient(135deg, #e65100 0%, #fb8c00 30%, #ffcc80 70%, #ffe0b2 100%); }
 
         /* Glass card */
         .card {
@@ -187,8 +188,11 @@
             font-size: 10px; color: #666; line-height: 1.4;
         }
         .card-angle strong { font-weight: 600; color: #444; }
-        @media (max-width: 1200px) {
+        @media (max-width: 1000px) {
             .day-grid { grid-template-columns: 1fr 1fr; }
+            .headline-col { grid-column: 1 / -1; }
+            .headline-card { height: auto; }
+            .headline-card-img { min-height: 180px; flex: none; aspect-ratio: 16/9; }
             main { padding: 52px 16px 40px; }
         }
         @media (max-width: 640px) {
@@ -220,9 +224,8 @@
 
     <script>
     const tierMeta = {
-        '成熟品牌': '已验证品牌动态',
-        'AI 硬件': 'AI消费级硬件',
-        '新锐产品': '高潜力新品'
+        '成熟品牌': '头部品牌动态',
+        'AI 硬件': 'AI·3C·充电新品'
     };
     // Smart reading-angle analysis based on content
     function getAngle(item) {
@@ -257,13 +260,12 @@
                 const d = new Date(day.date + 'T00:00:00');
                 const wk = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
 
-                // Merge 野生灵感 into 新锐产品
-                const tiers = { '成熟品牌': [], 'AI 硬件': [], '新锐产品': [] };
+                // Only 2 tiers: 成熟品牌 and AI 硬件 (merge others into AI 硬件)
+                const tiers = { '成熟品牌': [], 'AI 硬件': [] };
                 regularItems.forEach(item => {
-                    const t = item.tier || '新锐产品';
-                    if (t === '野生灵感') tiers['新锐产品'].push(item);
-                    else if (tiers[t]) tiers[t].push(item);
-                    else tiers['新锐产品'].push(item);
+                    const t = item.tier || 'AI 硬件';
+                    if (t === '成熟品牌') tiers['成熟品牌'].push(item);
+                    else tiers['AI 硬件'].push(item);
                 });
 
                 let html = '<div class="day-grid">';
@@ -275,8 +277,8 @@
                 }
                 html += '</div>';
 
-                // Right 3 columns
-                const tierNames = ['成熟品牌', 'AI 硬件', '新锐产品'];
+                // Right 2 columns
+                const tierNames = ['成熟品牌', 'AI 硬件'];
                 tierNames.forEach(tierName => {
                     const items = tiers[tierName] || [];
                     html += `<div class="tier-col">`;

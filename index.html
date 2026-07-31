@@ -23,7 +23,7 @@
             position: relative;
         }
 
-        /* === Orange bg with flowing white orbs === */
+        /* === Subtle bg orbs === */
         .bg-layer {
             position: fixed; inset: 0; z-index: 0;
             overflow: hidden; pointer-events: none;
@@ -32,7 +32,7 @@
         .bg-layer .orb {
             position: absolute; border-radius: 50%;
             filter: blur(100px);
-            background: rgba(236,105,48,0.08);
+            background: rgba(236,105,48,0.06);
             animation: drift 30s ease-in-out infinite;
         }
         .bg-layer .orb-1 { width: 700px; height: 700px; top: -15%; left: -10%; animation-duration: 25s; }
@@ -65,62 +65,8 @@
         .top-bar-left span { font-size: 13px; font-weight: 600; color: var(--text); }
         .top-bar-right { font-size: 11px; color: var(--muted); }
 
-        /* === Hero === */
-        .hero { padding: 52px 32px 4px; text-align: center; }
-        .hero-title {
-            font-size: clamp(15px, 1.8vw, 18px);
-            font-weight: 600; letter-spacing: -0.3px;
-            color: var(--text);
-            margin-bottom: 2px;
-        }
-        .hero-sub { font-size: 11px; color: var(--muted); }
-        .hero-note { font-size: 10px; color: var(--text); opacity: 0.2; margin-top: 2px; }
-
-        /* === Hero Banner (每日头条) === */
-        .hero-banner {
-            max-width: 1200px; margin: 6px auto 0;
-            border-radius: 12px; overflow: hidden;
-            background: #fff;
-            border: 1px solid rgba(0,0,0,0.06);
-            display: flex; align-items: stretch;
-            height: 72px;
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-        .hero-banner:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 4px 16px rgba(0,0,0,0.06);
-            border-color: rgba(0,0,0,0.1);
-        }
-        .hero-banner a { text-decoration: none; color: inherit; display: flex; width: 100%; }
-        .hero-banner-img {
-            width: 110px; height: 72px; object-fit: cover; object-position: center; display: block; flex-shrink: 0;
-            border-radius: 0;
-        }
-        .hero-banner-img-placeholder {
-            width: 110px; height: 72px; flex-shrink: 0;
-            background: rgba(0,0,0,0.03);
-            display: flex; align-items: center; justify-content: center;
-            font-size: 10px; color: rgba(0,0,0,0.2);
-        }
-        .hero-banner-body {
-            flex: 1; padding: 12px 20px; display: flex;
-            flex-direction: column; justify-content: center;
-        }
-        .hero-banner-label {
-            font-size: 10px; font-weight: 700; color: var(--accent);
-            letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 4px;
-        }
-        .hero-banner-brief {
-            font-size: 14px; font-weight: 500; color: var(--text); line-height: 1.5;
-            display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
-        }
-        .hero-banner-brief strong { font-weight: 700; color: var(--text); }
-        .hero-banner-meta {
-            margin-top: 4px; font-size: 10px; color: var(--muted);
-        }
-
         /* === Main === */
-        main { padding: 24px 28px 48px; max-width: 1300px; margin: 0 auto; }
+        main { padding: 56px 28px 48px; max-width: 1300px; margin: 0 auto; }
 
         /* === Day container === */
         .day {
@@ -138,20 +84,65 @@
             border-top: 1px solid rgba(0,0,0,0.04);
         }
 
-        /* === 4-col tier grid === */
-        .tier-grid {
-            display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;
+        /* === 4-col layout: headline left + 3 tiers right === */
+        .day-grid {
+            display: grid;
+            grid-template-columns: 1.3fr 1fr 1fr 1fr;
+            gap: 16px;
+            align-items: start;
         }
+        /* === Headline column (left) === */
+        .headline-col {
+            display: flex; flex-direction: column; gap: 0;
+        }
+        .headline-card {
+            background: #fff;
+            border: 1px solid rgba(0,0,0,0.06);
+            border-radius: 16px; overflow: hidden;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .headline-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.1); }
+        .headline-card a { text-decoration: none; color: inherit; display: block; }
+        .headline-card-img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
+        .headline-card-img-placeholder {
+            width: 100%; aspect-ratio: 16/9;
+            background: linear-gradient(135deg, #fff5f0, #fee);
+            display: flex; align-items: center; justify-content: center;
+            font-size: 13px; color: var(--accent); font-weight: 600;
+        }
+        .headline-card-body { padding: 16px 18px 18px; }
+        .headline-card-label {
+            font-size: 10px; font-weight: 700; color: var(--accent);
+            letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 6px;
+        }
+        .headline-card-brief {
+            font-size: 15px; font-weight: 500; color: var(--accent); line-height: 1.7;
+        }
+        .headline-card-brief strong { font-weight: 700; color: var(--text); }
+        .headline-card-meta {
+            margin-top: 10px; font-size: 10px; color: var(--muted);
+            display: flex; align-items: center; gap: 8px;
+        }
+        .headline-card-score { display: flex; gap: 3px; }
+        .headline-card-score .dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(0,0,0,0.08); }
+        .headline-card-score .dot.on { background: var(--accent); }
+        .headline-card-angle {
+            margin-top: 12px; padding: 6px 10px;
+            background: rgba(232,101,43,0.05);
+            border-radius: 6px; border: 1px solid rgba(232,101,43,0.1);
+            font-size: 10px; color: #666; line-height: 1.4;
+        }
+        .headline-card-angle strong { font-weight: 600; color: var(--accent); }
+        /* === Tier columns === */
         .tier-col { display: flex; flex-direction: column; gap: 12px; }
-
-        /* Tier header */
         .tier-header {
             border-radius: 14px; padding: 14px 16px;
             overflow: hidden;
             display: flex; flex-direction: column; gap: 2px;
         }
         .tier-header h2 {
-            font-size: 18px; font-weight: 900; color: #fff;
+            font-size: 16px; font-weight: 900; color: #fff;
             text-shadow: 0 1px 6px rgba(0,0,0,0.12);
         }
         .tier-header p {
@@ -160,7 +151,6 @@
         .tier-col:nth-child(1) .tier-header { background: linear-gradient(135deg, #2e7d32 0%, #43a047 30%, #a5d6a7 70%, #c8e6c9 100%); }
         .tier-col:nth-child(2) .tier-header { background: linear-gradient(135deg, #0d47a1 0%, #1e88e5 30%, #90caf9 70%, #bbdefb 100%); }
         .tier-col:nth-child(3) .tier-header { background: linear-gradient(135deg, #e65100 0%, #fb8c00 30%, #ffcc80 70%, #ffe0b2 100%); }
-        .tier-col:nth-child(4) .tier-header { background: linear-gradient(135deg, #4a148c 0%, #8e24aa 30%, #ce93d8 70%, #e1bee7 100%); }
 
         /* Glass card */
         .card {
@@ -197,16 +187,12 @@
             font-size: 10px; color: #666; line-height: 1.4;
         }
         .card-angle strong { font-weight: 600; color: #444; }
-
         @media (max-width: 1200px) {
-            .tier-grid { grid-template-columns: 1fr 1fr; }
-            main { padding: 20px 16px 40px; }
-            .hero-banner { flex-direction: column; height: auto; margin: 8px 16px 0; }
-            .hero-banner-img, .hero-banner-img-placeholder { width: 100%; height: 120px; }
+            .day-grid { grid-template-columns: 1fr 1fr; }
+            main { padding: 52px 16px 40px; }
         }
         @media (max-width: 640px) {
-            .tier-grid { grid-template-columns: 1fr; }
-            .hero { padding: 52px 20px 6px; }
+            .day-grid { grid-template-columns: 1fr; }
         }
     </style>
 </head>
@@ -229,12 +215,6 @@
             <div class="top-bar-right" id="meta"></div>
         </div>
 
-        <div class="hero">
-            <div class="hero-title">科技资讯 — 每日硬件新品速递</div>
-            <p class="hero-sub">海外消费硬件 · 自动更新</p>
-        </div>
-
-        <div id="hero-banner-container"></div>
         <main id="feed"></main>
     </div>
 
@@ -242,9 +222,23 @@
     const tierMeta = {
         '成熟品牌': '已验证品牌动态',
         'AI 硬件': 'AI消费级硬件',
-        '新锐产品': '高潜力新品',
-        '野生灵感': '跨界创新'
+        '新锐产品': '高潜力新品'
     };
+    // Smart reading-angle analysis based on content
+    function getAngle(item) {
+        const text = (item.brief || item.title || '').toLowerCase();
+        if (/折扣|优惠|降价|促销|deal|sale|半价|立减/.test(text)) return '价格敏感度';
+        if (/设计|美学|工业风|极简|形态|外观|材质|透明/.test(text)) return '设计差异化';
+        if (/模块|维修|开源|开发者|diy|改装/.test(text)) return '可玩性与自由度';
+        if (/ai|智能|机器人|大模型|chatgpt|gemini/.test(text)) return 'AI 场景落地';
+        if (/生态|配件|magsafe|充电|兼容/.test(text)) return '生态协同';
+        if (/痛点|解决|场景|便携|差旅/.test(text)) return '场景痛点';
+        if (/社区|讨论|热议|争议|评论/.test(text)) return '社区声量';
+        if (/续航|性能|吸力|独显/.test(text)) return '核心参数突破';
+        if (/众筹|新品|首款|首发/.test(text)) return '品类开创性';
+        if (/创意|跨界|概念|实验/.test(text)) return '概念验证';
+        return '产品力分析';
+    }
 
     async function loadFeed() {
         try {
@@ -252,48 +246,37 @@
             const days = await res.json();
             const feed = document.getElementById('feed');
             const meta = document.getElementById('meta');
-            const heroCtn = document.getElementById('hero-banner-container');
             if (days.length > 0) meta.textContent = `更新于 ${days[0].date}`;
 
             days.forEach((day, dayIndex) => {
-                // Extract hero item
                 const heroItem = day.items.find(i => i.tier === '每日头条');
                 const regularItems = day.items.filter(i => i.tier !== '每日头条');
 
-                // Render hero banner (only for today)
-                if (dayIndex === 0 && heroItem) {
-                    const heroBrief = (heroItem.brief || '').replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
-                    const heroImg = heroItem.image
-                        ? `<img class="hero-banner-img" src="${heroItem.image}" alt="" onerror="this.style.display='none'">`
-                        : `<div class="hero-banner-img-placeholder">TODAY'S PICK</div>`;
-                    heroCtn.innerHTML = `
-                    <div class="hero-banner">
-                        <a href="${heroItem.url}" target="_blank" rel="noopener">
-                            ${heroImg}
-                            <div class="hero-banner-body">
-                                <div class="hero-banner-label">⚡ 每日头条</div>
-                                <p class="hero-banner-brief">${heroBrief}</p>
-                                <p class="hero-banner-meta">${heroItem.source} · 评分 ${'●'.repeat(heroItem.score||3)}${'○'.repeat(5-(heroItem.score||3))}</p>
-                            </div>
-                        </a>
-                    </div>`;
-                }
-
-                // Day section
                 const section = document.createElement('section');
                 section.className = dayIndex === 0 ? 'day' : 'day past';
                 const d = new Date(day.date + 'T00:00:00');
                 const wk = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
 
-                const tiers = { '成熟品牌': [], 'AI 硬件': [], '新锐产品': [], '野生灵感': [] };
+                // Merge 野生灵感 into 新锐产品
+                const tiers = { '成熟品牌': [], 'AI 硬件': [], '新锐产品': [] };
                 regularItems.forEach(item => {
                     const t = item.tier || '新锐产品';
-                    if (tiers[t]) tiers[t].push(item);
+                    if (t === '野生灵感') tiers['新锐产品'].push(item);
+                    else if (tiers[t]) tiers[t].push(item);
                     else tiers['新锐产品'].push(item);
                 });
 
-                let html = '<div class="tier-grid">';
-                const tierNames = ['成熟品牌', 'AI 硬件', '新锐产品', '野生灵感'];
+                let html = '<div class="day-grid">';
+
+                // Left column: headline
+                html += '<div class="headline-col">';
+                if (heroItem) {
+                    html += renderHeadline(heroItem);
+                }
+                html += '</div>';
+
+                // Right 3 columns
+                const tierNames = ['成熟品牌', 'AI 硬件', '新锐产品'];
                 tierNames.forEach(tierName => {
                     const items = tiers[tierName] || [];
                     html += `<div class="tier-col">`;
@@ -302,22 +285,26 @@
                     if (items.length === 0) html += '<p style="font-size:11px;color:#ccc;padding:12px;text-align:center">暂无</p>';
                     html += '</div>';
                 });
+
                 html += '</div>';
                 html += `<div class="day-date">${day.date} · ${wk}</div>`;
                 section.innerHTML = html;
                 feed.appendChild(section);
             });
         } catch (err) {
-            document.getElementById('feed').innerHTML = '<p style="color:rgba(255,255,255,0.6);padding:60px;text-align:center">加载失败，请刷新</p>';
+            document.getElementById('feed').innerHTML = '<p style="color:#999;padding:60px;text-align:center">加载失败，请刷新</p>';
         }
     }
-
-    const tierAngles = {
-        '成熟品牌': '设计美学',
-        'AI 硬件': '智能陪伴',
-        '新锐产品': '体验创新',
-        '野生灵感': '跨界思维'
-    };
+    function renderHeadline(item) {
+        const score = item.score || 3;
+        const dots = Array.from({length:5},(_,i)=>`<span class="dot ${i<score?'on':''}"></span>`).join('');
+        const imgHtml = item.image
+            ? `<img class="headline-card-img" src="${item.image}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=headline-card-img-placeholder>TODAY\\'S PICK</div>'">`
+            : `<div class="headline-card-img-placeholder">TODAY'S PICK</div>`;
+        const brief = (item.brief||item.title||'').replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
+        const angle = getAngle(item);
+        return `<article class="headline-card"><a href="${item.url}" target="_blank" rel="noopener">${imgHtml}<div class="headline-card-body"><div class="headline-card-label">⚡ 每日头条</div><p class="headline-card-brief">${brief}</p><div class="headline-card-angle"><strong>切入点：</strong>${angle}</div><div class="headline-card-meta"><span>${item.source}</span><div class="headline-card-score">${dots}</div></div></div></a></article>`;
+    }
 
     function renderCard(item) {
         const score = item.score || 3;
@@ -327,8 +314,7 @@
             ? `<img class="card-img" src="${item.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
             : `<div class="card-img-placeholder">${item.source}</div>`;
         const brief = (item.brief||item.title||'').replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
-        const tier = item.tier || '新锐产品';
-        const angle = tierAngles[tier] || '体验创新';
+        const angle = getAngle(item);
         return `<article class="card"><a href="${item.url}" target="_blank" rel="noopener"><div class="card-img-wrap">${imgHtml}${badge}</div><div class="card-body"><p class="card-brief">${brief}</p><div class="card-angle"><strong>切入点：</strong>${angle}</div><div class="card-footer"><span class="card-source">${item.source}</span><div class="card-score">${dots}</div></div></div></a></article>`;
     }
 

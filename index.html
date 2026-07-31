@@ -95,6 +95,19 @@
         .headline-col {
             display: flex; flex-direction: column; gap: 0;
         }
+        .headline-col-header {
+            border-radius: 14px; padding: 16px 20px;
+            margin-bottom: 12px;
+            background: linear-gradient(135deg, #E8652B 0%, #f4845f 40%, #ffd6c4 100%);
+            display: flex; flex-direction: column; gap: 2px;
+        }
+        .headline-col-header h2 {
+            font-size: 22px; font-weight: 900; color: #fff;
+            text-shadow: 0 1px 6px rgba(0,0,0,0.15);
+        }
+        .headline-col-header p {
+            font-size: 11px; color: rgba(255,255,255,0.7);
+        }
         .headline-card {
             background: #fff;
             border: 1px solid rgba(0,0,0,0.06);
@@ -113,11 +126,7 @@
             display: flex; align-items: center; justify-content: center;
             font-size: 15px; color: var(--accent); font-weight: 600;
         }
-        .headline-card-body { padding: 20px 22px 22px; }
-        .headline-card-label {
-            font-size: 13px; font-weight: 800; color: var(--accent);
-            letter-spacing: 0.5px; margin-bottom: 10px;
-        }
+        .headline-card-body { padding: 18px 20px 20px; }
         .headline-card-brief {
             font-size: 17px; font-weight: 500; color: var(--accent); line-height: 1.8;
         }
@@ -275,6 +284,7 @@
 
                 // Left column: headline
                 html += '<div class="headline-col">';
+                html += '<div class="headline-col-header"><h2>每日头条</h2><p>今日最值得关注</p></div>';
                 if (heroItem) {
                     html += renderHeadline(heroItem);
                 }
@@ -308,7 +318,7 @@
             : `<div class="headline-card-img-placeholder">TODAY'S PICK</div>`;
         const brief = (item.brief||item.title||'').replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
         const angle = getAngle(item);
-        return `<article class="headline-card"><a href="${item.url}" target="_blank" rel="noopener">${imgHtml}<div class="headline-card-body"><div class="headline-card-label">⚡ 每日头条</div><p class="headline-card-brief">${brief}</p><div class="headline-card-angle"><strong>切入点：</strong>${angle}</div><div class="headline-card-meta"><span>${item.source}</span><div class="headline-card-score">${dots}</div></div></div></a></article>`;
+        return `<article class="headline-card"><a href="${item.url}" target="_blank" rel="noopener">${imgHtml}<div class="headline-card-body"><p class="headline-card-brief">${brief}</p><div class="headline-card-angle"><strong>切入点：</strong>${angle}</div><div class="headline-card-meta"><span>${item.source}</span><div class="headline-card-score">${dots}</div></div></div></a></article>`;
     }
 
     function renderCard(item) {

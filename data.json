@@ -1,5 +1,91 @@
 [
   {
+    "date": "2026-07-31",
+    "items": [
+      {
+        "brief": "**Huawei MateBook Pro S** 重量仅798g，采用三摄像头设计，极致轻薄与独特影像形态结合，在高端笔记本市场引发强烈购买欲。",
+        "url": "https://www.reddit.com/r/hardware/comments/1varibz/huawei_previews_matebook_pro_s_laptop_weighs_798g/",
+        "source": "Reddit",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": ""
+      },
+      {
+        "brief": "**Samsung Galaxy Watch 9** 预购优惠价立减40美元，附赠超50美元赠品，作为成熟品牌新品在智能穿戴市场保持强吸引力。",
+        "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-galaxy-watch-9-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Lenovo Yoga 9n** 是全球首款搭载NVIDIA RTX Spark的变形本，二合一形态+独显性能，为移动创作和轻度游戏带来新选择。",
+        "url": "https://www.reddit.com/r/hardware/comments/1van1dh/exclusive_this_is_the_first_nvidia_rtx/",
+        "source": "Reddit",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": ""
+      },
+      {
+        "brief": "**Friend 2 AI Pendant** 新增双向对话功能，作为可穿戴AI伴侣迭代升级，但不可更改性格设定引发争议，社区讨论热烈。",
+        "url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+        "source": "Wired",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6a6a649d6a06c49f95fa2cca/191:100/w_1280,c_limit/CAR.jpg"
+      },
+      {
+        "brief": "**Google Gemini Robotics 2** 可控制机器人全身动作，将AI大模型落地实体硬件，推动消费级人形机器人场景加速。",
+        "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Modhaus 混凝土底座无线充电器** 以厚重混凝土材质防滑且提升质感，极简工业风设计在桌面美学社区引发种草。",
+        "url": "https://www.core77.com/posts/144901/Modhaus-Wireless-Phone-Charger-with-a-Concrete-Base",
+        "source": "Core77",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://s3files.core77.com/blog/images/1843584_81_144901_kfqDt56LS.jpg"
+      },
+      {
+        "brief": "**自动升降车顶架** 通过电动臂一键装卸行李，解决车顶架使用痛点，中国制造已量产，户外与车载配件市场潜力大。",
+        "url": "https://www.core77.com/posts/144891/Roof-Racks-That-Automatically-Lift-and-Lower-the-Load-For-You",
+        "source": "Core77",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1843472_lead_400_144891_.jpg"
+      },
+      {
+        "brief": "**哥伦比亚摩托车-铁路适配器** 将摩托车改造为可在废弃铁轨上行驶的交通工具，极具创意的民间硬件改装方案。",
+        "url": "https://www.core77.com/posts/144907/Improvised-Transport-on-Abandoned-Infrastructure-Colombias-Ingenious-Motorcycle-Railroad-Adapters",
+        "source": "Core77",
+        "score": 3,
+        "recurring": false,
+        "tier": "野生灵感",
+        "image": "https://s3files.core77.com/blog/images/1843635_81_144907_NaGxM0Td_.jpg"
+      },
+      {
+        "brief": "**Sonic Kakusta 铅笔盒** 重新定义文具收纳体验，通过创新开合结构与分区设计提升日常使用仪式感，设计社区热议。",
+        "url": "https://www.core77.com/posts/144879/Sonics-Focus-on-the-UX-of-Pencil-Cases",
+        "source": "Core77",
+        "score": 2,
+        "recurring": false,
+        "tier": "野生灵感",
+        "image": "https://s3files.core77.com/blog/images/1843316_81_144879_2P6SY4Lf6.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-07-30",
     "items": [
       {

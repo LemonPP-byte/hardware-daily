@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>科技资讯 — 每日硬件新品速递</title>
+    <title>造物捕风器｜每日硬件新品速递</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
@@ -66,41 +66,41 @@
         .top-bar-right { font-size: 11px; color: var(--muted); }
 
         /* === Hero === */
-        .hero { padding: 52px 32px 4px; text-align: center; }
+        .hero { padding: 56px 32px 8px; text-align: center; }
         .hero-title {
-            font-size: clamp(15px, 1.8vw, 18px);
-            font-weight: 600; letter-spacing: -0.3px;
+            font-size: clamp(20px, 2.5vw, 26px);
+            font-weight: 700; letter-spacing: -0.5px;
             color: var(--text);
-            margin-bottom: 2px;
+            margin-bottom: 4px;
         }
-        .hero-sub { font-size: 11px; color: var(--muted); }
-        .hero-note { font-size: 10px; color: var(--text); opacity: 0.2; margin-top: 2px; }
+        .hero-sub { font-size: 12px; color: var(--muted); }
+        .hero-note { font-size: 11px; color: var(--text); opacity: 0.2; margin-top: 4px; }
 
         /* === Hero Banner (每日头条) === */
         .hero-banner {
-            max-width: 1200px; margin: 6px auto 0;
+            max-width: 1200px; margin: 8px auto 0;
             border-radius: 12px; overflow: hidden;
-            background: #fff;
-            border: 1px solid rgba(0,0,0,0.06);
+            background: rgba(236,105,48,0.04);
+            border: 1px solid rgba(236,105,48,0.1);
             display: flex; align-items: stretch;
-            height: 72px;
+            height: 88px;
             transition: transform 0.2s, box-shadow 0.2s;
         }
         .hero-banner:hover {
             transform: translateY(-1px);
-            box-shadow: 0 4px 16px rgba(0,0,0,0.06);
-            border-color: rgba(0,0,0,0.1);
+            box-shadow: 0 4px 16px rgba(236,105,48,0.08);
+            border-color: rgba(236,105,48,0.2);
         }
         .hero-banner a { text-decoration: none; color: inherit; display: flex; width: 100%; }
         .hero-banner-img {
-            width: 110px; height: 72px; object-fit: cover; object-position: center; display: block; flex-shrink: 0;
+            width: 140px; height: 88px; object-fit: cover; object-position: center; display: block; flex-shrink: 0;
             border-radius: 0;
         }
         .hero-banner-img-placeholder {
-            width: 110px; height: 72px; flex-shrink: 0;
-            background: rgba(0,0,0,0.03);
+            width: 140px; height: 88px; flex-shrink: 0;
+            background: rgba(236,105,48,0.06);
             display: flex; align-items: center; justify-content: center;
-            font-size: 10px; color: rgba(0,0,0,0.2);
+            font-size: 10px; color: rgba(236,105,48,0.3);
         }
         .hero-banner-body {
             flex: 1; padding: 12px 20px; display: flex;
@@ -148,14 +148,14 @@
         .tier-header {
             border-radius: 14px; padding: 14px 16px;
             overflow: hidden;
-            display: flex; flex-direction: column; gap: 2px;
+            display: flex; align-items: baseline; gap: 8px;
         }
         .tier-header h2 {
             font-size: 18px; font-weight: 900; color: #fff;
             text-shadow: 0 1px 6px rgba(0,0,0,0.12);
         }
         .tier-header p {
-            font-size: 10px; color: rgba(255,255,255,0.6);
+            font-size: 10px; color: rgba(255,255,255,0.5);
         }
         .tier-col:nth-child(1) .tier-header { background: linear-gradient(135deg, #2e7d32 0%, #43a047 30%, #a5d6a7 70%, #c8e6c9 100%); }
         .tier-col:nth-child(2) .tier-header { background: linear-gradient(135deg, #0d47a1 0%, #1e88e5 30%, #90caf9 70%, #bbdefb 100%); }
@@ -185,18 +185,11 @@
         .card-brief strong { font-weight: 700; color: var(--text); }
         .card-footer { margin-top: 7px; display: flex; align-items: center; justify-content: space-between; }
         .card-source { font-size: 10px; color: var(--muted); font-weight: 500; }
-        .card-score { display: flex; gap: 3px; }
-        .card-score .dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(0,0,0,0.08); }
-        .card-score .dot.on { background: var(--accent); }
+        .card-score { display: flex; gap: 2px; }
+        .card-score .bar { width: 9px; height: 3px; border-radius: 1.5px; background: rgba(0,0,0,0.07); }
+        .card-score .bar.on { background: var(--accent); }
         .card-badge { position: absolute; top: 6px; right: 6px; font-size: 9px; font-weight: 700; background: var(--accent); color: #fff; padding: 2px 6px; border-radius: 4px; }
         .card-img-wrap { position: relative; }
-        .card-angle {
-            margin-top: 8px; padding: 5px 9px;
-            background: rgba(0,0,0,0.03);
-            border-radius: 6px;
-            font-size: 10px; color: #666; line-height: 1.4;
-        }
-        .card-angle strong { font-weight: 600; color: #444; }
 
         @media (max-width: 1200px) {
             .tier-grid { grid-template-columns: 1fr 1fr; }
@@ -224,13 +217,13 @@
                     <rect width="36" height="36" rx="8"/>
                     <path d="M20.5 8L13 19.5H17.5L15.5 28L23 16.5H18.5L20.5 8Z"/>
                 </svg>
-                <span>科技资讯 — 每日硬件新品速递</span>
+                <span>造物捕风器｜每日硬件新品速递</span>
             </div>
             <div class="top-bar-right" id="meta"></div>
         </div>
 
         <div class="hero">
-            <div class="hero-title">科技资讯 — 每日硬件新品速递</div>
+            <div class="hero-title">每日硬件新品速递</div>
             <p class="hero-sub">海外消费硬件 · 自动更新</p>
         </div>
 
@@ -312,24 +305,15 @@
         }
     }
 
-    const tierAngles = {
-        '成熟品牌': '设计美学',
-        'AI 硬件': '智能陪伴',
-        '新锐产品': '体验创新',
-        '野生灵感': '跨界思维'
-    };
-
     function renderCard(item) {
         const score = item.score || 3;
-        const dots = Array.from({length:5},(_,i)=>`<span class="dot ${i<score?'on':''}"></span>`).join('');
+        const bars = Array.from({length:5},(_,i)=>`<span class="bar ${i<score?'on':''}"></span>`).join('');
         const badge = item.recurring ? '<span class="card-badge">热议</span>' : '';
         const imgHtml = item.image
             ? `<img class="card-img" src="${item.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
             : `<div class="card-img-placeholder">${item.source}</div>`;
         const brief = (item.brief||item.title||'').replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
-        const tier = item.tier || '新锐产品';
-        const angle = tierAngles[tier] || '体验创新';
-        return `<article class="card"><a href="${item.url}" target="_blank" rel="noopener"><div class="card-img-wrap">${imgHtml}${badge}</div><div class="card-body"><p class="card-brief">${brief}</p><div class="card-angle"><strong>切入点：</strong>${angle}</div><div class="card-footer"><span class="card-source">${item.source}</span><div class="card-score">${dots}</div></div></div></a></article>`;
+        return `<article class="card"><a href="${item.url}" target="_blank" rel="noopener"><div class="card-img-wrap">${imgHtml}${badge}</div><div class="card-body"><p class="card-brief">${brief}</p><div class="card-footer"><span class="card-source">${item.source}</span><div class="card-score">${bars}</div></div></div></a></article>`;
     }
 
     loadFeed();

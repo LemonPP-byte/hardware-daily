@@ -38,6 +38,56 @@ async function callLLM(prompt) {
   return data.choices[0].message.content;
 }
 
+// 从 brief 中提取产品名（加粗部分）
+function extractProductName(brief) {
+  const match = brief.match(/\*\*([^*]+)\*\*/);
+  if (match) return match[1];
+  // fallback: 取前20个字
+  return brief.replace(/\*\*/g, '').slice(0, 20);
+}
+
+// 通过搜索引擎获取产品图片
+async function searchProductImage(query) {
+  // 策略1: 尝试从 Google 搜索结果页提取图片
+  const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(query + ' product image')}&tbm=isch`;
+  try {
+    const res = await fetch(searchUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+      },
+      redirect: 'follow',
+      signal: AbortSignal.timeout(10000)
+    });
+    if (res.ok) {
+      const html = await res.text();
+      // 提取搜索结果中的图片URL
+      const imgMatches = html.match(/\["(https?:\/\/[^"]+\.(?:jpg|jpeg|png|webp)[^"]*)",\d+,\d+\]/i);
+      if (imgMatches && imgMatches[1]) return imgMatches[1];
+    }
+  } catch (e) { /* continue to next strategy */ }
+
+  // 策略2: 尝试从产品官网/媒体站点获取
+  const mediaSites = [
+    `https://www.theverge.com/search?q=${encodeURIComponent(query)}`,
+    `https://techcrunch.com/?s=${encodeURIComponent(query)}`
+  ];
+  for (const url of mediaSites) {
+    try {
+      const res = await fetch(url, {
+        headers: { 'User-Agent': 'HardwareDaily/1.0' },
+        redirect: 'follow',
+        signal: AbortSignal.timeout(8000)
+      });
+      if (!res.ok) continue;
+      const html = await res.text();
+      const ogMatch = html.match(/<img[^>]+src=["'](https?:\/\/[^"']+\.(?:jpg|jpeg|png|webp)[^"']*?)["'][^>]*>/i);
+      if (ogMatch && ogMatch[1] && ogMatch[1].length > 30) return ogMatch[1];
+    } catch (e) { continue; }
+  }
+
+  return null;
+}
+
 async function main() {
   console.log('\n🤖 AI 筛选开始...\n');
 
@@ -182,18 +232,51 @@ ${itemList}
         redirect: 'follow',
         signal: AbortSignal.timeout(10000)
       });
-      if (!res.ok) continue;
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const html = await res.text();
       const ogMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
         || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
       if (ogMatch && ogMatch[1]) {
         item.image = ogMatch[1];
-        console.log(`  ✓ ${item.title}`);
+        console.log(`  ✓ ${item.brief?.slice(0, 30)} (og:image)`);
       } else {
-        console.log(`  ✗ ${item.title} (no og:image found)`);
+        throw new Error('no og:image');
       }
     } catch (err) {
-      console.log(`  ✗ ${item.title} (${err.message})`);
+      // Fallback: 根据产品名搜索图片
+      console.log(`  ⚠ ${item.brief?.slice(0, 30)} - og:image失败(${err.message})，尝试搜索...`);
+      try {
+        const productName = extractProductName(item.brief || '');
+        if (productName) {
+          const imgUrl = await searchProductImage(productName);
+          if (imgUrl) {
+            item.image = imgUrl;
+            console.log(`  ✓ ${item.brief?.slice(0, 30)} (搜索: ${productName})`);
+          } else {
+            console.log(`  ✗ ${item.brief?.slice(0, 30)} (搜索无结果)`);
+          }
+        }
+      } catch (searchErr) {
+        console.log(`  ✗ ${item.brief?.slice(0, 30)} (搜索失败: ${searchErr.message})`);
+      }
+    }
+  }
+
+  // 最终检查：确保所有条目都有图片，无图的做最后尝试
+  const noImageItems = todayItems.filter(i => !i.image);
+  if (noImageItems.length > 0) {
+    console.log(`\n⚠️  仍有 ${noImageItems.length} 条无图，进行最终搜索...`);
+    for (const item of noImageItems) {
+      try {
+        const productName = extractProductName(item.brief || '') || item.source;
+        const imgUrl = await searchProductImage(productName + ' product');
+        if (imgUrl) {
+          item.image = imgUrl;
+          console.log(`  ✓ 最终补图: ${item.brief?.slice(0, 30)}`);
+        }
+      } catch (e) {
+        // skip
+      }
     }
   }
 

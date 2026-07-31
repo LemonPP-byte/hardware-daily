@@ -86,8 +86,9 @@ async function main() {
 ═══ 输出结构（严格 7 条）═══
 
 - 第 1 条【每日头条】：今天最值得关注的一条。优先级：充电/3C配件/AI硬件 > 头部品牌重大动态 > 其他高热度消费硬件。这条会作为大尺寸 hero 展示。
-- 第 2-4 条【成熟品牌】：已有市场验证的品牌新品动态（Apple、Samsung、Anker、Belkin、Sony、Dyson、Nothing、Bose、Google、Huawei等）。优先选充电/配件/智能硬件/AI相关，以及影响行业走向的重大发布。
-- 第 5-7 条【AI 硬件】：广义的科技新品——AI硬件、3C创新配件、充电新形态、新锐智能设备。必须是实体硬件产品且与3C/AI/充电领域相关。
+- 第 2-3 条【成熟品牌】：已有市场验证的品牌新品动态（Apple、Samsung、Anker、Belkin、Sony、Dyson、Nothing、Bose、Google、Huawei等）。优先选充电/配件/智能硬件/AI相关，以及影响行业走向的重大发布。
+- 第 4-5 条【AI 硬件】：AI相关的消费级实体硬件——AI可穿戴、AI陪伴设备、AI相机、具身智能/机器人、AI交互终端。必须有实体硬件载体。
+- 第 6-7 条【新锐产品】：3C创新配件、充电新形态、新锐智能设备、高潜力新品牌产品。必须与3C/充电/AI/科技硬件相关。
 
 ═══ 选择标准 ═══
 1. 必须是具体可感知的消费级硬件产品或硬件相关动态
@@ -128,7 +129,7 @@ ${itemList}
 - "source": 来源名称
 - "score": 评分（1-5整数）
 - "recurring": 是否为跨日复现内容（true/false）
-- "tier": 层级标签（"每日头条" / "成熟品牌" / "AI 硬件"）
+- "tier": 层级标签（"每日头条" / "成熟品牌" / "AI 硬件" / "新锐产品"）
 
 只返回 JSON 数组，不要其他文字。`;
 
@@ -157,7 +158,7 @@ ${itemList}
   });
 
   // 构造今日数据（按位置补 tier fallback）
-  const tierByPosition = ['每日头条','成熟品牌','成熟品牌','成熟品牌','AI 硬件','AI 硬件','AI 硬件'];
+  const tierByPosition = ['每日头条','成熟品牌','成熟品牌','AI 硬件','AI 硬件','新锐产品','新锐产品'];
   const todayItems = selected.map((item, i) => {
     const rawItem = rawItems[item.index] || {};
     return {

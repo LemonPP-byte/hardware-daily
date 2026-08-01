@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-01",
+    "items": [
+      {
+        "brief": "**Sharge Disk Pro 2** 是一款集Switch 2、iPhone和笔记本扩展坞功能于一体的EDC设备，支持HDMI和USB-C输出。其独特的透明设计和多设备兼容性，精准契合图拉斯在3C配件领域的创新方向，能激发消费者的购买欲。",
+        "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-sharge-disk-pro-2-sean-hollister-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Modhaus无线充电器**采用独特的混凝土底座设计，解决了充电器在桌面上滑动的问题，兼具美观与实用性。这种将建筑材料与3C配件结合的新形态，为充电类产品提供了全新的设计思路，值得图拉斯关注。",
+        "url": "https://www.core77.com/posts/144901/Modhaus-Wireless-Phone-Charger-with-a-Concrete-Base",
+        "source": "Core77",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://s3files.core77.com/blog/images/1843584_81_144901_kfqDt56LS.jpg"
+      },
+      {
+        "brief": "这款**$9 NFC物理锁钥匙**，通过物理扫描来解锁手机上令人分心的应用，以创新的交互方式解决数字成瘾问题。其低成本、高概念的特性，为3C配件开辟了新的细分场景，具有话题性和购买吸引力。",
+        "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200"
+      },
+      {
+        "brief": "**Apple Upgrade** 新租赁计划取代了iPhone升级计划，覆盖大部分Apple产品。这一战略调整不仅改变了消费者的购机方式，更可能重塑整个智能手机市场的消费模式，对图拉斯等配件厂商的销售策略有深远影响。",
+        "url": "https://9to5mac.com/2026/08/01/apple-upgrade-will-it-replace-apple-card-monhtly-installments/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-ipad.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "文章探讨了**智能手机订阅制**的兴起，以Apple新升级计划为例，分析消费者是否还应直接购买手机。这一行业趋势将直接影响手机配件的生命周期和设计逻辑，是图拉斯规划未来产品时必须考虑的战略动向。",
+        "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/apple-store-iphone-17.jpg?resize=1200,800"
+      },
+      {
+        "brief": "**宇树科技的越野机器狗**展示了惊人的敏捷性和负载能力，作为具身智能的代表性产品，其技术演进预示着消费级机器人市场的潜力。虽然目前偏专业，但其形态和交互创新为AI硬件提供了重要参考。",
+        "url": "https://www.core77.com/posts/144886/Unitrees-Impressive-Off-Road-Dog-BotPack-Mule",
+        "source": "Core77",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://s3files.core77.com/blog/images/1843426_81_144886_DbZzbVoiz.jpg"
+      },
+      {
+        "brief": "**三星预警内存短缺**将持续至2028年，AI数据中心需求是主因。这一行业动态将直接推高消费电子产品的成本，影响充电器、手机壳等配件的定价策略和供应链稳定性，图拉斯需提前做好成本应对。",
+        "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?resize=1200,799"
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "items": [
       {

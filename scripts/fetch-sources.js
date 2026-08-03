@@ -114,14 +114,55 @@ async function fetchHackerNews() {
     );
 
     // 筛选消费级硬件相关关键词
-    const hwKeywords = /gadget|wearable|headphone|speaker|e-reader|smart home|smart ring|smart glass|earbuds|keyboard|3d print|drone|e-ink|display|portable|charger|kickstarter|crowdfund|robot vacuum|camera|watch|fitness|VR|AR|gaming|controller|desk|light|lamp|bicycle|scooter|ev |ebike/i;
+    // 注意：短词必须加词边界。原版写成 `VR|AR|ev ` 没有边界，
+    // 结果 "ar" 会命中 Spark / Years / parser / Search / Market / Article 等等，
+    // 实测 16 条 HN 里 15 条是靠这个误匹配进来的 —— 等于过滤从未生效。
+    const hwKeywords = new RegExp([
+      // 多词短语本身够长，不需要边界
+      'smart home', 'smart ring', 'smart glass', 'robot vacuum', '3d print',
+      'e-reader', 'e-ink', 'e-bike',
+      // 单词加词边界
+      '\\b(gadget|gadgets)\\b', '\\bwearable', '\\bheadphones?\\b', '\\bspeakers?\\b',
+      '\\bearbuds?\\b', '\\bkeyboards?\\b', '\\bdrones?\\b', '\\bdisplays?\\b',
+      '\\bportable\\b', '\\bchargers?\\b', '\\bcharging\\b', '\\bkickstarter\\b',
+      '\\bcrowdfund', '\\bcameras?\\b', '\\bsmartwatch', '\\bfitness\\b',
+      '\\bVR\\b', '\\bAR\\b', '\\bXR\\b', '\\bheadset', '\\bgaming\\b',
+      '\\bcontrollers?\\b', '\\blaptops?\\b', '\\btablets?\\b', '\\bphones?\\b',
+      '\\bsmartphones?\\b', '\\brobots?\\b', '\\bdesks?\\b', '\\blamps?\\b',
+      '\\bbicycles?\\b', '\\bscooters?\\b', '\\bebikes?\\b', '\\bbatter(y|ies)\\b',
+      '\\bUSB\\b', '\\bGaN\\b', '\\bMagSafe\\b', '\\bpower bank\\b', '\\bdock\\b',
+      // 补充：图拉斯品类相关 + 之前漏掉的常见品类
+      '\\bmouse\\b', '\\bmice\\b', '\\be-?paper\\b', '\\bmonitors?\\b',
+      '\\bprojectors?\\b', '\\bcables?\\b', '\\badapters?\\b', '\\bhubs?\\b',
+      '\\bphone case\\b', '\\bpower supply\\b', '\\bthermal\\b', '\\bcooler\\b',
+      '\\bkindle\\b', '\\bairpods\\b', '\\bhandheld\\b', '\\bconsoles?\\b',
+    ].join('|'), 'i');
+
+    // 纯软件/开发向的域名和标题，即使高热度也不要 —— 之前放开高热度后
+    // 灌进来 Karpathy 的鹈鹕 SVG benchmark、NixOS 配置仓库这类东西，
+    // AI 为了凑满「AI 硬件」那一层就把它们硬说成硬件产品。
+    const softwareHosts = /^(github\.com|gitlab\.com|twitter\.com|x\.com|arxiv\.org|news\.ycombinator\.com|stackoverflow\.com|npmjs\.com|pypi\.org|huggingface\.co)$/i;
+    // 只保留在硬件语境下也不可能有歧义的词。
+    // 删掉了 framework（Framework 是笔记本品牌）、library / package / API / SDK / CLI /
+    // kernel / open-source / prompt —— 这些在硬件报道里会正常出现。
+    const softwareTitle = /\b(benchmark|LLM|nixos|linux distro|npm|pypi|docker|kubernetes|regex|SQL|compiler|self.?hosted?|programming language|source code)\b/i;
 
     for (const story of stories) {
       if (!story || !story.title) continue;
-      const isHardware = hwKeywords.test(story.title);
+
+      // HN 是通用技术论坛，绝大多数内容是软件，所以硬件关键词是硬门槛。
+      // 高热度只用来豁免 7 天时间窗口（见 main() 里的 item.hot），不豁免相关性 ——
+      // 之前让高热度绕过关键词，结果 Karpathy 的鹈鹕 SVG benchmark 被推成了 AI 硬件。
+      // 大厂硬件动态本来就由 11 个 RSS 源覆盖，HN 只是补充，宁可漏不可错。
+      if (!hwKeywords.test(story.title)) continue;
+
+      // 软件内容排除对所有 HN 条目生效（"pelican on a bicycle" 会命中 bicycle，
+      // 但标题里的 benchmark 说明它是软件话题）
+      let host = '';
+      try { host = new URL(story.url || '').hostname.replace(/^www\./, ''); } catch {}
+      if (softwareHosts.test(host) || softwareTitle.test(story.title)) continue;
+
       const isHot = (story.score || 0) > 200;
-      // 关键词命中，或者纯高热度（>200分）都收进来，让 AI 去判断相关性
-      if (!isHardware && !isHot) continue;
       results.push({
         title: story.title,
         summary: `HN Score: ${story.score} | ${story.descendants || 0} comments`,

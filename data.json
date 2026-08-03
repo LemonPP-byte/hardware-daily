@@ -3,67 +3,67 @@
     "date": "2026-08-03",
     "items": [
       {
-        "brief": "**Apple带摄像头AirPods**最快下月发布，集成**Visual Intelligence视觉智能**，将重新定义TWS耳机形态，为充电与配件生态带来全新交互场景。",
+        "brief": "售价599美元的**AI吉他**，通过智能引导和实时反馈大幅降低学习门槛，让初学者轻松上手。将AI技术与传统乐器结合，是AI硬件在消费级音乐设备领域的新探索。",
+        "url": "https://www.yankodesign.com/2026/08/03/the-599-ai-guitar-that-finally-makes-playing-easy/?utm_source=rss&utm_medium=rss&utm_campaign=the-599-ai-guitar-that-finally-makes-playing-easy",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/the-599-ai-guitar-that-finally-makes-playing-easy/tempolor-01.jpg"
+      },
+      {
+        "brief": "据Mark Gurman报道，**Apple智能眼镜**将成为重要的健康伴侣，但该功能可能不会在明年发布的第一代产品中亮相。苹果进军智能眼镜市场，将深刻影响可穿戴设备与健康生态的格局。",
+        "url": "https://9to5mac.com/2026/08/02/apple-ai-smart-glasses-to-serve-as-health-companion/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Nothing旗下CMF品牌宣布将于8月4日发布新款**CMF Clip Pro开放式蓝牙耳机**。作为Nothing生态的亲民产品线，其新形态设计值得关注。",
+        "url": "https://www.gsmarena.com/nothing_cmf_clip_pro_launch_date-news-73972.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/cmf-clip-pro-launch-date/-184x111/gsmarena_001.jpg"
+      },
+      {
+        "brief": "苹果带摄像头的**AirPods**可能最快下月发布，集成**Visual Intelligence视觉智能**，将重新定义TWS耳机形态，并带动相关配件市场发展。",
         "url": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
         "source": "9to5Mac",
         "score": 5,
         "recurring": true,
-        "tier": "每日头条",
+        "tier": "AI 硬件",
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600"
       },
       {
-        "brief": "**iPhone Ultra**折叠形态对比图曝光，5.5英寸外屏设计，下月发布，将定义苹果折叠屏新标杆，带动高端配件与保护壳市场新需求。",
-        "url": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "**MacBook Air**因AI驱动内存危机面临严重供应短缺，直接影响消费电子成本与交付周期，是行业供应链关键信号。",
-        "url": "https://9to5mac.com/2026/08/02/macbook-air-reportedly-facing-major-supply-shortages-due-to-ai-driven-memory-crisis/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/Untitled-design21-1.png?w=1600"
-      },
-      {
-        "brief": "**Karpathy's Pelican**在HN获543分高热度，作为AI硬件新物种引发社区爆发式讨论，是AI终端形态的重要探索方向。",
-        "url": "https://twitter.com/karpathy/status/2083749667410727319",
-        "source": "Hacker News",
+        "brief": "一款新型**智能戒指**通过分析手指汗液来追踪健康指标，开创了非侵入式健康监测的新路径。其独特的生物传感方式在可穿戴设备领域具有创新性。",
+        "url": "https://www.reddit.com/r/gadgets/comments/1v9l01t/a_new_smart_ring_uses_finger_sweat_to_track_health/",
+        "source": "Reddit",
         "score": 4,
         "recurring": false,
         "tier": "AI 硬件",
-        "image": "https://pbs.twimg.com/amplify_video_thumb/2083744791876292608/img/tWEKnM_bdE_nlfYD.jpg"
+        "image": ""
       },
       {
-        "brief": "**NixOS-DGX-Spark**将NixOS带到NVIDIA DGX Spark，为AI开发硬件提供可复现系统环境，HN热度114，极客社区关注度高。",
-        "url": "https://github.com/graham33/nixos-dgx-spark",
-        "source": "Hacker News",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://opengraph.githubassets.com/bcc662ea9fcb0ad0c271685e9c04758ac6467e60896a547f154c774c0699acb1/graham33/nixos-dgx-spark"
-      },
-      {
-        "brief": "这款**$9 NFC物理锁钥匙**通过扫描实体钥匙解锁手机成瘾应用，用物理交互对抗数字沉迷，设计极简且话题性强，众筹潜力大。",
-        "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-        "source": "TechCrunch",
+        "brief": "Modhaus推出的**混凝土底座无线充电器**，以厚重材质解决桌面滑动问题，并提升产品质感。极简工业风设计在众筹平台迅速获得成功，是充电配件形态创新的代表。",
+        "url": "https://www.core77.com/posts/144901/Modhaus-Wireless-Phone-Charger-with-a-Concrete-Base",
+        "source": "Core77",
         "score": 4,
         "recurring": true,
         "tier": "新锐产品",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200"
+        "image": "https://s3files.core77.com/blog/images/1843584_81_144901_kfqDt56LS.jpg"
       },
       {
-        "brief": "这款**60g钛合金笔**集成可拆卸手电筒和3槽工具箱，将EDC美学与维修功能结合，是口袋工具的新形态探索。",
-        "url": "https://www.yankodesign.com/2026/08/02/this-60g-titanium-pen-doubles-as-a-pocket-repair-station-with-a-detachable-flashlight-and-3-slot-toolbox/?utm_source=rss&utm_medium=rss&utm_campaign=this-60g-titanium-pen-doubles-as-a-pocket-repair-station-with-a-detachable-flashlight-and-3-slot-toolbox",
-        "source": "Yanko Design",
+        "brief": "**PocketByte**是一款模块化掌上游戏机，同时集成了音乐播放器和PDA功能。其模块化设计允许用户自由组合硬件，满足不同场景需求，是复古掌机市场的新奇探索。",
+        "url": "https://www.reddit.com/r/gadgets/comments/1v8o9jy/pocketbyte_is_a_modular_gaming_handheld_music/",
+        "source": "Reddit",
         "score": 3,
-        "recurring": true,
+        "recurring": false,
         "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/this-60g-titanium-pen-doubles-as-a-pocket-repair-station-with-a-detachable-flashlight-and-3-slot-toolbox/verolite_titanium_pen_1.jpg"
+        "image": ""
       }
     ]
   },

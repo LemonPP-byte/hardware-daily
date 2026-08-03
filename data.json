@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-04",
+    "items": [
+      {
+        "brief": "LISEN推出Qi2.2标准MagSafe充电宝，支持更快的MagSafe充电速度，并配备市场上最独特的挂绳系统，兼顾尺寸与设计，是充电配件领域的创新形态。",
+        "url": "https://9to5mac.com/2026/08/03/lisen-qi2-2-magsafe-battery/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Lisen-battery-2.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Sony为旗舰降噪耳机WH-1000XM6新增橄榄灰配色，这是该系列的第六种颜色选项，延续了旗舰产品的市场热度，为消费者提供更多个性化选择。",
+        "url": "https://www.gsmarena.com/sony_adds_an_interesting_new_color_to_its_wh1000xm6_range-news-73989.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/sony-wh-1000xm6-new-color/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "即将于9月1日接任苹果CEO的John Ternus，在过渡期前召回一位已退休的硬件工程副总裁，此举旨在强化硬件团队，预示着苹果未来产品战略的调整。",
+        "url": "https://9to5mac.com/2026/08/03/john-ternus-recruits-key-apple-hardware-vp-out-of-retirement-ahead-of-ceo-transition/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_0033.jpeg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "DJI Osmo Pocket 4P在实验室测试中画质超越ARRI ALEXA 35，得益于全新的Lofic传感器技术，展示了其在便携影像设备领域的强大技术实力。",
+        "url": "https://www.reddit.com/r/hardware/comments/1ve93b6/dji_osmo_pocket_4p_beats_the_arri_alexa_35_in_our/",
+        "source": "Reddit",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": ""
+      },
+      {
+        "brief": "Motorola推出配备9个JBL扬声器的平板电脑，旨在解决平板音质差的痛点，通过多扬声器阵列提供沉浸式音频体验，是娱乐平板形态的一次大胆创新。",
+        "url": "https://www.yankodesign.com/2026/08/03/tablets-sound-bad-so-motorola-just-put-9-jbl-speakers-in-one/?utm_source=rss&utm_medium=rss&utm_campaign=tablets-sound-bad-so-motorola-just-put-9-jbl-speakers-in-one",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/tablets-sound-bad-so-motorola-just-put-9-jbl-speakers-in-one/motorola-moto-pad-70-groove-05.jpg"
+      },
+      {
+        "brief": "SwitchBot推出售价119美元的便携电池风扇，支持Matter over Wi-Fi协议，可无缝融入智能家居生态，适用于露台、露营地等多种户外场景。",
+        "url": "https://www.yankodesign.com/2026/08/03/switchbots-119-portable-battery-fan-brings-matter-over-wi-fi-to-patios-and-campsites/?utm_source=rss&utm_medium=rss&utm_campaign=switchbots-119-portable-battery-fan-brings-matter-over-wi-fi-to-patios-and-campsites",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/switchbot_battery_circular_fan_1.jpeg"
+      },
+      {
+        "brief": "一款售价420美元的手机证明了实体键盘爱好者的坚持是正确的，在触屏手机主导的市场中，为怀旧且追求高效输入的用户提供了新的选择。",
+        "url": "https://www.yankodesign.com/2026/08/03/a-420-phone-just-proved-blackberry-fans-have-been-right-all-along/?utm_source=rss&utm_medium=rss&utm_campaign=a-420-phone-just-proved-blackberry-fans-have-been-right-all-along",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/a-420-phone-just-proved-blackberry-fans-have-been-right-all-along/zinwa-q27-qwerty-smartphone-02.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-03",
     "items": [
       {

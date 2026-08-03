@@ -261,18 +261,49 @@ ${itemList}
 
   // 构造今日数据（按位置补 tier fallback）
   const tierByPosition = ['每日头条','成熟品牌','成熟品牌','AI 硬件','AI 硬件','新锐产品','新锐产品'];
+  // AI 有时会返回候选池里不存在的 URL（7/31 那期出现过一条标着 MacRumors、
+  // 实际是 5 个月前的文章）。这里强制校验：URL 必须真实存在于候选池，
+  // 否则退回用 index 对应的原始条目；两者都对不上就丢掉这条。
+  const urlToRaw = new Map();
+  rawItems.forEach(r => { if (r.url) urlToRaw.set(r.url, r); });
+
+  let repaired = 0, dropped = 0;
   const todayItems = selected.map((item, i) => {
-    const rawItem = rawItems[item.index] || {};
+    const byIndex = rawItems[item.index];
+    let raw = urlToRaw.get(item.url);
+
+    if (!raw) {
+      // URL 不在候选池里，退回 index 指向的条目
+      if (byIndex && byIndex.url) {
+        console.log(`  ⚠ 第 ${i + 1} 条 URL 不在候选池，已用 index[${item.index}] 的原始链接替换`);
+        console.log(`     AI 给的: ${item.url}`);
+        console.log(`     实际用: ${byIndex.url}`);
+        raw = byIndex;
+        repaired++;
+      } else {
+        console.log(`  ✗ 第 ${i + 1} 条 URL 和 index 都无法对应候选池，丢弃: ${item.url}`);
+        dropped++;
+        return null;
+      }
+    }
+
     return {
-      brief: item.brief || `**${item.title}** ${item.summary || ''}`,
-      url: item.url,
-      source: item.source,
+      brief: item.brief || `**${raw.title}** ${raw.summary || ''}`,
+      url: raw.url,                       // 只用候选池里的真实 URL
+      source: raw.source || item.source,  // 来源也从候选池取，AI 会编造来源名
       score: item.score || 3,
       recurring: item.recurring || false,
       tier: item.tier || tierByPosition[i] || '新锐产品',
-      image: rawItem.image || ''
+      image: raw.image || ''
     };
-  });
+  }).filter(Boolean);
+
+  if (repaired || dropped) {
+    console.log(`\n  URL 校验: 修正 ${repaired} 条, 丢弃 ${dropped} 条, 剩余 ${todayItems.length} 条`);
+  }
+  if (todayItems.length === 0) {
+    throw new Error('URL 校验后无有效条目，中止以保留昨天的数据');
+  }
 
   // 对没有图片的条目，尝试从原文页面提取 og:image
   console.log('\n🖼️  补充缺失图片...');

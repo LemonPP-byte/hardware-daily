@@ -2,16 +2,25 @@ name: Daily Hardware Feed Update
 
 on:
   schedule:
-    # 每天早上 7:00 北京时间 (UTC 23:00 前一天)
-    - cron: '0 23 * * *'
+    # 主跑：北京时间 06:43 触发。GitHub Actions 排队通常延迟 5-20 分钟，
+    # 加上脚本本身约 2-4 分钟，数据一般在北京时间 7:00 前后落地。
+    # 刻意避开整点/半点 —— 那是排队最挤的时刻（实测延迟 48-54 分钟）。
+    - cron: '43 22 * * *'
+    # 兜底：北京时间 09:17 再跑一次，仅当今天的数据还没生成时才真正执行
+    - cron: '17 1 * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:
   contents: write
 
+concurrency:
+  group: daily-feed
+  cancel-in-progress: false
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,25 +34,51 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      # 兜底那趟：如果 data.json 里已经有今天(北京时区)的数据就整个跳过
+      - name: Check if update needed
+        id: check
+        run: |
+          TODAY=$(TZ=Asia/Shanghai date +%F)
+          if [ "${{ github.event.schedule }}" = "17 1 * * *" ] \
+             && grep -q "\"date\": \"$TODAY\"" data.json; then
+            echo "needed=false" >> $GITHUB_OUTPUT
+            echo "✅ $TODAY 的数据已存在，跳过兜底运行"
+          else
+            echo "needed=true" >> $GITHUB_OUTPUT
+          fi
+
       - name: Fetch sources
+        if: steps.check.outputs.needed == 'true'
+        timeout-minutes: 6
         run: node scripts/fetch-sources.js
 
-      - name: AI curate (select top 3)
+      - name: AI curate
+        if: steps.check.outputs.needed == 'true'
+        timeout-minutes: 8
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: node scripts/curate.js
 
       - name: Commit and push
+        if: steps.check.outputs.needed == 'true'
         run: |
           git config user.name "Hardware Daily Bot"
           git config user.email "bot@hardware-daily.dev"
           git add data.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "📡 daily update: $(date +%Y-%m-%d)"
-            git push
+            exit 0
           fi
+          git commit -m "📡 daily update: $(TZ=Asia/Shanghai date +%F)"
+          # 远端可能已有新 commit（比如手动改了 index.html），重试 3 次
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "push 第 $i 次失败，5 秒后重试"
+            sleep 5
+          done
+          echo "::error::push 失败 3 次"
+          exit 1
 
       - name: Clean up raw feed
+        if: always()
         run: rm -f raw-feed.json

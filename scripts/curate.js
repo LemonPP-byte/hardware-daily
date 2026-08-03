@@ -12,30 +12,68 @@ if (!DEEPSEEK_API_KEY) {
   process.exit(1);
 }
 
-const TODAY = new Date().toISOString().split('T')[0];
+// 用北京时区取日期。之前用 UTC，而 cron 在北京时间清晨触发时 UTC 还是前一天，
+// 导致页面上的日期永远比实际慢一天。
+const TODAY = new Date().toLocaleDateString('en-CA', { timeZone: 'Asia/Shanghai' });
 
-async function callLLM(prompt) {
-  const res = await fetch('https://api.deepseek.com/chat/completions', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${DEEPSEEK_API_KEY}`
-    },
-    body: JSON.stringify({
-      model: 'deepseek-chat',
-      max_tokens: 2000,
-      temperature: 0.3,
-      messages: [{ role: 'user', content: prompt }]
-    })
-  });
+async function callLLM(prompt, { retries = 3 } = {}) {
+  let lastErr;
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const res = await fetch('https://api.deepseek.com/chat/completions', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${DEEPSEEK_API_KEY}`
+        },
+        body: JSON.stringify({
+          model: 'deepseek-chat',
+          max_tokens: 2000,
+          temperature: 0.3,
+          messages: [{ role: 'user', content: prompt }]
+        }),
+        // 没有超时的话，API 卡住会让整个 job 挂到 6 小时上限
+        signal: AbortSignal.timeout(120000)
+      });
 
-  if (!res.ok) {
-    const err = await res.text();
-    throw new Error(`DeepSeek API error ${res.status}: ${err}`);
+      if (!res.ok) {
+        const err = await res.text();
+        throw new Error(`DeepSeek API error ${res.status}: ${err.slice(0, 300)}`);
+      }
+
+      const data = await res.json();
+      const content = data?.choices?.[0]?.message?.content;
+      if (!content) throw new Error('DeepSeek 返回内容为空');
+      return content;
+    } catch (err) {
+      lastErr = err;
+      const reason = err.name === 'TimeoutError' ? '超时 120s' : err.message;
+      console.log(`  ⚠ LLM 第 ${attempt}/${retries} 次调用失败: ${reason}`);
+      if (attempt < retries) await new Promise(r => setTimeout(r, attempt * 8000));
+    }
   }
+  throw lastErr;
+}
 
-  const data = await res.json();
-  return data.choices[0].message.content;
+const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+
+// 带超时、且失败时消费掉 body 的 fetch（不消费会泄漏 socket，让进程退不出去）
+async function safeFetch(url, { timeout = 10000, headers = {} } = {}) {
+  let res;
+  try {
+    res = await fetch(url, {
+      headers: { 'User-Agent': UA, ...headers },
+      redirect: 'follow',
+      signal: AbortSignal.timeout(timeout)
+    });
+  } catch (err) {
+    return { ok: false, error: err.name === 'TimeoutError' ? `timeout ${timeout}ms` : err.message };
+  }
+  if (!res.ok) {
+    try { await res.arrayBuffer(); } catch {}
+    return { ok: false, error: `HTTP ${res.status}` };
+  }
+  return res;
 }
 
 // 从 brief 中提取产品名（加粗部分）
@@ -51,13 +89,7 @@ async function searchProductImage(query) {
   // 策略1: 尝试从 Google 搜索结果页提取图片
   const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(query + ' product image')}&tbm=isch`;
   try {
-    const res = await fetch(searchUrl, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-      },
-      redirect: 'follow',
-      signal: AbortSignal.timeout(10000)
-    });
+    const res = await safeFetch(searchUrl, { timeout: 10000 });
     if (res.ok) {
       const html = await res.text();
       // 提取搜索结果中的图片URL
@@ -73,11 +105,7 @@ async function searchProductImage(query) {
   ];
   for (const url of mediaSites) {
     try {
-      const res = await fetch(url, {
-        headers: { 'User-Agent': 'HardwareDaily/1.0' },
-        redirect: 'follow',
-        signal: AbortSignal.timeout(8000)
-      });
+      const res = await safeFetch(url, { timeout: 8000 });
       if (!res.ok) continue;
       const html = await res.text();
       const ogMatch = html.match(/<img[^>]+src=["'](https?:\/\/[^"']+\.(?:jpg|jpeg|png|webp)[^"']*?)["'][^>]*>/i);
@@ -99,21 +127,44 @@ async function main() {
   const rawItems = JSON.parse(fs.readFileSync(RAW_PATH, 'utf-8'));
   console.log(`📥 读入 ${rawItems.length} 条候选内容`);
 
-  const itemList = rawItems.map((item, i) => (
-    `[${i}] ${item.title}\n    来源: ${item.source} | ${item.url}\n    摘要: ${item.summary?.slice(0, 150)}`
-  )).join('\n\n');
+  // 给每条标注距今天数，让 AI 知道新鲜度（但不强制只能选当天的）
+  const daysAgo = (dateStr) => {
+    if (!dateStr) return null;
+    const t = new Date(dateStr).getTime();
+    if (Number.isNaN(t)) return null;
+    return Math.max(0, Math.floor((Date.now() - t) / 86400000));
+  };
+
+  const itemList = rawItems.map((item, i) => {
+    const d = daysAgo(item.date);
+    const fresh = d === null ? '时间未知' : d === 0 ? '今天' : `${d} 天前`;
+    const hot = item.score ? ` | 热度 ${item.score}` : '';
+    return `[${i}] ${item.title}\n    来源: ${item.source} | ${fresh}${hot} | ${item.url}\n    摘要: ${item.summary?.slice(0, 150)}`;
+  }).join('\n\n');
 
   // 读取昨日数据（用于判断是否有持续热议的内容）
   let existingData = [];
   if (fs.existsSync(DATA_PATH)) {
     existingData = JSON.parse(fs.readFileSync(DATA_PATH, 'utf-8'));
   }
-  const yesterdayItems = existingData.length > 0 ? existingData[0].items.map(i => i.title) : [];
-  const yesterdayContext = yesterdayItems.length > 0
-    ? `\n\n昨日已选内容（如果某条今天仍在多个源被讨论，可以再次入选并标记 recurring=true）：\n${yesterdayItems.map(t => `- ${t}`).join('\n')}`
+  // 候选窗口放宽到 7 天后，去重也要看最近 5 天，否则容易连着几天推同一条
+  const recentlyPushed = existingData
+    .slice(0, 5)
+    .flatMap(d => (d.items || []).map(i => `${d.date}: ${(i.brief || '').replace(/\*\*/g, '').slice(0, 60)}`));
+  const yesterdayContext = recentlyPushed.length > 0
+    ? `\n\n最近 5 天已推送过的内容（**不要重复选择这些**，除非它现在有了重大新进展且仍在被热议，那种情况标记 recurring=true）：\n${recentlyPushed.map(t => `- ${t}`).join('\n')}`
     : '';
 
-  const prompt = `你是一个消费硬件产品经理的每日选品助手。从以下今日抓取的内容中，选出最值得关注的 7 条，并为每条评分。
+  const prompt = `你是一个消费硬件产品经理的每日选品助手。从以下近期抓取的内容中，选出最值得关注的 7 条，并为每条评分。
+
+═══ 时效性说明（重要）═══
+候选内容来自最近约 7 天，每条都标注了距今天数。**不要求必须是当天发生的新闻。**
+判断优先级：内容质量与品类相关度 > 时效性。
+- 优先选 3 天内的内容
+- 3-7 天前的内容，只要质量高、讨论热度高、你判断读者可能还没看到，同样可以选
+- 高热度内容（标注了热度分数的）即使更早也值得考虑
+- 宁可选一条 5 天前的优质充电类产品，也不要为了「今天」而凑一条无关的当天新闻
+- 只有在候选池确实没有更好选择时，才降低质量标准
 
 你的目标用户是：图拉斯（Torras）品牌的产品经理，图拉斯聚焦充电类、3C配件类和智能硬件类产品。关注「什么新产品能打动消费者」「什么新形态能激发购买欲」「行业头部玩家的动向如何影响行业格局」。
 
@@ -135,7 +186,8 @@ async function main() {
 
 ═══ 输出结构（严格 7 条）═══
 
-- 第 1 条【每日头条】：今天最值得关注的一条。优先级：充电/3C配件/AI硬件 > 头部品牌重大动态 > 其他高热度消费硬件。这条会作为大尺寸 hero 展示。
+- 第 1 条【每日头条】：整个候选池里最值得关注的一条（不必是当天发生的）。优先级：充电/3C配件/AI硬件 > 头部品牌重大动态 > 其他高热度消费硬件。这条会作为大尺寸 hero 展示。
+  注意：必须严格按上述顺序返回，第一个对象的 tier 必须是"每日头条"。
 - 第 2-3 条【成熟品牌】：已有市场验证的品牌新品动态（Apple、Samsung、Anker、Belkin、Sony、Dyson、Nothing、Bose、Google、Huawei等）。优先选充电/配件/智能硬件/AI相关，以及影响行业走向的重大发布。
 - 第 4-5 条【AI 硬件】：AI相关的消费级实体硬件——AI可穿戴、AI陪伴设备、AI相机、具身智能/机器人、AI交互终端。必须有实体硬件载体。
 - 第 6-7 条【新锐产品】：3C创新配件、充电新形态、新锐智能设备、高潜力新品牌产品。必须与3C/充电/AI/科技硬件相关。
@@ -166,7 +218,7 @@ async function main() {
 - URL 必须是候选内容中的原始具体文章/产品页链接，原封不动复制
 - 绝对不能改写 URL、不能缩短、不能指向网站首页
 
-跨日复现规则：昨日内容若今天在新平台继续被讨论，可再次入选标记 recurring=true。
+跨日复现规则：已推送过的内容若仍在被热议，可再次入选并标记 recurring=true，但同一条最多复现一次，避免连续多天重复。
 ${yesterdayContext}
 
 候选内容：
@@ -227,12 +279,8 @@ ${itemList}
   for (const item of todayItems) {
     if (item.image || !item.url) continue;
     try {
-      const res = await fetch(item.url, {
-        headers: { 'User-Agent': 'HardwareDaily/1.0' },
-        redirect: 'follow',
-        signal: AbortSignal.timeout(10000)
-      });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const res = await safeFetch(item.url, { timeout: 10000 });
+      if (!res.ok) throw new Error(res.error);
       const html = await res.text();
       const ogMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
         || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
@@ -280,6 +328,19 @@ ${itemList}
     }
   }
 
+  // AI 有时不按顺序返回（8/1 那次头条排在第 4 位），这里强制按 tier 归位。
+  // 前端是按 tier 取数据的，但排序对了更保险，也方便直接看 data.json。
+  const tierOrder = { '每日头条': 0, '成熟品牌': 1, 'AI 硬件': 2, '新锐产品': 3, '野生灵感': 4 };
+  todayItems.sort((a, b) => (tierOrder[a.tier] ?? 9) - (tierOrder[b.tier] ?? 9));
+
+  // 如果 AI 一条都没标"每日头条"，把评分最高的提上去，否则前端 hero 位会空着
+  if (!todayItems.some(i => i.tier === '每日头条') && todayItems.length > 0) {
+    const best = todayItems.reduce((a, b) => (b.score > a.score ? b : a), todayItems[0]);
+    best.tier = '每日头条';
+    todayItems.sort((a, b) => (tierOrder[a.tier] ?? 9) - (tierOrder[b.tier] ?? 9));
+    console.log('  ⚠ AI 未指定每日头条，已自动提升评分最高的一条');
+  }
+
   const todayEntry = { date: TODAY, items: todayItems };
 
   // 如果今天已经有数据，替换；否则插入到最前面
@@ -297,7 +358,9 @@ ${itemList}
   console.log(`💾 data.json 已更新 (共 ${existingData.length} 天数据)\n`);
 }
 
-main().catch(err => {
-  console.error('Fatal error:', err);
-  process.exit(1);
-});
+main()
+  .then(() => process.exit(0))   // 显式退出，避免 keep-alive socket 拖住进程
+  .catch(err => {
+    console.error('Fatal error:', err);
+    process.exit(1);
+  });

@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-05",
+    "items": [
+      {
+        "brief": "BitmoLab GAMEBABY 推出新款半透明手机壳，将 iPhone 变身为带实体按键的 Game Boy。无需额外充电或携带配件，既是日常手机壳又是复古游戏掌机，精准击中怀旧情怀与实用性的结合点，是极具购买欲的 3C 配件创新。",
+        "url": "https://9to5mac.com/2026/08/04/hands-on-gamebabys-new-translucent-case-turns-your-iphone-into-a-game-boy-with-real-buttons/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/GAMEBABY-FI.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "智能戒指终于找到了睡眠追踪之外的存在理由。文章探讨了 Oura、三星 Galaxy Ring 等产品在健康监测之外的新功能方向，为智能戒指这一品类开辟了新的应用场景和购买动机，对可穿戴设备行业具有启发意义。",
+        "url": "https://www.yankodesign.com/2026/08/04/smart-rings-finally-got-a-reason-to-exist-beyond-sleep-tracking/?utm_source=rss&utm_medium=rss&utm_campaign=smart-rings-finally-got-a-reason-to-exist-beyond-sleep-tracking",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/smart-rings-finally-got-a-reason-to-exist-beyond-sleep-tracking/smart-ring-01.jpg"
+      },
+      {
+        "brief": "三星下一代折叠屏显示技术曝光，通过重新设计的超薄玻璃层，有望让未来 Galaxy Z Fold 的折痕变得不那么明显，同时提升屏幕平整度和耐用性。这一技术动向将直接影响折叠屏手机配件（如保护膜）的市场格局。",
+        "url": "https://www.androidauthority.com/samsung-ctg-foldable-display-3694523/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Z-Fold-8-1-week-later.jpg"
+      },
+      {
+        "brief": "Oppo A7 Pro Max 正式发布，搭载 Oppo 史上最大的 10,000 mAh 电池，支持 80W 快充和 27W 反向有线充电。官方称可承受至少 1500 次充放电循环，超长续航与耐用性成为其核心卖点。",
+        "url": "https://www.gsmarena.com/oppo_a7_pro_max_is_official_with_oppos_biggest_battery_ever-news-74003.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/oppo-a7-pro-max-official/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Ati Robotics 展示了一款主要在印度组装、仅使用少量中国零件的机器人。在特朗普政府对中国机器人实施禁令的背景下，这种供应链策略可能成为其独特优势，为消费级机器人市场的格局带来变数。",
+        "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6a6b1ddcb699cd04dbc2d5af/191:100/w_1280,c_limit/073126_How%20One%20Startup%20Built%20a%20(Mostly)%20China-Free%20Robot.jpg"
+      },
+      {
+        "brief": "Khadas 推出售价 199 美元的便携耳放，可像钱包一样磁吸吸附在 iPhone 背面。解决了传统 DAC 小尾巴的连接累赘问题，将高保真音频与 MagSafe 生态无缝融合，为手机音频发烧友提供了全新的形态选择。",
+        "url": "https://www.yankodesign.com/2026/08/04/khadas-just-made-a-199-amp-that-snaps-to-your-iphone-like-a-wallet/?utm_source=rss&utm_medium=rss&utm_campaign=khadas-just-made-a-199-amp-that-snaps-to-your-iphone-like-a-wallet",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/khadas-just-made-a-199-amp-that-snaps-to-your-iphone-like-a-wallet/khadas-tea-pro-dac-07.jpg"
+      },
+      {
+        "brief": "Ross Lovegrove 设计的 Hi-Fi 音箱形似河卵石，支持 384 kHz 音频流。将自然有机形态与高保真音频技术结合，既是桌面艺术品又是高性能音频设备，为便携音频硬件带来了全新的美学方向。",
+        "url": "https://www.yankodesign.com/2026/08/04/ross-lovegroves-hi-fi-speakers-look-like-river-pebbles-stream-384-khz-audio/?utm_source=rss&utm_medium=rss&utm_campaign=ross-lovegroves-hi-fi-speakers-look-like-river-pebbles-stream-384-khz-audio",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/kef_ls_luxe_1.jpeg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-04",
     "items": [
       {

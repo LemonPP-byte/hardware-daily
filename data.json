@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-06",
+    "items": [
+      {
+        "brief": "谷歌将于8月12日发布**Pixel Tag**，这是其首款类AirTag追踪器，售价**€34.99**，与苹果AirTag定价完全一致。作为头部品牌进入智能追踪器赛道，将直接改变该品类竞争格局，对图拉斯配件生态具有参考意义。",
+        "url": "https://www.gsmarena.com/this_is_when_google_is_launching_the_pixel_tag_and_how_much_it_costs-news-74027.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-pixel-tag-price-launch-date/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Apple Watch Ultra 4**将于下月与iPhone 18 Pro一同发布，文章盘点了三项令人兴奋的传闻新功能。作为苹果旗舰智能穿戴的迭代，其新功能方向将引领整个可穿戴配件市场（表带、充电座等）的设计趋势。",
+        "url": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-4-green.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "华为发布**MateBook Fold**，一款售价**$3,700**的触屏笔记本，形态独特。作为头部厂商在折叠形态上的新探索，其铰链与屏幕技术对3C配件（保护壳、支架）的适配设计有前瞻参考价值。",
+        "url": "https://www.androidauthority.com/huawei-matebook-fold-3694954/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/huawei-matebook-fold-5.jpg"
+      },
+      {
+        "brief": "9to5Mac盘点了2026年迄今最喜欢的**Apple Watch配件**，其中提到Memoket Gem——一款**11g**的AI可穿戴设备，可嵌入Apple Watch表带旁，按一下即可记录对话并关联历史讨论，售价**$179**，2026年8月发货。",
+        "url": "https://9to5mac.com/2026/08/05/these-are-my-favorite-apple-watch-accessories-of-2026-so-far/",
+        "source": "9to5Mac",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/IMG_5544_99cc38-e1785341066193.jpeg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "荣耀启用全新Logo和“Dare to Be”口号，并透露与电影相机厂商Arri合作的**Robot Phone**（机器人手机）正在推进。这一“手机+机器人”的新形态探索，代表了头部品牌对AI硬件融合的前沿方向。",
+        "url": "https://www.gsmarena.com/honor_adopts_new_logo_and_dare_to_be_slogan_says_it_grew_25_in_the_first_quarter_of_2026-news-74017.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-continues-rebranding/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Nothing旗下CMF品牌推出**CMF Clip Pro**开放式耳机，其充电盒创新性地集成**拨盘**用于接听电话。这种在充电盒上做交互创新的形态，为TWS耳机配件（保护壳、充电配件）提供了新的设计思路。",
+        "url": "https://www.yankodesign.com/2026/08/05/cmf-clip-pro-open-ear-buds-come-with-a-charging-case-dial-to-take-calls/?utm_source=rss&utm_medium=rss&utm_campaign=cmf-clip-pro-open-ear-buds-come-with-a-charging-case-dial-to-take-calls",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/cmf-clip-pro-open-ear-buds-come-with-a-charging-case-dial-to-take-calls/Nothing-CMF-Clip-Pro-Open-Ear-Buds-9.jpg"
+      },
+      {
+        "brief": "一款售价**$70**的相机电池内置追踪功能，解决摄影师电池易丢失的痛点。将防丢追踪模块集成到电池这一基础配件中，是3C配件功能创新的有趣案例，对充电宝等移动电源产品有启发。",
+        "url": "https://www.yankodesign.com/2026/08/05/camera-batteries-go-missing-so-this-70-one-tracks-itself/?utm_source=rss&utm_medium=rss&utm_campaign=camera-batteries-go-missing-so-this-70-one-tracks-itself",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/camera-batteries-go-missing-so-this-70-one-tracks-itself/falcam-tagbatt-03.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-05",
     "items": [
       {

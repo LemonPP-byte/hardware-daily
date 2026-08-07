@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-07",
+    "items": [
+      {
+        "brief": "OpenAI与Jony Ive合作的首款设备据传为**冰球大小的甜甜圈造型智能音箱**，无屏幕、内置电池，预计2027年上市，售价超300美元。其独特外观和活动部件设计，有望重新定义AI交互终端形态。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+        "source": "The Verge",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&#038;strip=all&#038;crop=21.6,18.717179294824,78.4,81.282820705176"
+      },
+      {
+        "brief": "三星Galaxy Z Fold8、Fold8 Ultra和Flip8成为**欧洲预购量最高的折叠屏手机**，打破此前纪录超17%。这标志着折叠屏形态在主流市场接受度显著提升，对3C配件厂商而言是重要的产品设计风向标。",
+        "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_fold8_flip8_europe_pre_order_record-news-74043.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-flip8-record-pre-orders/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "谷歌Pixel 11 Pro系列将配备**集成于后置相机条的RGB LED通知灯**，可能以HiLight品牌推出。这一复古但实用的功能，为智能手机交互提供了新的视觉反馈方式，有望带动相关配件生态。",
+        "url": "https://www.gsmarena.com/googles_rumored_pixel_glow_feature_may_launch_as_hilight_supported_colors_leak-news-74037.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/pixel-11-pro-fold-hilight-leak/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "OpenAI传闻中的AI智能音箱售价预计在**300至400美元之间**。作为OpenAI首款消费级硬件，其定价和形态将直接影响AI硬件市场的竞争格局，对同类产品具有重要参考意义。",
+        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
+      },
+      {
+        "brief": "Wired评测了2026年**最佳AI记事本设备**，这些口袋大小的硬件能轻松录音并提取信息。AI与随身硬件的结合正成为新趋势，为3C配件厂商提供了新的产品方向。",
+        "url": "https://www.wired.com/gallery/best-ai-notetakers/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6987b1c6829bf2e80f43c31b/191:100/w_1280,c_limit/The%20Best%20AI%20Notetakers%20to%20Record%20Your%20Meetings,%20Interviews,%20or%20Classes.png"
+      },
+      {
+        "brief": "Twelve South推出**小巧的夜间充电板**，专为床头柜场景设计。尽管价格不菲，但其精致的设计和实用的场景定位，获得了编辑的青睐，展示了充电配件在细分场景下的创新潜力。",
+        "url": "https://www.engadget.com/2230008/twelve-south-tiny-new-charging-pad-perfect-for-nightstand/",
+        "source": "Engadget",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.engadget.com/img/gallery/twelve-south-tiny-new-charging-pad-perfect-for-nightstand/l-intro-1785858901.jpg"
+      },
+      {
+        "brief": "一款**磁吸式显示屏**旨在解决手机提醒带来的干扰问题，通过物理方式隔离信息，让用户专注于当前任务。这种反智能手机化的设计，为3C配件提供了新的交互思路。",
+        "url": "https://www.yankodesign.com/2026/08/06/phones-turn-reminders-into-distractions-this-magnetic-display-wont/?utm_source=rss&utm_medium=rss&utm_campaign=phones-turn-reminders-into-distractions-this-magnetic-display-wont",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/phones-turn-reminders-into-distractions-this-magnetic-display-wont/zectrix-note-4-01.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-06",
     "items": [
       {

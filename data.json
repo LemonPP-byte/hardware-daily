@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-09",
+    "items": [
+      {
+        "brief": "索尼计划以**249.99欧元**的价格复活经典款**WH-1000XM4**，以WH-1000XM4C型号于9月7日重新上市。此举旨在以高性价比覆盖更广价格带，延续旗舰系列热度，是头部品牌在音频市场的重要战略布局。",
+        "url": "https://www.gsmarena.com/sony_is_working_on_a_surprising_pair_of_wh1000x_headphones_heres_how_much_theyll_cost-news-74076.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/sony-wh-1000xm4c-leak/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "苹果更新**Made for iPhone (MFi)助听设备**兼容列表，新增43款来自22个品牌的产品。此举扩大了苹果在健康辅助硬件生态的覆盖面，强化了iPhone作为健康管理中心的定位，对智能穿戴和健康硬件领域有风向标意义。",
+        "url": "https://9to5mac.com/2026/08/07/apple-adds-nearly-45-hearing-devices-to-its-made-for-iphone-compatibility-list/",
+        "source": "9to5Mac",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/hearing-devices-setup.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Robbyant推出专为狭窄货架通道设计的**人形机器人**，解决了服务机器人在真实商业空间部署的关键痛点。其形态创新为具身智能在零售场景的落地提供了新思路，是AI硬件领域值得关注的进展。",
+        "url": "https://www.yankodesign.com/2026/08/08/humanoid-robots-dont-fit-in-store-aisles-so-robbyant-fixed-that/?utm_source=rss&utm_medium=rss&utm_campaign=humanoid-robots-dont-fit-in-store-aisles-so-robbyant-fixed-that",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/humanoid-robots-dont-fit-in-store-aisles-so-robbyant-fixed-that/robbyant-r2-humanoid-robot-07.jpg"
+      },
+      {
+        "brief": "Nitecore推出**NB10000 Gen 4**充电宝，主打极致轻便紧凑，专为耐力运动员和背包客设计。在充电宝普遍功能堆叠的趋势下，这款产品反其道而行，专注于减重和便携，是充电品类中差异化设计的代表。",
+        "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3219.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "一款概念笔记本通过物理方式切断摄像头线路，而非仅靠软件屏蔽，从根本上解决隐私泄露担忧。这种**物理级隐私保护**设计在3C配件中极具新意，为笔记本隐私安全提供了全新思路。",
+        "url": "https://www.yankodesign.com/2026/08/08/most-laptops-mute-your-camera-in-software-this-one-cuts-the-wire/?utm_source=rss&utm_medium=rss&utm_campaign=most-laptops-mute-your-camera-in-software-this-one-cuts-the-wire",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/most-laptops-mute-your-camera-in-software-this-one-cuts-the-wire/purism-librem-16-01.jpg"
+      },
+      {
+        "brief": "一款**反AI监控夹克**通过特殊面料让AI监控摄像头无法透视，直接回应了日益增长的隐私担忧。该设计将隐私保护从软件层面提升到物理服装层面，是3C穿戴配件领域极具话题性的新形态。",
+        "url": "https://www.yankodesign.com/2026/08/08/ai-surveillance-cameras-cant-see-through-this-jacket/?utm_source=rss&utm_medium=rss&utm_campaign=ai-surveillance-cameras-cant-see-through-this-jacket",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/ai-surveillance-cameras-cant-see-through-this-jacket/digital-resistance-01.jpg"
+      },
+      {
+        "brief": "Modhaus推出一款底座为**混凝土材质**的无线充电器，搭配实木手机支撑面，兼具防滑功能与独特质感。这款售价**78美元**的产品在Kickstarter上数小时内即获超额认购，证明了设计驱动型充电配件的市场潜力。",
+        "url": "https://www.core77.com/posts/144901/Modhaus-Wireless-Phone-Charger-with-a-Concrete-Base",
+        "source": "Core77",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://s3files.core77.com/blog/images/1843584_81_144901_kfqDt56LS.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-08",
     "items": [
       {

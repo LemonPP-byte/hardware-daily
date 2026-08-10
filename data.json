@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-11",
+    "items": [
+      {
+        "brief": "**TESSAN AERO 5000** 是一款采用钛金属饰面的超薄MagSafe充电宝，利用新型电池技术降低发热并提升安全性。在众多MagSafe充电宝中，其极薄机身与钛金属质感极具辨识度，有望成为今年市场上最有趣的磁吸充电宝之一，对充电品类有直接参考价值。",
+        "url": "https://9to5mac.com/2026/08/10/tessan-aero-5000/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/TESSAN-AERO-5000-2.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "据ETNews报道，**三星**因**Galaxy Z Fold8**市场表现远超预期，将今年生产目标上调100万台。这一增产决策印证了折叠屏手机市场的强劲需求，作为头部品牌对行业格局的积极反馈，对3C配件与充电类产品的未来形态规划具有风向标意义。",
+        "url": "https://www.gsmarena.com/report_samsung_is_increasing_the_galaxy_z_fold8_production_target_for_this_year_by_1_million_units-news-74092.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-increases-build-target-for-galaxy-z-fold8/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "TrendForce报告显示，受全球内存芯片短缺影响，**iPhone 18 Pro**的物料成本（BOM）预计将上涨近40%。这一成本压力可能导致苹果牺牲利润率以维持出货，或最终转嫁给消费者，对智能手机及周边配件的定价策略将产生深远影响。",
+        "url": "https://www.gsmarena.com/iphone_18_pro_components_estimated_to_be_40_more_than_before__-news-74098.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-18-pro-bom-trendforce/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Clicks**推出售价99美元的**Power Keyboard**，通过MagSafe和Qi2磁吸方式为手机提供黑莓风格的滑出式物理键盘。该产品为手机输入交互带来新形态，但增加的体积和重量在部分大屏手机上可能影响握持体验，是3C配件领域一次有趣的形态探索。",
+        "url": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_2852.jpg?resize=1200,900"
+      },
+      {
+        "brief": "加州初创公司**Satyress**推出名为**Threehalves**的半人马形态遥操作机器人，旨在辅助人类执行危险工作。其独特的形态设计和应用场景，代表了具身智能在专业领域的新探索方向，对AI硬件产品形态有启发意义。",
+        "url": "https://www.dezeen.com/2026/08/10/satyress-centaur-robot-threehalves/",
+        "source": "Dezeen",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "http://static.dezeen.com/uploads/2026/08/threehalves-satyress-humanoid-robot_dezeen_2364_sq-1-411x411.jpg"
+      },
+      {
+        "brief": "一款售价**36美元**的**壁式充电器**创新性地加入了像素艺术显示屏，打破了传统充电器单调乏味的外观设计。这种将功能性与个性化视觉元素结合的做法，为充电配件品类提供了新的差异化思路，有望激发消费者的购买欲。",
+        "url": "https://www.yankodesign.com/2026/08/10/wall-chargers-are-boring-but-this-36-one-has-a-pixel-art-display/?utm_source=rss&utm_medium=rss&utm_campaign=wall-chargers-are-boring-but-this-36-one-has-a-pixel-art-display",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/wall-chargers-are-boring-but-this-36-one-has-a-pixel-art-display/divoom-dipow-35w-gan-charger-pixel-display-04.jpg"
+      },
+      {
+        "brief": "一款**AirTag 2**的附加配件，通过扩展电池方案将原本约一年的电池寿命延长至**10年**以上。该配件精准解决了AirTag 2在续航上的核心痛点，是典型的3C配件功能创新，对追踪器生态的完善具有重要意义。",
+        "url": "https://9to5mac.com/2026/08/10/airtag-2-gets-even-better-with-this-add-on-accessory/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airtag-2-radiating-sound.jpg?quality=82&#038;strip=all&#038;w=1600"
+      }
+    ]
+  },
+  {
     "date": "2026-08-10",
     "items": [
       {

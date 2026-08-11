@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-12",
+    "items": [
+      {
+        "brief": "彭博社Mark Gurman否认了此前的取消传闻，称苹果**全玻璃20周年纪念版iPhone**仍在按计划推进。这款采用激进无接口设计的设备若如期发布，将重新定义智能手机形态，对3C配件行业（如无线充电、保护壳）产生深远影响。",
+        "url": "https://www.gsmarena.com/new_report_says_apples_allglass_20th_anniversary_iphone_hasnt_been_cancelled-news-74107.php",
+        "source": "GSMArena",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-20-anniversary-still-on-track/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "三星Galaxy Buds的**助听器功能**获得美国FDA批准，可作为OTC解决方案为18岁以上用户提供辅助。这一认证使TWS耳机从消费音频正式跨界到医疗健康领域，为智能穿戴开辟了新场景，也预示着健康功能将成为耳机品类的新竞争焦点。",
+        "url": "https://www.gsmarena.com/fda_approves_samsungs_hearing_aid_feature_on_galaxy_buds-news-74121.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/04/galaxy-buds4-pro-firmware-update/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "iPhone 18 Pro预计将带来**三项重大相机升级**，距离发布仅数周。作为年度最受关注的旗舰机型，其影像系统的改进将直接影响手机配件（如镜头膜、磁吸散热器等）的设计方向，是图拉斯规划下一代iPhone配件的重要参考。",
+        "url": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "雅培与Google Health合作推出**AI驱动的血糖监测**方案，将实现实时血糖追踪。这一合作把连续血糖监测（CGM）从医疗设备推向大众健康消费市场，预示着智能健康硬件与AI结合的新方向，对可穿戴设备品类具有前瞻性影响。",
+        "url": "https://www.engadget.com/2234851/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/",
+        "source": "Engadget",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.engadget.com/img/gallery/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/l-intro-1786473283.jpg"
+      },
+      {
+        "brief": "苹果正在开发**Apple Reference Image**系统，通过iOS 27 beta 5中的代码引用，在拍摄时嵌入来源元数据，让用户能证明照片非AI伪造。这一功能将照片真实性验证从软件层面下沉到硬件采集端，是消费电子应对深度伪造的重要探索。",
+        "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Clicks推出售价**99美元**的**Power Keyboard**，通过MagSafe和Qi2磁吸为手机提供黑莓风格的滑出式物理键盘。该产品将复古输入体验与现代磁吸生态结合，为手机配件开辟了新的细分场景，但增加的体积可能影响大屏手机的握持体验。",
+        "url": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": true,
+        "tier": "新锐产品",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_2852.jpg?resize=1200,900"
+      },
+      {
+        "brief": "海信新款**e-ink墨水屏手机**实拍图曝光，配备可拆卸副屏的独特形态。在智能手机同质化严重的当下，这款设备以护眼阅读为核心卖点，探索了双屏交互的新可能，为3C配件和手机形态创新提供了差异化思路。",
+        "url": "https://www.reddit.com/r/gadgets/comments/1vjo8uf/new_hisense_eink_phone_appears_in_reallife_images/",
+        "source": "Reddit",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": ""
+      }
+    ]
+  },
+  {
     "date": "2026-08-11",
     "items": [
       {

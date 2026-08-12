@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-13",
+    "items": [
+      {
+        "brief": "Google在Made by Google '26发布会上正式推出**Pixel 11系列**、**Pixel Watch 5**和首款**Pixel Tag**追踪器，全面对标苹果生态。Pixel Tag售价29美元，支持UWB和Find Hub网络，直接切入AirTag主导的配件市场，对图拉斯追踪类配件产品线具有直接参考价值。",
+        "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+        "source": "TechCrunch",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Portfolio-3-1.png?resize=1200,675"
+      },
+      {
+        "brief": "Google正式发布**Pixel Tag**，采用不锈钢材质、IP67防护，支持UWB和蓝牙，电池续航一年。作为对标AirTag的首款产品，其29美元定价和Find Hub网络布局将影响整个追踪器配件市场的竞争格局，是图拉斯关注头部品牌动向的重要参考。",
+        "url": "https://www.gsmarena.com/google_pixel_tag_is_official_with_uwb_support_and_oneyear_battery_life-news-74142.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-pixel-tag-official/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "新传闻称苹果将**全系iPhone涨价100美元**，并暗示iPhone 18系列发布会定于9月8日。若属实，这将是苹果近年来最大规模的价格调整，直接影响整个手机配件市场的定价策略和消费者预期，对图拉斯高端配件定位有重要参考意义。",
+        "url": "https://www.gsmarena.com/new_rumor_tells_us_all_about_apples_imminent_iphone_price_hike-news-74124.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-price-hike-details/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "荣耀正式发布**Robot Phone**，搭载可自动弹出的**云台摄像头**，能实现物理防抖和智能追踪拍摄。这款中国独家发售的手机以独特的机械结构创新引发热议，代表了手机形态探索的新方向，对图拉斯手机配件设计具有启发意义。",
+        "url": "https://www.engadget.com/2235640/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/",
+        "source": "Engadget",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.engadget.com/img/gallery/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/l-intro-1786556506.jpg"
+      },
+      {
+        "brief": "AI记事硬件公司**Sandbar**推出语音交互戒指，认为AI可穿戴的未来在于**语音**而非屏幕。该产品瞄准捕捉碎片化想法和会议记录场景，代表了AI戒指品类从健康监测向生产力工具延伸的新趋势，是图拉斯探索AI硬件方向值得关注的案例。",
+        "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800"
+      },
+      {
+        "brief": "卡西欧为经典**F-91W**手表加入智能功能推出升级版，在日本已**售罄**。这款传奇入门表款以约20美元的价格基础融入现代智能特性，成功将怀旧情怀与实用功能结合，验证了经典IP+智能化的产品策略，对3C配件品牌有借鉴意义。",
+        "url": "https://www.yankodesign.com/2026/08/12/casio-upgrades-the-classic-f-91w-watch-with-smart-functions-and-its-already-sold-out-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=casio-upgrades-the-classic-f-91w-watch-with-smart-functions-and-its-already-sold-out-in-japan",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/casio-upgrades-the-classic-f-91w-watch-with-smart-functions-and-its-already-stocked-out-in-japan/Casio-F-B100W-Watch-6.jpg"
+      },
+      {
+        "brief": "**Anker Prime 3合1折叠充电器**降价34%至99.74美元，支持25W Qi2.2充电和折叠便携设计。作为Anker旗舰充电配件，此次大幅折扣反映了Qi2.2充电器在高端市场的竞争加剧，对图拉斯充电产品线的定价和功能规划有直接参考价值。",
+        "url": "https://www.androidauthority.com/anker-prime-3-in-1-foldable-charger-deal-3697947/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-Prime-25W-3-in-1-Foldable-MagSafe-Charger-Press-Image.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-12",
     "items": [
       {

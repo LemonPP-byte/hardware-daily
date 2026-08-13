@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-14",
+    "items": [
+      {
+        "brief": "iPhone 20 Pro系列无边框显示屏细节曝光，尽管此前有取消传闻，但彭博社已否认。这款20周年纪念版采用激进无接缝设计，**无边框显示屏**和**全玻璃机身**将重新定义旗舰手机形态，对3C配件行业影响深远。",
+        "url": "https://www.gsmarena.com/iphone_20_pro_and_20_pro_maxs_bezelless_displays_detailed_in_new_leak-news-74149.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-20-pro-dcs-display-leak/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Google发布**Pixel Watch 5**，起售价$399，新增血压模式追踪和胰岛素抵抗监测功能，并集成更智能的Gemini助手。在健康监测领域进一步对标Apple Watch，其**先进健康监测**功能将推动智能穿戴配件生态发展。",
+        "url": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Active-Band_Fog_Charging-Lifestyle.png?resize=1200,697"
+      },
+      {
+        "brief": "**Apple again reported to skip launching the iPhone 18 this year** Apple has long been rumored to launch the iPhone 18 series and the iPhone Ultra in phases, with multiple reports claiming the iPhone 18 won't launch this year. Now, a new media report, citing Apple supplier Pegatron, again states that the iPhone 18 won't launch this year and will arrive in 2027 instead.\r\n\r\nDuring the earnings call for Q2 2026, Pegatron confirmed that the iPhone 18 Pro and iPhone 18 Pro Max will be launched next month, but the iPhone 18 is expected to launch in Q1 2027, meaning anytime between January and March 2027. Previous reports claimed the iPhone 18 would arrive in March...",
+        "url": "https://www.gsmarena.com/apple_iphone_18_2026_launch_skipped-news-74153.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/apple-iphone-18-2026-launch-skipped/-184x111/gsmarena_001.jpg"
+      },
+      {
+        "brief": "Sandbar推出**语音交互戒指**Stream，认为AI可穿戴的未来在于语音而非屏幕。该产品瞄准捕捉碎片化想法和会议记录场景，在AI硬件同质化严重的当下，**戒指形态**提供了全新的交互入口和佩戴场景。",
+        "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800"
+      },
+      {
+        "brief": "Matic机器人吸尘器推出**Matic Cues**手势控制功能，用户只需指向脏污区域，机器人即可自动清洁，并内置语音助手。这种**手势+语音**的交互方式极大降低了智能家居的使用门槛，是扫地机器人形态的重要进化。",
+        "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_8725.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Google **Pixelsnap充电器+支架**组合目前半价促销，支持高速Qi2无线充电，采用磁吸式设计。作为Google官方配件，其**Qi2充电标准**和支架形态对充电配件市场具有标杆意义，是磁吸充电生态的重要参考。",
+        "url": "https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://media.wired.com/photos/6a7ca66f4db5ff20195852b7/191:100/w_1280,c_limit/Google-Pixelsnap-Charger-with-Stand-Deal-post.jpg"
+      },
+      {
+        "brief": "这款**可折叠鼠标**扁平到能与笔记本电脑共用一个保护套，解决了移动办公中鼠标携带不便的痛点。其**超薄折叠形态**为3C配件提供了全新的便携解决方案，对追求极致便携的用户极具吸引力。",
+        "url": "https://www.yankodesign.com/2026/08/13/this-collapsible-mouse-is-so-flat-it-shares-a-sleeve-with-your-laptop/?utm_source=rss&utm_medium=rss&utm_campaign=this-collapsible-mouse-is-so-flat-it-shares-a-sleeve-with-your-laptop",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/this-collapsible-mouse-is-so-flat-it-shares-a-sleeve-with-your-laptop/portronics-toad-fold-mouse-01.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-13",
     "items": [
       {

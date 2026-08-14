@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-15",
+    "items": [
+      {
+        "brief": "LG与Nvidia签署合作协议，共同开发AI机器人和自动驾驶硬件，并计划于**2027年第一季度**推出**人形机器人**。这一战略动向将深刻影响AI硬件和机器人产业格局，对图拉斯布局智能硬件具有重要参考价值。",
+        "url": "https://www.gsmarena.com/lg_joins_forces_with_nvidia_to_build_aipowered_robots_and_hardware_for_selfdriving_cars-news-74180.php",
+        "source": "GSMArena",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/lg-building-ai-robots-with-nvidia/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "三星正在研发新款**Galaxy H1头戴式耳机**，旨在与AirPods Max竞争，预计2027年发布。这将是三星自2015年Level On以来首款头戴式耳机，标志着其音频产品线的重大扩展，对TWS和头戴耳机市场格局有潜在影响。",
+        "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "谷歌为Pixel 11系列推出独家**Camera Looks**功能，在传感器层面处理图像数据，可模拟老式数码相机风格，如“Digi”模式。该功能旨在摆脱“智能手机感”的照片风格，为移动摄影带来全新创意方向。",
+        "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-back-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "中国宇树科技的**Unitree G1机器人**因价格相对亲民且能吸引人群而在网络上走红，成为新晋“网红”。报道探讨了这款四英尺高机器人能否胜任实际工作，展示了具身智能在消费级市场的潜力和挑战。",
+        "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+        "source": "Wired",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6a7e3d7b0f200c034ba14a12/191:100/w_1280,c_limit/Made-In-China-Made-in-China-Unitree-Robots-Americans-Love-Business.jpg"
+      },
+      {
+        "brief": "Tecno推出**Pova AI Buds Pro**真无线耳机，主打AI功能，支持**AI实时语音转文字**和通话摘要。该产品将AI能力集成到TWS耳机中，为便携音频设备带来了新的应用场景和用户价值。",
+        "url": "https://www.gsmarena.com/tecno_pova_ai_buds_pro_bring_ai_recording_and_call_summarization-news-74179.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/tecno-pova-ai-buds-pro-ofic/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "Nothing旗下平价品牌CMF推出**Clip Pro夹耳式耳机**，在低价与好音质之间取得了良好平衡。该产品采用独特的夹耳设计，为不喜欢入耳式耳机的用户提供了新选择，展现了3C配件在形态上的创新。",
+        "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268665_Nothing_CMF_Clip_Pro_earbuds_AKrales_0144.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "韩国品牌Modhaus推出**Upright无线充电器**，底座采用**混凝土材质**，手机接触面则使用橡木或胡桃木。这款售价78美元的产品在几小时内就众筹成功，将工业风设计与充电功能结合，为桌面配件带来了新的美学方向。",
+        "url": "https://www.core77.com/posts/144901/Modhaus-Wireless-Phone-Charger-with-a-Concrete-Base",
+        "source": "Core77",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://s3files.core77.com/blog/images/1843584_81_144901_kfqDt56LS.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-14",
     "items": [
       {

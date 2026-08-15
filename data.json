@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-16",
+    "items": [
+      {
+        "brief": "苹果智能家居产品路线图曝光，涵盖新款HomePod、Apple TV和智能显示屏。随着Siri AI就绪，苹果将密集更新多年未变的Home产品线，**HomePod**和**智能显示屏**新品将直接带动智能家居配件生态，对图拉斯智能硬件规划有重要参考价值。",
+        "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/ai-siri-homepod.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "荣耀Robot Phone正式发布并迎来上手评测，搭载可自动弹出的云台摄像头，实现物理防抖和智能追踪拍摄，基于超100项专利打造。这款中国独家发售的手机以**云台摄像头**和**物理防抖**为独特卖点，为手机形态创新提供了新思路。",
+        "url": "https://www.gsmarena.com/honor_robot_phone_handson_review-news-74184.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": true,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-robot-phone-handson/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "索尼发布旗舰高分辨率相机A7R VI，搭载**66.8兆像素**新传感器和处理器，在超高像素与拍摄体验间取得平衡。作为索尼影像旗舰，其传感器和图像处理技术走向将影响整个相机及手机影像配件市场。",
+        "url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268698_Sony_A7R_VI_camera_review_ADiBenedetto_0015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Sandbar公司为其语音交互戒指Stream阐述AI可穿戴的未来在于语音而非屏幕。该产品瞄准捕捉碎片化想法和会议记录场景，**语音交互戒指**作为AI可穿戴新形态，为AI硬件产品方向提供了重要参考。",
+        "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800"
+      },
+      {
+        "brief": "一款售价**499美元**的E Ink墨水屏平板引发关注，能运行Spotify和WhatsApp等应用且不伤眼。在LCD和OLED主导的市场中，**E Ink平板**以护眼和长续航为差异化卖点，为智能硬件形态创新提供了新方向。",
+        "url": "https://www.yankodesign.com/2026/08/15/the-499-e-ink-tablet-that-runs-spotify-whatsapp-and-doesnt-hurt/?utm_source=rss&utm_medium=rss&utm_campaign=the-499-e-ink-tablet-that-runs-spotify-whatsapp-and-doesnt-hurt",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/the-499-e-ink-tablet-that-runs-spotify-whatsapp-and-doesnt-hurt/bigme-b1051-ultra-color-eink-office-tablet-02.jpg"
+      },
+      {
+        "brief": "The Verge编辑终于找到一款不想拆下的磁吸手机握把——OhSnap Snap Grip Stand，售价**50美元**。这款**磁吸手机握把**兼具支架功能，设计精良，是3C配件中少有的能激发购买欲的创新形态。",
+        "url": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-ohsnap-stand-sean-hollister-1-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Noware的Puff项链将U盘功能融入个性化珠宝设计，**USB项链**以独特美学重新定义随身存储。这款可穿戴存储设备将功能性与时尚饰品结合，为3C配件开辟了全新的情感化设计方向。",
+        "url": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://media.wired.com/photos/6a7c1ff5b6f093068a6a7f95/191:100/w_1280,c_limit/PUFF_CHAINS.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-15",
     "items": [
       {

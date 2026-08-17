@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-18",
+    "items": [
+      {
+        "brief": "红米Note 17 Pro Max官宣将于8月27日全球发布，最大亮点是**10000mAh超大电池**，在续航焦虑时代直接击中用户痛点，有望成为新一代续航标杆机型。",
+        "url": "https://www.gsmarena.com/redmi_note_17_pro_max_with_10000mah_battery_to_launch_next_week-news-74205.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/redmi-note-17-pro-max-launch-specs/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "据ETNews报道，三星明年将推出多达**5款折叠屏手机**，包括两款宽幅折叠屏，Z Fold8的成功让三星上调了100万台产量目标。此举将极大丰富折叠屏形态，引领行业新方向。",
+        "url": "https://www.gsmarena.com/samsung_will_release_5_new_foldables_next_year_claim_insiders-news-74200.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-z9-five-models-next-year/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "三星可能正在研发比Galaxy Z Fold 8更宽的折叠屏手机，明年或将推出多达**五款折叠屏**产品。此举将进一步细分折叠屏市场，对3C配件形态设计有重要参考意义。",
+        "url": "https://www.engadget.com/2238405/samsung-might-be-making-a-new-foldable-that-is-even-wider-than-the-galaxy-z-fold-8/",
+        "source": "Engadget",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.engadget.com/img/gallery/samsung-might-be-making-a-new-foldable-thats-even-wider-than-the-galaxy-z-fold-8/l-intro-1786985225.jpg"
+      },
+      {
+        "brief": "可穿戴设备市场正分化为功能强大的运动手表与无屏幕追踪器两大阵营，**Garmin**在其中一极占据领先。该趋势为智能穿戴配件及周边生态的布局提供了重要参考。",
+        "url": "https://www.androidauthority.com/wearable-shipments-fall-smartwatch-market-screenless-trackers-3699350/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Garmin-Forerunner-970-sleep-score-close.jpg"
+      },
+      {
+        "brief": "Nothing旗下子品牌CMF发布新品预告，疑似**CMF Buds 3**耳机即将登场。延续CMF系列高性价比与独特设计语言，有望在入门级音频市场引发新一波关注。",
+        "url": "https://www.androidauthority.com/cmf-buds-3-teaser-3699434/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/CMF-earbud-teaser-2.jpg"
+      },
+      {
+        "brief": "9to5Mac推荐**Urban Fit**作为苹果MagSafe钱包的平价替代品，解决了官方产品价格过高和材质争议的痛点，是磁吸配件领域值得关注的性价比新选择。",
+        "url": "https://9to5mac.com/2026/08/17/magsafe-monday-the-urban-fit-i-my-favorite-budget-alternative-to-apples-wallet/",
+        "source": "9to5Mac",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Spigen-Valentinus-.webp?w=1500"
+      },
+      {
+        "brief": "这款售价**99美元**的轨迹球鼠标，主打**无需软件**即可实现手势控制，为电脑外设交互提供了全新思路，对追求高效与创新的3C配件用户有独特吸引力。",
+        "url": "https://www.yankodesign.com/2026/08/17/this-99-trackball-has-gesture-controls-that-work-without-any-software/?utm_source=rss&utm_medium=rss&utm_campaign=this-99-trackball-has-gesture-controls-that-work-without-any-software",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/this-99-trackball-has-gesture-controls-that-work-without-any-software/ploopy-aplus-trackball-02.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-17",
     "items": [
       {

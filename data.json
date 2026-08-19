@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-20",
+    "items": [
+      {
+        "brief": "iPhone 18 Pro系列下月发布，传闻将带来**三项设计更新**，作为苹果年度旗舰，其设计变化将直接引领3C配件市场新趋势，对图拉斯等配件厂商的产品规划具有重要参考价值。",
+        "url": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "索尼经典降噪耳机WH-1000XM4复活，泄露图显示其将推出**新配色**并升级支持**蓝牙6.0**。经典产品焕新，兼具情怀与性能提升，对音频市场及配件生态有显著影响。",
+        "url": "https://www.androidauthority.com/sony-wh-1000xm4c-leak-images-and-upgrade-3700676/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2020/08/Sony-WH-1000XM4-noise-cancelling-headphones-full.jpg"
+      },
+      {
+        "brief": "据可靠爆料人消息，**Apple Watch Series 12**下月发布，将带回备受喜爱的**陶瓷材质**设计选项。高端材质回归，有望激发新一轮换机潮和配件需求。",
+        "url": "https://9to5mac.com/2026/08/19/apple-watch-series-12-to-bring-back-beloved-design-material-says-leaker/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ceramic-s5.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "宇树科技发布新款人形机器人，速度**超过博尔特**，其机器狗跳跃能力**超越任何运动员**。性能突破极具话题性，持续巩固其在具身智能领域的领先地位。",
+        "url": "https://www.yankodesign.com/2026/08/19/unitree-launches-humanoid-robot-thats-faster-than-usain-bolt-and-spot-jumps-higher-than-any-athlete/?utm_source=rss&utm_medium=rss&utm_campaign=unitree-launches-humanoid-robot-thats-faster-than-usain-bolt-and-spot-jumps-higher-than-any-athlete",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/unitree-launches-humanoid-robot-thats-faster-than-usain-bolt-and-spot-jumps-higher-than-any-athlete/Unitree-humanoid-robot-Superman-speed-and-jump-record-1.jpg"
+      },
+      {
+        "brief": "Wired记者探访Generalist AI，目睹其机械臂**即兴使用香蕉作为工具**。这种具备现场学习和泛化能力的通用型AI机器人，代表了具身智能的前沿方向。",
+        "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+        "source": "Wired",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/191:100/w_1280,c_limit/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg"
+      },
+      {
+        "brief": "小米推出**29美元**的便携蓝牙音箱，可**磁吸吸附手机**并充当支架。极致性价比与创新形态结合，为手机音频配件市场带来新思路。",
+        "url": "https://www.yankodesign.com/2026/08/19/xiaomi-built-a-29-speaker-that-snaps-to-your-phone-and-stands-it-up/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomi-built-a-29-speaker-that-snaps-to-your-phone-and-stands-it-up",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/xiaomi-built-a-29-speaker-that-snaps-to-your-phone-and-stands-it-up/xiaomi-magnetic-bluetooth-speaker-05.jpg"
+      },
+      {
+        "brief": "HoverAir新款无人机主打**可折叠放进口袋**，并试图通过将其定义为“相机”来**规避FCC的无人机监管**。这一法律与产品定义的擦边球策略极具争议和话题性。",
+        "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      }
+    ]
+  },
+  {
     "date": "2026-08-19",
     "items": [
       {

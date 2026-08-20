@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-21",
+    "items": [
+      {
+        "brief": "森海塞尔新款旗舰TWS耳机**MOMENTUM True Wireless**附赠螺丝刀，用户可自行更换电池。在消费电子维修权浪潮下，这一设计直击TWS耳机电池衰减痛点，为高端音频配件开辟了“可持续旗舰”新方向。",
+        "url": "https://www.yankodesign.com/2026/08/20/sennheisers-new-tws-earbuds-have-a-battery-you-can-actually-replace-yourself/?utm_source=rss&utm_medium=rss&utm_campaign=sennheisers-new-tws-earbuds-have-a-battery-you-can-actually-replace-yourself",
+        "source": "Yanko Design",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/sennheiser_momentum_5_1.jpg"
+      },
+      {
+        "brief": "Nothing子品牌CMF正式发布**CMF Buds Neo**无线耳机，支持主动降噪，总续航达**52小时**。延续CMF系列高性价比与独特设计语言，为入门级TWS市场带来强力竞争者，值得关注其设计对配件潮流的引领。",
+        "url": "https://www.gsmarena.com/cmf_buds_neo_goes_official_with_anc_and_up_to_52_hour_total_battery_life-news-74263.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": true,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/cmf-buds-neo-ofic/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "Fairphone最新可维修手机**Fairphone 6+**将登陆美国市场。在消费电子价格高企和组件短缺背景下，其模块化设计和多年耐用性理念，为注重可持续和长期使用的消费者提供了差异化选择。",
+        "url": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/image_1e5cf0.png?resize=1200,1200"
+      },
+      {
+        "brief": "尽管有泄露演示视频流出，彭博社Gurman称苹果带摄像头的**AirPods**仍计划于**2027年**发布。该产品传闻将支持视觉智能，其隐私设计（可能限制录制）和交互形态，是AI可穿戴设备的重要风向标。",
+        "url": "https://www.gsmarena.com/despite_leaked_demo_apples_cameraequipped_airpods_still_reportedly_set_for_2027_launch-news-74255.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/apple-airpods-pro-camera-2027-report/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "分析指出，苹果带摄像头的**AirPods**可能通过禁止用户录制照片和视频来规避隐私争议。这一设计思路若能实现，将区别于其他AI可穿戴设备，为AI交互终端的隐私保护树立新标准。",
+        "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000"
+      },
+      {
+        "brief": "一款创新设计的**充电宝**，主打“在手机电量1%时你真正会带在身边”。针对用户经常忘带充电宝的痛点，通过形态或佩戴方式创新，提升随身携带的便利性，是充电配件场景化设计的代表。",
+        "url": "https://www.yankodesign.com/2026/08/20/the-power-bank-youll-actually-have-when-your-phone-hits-1-percent/?utm_source=rss&utm_medium=rss&utm_campaign=the-power-bank-youll-actually-have-when-your-phone-hits-1-percent",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/the-power-bank-youll-actually-have-when-your-phone-hits-1-percent/twelve-south-powerclip-01.jpg"
+      },
+      {
+        "brief": "Wired实测评选出2026年最佳**USB车载充电器**，品牌包括Anker和DeWalt。评测聚焦于快充性能、发热和安全表现，为车主选购车载充电配件提供了权威参考，也反映了该品类的技术成熟度。",
+        "url": "https://www.wired.com/story/best-usb-car-chargers/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://media.wired.com/photos/6a8641af2578139abea6ce92/191:100/w_1280,c_limit/The-Best-USB-Car-Chargers-for-Road-Trips-and-Fast-Charging.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-20",
     "items": [
       {

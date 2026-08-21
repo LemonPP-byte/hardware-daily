@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-22",
+    "items": [
+      {
+        "brief": "苹果带摄像头的AirPods更多细节曝光，每个耳塞独立拍摄图像并同步用于视觉智能。这一设计将彻底改变TWS耳机的功能边界，为配件生态开辟全新场景，是图拉斯可重点关注的下代产品趋势。",
+        "url": "https://www.engadget.com/2241639/more-details-on-apple-camera-equipped-airpods/",
+        "source": "Engadget",
+        "score": 5,
+        "recurring": true,
+        "tier": "每日头条",
+        "image": "https://www.engadget.com/img/gallery/we-have-more-details-on-apples-camera-equipped-airpods-and-they-are-pretty-dang-weird/l-intro-1787327785.jpg"
+      },
+      {
+        "brief": "Apple Watch Series 12和Ultra 4下月发布，将搭载更强大的新芯片，在完美时机到来。作为苹果年度旗舰穿戴更新，芯片升级将带动性能与健康功能体验跃升，直接影响智能穿戴配件市场走向。",
+        "url": "https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "沃尔玛宣布将于8月24日起在部分门店支持Apple Pay和Google Pay，2026年底前覆盖全美门店。这一移动支付里程碑将推动NFC支付配件的需求增长，对充电及3C配件生态产生积极影响。",
+        "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "RayNeo发布两款AR眼镜：主打轻量全天佩戴的iO系列（重33g）和专注多媒体娱乐的GT系列。作为市占率23.7%的头部AR厂商，其产品线细分策略为AI眼镜赛道提供新方向，值得关注。",
+        "url": "https://www.gsmarena.com/rayneo_unveils_productivity_focused_io_glasses_and_multimedia_focused_gt_glasses-news-74284.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/rayneo-io-gt-smart-glasses/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "售价225美元的Pebble Time 2智能手表回归，配备电子纸显示屏、物理按键和数周续航，兼具趣味性与极客精神。在智能手表同质化严重的当下，其差异化交互和长续航卖点极具吸引力。",
+        "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/image-1.webp?resize=1200,923"
+      },
+      {
+        "brief": "HoverAir Versa模块化无人机在Indiegogo首发仅3天后即被FCC禁令叫停美国订单。这款可折叠放进口袋、定义为“相机”的变形无人机，其法律与产品定义的博弈为便携拍摄设备带来新思考。",
+        "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": true,
+        "tier": "新锐产品",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Poco X8 Power据传即将发布，配备10000mAh超大容量电池。在续航焦虑时代，这一卖点直接击中用户痛点，延续了红米Note系列的大电池策略，为移动充电配件市场带来新需求。",
+        "url": "https://www.gsmarena.com/poco_x8_power_with_10000mah_battery_said_to_launch_soon-news-74277.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/poco-x8-power-rumor/-184x111/gsmarena_00.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-21",
     "items": [
       {

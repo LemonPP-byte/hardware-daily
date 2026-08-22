@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-23",
+    "items": [
+      {
+        "brief": "苹果首款**触屏MacBook**预计10月发布，将伴随MacBook Pro重新设计，可能命名为MacBook Ultra。这是苹果Mac产品线十余年来最大的交互变革，将直接带动3C配件市场新一波配件需求。",
+        "url": "https://9to5mac.com/2026/08/22/touchscreen-macbook-ultra-coming-soon-heres-whats-coming/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "亚马逊因**内存和存储组件成本大幅上涨**，将Echo、Kindle、Fire TV和Eero等设备价格上调最高达60%，Echo Dot从49.99美元涨至79.99美元。这一行业性涨价信号将直接影响消费硬件成本与定价策略。",
+        "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Apple Watch Series 12和Ultra 4**下月发布，将搭载更强大的新芯片，在完美时机到来。作为苹果年度旗舰穿戴设备，芯片升级将显著提升性能与AI能力，引领智能穿戴配件市场新趋势。",
+        "url": "https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": true,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "**荣耀Robot Phone**的云台相机维修费用曝光，更换需**457美元**。这款集成云台相机的独特手机虽非真正机器人，但其创新形态和昂贵的维修成本引发市场关注，对手机配件和保护方案提出新需求。",
+        "url": "https://www.gsmarena.com/heres_how_much_youll_pay_if_you_break_the_honor_robot_phones_gimbal_camera-news-74289.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-robot-phone-repair-prices/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Watti机器人台灯**能主动感知用户行为并预判照明需求，在用户开口前自动调整光线。这款AI驱动的桌面设备将传统台灯进化为智能交互终端，为智能家居硬件开辟新场景。",
+        "url": "https://www.yankodesign.com/2026/08/22/watti-is-the-robotic-desk-lamp-that-wants-to-know-what-youre-doing-before-you-ask-for-light/?utm_source=rss&utm_medium=rss&utm_campaign=watti-is-the-robotic-desk-lamp-that-wants-to-know-what-youre-doing-before-you-ask-for-light",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/watti-is-the-robotic-desk-lamp-that-wants-to-know-what-youre-doing-before-you-ask-for-light/watti-diy-smart-robot-lamp-02.jpg"
+      },
+      {
+        "brief": "**vivo V70 Lite 4G**发布，配备**8100mAh超大电池**和IP69防护等级，支持44W有线充电。在续航焦虑时代，超大容量电池与顶级防水组合直击用户痛点，为手机续航竞赛再添新标杆。",
+        "url": "https://www.gsmarena.com/vivo_v70_lite_4g_arrives_with_8100mah_battery_and_ip69_rating-news-74288.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-v70-lite-4g-ofic/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "这款**透明亚克力CD播放器**将音乐收藏转化为动态艺术，延续iMac G3透明美学。在流媒体时代，实体音乐载体的复兴为3C配件带来怀旧与科技融合的新形态，激发独特购买欲。",
+        "url": "https://www.yankodesign.com/2026/08/21/this-clear-acrylic-cd-player-turns-your-music-collection-into-kinetic-art/?utm_source=rss&utm_medium=rss&utm_campaign=this-clear-acrylic-cd-player-turns-your-music-collection-into-kinetic-art",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/syitren-rm1-puts-its-entire-cd-mechanism-on-display-inside-a-clear-acrylic-frame-that-doubles-as-wall-art/syitren_rm1_1.jpeg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-22",
     "items": [
       {

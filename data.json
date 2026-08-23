@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-24",
+    "items": [
+      {
+        "brief": "彭博社最新报道披露了**iPhone Ultra**内部试用者的真实反馈，这款折叠屏iPhone预计数周后发布。报道揭示了用户最喜爱的功能点，作为苹果首款折叠屏产品，其设计取向将直接定义未来折叠屏配件的生态方向，对图拉斯提前布局折叠屏保护壳、支架等配件极具参考价值。",
+        "url": "https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "彭博社Gurman报道，苹果正在开发搭载**M6芯片**并采用**新配色**的iMac，预计年底前发布。这是iMac时隔两年后的重大更新，作为苹果桌面生态的核心产品，其发布将带动周边配件（如扩展坞、支架、外设）的更新换代需求，对3C配件市场有风向标意义。",
+        "url": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-imac-vs-m3-imac-colors.jpeg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "斯洛伐克在交通测速摄像头中发现**俄罗斯后门**，引发对公共基础设施安全的高度关注，Hacker News热度达345。此事件虽非消费级产品，但将深刻影响全球对联网设备安全性的审视，可能推动消费级安防、智能家居及车载电子产品的安全标准升级，对行业格局有潜在影响。",
+        "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+        "source": "Hacker News",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "/static/img/RB-OG-Social.jpg"
+      },
+      {
+        "brief": "人形机器人已打破**博尔特**的百米世界纪录，Engadget报道了这一里程碑事件。尽管姿态滑稽，但这标志着具身智能在运动能力和硬件工程上的巨大飞跃，预示着机器人硬件在消费级市场的潜力，为图拉斯关注AI硬件与机器人赛道提供了重要信号。",
+        "url": "https://www.engadget.com/2242295/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record/",
+        "source": "Engadget",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.engadget.com/img/gallery/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record/l-intro-1787510210.jpg"
+      },
+      {
+        "brief": "GSMArena发起投票，询问读者是否会购买**荣耀Robot Phone**。这款手机独特的**机器人云台手臂**设计已正式开售，其创新形态引发了关于实用性的大讨论。投票结果将直接反映消费者对手机新形态的真实态度，为图拉斯评估未来手机配件设计方向提供一手数据。",
+        "url": "https://www.gsmarena.com/weekly_poll_would_you_buy_the_honor_robot_phone_and_why-news-74243.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-honor-robot-phone/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Mophie推出四款新款**iPhone充电宝**，主打**口袋便携**和**内置线缆**，提供5000mAh和10000mAh两种容量，定价亲民。在充电宝市场同质化严重的当下，其便携形态与实用设计结合，为图拉斯在便携充电品类上提供了直接的产品定义参考。",
+        "url": "https://9to5mac.com/2026/08/23/mophie-new-pocketable-battery-banks-for-iphone/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Mophie-4-batteries.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "CUKTECH推出**300W桌面充电器**，旨在取代用户抽屉里所有的充电头。这款产品由曾参与小米充电器研发的团队打造，以超大功率和多口输出为核心卖点，直击多设备用户的充电痛点，是桌面充电形态的一次重要升级，对图拉斯探索大功率充电场景有启发意义。",
+        "url": "https://www.yankodesign.com/2026/08/23/cuktechs-300w-desktop-charger-wants-to-replace-your-entire-drawer-of-power-bricks/?utm_source=rss&utm_medium=rss&utm_campaign=cuktechs-300w-desktop-charger-wants-to-replace-your-entire-drawer-of-power-bricks",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/643250/cuktech_30_charging_station_ultra_1.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-23",
     "items": [
       {

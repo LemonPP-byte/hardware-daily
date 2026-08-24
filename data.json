@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-25",
+    "items": [
+      {
+        "brief": "彭博社Gurman最新报道，**iPhone Ultra**早期内部测试者对其设计、铰链和易用性给予高度评价。这款折叠屏iPhone预计数周后发布，定价超2000美元，其铰链工艺和折叠形态将直接定义下一代旗舰标准，对3C配件市场格局影响深远。",
+        "url": "https://www.gsmarena.com/gurman_early_iphone_ultra_testers_praise_its_design_hinge_and_usability-news-74301.php",
+        "source": "GSMArena",
+        "score": 5,
+        "recurring": true,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-ultra-early-testers-report/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "苹果首款折叠屏**iPhone Ultra**即将发布，但报道指出其可能缺少五项关键功能。作为定价超2000美元的旗舰，这些功能取舍将直接影响用户购买决策和配件生态的适配方向，值得图拉斯在规划配件时重点关注。",
+        "url": "https://9to5mac.com/2026/08/24/iphone-ultra-wont-have-these-five-features/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "受内存芯片成本上涨影响，**iPhone 18系列**价格确认将上调，预计全系比前代贵100美元。这一价格变动将重塑高端手机市场格局，并可能影响消费者对配件的预算分配，对图拉斯的产品定价策略有参考价值。",
+        "url": "https://www.gsmarena.com/iphone_18_series_prices_confirmed_to_go_up_due_to_rising_memory_chip_cost-news-74304.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/ios-27-reveals-six-new-iphones/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "据爆料，**三星Galaxy S27 Ultra**可能首发**自修复玻璃**技术。该技术灵感源自LG G Flex 2，能让手机外壳轻微划痕自动愈合，这一创新材质将引领手机防护新趋势，为3C配件（如保护壳、贴膜）市场带来新的挑战与机遇。",
+        "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-self-healing-glass-3702407/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-display.jpg"
+      },
+      {
+        "brief": "Wired评测推荐**有线虚拟显示眼镜**，认为其比Meta Ray-Bans等智能眼镜更实用。这类眼镜通过连接设备投射巨大虚拟屏幕，以极简设计换取高效生产力，为AI硬件和智能穿戴领域提供了新的产品形态思路。",
+        "url": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
+        "source": "Wired",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6a87862020408e2e1b24b43a/191:100/w_1280,c_limit/All-Work-Virtual-Play-Gear.jpg"
+      },
+      {
+        "brief": "**RayNeo**将智能眼镜产品线拆分为两款专注不同场景的产品：主打轻量全天佩戴的iO系列（重33g）和专注多媒体娱乐的GT系列。作为市占率领先的头部品牌，其产品策略为智能眼镜品类提供了新方向，值得关注。",
+        "url": "https://www.yankodesign.com/2026/08/24/rayneo-just-split-smart-glasses-into-two-and-neither-one-compromises/?utm_source=rss&utm_medium=rss&utm_campaign=rayneo-just-split-smart-glasses-into-two-and-neither-one-compromises",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/rayneo-just-split-smart-glasses-into-two-and-neither-one-compromises/rayneo-io-gt-smart-glasses-04.jpg"
+      },
+      {
+        "brief": "**荣耀Play20A**发布，配备6.9英寸大屏和背部副屏，以及6000mAh电池。其独特的背部副屏设计在非折叠手机中独树一帜，为手机形态创新和差异化配件设计提供了新思路。",
+        "url": "https://www.gsmarena.com/the_honor_play20a_has_a_massive_69_display_a_second_display_on_the_back_and_a_6000mah_battery-news-74302.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-play-20a-announced/-184x111/gsmarena_0000.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "items": [
       {

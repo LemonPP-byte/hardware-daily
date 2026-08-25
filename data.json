@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-26",
+    "items": [
+      {
+        "brief": "FDA首次授权一款可穿戴设备，能**同时连续监测酮体和血糖水平**。该设备在Hacker News上获得189分热度、117条评论，是健康监测硬件领域的重大突破，对智能穿戴品类有风向标意义。",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+        "source": "Hacker News",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
+      },
+      {
+        "brief": "Garmin发布新款**Fenix 9**系列户外旗舰手表，基础款配备**3000尼特**OLED屏幕（亮度翻倍），起售价999.99美元，搭载升级地图引擎和50%更多内存，是户外智能穿戴领域的标杆更新。",
+        "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/garmin-fenix-9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "苹果今日发布新款Mac mini和Mac Studio，搭载全新**M6芯片**（2nm工艺、12核CPU）和M5 Ultra，Mac mini起售价899美元。M6芯片预示了未来iPhone 18 Pro的A20 Pro性能走向，对行业格局有直接影响。",
+        "url": "https://www.gsmarena.com/apple_announces_new_mac_mini_and_mac_studio_with_m6_and_m5_chips-news-74335.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/mac-mini-studio-m6/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Fitbit联合创始人推出**Luffu Link**，一款LTE健康与安全手环，集成全天健康传感、语音记录、位置感知和紧急联系功能，**无需手机**即可独立使用，是健康穿戴设备的新形态探索。",
+        "url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/luffu-link.png?resize=1200,754"
+      },
+      {
+        "brief": "Pebblebee推出**LÔC8**追踪器，可隐藏安装在自行车把手、高尔夫球杆等设备内部，兼容苹果Find My和Android Find Hub，**电池续航长达3年**，是防丢追踪品类中的创新形态。",
+        "url": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/pebblebee-loc8-find-hub-7.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Anker的**10口Nano Power Strip**迎来首次降价，售价57.99美元，提供**70W USB-C快充**和浪涌保护，是桌面充电解决方案的高性价比选择，对充电品类有参考价值。",
+        "url": "https://www.androidauthority.com/anker-nano-power-strip-deal-3702865/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-Nano-Power-Strip-Press-Image.jpg"
+      },
+      {
+        "brief": "BenQ推出首款**双显示器屏幕挂灯**ScreenBar Max，专为多屏办公场景设计，能同时为两块屏幕提供均匀照明，是桌面配件领域的创新产品，但价格较高。",
+        "url": "https://www.engadget.com/2244137/benq-screenbar-max-first-dual-monitor-desk-lamp/",
+        "source": "Engadget",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.engadget.com/img/gallery/benqs-first-dual-monitor-desk-lamp-will-give-your-screens-a-glow-up/l-intro-1787689571.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-25",
     "items": [
       {

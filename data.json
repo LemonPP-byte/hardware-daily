@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-27",
+    "items": [
+      {
+        "brief": "苹果正式宣布将于9月9日举行iPhone发布会，预计将推出**iPhone 18 Pro系列**和传闻已久的**首款折叠屏iPhone Ultra**。这场发布会将是苹果CEO交接后的首场重大活动，直接影响整个3C配件和充电行业的备货方向。",
+        "url": "https://www.gsmarena.com/apple_schedules_iphone_event_for_september_9-news-74357.php",
+        "source": "GSMArena",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-18-pro-max-ultra-launch-date/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "Garmin发布**Fenix 9和Fenix 9 Pro**旗舰手表，Pro版首次采用全钛金属表壳和Fenix系列最大AMOLED屏幕，续航最长可达**57天**。作为户外智能手表标杆，其材质和续航的升级对智能穿戴配件生态有风向标意义。",
+        "url": "https://www.gsmarena.com/garmin_launches_the_fenix_9_and_fenix_9_pro_with_up_to_57_days_of_battery_life-news-74347.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/garmin-fenix-9-fenix-9-pro-official/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "JBL宣布**Pulse 6**音箱将于下月上市，售价**330美元**。这款音箱延续了标志性的灯光秀功能，将音频与视觉体验结合，是便携蓝牙音箱品类中兼具氛围感和音质的代表产品。",
+        "url": "https://www.engadget.com/2245008/the-colorful-jbl-pulse-6-speaker-will-be-available-next-month/",
+        "source": "Engadget",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.engadget.com/img/gallery/the-colorful-jbl-pulse-6-speaker-will-be-available-next-month/l-intro-1787774245.jpg"
+      },
+      {
+        "brief": "听力科技初创公司Legato携**1200万美元**融资和**AI听力眼镜Legato Frames**走出隐身模式。该眼镜将助听技术集成到镜腿中，为传统眼镜赋予听力辅助功能，是AI与可穿戴设备结合的新方向。",
+        "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,751"
+      },
+      {
+        "brief": "**Milan智能眼镜**采用时尚的圆形镜框设计，内置**1200万像素摄像头**并支持实时翻译。其“非数码产品”的外观设计旨在打破智能眼镜的科技感，更贴近日常佩戴的眼镜形态。",
+        "url": "https://www.yankodesign.com/2026/08/26/milan-smart-glasses-pack-a-12mp-camera-live-translation-in-a-stylish-non-gadget-design/?utm_source=rss&utm_medium=rss&utm_campaign=milan-smart-glasses-pack-a-12mp-camera-live-translation-in-a-stylish-non-gadget-design",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/draft-laltitude-milan/LAtitude-52N-Milan-Smart_Glasses_hero.jpg"
+      },
+      {
+        "brief": "TUCCH推出一款售价**24美元**的**MagSafe钱包**，独特之处在于其可折叠闭合设计，解决了传统MagSafe钱包卡片暴露的问题。为iPhone配件市场提供了一个更安全、更精致的新选择。",
+        "url": "https://www.yankodesign.com/2026/08/26/magsafe-wallets-leave-your-cards-exposed-but-this-24-one-closes/?utm_source=rss&utm_medium=rss&utm_campaign=magsafe-wallets-leave-your-cards-exposed-but-this-24-one-closes",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/magsafe-wallets-leave-your-cards-exposed-but-this-24-one-closes/tucch-pu-leather-magsafe-wallet-06.jpg"
+      },
+      {
+        "brief": "FiiO推出**QX11便携解码耳放**，将台式级音频功率浓缩至口袋大小。这款DAC旨在不占用桌面空间的情况下提供高解析度音频体验，是音频发烧友的便携新选择。",
+        "url": "https://www.yankodesign.com/2026/08/26/fiio-qx11-brings-desktop-class-audio-power-to-a-pocket-sized-dac/?utm_source=rss&utm_medium=rss&utm_campaign=fiio-qx11-brings-desktop-class-audio-power-to-a-pocket-sized-dac",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/fiio-qx11-brings-desktop-class-audio-power-to-a-pocket-sized-dac/Fiio-QX11-DAC-2.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-26",
     "items": [
       {
@@ -1980,32 +2048,6 @@
         "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&h=375&fit=crop",
         "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-keyboard-deal-sale",
         "source": "The Verge"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "items": [
-      {
-        "title": "Framework 笔记本 GPU 模块支持热插拔",
-        "summary": "模块化笔记本 Framework Laptop 16 更新后，运行中可直接插拔独立 GPU 模块无需重启。Hacker News 500+ 评论认为这是模块化笔记本「第一次真正实用」的里程碑。",
-        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&h=375&fit=crop",
-        "url": "https://frame.work/blog/hot-swap-gpu",
-        "source": "Hacker News"
-      },
-      {
-        "title": "透明外壳智能家居网关 by Nothing",
-        "summary": "Nothing 首款 Matter 智能家居网关延续标志性透明工业设计。Carl Pei 表示「家里的科技产品不该被藏起来」，Product Hunt 上线当日 800+ upvote。",
-        "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=600&h=375&fit=crop",
-        "url": "https://www.producthunt.com/posts/nothing-home-hub",
-        "source": "Product Hunt"
-      },
-      {
-        "title": "太阳能 e-ink 显示充电板二合一",
-        "summary": "荷兰团队 Luminext 在 Indiegogo 推出太阳能板+电子墨水屏二合一设备，充电时表面显示实时功率和天气。Dezeen 称这种「功能可见化」是绿色能源产品的新设计方向。",
-        "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&h=375&fit=crop",
-        "url": "https://www.indiegogo.com/projects/luminext-solar-display",
-        "source": "Indiegogo"
       }
     ]
   }

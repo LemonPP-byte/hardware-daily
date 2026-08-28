@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-28",
+    "items": [
+      {
+        "brief": "Meta 针对智能眼镜的隐私漏洞推出修复方案：摄像头在录制时若被遮挡LED灯将自动停止工作，并同步启动新营销活动。此举直接回应了“偷拍眼镜”的负面标签，对智能眼镜品类的消费者信任建设至关重要。",
+        "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0059.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "三星Galaxy S27 Pro渲染图曝光，定位为无S Pen的小尺寸S27 Ultra，继承了全新的相机岛设计（灵感源自iPhone）。作为旗舰系列的新型号，其设计语言变化值得关注。",
+        "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_renders_leak-news-74379.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s27-pro-leaked-renders/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "新款Apple TV 4K预计在9月9日发布会亮相，传闻将搭载Siri AI并带来四项新功能。作为苹果智能家居生态的核心枢纽，其更新将带动相关配件的需求。",
+        "url": "https://9to5mac.com/2026/08/27/new-apple-tv-4k-is-coming-four-features-launching-soon/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/10/Apple-TV-4K-2022.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "谷歌与宝可梦公司合作推出特别版Fitbit Air，可与Pokémon Sleep应用联动，将睡眠监测与游戏化体验结合。这一跨界合作有望吸引新的用户群体关注可穿戴设备。",
+        "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pokemon_Fitbit_Air.png?w=1200"
+      },
+      {
+        "brief": "Hugging Face推出MicroDuck，一款外形可爱的鸭子机器人。其设计旨在以亲和的形象降低人们对AI的戒备，展示了AI硬件在情感化设计上的新探索。",
+        "url": "https://www.androidauthority.com/hugging-face-launches-microduck-3704139/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Microdouck-scale-in-hand.jpg"
+      },
+      {
+        "brief": "Speedo推出可拆卸的iQ智能模块，适配Vanquisher泳镜，可追踪四种泳姿的表现。通过分析头部动作、呼吸时机和距离，为游泳爱好者提供专业级数据反馈。",
+        "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/8-E000235012-B1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "一款将80W高保真扬声器与智能照明集成于一体的吊扇。该产品重新定义了天花板空间的利用方式，将功能性家电与娱乐体验融合，是智能家居领域的新形态。",
+        "url": "https://www.yankodesign.com/2026/08/27/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/?utm_source=rss&utm_medium=rss&utm_campaign=this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-02.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-27",
     "items": [
       {
@@ -2022,32 +2090,6 @@
         "recurring": false,
         "tier": "野生灵感",
         "image": "http://static.dezeen.com/uploads/2026/07/sq-trusco-human-fridge_dezeen_2364_col_0-411x411.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "items": [
-      {
-        "title": "$9 物理按键锁住手机上瘾 App",
-        "summary": "一把实体钥匙控制手机 App 访问权限，拔掉钥匙指定 App 就锁死。TechCrunch 报道后 Product Hunt 日榜第一，评论区大量用户表示「这比任何数字戒断 App 都有效」。",
-        "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=600&h=375&fit=crop",
-        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nanoleaf 拼装灯板书架套装半价",
-        "summary": "Nanoleaf Blocks Combo XL 把 RGB 灯板做成了可拼装墙面书架，既是收纳又是氛围灯。The Verge 推荐其为「今年最有设计感的智能家居单品」，当前正在 5 折促销。",
-        "image": "https://images.unsplash.com/photo-1565814636199-ae8133055c1c?w=600&h=375&fit=crop",
-        "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
-        "source": "The Verge"
-      },
-      {
-        "title": "Razer 模拟轴机械键盘大降价",
-        "summary": "Razer Huntsman V3 Pro 采用模拟轴技术，按压深度可精确到 0.1mm 触发。适合需要「半按」操作的游戏玩家，The Verge 评价为目前最像手柄摇杆体验的键盘。",
-        "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&h=375&fit=crop",
-        "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-keyboard-deal-sale",
-        "source": "The Verge"
       }
     ]
   }

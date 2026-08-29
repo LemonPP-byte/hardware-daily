@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-29",
+    "items": [
+      {
+        "brief": "苹果将于9月9日发布Apple Watch Ultra 4，传闻其将通过**新传感器和更坚固的钛金属设计**与旧款区分。作为苹果旗舰智能手表，其迭代方向直接影响高端可穿戴市场，对图拉斯手表配件及充电产品线有重要参考价值。",
+        "url": "https://9to5mac.com/2026/08/28/heres-how-apple-watch-ultra-4-will-differentiate-itself-from-prior-models/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-watchos-27-3.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "华为预告将于9月2日发布**更纤薄的Watch D3**和FreeBuds Neo。Watch D系列以其独特的血压监测腕带著称，新品在健康监测和形态上的进化值得关注，对智能穿戴和健康配件赛道有风向标意义。",
+        "url": "https://www.gsmarena.com/huawei_teases_a_slimmer_huawei_watch_d3_and_freebuds_neo-news-74393.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-watch-d3-freebuds-neo/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "摩托罗拉预告将在IFA 2026推出新款**施华洛世奇水晶镶嵌Razr**折叠屏手机。将奢华时尚元素与折叠屏硬件结合，是3C配件与时尚跨界的重要信号，对探索手机壳等个性化配件形态有启发。",
+        "url": "https://www.gsmarena.com/motorola_teases_a_new_swarovskiencrusted_razr_heres_when_its_launching-news-74395.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/motorola-razr-70-swarovski-edition-teaser/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "TechCrunch探讨**XREAL智能眼镜**是否成为家庭观影的未来形态。智能眼镜作为新兴的消费电子品类，其应用场景的拓展（从便携显示到家庭娱乐）对图拉斯探索新硬件品类具有前瞻性参考。",
+        "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901"
+      },
+      {
+        "brief": "听力科技初创公司Legato携1200万美元融资推出**AI听力眼镜Legato Frames**，将助听技术集成于镜腿。该产品代表了AI与健康可穿戴的融合方向，对智能硬件产品规划具有启发意义。",
+        "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,751"
+      },
+      {
+        "brief": "Yanko Design介绍一款**9合1蓝光驱动器+USB Hub**，可将廉价DVD转化为100GB永久存储。该产品将冷门存储介质与现代扩展坞结合，是3C配件领域的新奇形态，为桌面配件创新提供了新思路。",
+        "url": "https://www.yankodesign.com/2026/08/28/a-9-in-1-blu-ray-drive-usb-hub-that-turns-cheap-dvds-into-100gb-storage-you-own-forever/?utm_source=rss&utm_medium=rss&utm_campaign=a-9-in-1-blu-ray-drive-usb-hub-that-turns-cheap-dvds-into-100gb-storage-you-own-forever",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/draft-bluhub/bluhub_bluray_disc_reader_1.jpeg"
+      },
+      {
+        "brief": "华硕发布**ROG Spatha X 65K** MMO游戏鼠标，配备一个集2.4GHz接收器、充电器和展示功能于一体的“博物馆级”底座。其多功能底座设计对游戏外设和桌面配件的整合创新有参考价值。",
+        "url": "https://www.yankodesign.com/2026/08/28/asus-rog-spatha-x-65k-the-heavy-mmo-mouse-that-comes-with-its-own-museum-dock/?utm_source=rss&utm_medium=rss&utm_campaign=asus-rog-spatha-x-65k-the-heavy-mmo-mouse-that-comes-with-its-own-museum-dock",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/asus_rog_spatha_x_65k_mouse_1.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-28",
     "items": [
       {
@@ -2004,92 +2072,6 @@
         "recurring": false,
         "tier": "野生灵感",
         "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1843472_lead_400_144891_.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "items": [
-      {
-        "brief": "**Ozlo Sleepbuds 2** 是 Bose 睡眠耳塞的精神续作，续航翻倍且支持自定义白噪音混搭，海外失眠社区反响热烈，精准切入睡眠场景的穿戴配件市场。",
-        "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Case-Product-Hero.jpg?resize=1200,800"
-      },
-      {
-        "brief": "**Twelve South** 推出新款 Valet 托盘，集成 **25W MagSafe 充电**，体积更小适合床头/玄关，是桌面充电配件形态的精致迭代。",
-        "url": "https://9to5mac.com/2026/07/28/twelve-south-debuts-smaller-valet-tray-with-25w-magsafe-charging/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/TS_Valet_4.25in_TaupeEcru_LS2_WebRes.jpeg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "**EPOS H3 Hybrid** 游戏耳机支持有线+蓝牙双音源同时播放，售价仅 $25，性价比极高，适合多设备用户，是音频配件的新思路。",
-        "url": "https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22457100/cfaulkner_20210420_4538_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**ReFrame** 是一款电子纸相机，将复古相机形态与低功耗电子纸屏幕结合，实现无屏闪拍摄体验，在 Hacker News 引发硬件爱好者热议。",
-        "url": "https://reframe.camera/",
-        "source": "Hacker News",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://reframe.camera/assets/site-images/og-reframe.jpg"
-      },
-      {
-        "brief": "**Una GPS 智能手表** 主打可维修性、USB-C 充电和开发者友好，模块化设计直击环保与极客痛点，HN 评分 213 讨论热烈。",
-        "url": "https://unawatch.com/",
-        "source": "Hacker News",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://unawatch.com/cdn/shop/files/linkedin_banner.jpg?v=1756823125"
-      },
-      {
-        "brief": "**$9 NFC 物理钥匙** 通过扫描实体钥匙解锁手机成瘾应用，用物理交互对抗数字沉迷，设计极简且话题性强，众筹潜力大。",
-        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200"
-      },
-      {
-        "brief": "**Leatherman Garage Batch #009** 实验性棘轮批头驱动器，限量生产，将工具与 EDC 美学结合，硬核粉丝购买意愿强。",
-        "url": "https://www.core77.com/posts/144841/Leathermans-Experimental-Ratcheting-Bit-Driver",
-        "source": "Core77",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://s3files.core77.com/blog/images/1842728_81_144841_m2kdRRLW0.jpg"
-      },
-      {
-        "brief": "**Elide 便携除皱器** 利用吸力在穿着时抚平衣物褶皱，颠覆传统挂烫机形态，解决差旅场景痛点，设计原型引发关注。",
-        "url": "https://www.dezeen.com/2026/07/28/elide-dewrinkler-safaa-fojdar/",
-        "source": "Dezeen",
-        "score": 3,
-        "recurring": false,
-        "tier": "野生灵感",
-        "image": "http://static.dezeen.com/uploads/2026/07/sq-elide-safaa-fojdar_dezeen_2364_col_0-411x411.jpg"
-      },
-      {
-        "brief": "**“人体冰箱”** 由日本自动售货机厂商 SDRS 开发，不锈钢外壳可容纳一人，用于极端高温天气应急降温，概念大胆且具社会价值。",
-        "url": "https://www.dezeen.com/2026/07/27/human-refrigerator-sdrs-trusco-nakayama/",
-        "source": "Dezeen",
-        "score": 3,
-        "recurring": false,
-        "tier": "野生灵感",
-        "image": "http://static.dezeen.com/uploads/2026/07/sq-trusco-human-fridge_dezeen_2364_col_0-411x411.jpg"
       }
     ]
   }

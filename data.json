@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-30",
+    "items": [
+      {
+        "brief": "Sharge推出**Shargeek 300 Power Bank**，采用金属一体成型机身，配备显示屏、RGB灯效和透明窗口，可同时为两台MacBook充电。这款充电宝在设计上极具视觉冲击力，是充电品类中少见的“秀肌肉”产品，对追求个性化和科技感的消费者有很强吸引力。",
+        "url": "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Shargeek-300-Power-Bank-review-FI.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "苹果确认将于明年推出首款**AI智能眼镜**，集成Visual Intelligence和Siri。作为头部品牌在AI硬件领域的重磅布局，该产品将直接定义下一代智能穿戴形态，对图拉斯等配件厂商的生态布局具有战略参考价值。",
+        "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "华为将于9月7日发布**Mate XT 2三折叠手机**，最新视频确认其采用内折U型设计，与上代Z型折叠方案不同。作为三折叠品类的迭代产品，其全新的铰链和折叠形态是行业关注焦点，将影响折叠屏配件市场走向。",
+        "url": "https://www.gsmarena.com/huawei_mate_xt_2_design-news-74403.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-mate-xt-2-design/-184x111/gsmarena_002.jpg"
+      },
+      {
+        "brief": "Soundcore发布**Liberty 5 Pro耳机**，Wired评测称其通话质量卓越，且价格极具竞争力。在真无线耳机市场，该产品以“通话”这一核心场景作为差异化卖点，对注重实用性的消费者有较强吸引力。",
+        "url": "https://www.wired.com/review/soundcore-liberty-5-pro/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://media.wired.com/photos/6a925150bb3a85e785f50cc3/191:100/w_1280,c_limit/Review--Soundcore-Liberty-5-Pro.jpg"
+      },
+      {
+        "brief": "Plaud推出**Plaud One AI耳机**，主打会议记录与摘要功能，让用户专注于对话本身。该产品将AI能力与TWS耳机形态结合，切入商务办公场景，是AI硬件在音频领域的一次实用化尝试。",
+        "url": "https://www.yankodesign.com/2026/08/29/plaud-one-ai-earbuds-remember-and-summarize-your-conversations-so-you-can-focus-on-the-work/?utm_source=rss&utm_medium=rss&utm_campaign=plaud-one-ai-earbuds-remember-and-summarize-your-conversations-so-you-can-focus-on-the-work",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/plaud-one-ai-earbuds-remember-and-summarize-your-conversations-so-you-can-focus-on-the-work/Plaud-One-AI-Wearable-Earbuds-4.jpg"
+      },
+      {
+        "brief": "万代推出**Tamagotchi Ring**，一款可玩的电子宠物戒指，配备彩色屏幕。这款产品将经典IP与穿戴设备结合，形态极具话题性和情感价值，精准击中怀旧与新奇感并存的消费心理。",
+        "url": "https://www.engadget.com/2246986/i-hate-how-badly-i-want-the-tamagotchi-ring/",
+        "source": "Engadget",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.engadget.com/img/gallery/i-hate-how-badly-i-want-the-tamagotchi-ring/l-intro-1788025317.jpg"
+      },
+      {
+        "brief": "万代推出**Mecha Case名片盒**，售价22美元，将机甲元素融入商务配件。该产品通过酷炫的变形设计让递名片这一动作变得令人难忘，是3C配件领域将“功能”与“社交话题”结合的创新案例。",
+        "url": "https://www.yankodesign.com/2026/08/29/business-cards-were-forgettable-so-bandai-built-a-22-mecha-case/?utm_source=rss&utm_medium=rss&utm_campaign=business-cards-were-forgettable-so-bandai-built-a-22-mecha-case",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/business-cards-were-forgettable-so-bandai-built-a-22-mecha-case/automatic-transformation-business-card-case-03.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-29",
     "items": [
       {
@@ -1986,92 +2054,6 @@
         "recurring": false,
         "tier": "野生灵感",
         "image": "https://s3files.core77.com/blog/images/1843316_81_144879_2P6SY4Lf6.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "items": [
-      {
-        "brief": "**Ozlo Sleepbuds 2** 是 Bose 睡眠耳塞的精神续作，续航翻倍且支持自定义白噪音混搭，海外失眠社区反响热烈。",
-        "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Case-Product-Hero.jpg?resize=1200,800"
-      },
-      {
-        "brief": "Apple 2026 款 **AirPods** 迎来最高 $100 折扣，新品在降噪和空间音频上持续迭代，是 MagSafe 生态核心配件。",
-        "url": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
-        "source": "Wired",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://media.wired.com/photos/6a6a501f4a743f1551e95445/191:100/w_1280,c_limit/If-You%E2%80%99ve-Been-Waiting-to-Upgrade-Your-AirPods,-This-Is-Your-Chance.jpg"
-      },
-      {
-        "brief": "Dyson 2026 年 **吸尘器** 全系对比评测，新款在续航和吸力上均有突破，是高端家居清洁硬件的风向标。",
-        "url": "https://www.wired.com/story/dyson-vacuum-comparison-2026/",
-        "source": "Wired",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://media.wired.com/photos/6a69252ebd14a916c83ccf41/191:100/w_1280,c_limit/Which-of-Dyson%E2%80%99s-2026-Stick-Vacuums-Is-Worth-the-Upgrade-.jpg"
-      },
-      {
-        "brief": "OpenAI 总裁确认正在打造 **AI 硬件设备家族**，将深度集成 ChatGPT，可能重新定义 AI 交互终端形态。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-        "source": "The Verge",
-        "score": 5,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Light Phone** 创始人谈反智能手机设计哲学，极简功能机在屏幕成瘾时代引发强烈共鸣，讨论热度极高。",
-        "url": "https://techcrunch.com/podcast/if-this-isnt-addiction-i-dont-know-what-is-lights-founders-get-real-about-screen-time/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Light-founders.jpeg?resize=1200,960"
-      },
-      {
-        "brief": "Keychron 发布首款 **开源固件游戏鼠标**，支持完全自定义按键和宏，硬件极客社区讨论热烈。",
-        "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-        "source": "Hacker News",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://images.digitalfoundry.net/fd99c70884c44/large.jpg"
-      },
-      {
-        "brief": "Unitree 推出 **越野机器狗**，兼具负重运输与复杂地形适应能力，消费级四足机器人新标杆。",
-        "url": "https://www.core77.com/posts/144886/Unitrees-Impressive-Off-Road-Dog-BotPack-Mule",
-        "source": "Core77",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://s3files.core77.com/blog/images/1843426_81_144886_DbZzbVoiz.jpg"
-      },
-      {
-        "brief": "**Elide 便携除皱器** 利用吸力在穿着时抚平衣物褶皱，解决差旅痛点，设计巧妙且实用。",
-        "url": "https://www.dezeen.com/2026/07/28/elide-dewrinkler-safaa-fojdar/",
-        "source": "Dezeen",
-        "score": 3,
-        "recurring": false,
-        "tier": "野生灵感",
-        "image": "http://static.dezeen.com/uploads/2026/07/sq-elide-safaa-fojdar_dezeen_2364_col_0-411x411.jpg"
-      },
-      {
-        "brief": "**自动升降车顶行李架** 通过电动臂解决装卸重物难题，中国厂商量产，户外自驾场景刚需。",
-        "url": "https://www.core77.com/posts/144891/Roof-Racks-That-Automatically-Lift-and-Lower-the-Load-For-You",
-        "source": "Core77",
-        "score": 3,
-        "recurring": false,
-        "tier": "野生灵感",
-        "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1843472_lead_400_144891_.jpg"
       }
     ]
   }

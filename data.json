@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-08-31",
+    "items": [
+      {
+        "brief": "苹果Apple TV 4K预计9月9日发布，最大亮点是搭载**Gemini驱动的Siri AI**，支持真正自然的对话式交互。作为苹果智能家居生态核心，这一升级将显著提升语音助手的实用性，并可能带动整个智能家居配件市场的交互标准升级。",
+        "url": "https://www.yankodesign.com/2026/08/30/apple-tv-4k-is-coming-september-9-with-a-gemini-powered-siri-you-can-actually-talk-to/?utm_source=rss&utm_medium=rss&utm_campaign=apple-tv-4k-is-coming-september-9-with-a-gemini-powered-siri-you-can-actually-talk-to",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/apple_tv_4k_2026_1.jpeg"
+      },
+      {
+        "brief": "据彭博社Mark Gurman报道，**Apple Watch Series 12**可能配备**全天候心率追踪**功能和新版Fitness应用，并测试两种陶瓷版本。健康监测功能的持续强化，将进一步巩固Apple Watch在智能穿戴领域的领导地位，对图拉斯等配件厂商的生态布局有重要参考价值。",
+        "url": "https://9to5mac.com/2026/08/30/apple-watch-series-12-last-minute-leaks-new-fitness-app-heart-rate/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/07/apple-watch-heart-rate-app-watchos-10.jpeg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "索尼发布**Xperia 10 VIII**，搭载骁龙6 Gen 4、6.1英寸OLED屏、5000mAh电池和50MP主摄，起售价600美元。三星则推出**Galaxy S26 FE**，升级芯片并搭载最新One UI 9和Galaxy AI功能。两款中端新机均主打AI体验，显示头部品牌正加速AI功能向中端市场渗透。",
+        "url": "https://www.gsmarena.com/xperia_10_viii_galaxy_s26_fe_are_official_poco_f9_pro_and_ultra_coming_week_35_in_review-news-74394.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/week-35-in-review/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Wired报道，一批新兴**极简主义可穿戴设备**正逆潮流而行，主打在不打扰用户的前提下静默收集健康数据。这类产品摒弃了通知轰炸和屏幕交互，专注于无感监测，为智能穿戴市场提供了全新的设计思路，对探索差异化产品形态的图拉斯具有启发意义。",
+        "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+        "source": "Wired",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6a8f1c5ba84e455f12fd962b/191:100/w_1280,c_limit/NoScreenWearable.jpg"
+      },
+      {
+        "brief": "GSMArena周度投票显示，**荣耀Robot Phone**凭借其摄像头和AI能力吸引了大量关注，但价格和仅在中国发售是主要顾虑。该产品将AI与手机形态结合，其市场反响为AI硬件的产品定义和定价策略提供了重要参考。",
+        "url": "https://www.gsmarena.com/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-results-honor-robot-phone/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "ZWO推出**Seestar S50 Pro**智能天文望远镜，将复杂的天文摄影设备浓缩进一个相机包大小的体积内，大幅降低了天文摄影门槛。该产品通过高度集成和自动化，将专业级功能转化为消费级体验，是智能硬件细分场景创新的典型案例。",
+        "url": "https://www.yankodesign.com/2026/08/29/the-zwo-seestar-s50-pro-shrinks-a-hardware-store-into-a-camera-bag/?utm_source=rss&utm_medium=rss&utm_campaign=the-zwo-seestar-s50-pro-shrinks-a-hardware-store-into-a-camera-bag",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/the-zwo-seestar-s50-pro-shrinks-a-hardware-store-into-a-camera-bag/Seestar-S50-Pro-hero.jpg"
+      },
+      {
+        "brief": "Yanko Design介绍一款售价**60美元**的**应急收音机**，可夹在包上，在紧急情况下可能救命。该产品将传统收音机功能与现代便携设计结合，主打户外和应急场景，为3C配件在细分使用场景下的创新提供了新思路。",
+        "url": "https://www.yankodesign.com/2026/08/29/this-60-radio-clips-to-your-bag-and-could-save-your-life/?utm_source=rss&utm_medium=rss&utm_campaign=this-60-radio-clips-to-your-bag-and-could-save-your-life",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/this-radio-clips-to-your-bag-and-could-save-your-life/hangingonbagside_1400x.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-08-30",
     "items": [
       {
@@ -1968,92 +2036,6 @@
         "recurring": false,
         "tier": "成熟品牌",
         "image": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?resize=1200,799"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-31",
-    "items": [
-      {
-        "brief": "**Huawei MateBook Pro S** 重量仅798g，采用三摄像头设计，极致轻薄与独特影像形态结合，在高端笔记本市场引发强烈购买欲。",
-        "url": "https://www.reddit.com/r/hardware/comments/1varibz/huawei_previews_matebook_pro_s_laptop_weighs_798g/",
-        "source": "Reddit",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Huawei-MateBook-Pro-S-teased.jpg"
-      },
-      {
-        "brief": "**Samsung Galaxy Watch 9** 预购优惠价立减40美元，附赠超50美元赠品，作为成熟品牌新品在智能穿戴市场保持强吸引力。",
-        "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-galaxy-watch-9-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Anker Prime 3合1无线充电站** 支持Qi2.2协议25W快充，折叠设计同时为iPhone、Apple Watch和AirPods充电，航空级散热技术加持。",
-        "url": "https://www.macrumors.com/2026/02/02/anker-prime-wireless-charging-station/",
-        "source": "MacRumors",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Anker-Prime-Wireless-Charging-Station-3-in-1-MagGo-AirCool-Foldable_6.jpg"
-      },
-      {
-        "brief": "**Friend 2 AI Pendant** 新增双向对话功能，作为可穿戴AI伴侣迭代升级，但不可更改性格设定引发争议，社区讨论热烈。",
-        "url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
-        "source": "Wired",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://media.wired.com/photos/6a6a649d6a06c49f95fa2cca/191:100/w_1280,c_limit/CAR.jpg"
-      },
-      {
-        "brief": "**Google Gemini Robotics 2** 可控制机器人全身动作，将AI大模型落地实体硬件，推动消费级人形机器人场景加速。",
-        "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Modhaus 混凝土底座无线充电器** 以厚重混凝土材质防滑且提升质感，极简工业风设计在桌面美学社区引发种草。",
-        "url": "https://www.core77.com/posts/144901/Modhaus-Wireless-Phone-Charger-with-a-Concrete-Base",
-        "source": "Core77",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://s3files.core77.com/blog/images/1843584_81_144901_kfqDt56LS.jpg"
-      },
-      {
-        "brief": "**自动升降车顶架** 通过电动臂一键装卸行李，解决车顶架使用痛点，中国制造已量产，户外与车载配件市场潜力大。",
-        "url": "https://www.core77.com/posts/144891/Roof-Racks-That-Automatically-Lift-and-Lower-the-Load-For-You",
-        "source": "Core77",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1843472_lead_400_144891_.jpg"
-      },
-      {
-        "brief": "**哥伦比亚摩托车-铁路适配器** 将摩托车改造为可在废弃铁轨上行驶的交通工具，极具创意的民间硬件改装方案。",
-        "url": "https://www.core77.com/posts/144907/Improvised-Transport-on-Abandoned-Infrastructure-Colombias-Ingenious-Motorcycle-Railroad-Adapters",
-        "source": "Core77",
-        "score": 3,
-        "recurring": false,
-        "tier": "野生灵感",
-        "image": "https://s3files.core77.com/blog/images/1843635_81_144907_NaGxM0Td_.jpg"
-      },
-      {
-        "brief": "**Sonic Kakusta 铅笔盒** 重新定义文具收纳体验，通过创新开合结构与分区设计提升日常使用仪式感，设计社区热议。",
-        "url": "https://www.core77.com/posts/144879/Sonics-Focus-on-the-UX-of-Pencil-Cases",
-        "source": "Core77",
-        "score": 2,
-        "recurring": false,
-        "tier": "野生灵感",
-        "image": "https://s3files.core77.com/blog/images/1843316_81_144879_2P6SY4Lf6.jpg"
       }
     ]
   }

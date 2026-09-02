@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-02",
+    "items": [
+      {
+        "brief": "戴森推出售价499美元的**CameraJet摄像头牙刷**，刷头下隐藏1mm摄像头，每秒读取28张图像，能在100毫秒内发现牙缝问题。该产品将口腔护理与精密影像技术结合，重新定义了智能个护硬件，对图拉斯探索健康监测类配件极具启发。",
+        "url": "https://www.yankodesign.com/2026/09/01/dysons-499-camera-toothbrush-is-so-advanced-they-had-to-redesign-the-toothpaste-for-it/?utm_source=rss&utm_medium=rss&utm_campaign=dysons-499-camera-toothbrush-is-so-advanced-they-had-to-redesign-the-toothpaste-for-it",
+        "source": "Yanko Design",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/645201/dyson_camerajet_toothbrush_1.jpg"
+      },
+      {
+        "brief": "iPhone Ultra新细节曝光：Mark Gurman透露其规格、多任务处理能力及发布时间。作为苹果下周二发布会的重磅新品，**iPhone Ultra**将定义新的高端旗舰形态，其多任务交互创新可能引领下一代移动设备交互范式，直接影响图拉斯高端配件产品线规划。",
+        "url": "https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Sonos发布**Beam Ultra**条形音箱（699美元）和**Ace Ultra**耳机（449美元），并推出全新Sonos Fabric系统和AI增强应用。作为智能音频头部品牌，Sonos将AI代理能力融入家庭影音生态，其软硬结合策略为智能家居音频配件树立新标杆。",
+        "url": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/beamultra1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "TP-Link在IFA 2026发布**全球首款完整Wi-Fi 8路由器产品线**。作为网络设备头部厂商，TP-Link率先落地Wi-Fi 8标准，将推动新一代无线技术的普及，对图拉斯未来无线充电和智能硬件产品的连接性能升级具有前瞻参考价值。",
+        "url": "https://www.reddit.com/r/hardware/comments/1w4d4zf/tplink_unveils_worlds_first_complete_wifi_8/",
+        "source": "Reddit",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": ""
+      },
+      {
+        "brief": "Nori Robotics（YC S26）推出**低成本人形机器人**，专为开发场景设计，在Hacker News获111分热度。该产品大幅降低了具身智能的研发门槛，让个人开发者和小团队也能进入人形机器人领域，是AI硬件民主化的重要一步。",
+        "url": "https://www.norirobotics.com/",
+        "source": "Hacker News",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://noril1.com/opengraph-image/a3-2026e?09f634070dee520a"
+      },
+      {
+        "brief": "Homey推出**Portal物理旋钮**智能家居控制器，为智能家居控制带来复古而直观的交互体验。在触屏和语音助手泛滥的当下，物理旋钮的回归满足了用户对精准、触感控制的需求，是智能家居配件形态的一次有趣探索。",
+        "url": "https://www.androidauthority.com/homey-portal-launch-features-price-availability-3705203/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Homey-Portal.jpg"
+      },
+      {
+        "brief": "一款ROG Ally X改装模块可**磁吸式安装120Hz副屏**，用毕即可取下。该设计无需购买全新双屏掌机，通过模块化升级为现有设备增添第二屏，为游戏掌机配件开辟了灵活、低成本的新形态，极具DIY吸引力。",
+        "url": "https://www.yankodesign.com/2026/09/01/this-rog-ally-x-mod-snaps-on-a-120hz-second-screen-then-off-again/?utm_source=rss&utm_medium=rss&utm_campaign=this-rog-ally-x-mod-snaps-on-a-120hz-second-screen-then-off-again",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/645033/rog-ally-x-dual-screen-mod-12.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-01",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/08/a-420-phone-just-proved-blackberry-fans-have-been-right-all-along/zinwa-q27-qwerty-smartphone-02.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "items": [
-      {
-        "brief": "售价599美元的**AI吉他**，通过智能引导和实时反馈大幅降低学习门槛，让初学者轻松上手。将AI技术与传统乐器结合，是AI硬件在消费级音乐设备领域的新探索。",
-        "url": "https://www.yankodesign.com/2026/08/03/the-599-ai-guitar-that-finally-makes-playing-easy/?utm_source=rss&utm_medium=rss&utm_campaign=the-599-ai-guitar-that-finally-makes-playing-easy",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/the-599-ai-guitar-that-finally-makes-playing-easy/tempolor-01.jpg"
-      },
-      {
-        "brief": "据Mark Gurman报道，**Apple智能眼镜**将成为重要的健康伴侣，但该功能可能不会在明年发布的第一代产品中亮相。苹果进军智能眼镜市场，将深刻影响可穿戴设备与健康生态的格局。",
-        "url": "https://9to5mac.com/2026/08/02/apple-ai-smart-glasses-to-serve-as-health-companion/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "Nothing旗下CMF品牌宣布将于8月4日发布新款**CMF Clip Pro开放式蓝牙耳机**。作为Nothing生态的亲民产品线，其新形态设计值得关注。",
-        "url": "https://www.gsmarena.com/nothing_cmf_clip_pro_launch_date-news-73972.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/cmf-clip-pro-launch-date/-184x111/gsmarena_001.jpg"
-      },
-      {
-        "brief": "苹果带摄像头的**AirPods**可能最快下月发布，集成**Visual Intelligence视觉智能**，将重新定义TWS耳机形态，并带动相关配件市场发展。",
-        "url": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
-        "source": "9to5Mac",
-        "score": 5,
-        "recurring": true,
-        "tier": "AI 硬件",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "一款新型**智能戒指**通过分析手指汗液来追踪健康指标，开创了非侵入式健康监测的新路径。其独特的生物传感方式在可穿戴设备领域具有创新性。",
-        "url": "https://www.reddit.com/r/gadgets/comments/1v9l01t/a_new_smart_ring_uses_finger_sweat_to_track_health/",
-        "source": "Reddit",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": ""
-      },
-      {
-        "brief": "Modhaus推出的**混凝土底座无线充电器**，以厚重材质解决桌面滑动问题，并提升产品质感。极简工业风设计在众筹平台迅速获得成功，是充电配件形态创新的代表。",
-        "url": "https://www.core77.com/posts/144901/Modhaus-Wireless-Phone-Charger-with-a-Concrete-Base",
-        "source": "Core77",
-        "score": 4,
-        "recurring": true,
-        "tier": "新锐产品",
-        "image": "https://s3files.core77.com/blog/images/1843584_81_144901_kfqDt56LS.jpg"
-      },
-      {
-        "brief": "**PocketByte**是一款模块化掌上游戏机，同时集成了音乐播放器和PDA功能。其模块化设计允许用户自由组合硬件，满足不同场景需求，是复古掌机市场的新奇探索。",
-        "url": "https://www.reddit.com/r/gadgets/comments/1v8o9jy/pocketbyte_is_a_modular_gaming_handheld_music/",
-        "source": "Reddit",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": ""
       }
     ]
   }

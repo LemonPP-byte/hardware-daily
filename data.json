@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-03",
+    "items": [
+      {
+        "brief": "新任苹果CEO John Ternus发布首份备忘录，**高调预告下周的“巨大发布”**，传闻将推出**首款折叠屏iPhone**。这一发布将直接定义未来一年高端手机与配件市场走向，对图拉斯等配件厂商的备货与设计方向有重大参考价值。",
+        "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+        "source": "TechCrunch",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2271736494.jpg?resize=1200,800"
+      },
+      {
+        "brief": "The Verge汇总了**IFA 2026展会目前最佳科技产品**，涵盖智能家居、笔记本电脑、游戏手柄、AI耳机等品类。作为欧洲最大消费电子展，IFA是观察头部品牌新品趋势与行业风向的核心窗口，对产品规划极具参考价值。",
+        "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "华为在慕尼黑发布**Watch 6系列**旗舰手表，并让Watch GT 7系列走向全球。华为在穿戴领域的持续迭代，特别是健康监测与设计创新，是图拉斯在智能硬件与配件生态中需要重点研究的竞品动向。",
+        "url": "https://www.gsmarena.com/huawei_watch_6_series_announced_watch_gt_7_and_gt_7_pro_go_global-news-74436.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/huawei-watch-6-series-ofic/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Yanko Design介绍一款**售价500美元的可穿戴脑电波追踪设备**，能在运动状态下全天候监测大脑活动。该产品将专业脑机接口技术消费化，是AI与健康穿戴结合的前沿形态，对探索新品类有启发意义。",
+        "url": "https://www.yankodesign.com/2026/09/02/this-500-wearable-tracks-your-brain-all-day-even-while-youre-moving/?utm_source=rss&utm_medium=rss&utm_campaign=this-500-wearable-tracks-your-brain-all-day-even-while-youre-moving",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/atlas-1-0-brain-monitoring-wearable-accurately-analyses-the-most-taxing-activities-you-better-get-up/Atlas-1-Wearable-Brain-Analysing-6.jpg"
+      },
+      {
+        "brief": "Google与MrBeast达成多年合作，将在其视频中植入**Gemini AI与Fitbit Air穿戴设备**，首期节目为荒野求生。借助MrBeast的庞大流量，这一合作将极大推动AI硬件在消费市场的认知度与购买欲。",
+        "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Yanko Design介绍一款**将CD机械结构外露展示的CD播放器**，以透明外壳和可视化的读碟过程，将怀旧媒介转化为桌面上的机械美学摆件。这种将复古功能与现代工业设计结合的手法，对3C配件的颜值创新有借鉴意义。",
+        "url": "https://www.yankodesign.com/2026/09/02/this-cd-player-doesnt-hide-its-mechanism-it-puts-it-on-display/?utm_source=rss&utm_medium=rss&utm_campaign=this-cd-player-doesnt-hide-its-mechanism-it-puts-it-on-display",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/your-cd-player-finally-turns-albums-into-wall-art/ClearFrame-CD-Player-Speaker_Retro_Analogue_hero.jpg"
+      },
+      {
+        "brief": "Anker Prime移动电源迎来**21%折扣，降至259.99美元**，这款高端充电宝配备智能显示屏且支持笔记本级输出。作为充电品类头部品牌的旗舰产品降价，是观察市场定价策略与消费者反馈的重要样本。",
+        "url": "https://www.androidauthority.com/anker-prime-power-bank-deal-amazon-3706359/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/anker-prime-power-bank-ifa.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-02",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/kef_ls_luxe_1.jpeg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-04",
-    "items": [
-      {
-        "brief": "LISEN推出Qi2.2标准MagSafe充电宝，支持更快的MagSafe充电速度，并配备市场上最独特的挂绳系统，兼顾尺寸与设计，是充电配件领域的创新形态。",
-        "url": "https://9to5mac.com/2026/08/03/lisen-qi2-2-magsafe-battery/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Lisen-battery-2.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "Sony为旗舰降噪耳机WH-1000XM6新增橄榄灰配色，这是该系列的第六种颜色选项，延续了旗舰产品的市场热度，为消费者提供更多个性化选择。",
-        "url": "https://www.gsmarena.com/sony_adds_an_interesting_new_color_to_its_wh1000xm6_range-news-73989.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/sony-wh-1000xm6-new-color/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "即将于9月1日接任苹果CEO的John Ternus，在过渡期前召回一位已退休的硬件工程副总裁，此举旨在强化硬件团队，预示着苹果未来产品战略的调整。",
-        "url": "https://9to5mac.com/2026/08/03/john-ternus-recruits-key-apple-hardware-vp-out-of-retirement-ahead-of-ceo-transition/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_0033.jpeg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "DJI Osmo Pocket 4P在实验室测试中画质超越ARRI ALEXA 35，得益于全新的Lofic传感器技术，展示了其在便携影像设备领域的强大技术实力。",
-        "url": "https://www.reddit.com/r/hardware/comments/1ve93b6/dji_osmo_pocket_4p_beats_the_arri_alexa_35_in_our/",
-        "source": "Reddit",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": ""
-      },
-      {
-        "brief": "Motorola推出配备9个JBL扬声器的平板电脑，旨在解决平板音质差的痛点，通过多扬声器阵列提供沉浸式音频体验，是娱乐平板形态的一次大胆创新。",
-        "url": "https://www.yankodesign.com/2026/08/03/tablets-sound-bad-so-motorola-just-put-9-jbl-speakers-in-one/?utm_source=rss&utm_medium=rss&utm_campaign=tablets-sound-bad-so-motorola-just-put-9-jbl-speakers-in-one",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/tablets-sound-bad-so-motorola-just-put-9-jbl-speakers-in-one/motorola-moto-pad-70-groove-05.jpg"
-      },
-      {
-        "brief": "SwitchBot推出售价119美元的便携电池风扇，支持Matter over Wi-Fi协议，可无缝融入智能家居生态，适用于露台、露营地等多种户外场景。",
-        "url": "https://www.yankodesign.com/2026/08/03/switchbots-119-portable-battery-fan-brings-matter-over-wi-fi-to-patios-and-campsites/?utm_source=rss&utm_medium=rss&utm_campaign=switchbots-119-portable-battery-fan-brings-matter-over-wi-fi-to-patios-and-campsites",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/switchbot_battery_circular_fan_1.jpeg"
-      },
-      {
-        "brief": "一款售价420美元的手机证明了实体键盘爱好者的坚持是正确的，在触屏手机主导的市场中，为怀旧且追求高效输入的用户提供了新的选择。",
-        "url": "https://www.yankodesign.com/2026/08/03/a-420-phone-just-proved-blackberry-fans-have-been-right-all-along/?utm_source=rss&utm_medium=rss&utm_campaign=a-420-phone-just-proved-blackberry-fans-have-been-right-all-along",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/a-420-phone-just-proved-blackberry-fans-have-been-right-all-along/zinwa-q27-qwerty-smartphone-02.jpg"
       }
     ]
   }

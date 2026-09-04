@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-04",
+    "items": [
+      {
+        "brief": "UGREEN发布**MagFlow Pro磁吸无线充电宝**，配备可视化**液态冷却系统**，用户可直接看到冷却液流动。售价149.99美元，10000mAh容量，定位高端市场。将充电过程转化为视觉体验，极具话题性和购买欲。",
+        "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+        "source": "The Verge",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Anker在IFA 2026推出**MindBase**智能家居中枢，可为旧款eufy摄像头提供本地AI处理能力，并支持高达**48TB**存储。该设备让现有安防硬件获得“大脑”升级，是盘活存量市场的创新思路，对充电及配件大厂Anker的生态布局有标杆意义。",
+        "url": "https://www.yankodesign.com/2026/09/03/anker-mindbase-gives-your-old-eufy-cameras-a-real-brain-and-48tb-of-memory-hands-on-at-ifa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=anker-mindbase-gives-your-old-eufy-cameras-a-real-brain-and-48tb-of-memory-hands-on-at-ifa-2026",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/645767/anker_mindbase_1.jpg"
+      },
+      {
+        "brief": "Belkin在IFA 2026推出**SureFind Loop Cable Tag**，这是首款自带可用**USB-C挂绳**的追踪器。它解决了AirTag等产品需另购配件的痛点，将充电线与防丢标签合二为一，形态新颖，对3C配件品类有启发意义。",
+        "url": "https://www.yankodesign.com/2026/09/03/the-first-tracker-with-a-working-usb-c-leash-hands-on-with-belkin-surefind-loop-cable-tag-at-ifa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-tracker-with-a-working-usb-c-leash-hands-on-with-belkin-surefind-loop-cable-tag-at-ifa-2026",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/645787/belkin_surefind_loop_cable_tag_ifa2026_1.jpg"
+      },
+      {
+        "brief": "**Qualcomm**领投**Ultrahuman** 7000万美元融资，押注将智能戒指发展为“计算机”。Ultrahuman正基于高通平台打造新款智能戒指，目标在2027年1月实现2亿美元年收入。此举表明芯片巨头看好智能戒指赛道，将加速该品类从健康追踪向独立计算平台演进。",
+        "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg?resize=1200,800"
+      },
+      {
+        "brief": "Circular发布**Ring 3系列**智能戒指，新增**非接触式支付**和指上震动提醒功能。该系列包含Pro和Slim两个型号，在Oura Ring 5和RingConn Gen 3竞争白热化的背景下，通过支付功能寻求差异化，是智能穿戴领域值得关注的新动向。",
+        "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Circular-Ring-3-Slim-Lineup.png?resize=1200,1200"
+      },
+      {
+        "brief": "Vention在IFA 2026推出自有品牌充电宝，设计语言强调美学而非参数，外观如“日落”般具有氛围感。作为长期为其他品牌代工电池的厂商，此举是其走向前台的关键一步，其设计驱动的充电产品形态值得关注。",
+        "url": "https://www.yankodesign.com/2026/09/03/ventions-new-power-bank-reads-like-a-sunset-not-a-spec-sheet/?utm_source=rss&utm_medium=rss&utm_campaign=ventions-new-power-bank-reads-like-a-sunset-not-a-spec-sheet",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/ventions-new-power-bank-reads-like-a-sunset-not-a-spec-sheet/vention-h-series-dash-series.jpg"
+      },
+      {
+        "brief": "UGREEN发布新款**Qi2充电宝**，主打可视化冷却系统，将散热功能从“感受”变为“可见”。该产品是UGREEN MagFlow Pro系列的一部分，通过透明窗口展示冷却液流动，为充电宝品类带来了新的交互和视觉卖点。",
+        "url": "https://www.androidauthority.com/ugreen-magflo-pro-3706594/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/ugreen-chargers-group.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-03",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/08/camera-batteries-go-missing-so-this-70-one-tracks-itself/falcam-tagbatt-03.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "items": [
-      {
-        "brief": "BitmoLab GAMEBABY 推出新款半透明手机壳，将 iPhone 变身为带实体按键的 Game Boy。无需额外充电或携带配件，既是日常手机壳又是复古游戏掌机，精准击中怀旧情怀与实用性的结合点，是极具购买欲的 3C 配件创新。",
-        "url": "https://9to5mac.com/2026/08/04/hands-on-gamebabys-new-translucent-case-turns-your-iphone-into-a-game-boy-with-real-buttons/",
-        "source": "9to5Mac",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/GAMEBABY-FI.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "智能戒指终于找到了睡眠追踪之外的存在理由。文章探讨了 Oura、三星 Galaxy Ring 等产品在健康监测之外的新功能方向，为智能戒指这一品类开辟了新的应用场景和购买动机，对可穿戴设备行业具有启发意义。",
-        "url": "https://www.yankodesign.com/2026/08/04/smart-rings-finally-got-a-reason-to-exist-beyond-sleep-tracking/?utm_source=rss&utm_medium=rss&utm_campaign=smart-rings-finally-got-a-reason-to-exist-beyond-sleep-tracking",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/smart-rings-finally-got-a-reason-to-exist-beyond-sleep-tracking/smart-ring-01.jpg"
-      },
-      {
-        "brief": "三星下一代折叠屏显示技术曝光，通过重新设计的超薄玻璃层，有望让未来 Galaxy Z Fold 的折痕变得不那么明显，同时提升屏幕平整度和耐用性。这一技术动向将直接影响折叠屏手机配件（如保护膜）的市场格局。",
-        "url": "https://www.androidauthority.com/samsung-ctg-foldable-display-3694523/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Z-Fold-8-1-week-later.jpg"
-      },
-      {
-        "brief": "Oppo A7 Pro Max 正式发布，搭载 Oppo 史上最大的 10,000 mAh 电池，支持 80W 快充和 27W 反向有线充电。官方称可承受至少 1500 次充放电循环，超长续航与耐用性成为其核心卖点。",
-        "url": "https://www.gsmarena.com/oppo_a7_pro_max_is_official_with_oppos_biggest_battery_ever-news-74003.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/oppo-a7-pro-max-official/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "Ati Robotics 展示了一款主要在印度组装、仅使用少量中国零件的机器人。在特朗普政府对中国机器人实施禁令的背景下，这种供应链策略可能成为其独特优势，为消费级机器人市场的格局带来变数。",
-        "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
-        "source": "Wired",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://media.wired.com/photos/6a6b1ddcb699cd04dbc2d5af/191:100/w_1280,c_limit/073126_How%20One%20Startup%20Built%20a%20(Mostly)%20China-Free%20Robot.jpg"
-      },
-      {
-        "brief": "Khadas 推出售价 199 美元的便携耳放，可像钱包一样磁吸吸附在 iPhone 背面。解决了传统 DAC 小尾巴的连接累赘问题，将高保真音频与 MagSafe 生态无缝融合，为手机音频发烧友提供了全新的形态选择。",
-        "url": "https://www.yankodesign.com/2026/08/04/khadas-just-made-a-199-amp-that-snaps-to-your-iphone-like-a-wallet/?utm_source=rss&utm_medium=rss&utm_campaign=khadas-just-made-a-199-amp-that-snaps-to-your-iphone-like-a-wallet",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/khadas-just-made-a-199-amp-that-snaps-to-your-iphone-like-a-wallet/khadas-tea-pro-dac-07.jpg"
-      },
-      {
-        "brief": "Ross Lovegrove 设计的 Hi-Fi 音箱形似河卵石，支持 384 kHz 音频流。将自然有机形态与高保真音频技术结合，既是桌面艺术品又是高性能音频设备，为便携音频硬件带来了全新的美学方向。",
-        "url": "https://www.yankodesign.com/2026/08/04/ross-lovegroves-hi-fi-speakers-look-like-river-pebbles-stream-384-khz-audio/?utm_source=rss&utm_medium=rss&utm_campaign=ross-lovegroves-hi-fi-speakers-look-like-river-pebbles-stream-384-khz-audio",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/kef_ls_luxe_1.jpeg"
       }
     ]
   }

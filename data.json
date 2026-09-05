@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-05",
+    "items": [
+      {
+        "brief": "Belkin在IFA 2026推出**半固态充电宝**，这是充电技术的一次重要革新。半固态电池相比传统锂电具有更高能量密度和安全性，Belkin作为头部配件品牌率先落地该技术，将推动整个充电品类向新电池形态迁移，对图拉斯的产品规划具有直接参考价值。",
+        "url": "https://www.reddit.com/r/gadgets/comments/1w76uue/belkin_launches_semi_solid_state_power_banks_at/",
+        "source": "Reddit",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": ""
+      },
+      {
+        "brief": "苹果将于9月9日举行发布会，预计推出**iPhone 18系列**及传闻已久的**折叠屏iPhone Ultra**。这是新CEO John Ternus首次主持发布会，也是苹果首款折叠屏产品，将直接定义未来两年高端手机市场格局，并带动相关配件生态的全面洗牌。",
+        "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+        "source": "The Verge",
+        "score": 5,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-08-26-at-9.17.30-AM.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Anker推出**SOLIX E10全屋备用电源系统**，主打“风暴不停电”的无限家庭供电场景。该系统将Anker从移动充电拓展至家庭储能领域，是其在能源品类上的重要战略布局，其产品定义和渠道打法对图拉斯拓展新品类有借鉴意义。",
+        "url": "https://www.androidauthority.com/anker-solix-e10-3701899/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/01/Anker-SOLIX-E10-with-smart-generator-scaled.jpg"
+      },
+      {
+        "brief": "The Verge汇总了**IFA 2026最佳科技产品**，涵盖无边框手机、扫地机器人、AI耳机等。作为欧洲最大消费电子展，IFA是下半年新品风向标，这份清单能快速帮图拉斯捕捉到充电、配件、AI硬件领域的最新设计语言与功能趋势。",
+        "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/besttop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Yanko Design盘点了IFA 2026上最疯狂的**可穿戴设备**，主题是“身体即新科技平台”。这些产品将传感器与身体深度融合，覆盖健康监测、交互控制等新场景，展示了可穿戴设备在形态和功能上的更多可能性，对图拉斯探索智能硬件新品类具有启发意义。",
+        "url": "https://www.yankodesign.com/2026/09/04/your-body-is-the-new-tech-platform-the-wildest-wearables-at-ifa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=your-body-is-the-new-tech-platform-the-wildest-wearables-at-ifa-2026",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/draft-gcs-body-tech/gcs_body_tech_ifa2026_1.jpg"
+      },
+      {
+        "brief": "Bandai为庆祝**Tamagotchi**诞生30周年，推出了一款可佩戴的**微型戒指版电子宠物**，尺寸仅28毫米。这款产品将怀旧IP与可穿戴设备结合，创造了全新的情感陪伴场景，展示了IP硬件化的巨大潜力，是智能穿戴与情感消费结合的典型案例。",
+        "url": "https://www.dezeen.com/2026/09/02/tamagochi-ring/",
+        "source": "Dezeen",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "http://static.dezeen.com/uploads/2026/09/sq-tamagotchi-ring_dezeen_2364_col_0-411x411.jpg"
+      },
+      {
+        "brief": "Tecno在IFA 2026展示了**无边框概念手机**，通过消除屏幕黑边将屏占比推向极限。GSMArena进行了上手体验，指出其金属中框因此显得更宽。这一设计探索代表了手机形态进化的一个前沿方向，其结构设计思路对3C配件（如保护壳）的适配提出了新挑战。",
+        "url": "https://www.gsmarena.com/tecno_bezelless_concept_phone_handson-news-74476.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/tecno-bezel-less-concept-ifa-2026/-184x111/gsmarena_00.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-04",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/08/phones-turn-reminders-into-distractions-this-magnetic-display-wont/zectrix-note-4-01.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "items": [
-      {
-        "brief": "谷歌将于8月12日发布**Pixel Tag**，这是其首款类AirTag追踪器，售价**€34.99**，与苹果AirTag定价完全一致。作为头部品牌进入智能追踪器赛道，将直接改变该品类竞争格局，对图拉斯配件生态具有参考意义。",
-        "url": "https://www.gsmarena.com/this_is_when_google_is_launching_the_pixel_tag_and_how_much_it_costs-news-74027.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-pixel-tag-price-launch-date/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**Apple Watch Ultra 4**将于下月与iPhone 18 Pro一同发布，文章盘点了三项令人兴奋的传闻新功能。作为苹果旗舰智能穿戴的迭代，其新功能方向将引领整个可穿戴配件市场（表带、充电座等）的设计趋势。",
-        "url": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-4-green.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "华为发布**MateBook Fold**，一款售价**$3,700**的触屏笔记本，形态独特。作为头部厂商在折叠形态上的新探索，其铰链与屏幕技术对3C配件（保护壳、支架）的适配设计有前瞻参考价值。",
-        "url": "https://www.androidauthority.com/huawei-matebook-fold-3694954/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/huawei-matebook-fold-5.jpg"
-      },
-      {
-        "brief": "9to5Mac盘点了2026年迄今最喜欢的**Apple Watch配件**，其中提到Memoket Gem——一款**11g**的AI可穿戴设备，可嵌入Apple Watch表带旁，按一下即可记录对话并关联历史讨论，售价**$179**，2026年8月发货。",
-        "url": "https://9to5mac.com/2026/08/05/these-are-my-favorite-apple-watch-accessories-of-2026-so-far/",
-        "source": "9to5Mac",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/IMG_5544_99cc38-e1785341066193.jpeg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "荣耀启用全新Logo和“Dare to Be”口号，并透露与电影相机厂商Arri合作的**Robot Phone**（机器人手机）正在推进。这一“手机+机器人”的新形态探索，代表了头部品牌对AI硬件融合的前沿方向。",
-        "url": "https://www.gsmarena.com/honor_adopts_new_logo_and_dare_to_be_slogan_says_it_grew_25_in_the_first_quarter_of_2026-news-74017.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-continues-rebranding/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "Nothing旗下CMF品牌推出**CMF Clip Pro**开放式耳机，其充电盒创新性地集成**拨盘**用于接听电话。这种在充电盒上做交互创新的形态，为TWS耳机配件（保护壳、充电配件）提供了新的设计思路。",
-        "url": "https://www.yankodesign.com/2026/08/05/cmf-clip-pro-open-ear-buds-come-with-a-charging-case-dial-to-take-calls/?utm_source=rss&utm_medium=rss&utm_campaign=cmf-clip-pro-open-ear-buds-come-with-a-charging-case-dial-to-take-calls",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/cmf-clip-pro-open-ear-buds-come-with-a-charging-case-dial-to-take-calls/Nothing-CMF-Clip-Pro-Open-Ear-Buds-9.jpg"
-      },
-      {
-        "brief": "一款售价**$70**的相机电池内置追踪功能，解决摄影师电池易丢失的痛点。将防丢追踪模块集成到电池这一基础配件中，是3C配件功能创新的有趣案例，对充电宝等移动电源产品有启发。",
-        "url": "https://www.yankodesign.com/2026/08/05/camera-batteries-go-missing-so-this-70-one-tracks-itself/?utm_source=rss&utm_medium=rss&utm_campaign=camera-batteries-go-missing-so-this-70-one-tracks-itself",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/camera-batteries-go-missing-so-this-70-one-tracks-itself/falcam-tagbatt-03.jpg"
       }
     ]
   }

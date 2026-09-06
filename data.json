@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-06",
+    "items": [
+      {
+        "brief": "Yanko Design 介绍了一款售价 **99 美元** 的 **AI 夹式设备**，主打“记住你忘记的一切”。它面向会议和对话场景，通过AI进行记录与回忆，以极低的价格切入AI可穿戴市场，有望激发大众消费者的购买欲。",
+        "url": "https://www.yankodesign.com/2026/09/05/this-99-clip-on-ai-remembers-everything-youll-ever-forget/?utm_source=rss&utm_medium=rss&utm_campaign=this-99-clip-on-ai-remembers-everything-youll-ever-forget",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/this-99-clip-on-ai-remembers-everything-youll-ever-forget/switchbot-ai-00.jpg"
+      },
+      {
+        "brief": "据 GSMArena 报道，**苹果** 正在研发两款 **游戏手柄**。尽管细节尚未公布，但苹果进入游戏硬件配件领域，将直接改变游戏外设市场的竞争格局，对图拉斯等3C配件厂商具有重要的战略参考意义。",
+        "url": "https://www.gsmarena.com/apple_apparently_has_two_game_controllers_in_the_works-news-74487.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-two-unannounced-game-controllers/-184x111/gsmarena_001.jpg"
+      },
+      {
+        "brief": "**小米** 在中国市场正式发布 **Smart Band 11** 智能手环，延续标志性的药丸形屏幕设计。作为全球可穿戴设备的头部玩家，小米手环的迭代将巩固其在入门级市场的地位，并影响整个智能手环品类的设计风向。",
+        "url": "https://www.gsmarena.com/xiaomi_unveils_the_smart_band_11-news-74489.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-unveil-smart-band-11/-184x111/gsmarena_001.jpg"
+      },
+      {
+        "brief": "TechCrunch 报道，**Oura** 即将上市，但 **智能戒指** 赛道正面临众多新锐挑战。文章盘点了试图挑战Oura统治地位的新兴公司及其差异化策略，揭示了智能戒指市场即将爆发的激烈竞争与创新方向。",
+        "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800"
+      },
+      {
+        "brief": "Android Authority 认为 **Insta360 X6** 全景相机有望成为“一机走天下”的终极设备。其强大的 **AI 剪辑** 功能降低了全景内容创作门槛，可能推动全景相机从小众走向大众市场，成为新的消费电子热点。",
+        "url": "https://www.androidauthority.com/insta360-x6-ai-editing-3707926/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Insta360-logo-with-X6-camera.jpg"
+      },
+      {
+        "brief": "**Razer** 推出 **Clio X** 游戏音频设备，专为“摘下耳机”的场景设计。它解决了游戏玩家在沉浸体验与感知环境之间的痛点，是游戏音频外设形态的一次创新尝试，对3C配件品类有启发意义。",
+        "url": "https://www.yankodesign.com/2026/09/05/razers-clio-x-is-gaming-audio-for-when-headphones-have-to-come-off/?utm_source=rss&utm_medium=rss&utm_campaign=razers-clio-x-is-gaming-audio-for-when-headphones-have-to-come-off",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/razers-clio-x-is-gaming-audio-for-when-headphones-have-to-come-off/razer-clio-x-01.jpg"
+      },
+      {
+        "brief": "继三星和华为之后，**摩托罗拉** 也被曝将推出自家的 **横向折叠屏手机**，预计于“未来几个月”内发布。此举标志着横向折叠屏市场进入多强争霸阶段，将加速该形态的普及并重塑高端手机市场格局。",
+        "url": "https://www.gsmarena.com/motorola_wide_foldable_design_sketches-news-74488.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/motorola-wide-foldable-design-sketches/-184x111/gsmarena_001.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-05",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/08/most-laptops-seal-the-battery-in-dynabooks-new-one-lets-you-swap-it/dynabook-laptops-with-replaceable-battery-02.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "items": [
-      {
-        "brief": "OpenAI与Jony Ive合作的首款设备据传为**冰球大小的甜甜圈造型智能音箱**，无屏幕、内置电池，预计2027年上市，售价超300美元。其独特外观和活动部件设计，有望重新定义AI交互终端形态。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-        "source": "The Verge",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&#038;strip=all&#038;crop=21.6,18.717179294824,78.4,81.282820705176"
-      },
-      {
-        "brief": "三星Galaxy Z Fold8、Fold8 Ultra和Flip8成为**欧洲预购量最高的折叠屏手机**，打破此前纪录超17%。这标志着折叠屏形态在主流市场接受度显著提升，对3C配件厂商而言是重要的产品设计风向标。",
-        "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_fold8_flip8_europe_pre_order_record-news-74043.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-flip8-record-pre-orders/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "谷歌Pixel 11 Pro系列将配备**集成于后置相机条的RGB LED通知灯**，可能以HiLight品牌推出。这一复古但实用的功能，为智能手机交互提供了新的视觉反馈方式，有望带动相关配件生态。",
-        "url": "https://www.gsmarena.com/googles_rumored_pixel_glow_feature_may_launch_as_hilight_supported_colors_leak-news-74037.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/pixel-11-pro-fold-hilight-leak/-184x111/gsmarena_00.jpg"
-      },
-      {
-        "brief": "OpenAI传闻中的AI智能音箱售价预计在**300至400美元之间**。作为OpenAI首款消费级硬件，其定价和形态将直接影响AI硬件市场的竞争格局，对同类产品具有重要参考意义。",
-        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
-      },
-      {
-        "brief": "Wired评测了2026年**最佳AI记事本设备**，这些口袋大小的硬件能轻松录音并提取信息。AI与随身硬件的结合正成为新趋势，为3C配件厂商提供了新的产品方向。",
-        "url": "https://www.wired.com/gallery/best-ai-notetakers/",
-        "source": "Wired",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://media.wired.com/photos/6987b1c6829bf2e80f43c31b/191:100/w_1280,c_limit/The%20Best%20AI%20Notetakers%20to%20Record%20Your%20Meetings,%20Interviews,%20or%20Classes.png"
-      },
-      {
-        "brief": "Twelve South推出**小巧的夜间充电板**，专为床头柜场景设计。尽管价格不菲，但其精致的设计和实用的场景定位，获得了编辑的青睐，展示了充电配件在细分场景下的创新潜力。",
-        "url": "https://www.engadget.com/2230008/twelve-south-tiny-new-charging-pad-perfect-for-nightstand/",
-        "source": "Engadget",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.engadget.com/img/gallery/twelve-south-tiny-new-charging-pad-perfect-for-nightstand/l-intro-1785858901.jpg"
-      },
-      {
-        "brief": "一款**磁吸式显示屏**旨在解决手机提醒带来的干扰问题，通过物理方式隔离信息，让用户专注于当前任务。这种反智能手机化的设计，为3C配件提供了新的交互思路。",
-        "url": "https://www.yankodesign.com/2026/08/06/phones-turn-reminders-into-distractions-this-magnetic-display-wont/?utm_source=rss&utm_medium=rss&utm_campaign=phones-turn-reminders-into-distractions-this-magnetic-display-wont",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/phones-turn-reminders-into-distractions-this-magnetic-display-wont/zectrix-note-4-01.jpg"
       }
     ]
   }

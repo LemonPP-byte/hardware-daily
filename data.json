@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-09",
+    "items": [
+      {
+        "brief": "Anker在IFA 2026推出**Soundcore Sleep Earbuds 4 Pro**，将心率传感器塞入耳道，并在充电盒上配备圆形AMOLED触摸屏。其核心卖点是**实时自适应掩蔽打鼾声**，为睡眠耳机品类带来全新交互形态与功能整合，直接切中睡眠健康这一高增长场景。",
+        "url": "https://www.yankodesign.com/2026/09/08/ankers-sleep-earbuds-4-pro-silence-snoring-in-real-time-with-adaptive-masking-hands-on-at-ifa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ankers-sleep-earbuds-4-pro-silence-snoring-in-real-time-with-adaptive-masking-hands-on-at-ifa-2026",
+        "source": "Yanko Design",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/646964/anker_soundcore_sleep_4_pro_ifa2026_1.jpg"
+      },
+      {
+        "brief": "据彭博社Mark Gurman报道，苹果为其即将发布的**折叠屏iPhone Ultra**设定了高达**1999美元**的目标售价。这一价格定位不仅彰显其超高端产品策略，更将直接拉高折叠屏品类的市场天花板，对行业格局产生深远影响。",
+        "url": "https://www.gsmarena.com/apple_wanted_the_iphone_ultra_to_cost_1999_new_report_says-news-74523.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-ultra-original-price/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "在苹果即将入局折叠屏市场的前一天，三星高调展示其**Galaxy Z Fold 8/Flip 8**系列的市场优势，强调吸引了大量首次购买折叠屏的用户。此举意在先声夺人，巩固其折叠屏领导地位，并回应来自苹果的正面竞争。",
+        "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-sales-3708955/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-vs-z-fold-8-ultra-2.jpg"
+      },
+      {
+        "brief": "华为似乎终于解决了其**三折叠屏手机**上备受诟病的缺陷——折叠后部分柔性屏幕暴露在外的问题。Yanko Design的报道指出这一改进，意味着华为在超形态折叠屏的耐用性和设计成熟度上迈出关键一步，持续引领该细分品类创新。",
+        "url": "https://www.yankodesign.com/2026/09/08/huawei-finally-fixed-the-one-flaw-that-followed-its-tri-fold-phone/?utm_source=rss&utm_medium=rss&utm_campaign=huawei-finally-fixed-the-one-flaw-that-followed-its-tri-fold-phone",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/huawei-finally-fixed-the-one-flaw-that-followed-its-tri-fold-phone/huawei-mate-xt-2-ultimate-design-05.jpg"
+      },
+      {
+        "brief": "在IFA 2026上，一款**自动移动的哈利波特主题棋盘**从众多AI gadget中脱颖而出，成为全场焦点。它将实体棋盘与自动化机械结构结合，创造出极具沉浸感和话题性的交互体验，展示了实体硬件在娱乐场景的独特魅力。",
+        "url": "https://www.yankodesign.com/2026/09/08/this-self-moving-harry-potter-chessboard-stole-the-show-at-ifa-2026-from-every-ai-gadget/?utm_source=rss&utm_medium=rss&utm_campaign=this-self-moving-harry-potter-chessboard-stole-the-show-at-ifa-2026-from-every-ai-gadget",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/646949/gochess_wizard_harry_potter_ifa2026_1.jpg"
+      },
+      {
+        "brief": "三星设计成员项目**Hissy**推出了一款**利用CO₂气瓶制冷的夹克**，无需电池即可在极端高温下为人体降温。该概念为可穿戴降温设备提供了全新的能源与形态思路，尤其适合户外与极端气候场景，具备较高的创新性与话题度。",
+        "url": "https://www.yankodesign.com/2026/09/08/this-co2-powered-cooling-jacket-could-keep-you-comfortable-in-extreme-heat-without-a-battery/?utm_source=rss&utm_medium=rss&utm_campaign=this-co2-powered-cooling-jacket-could-keep-you-comfortable-in-extreme-heat-without-a-battery",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/this-co2-powered-cooling-jacket-could-keep-you-comfortable-in-extreme-heat-without-a-battery/Hissy-Cooling-Jacket-2.jpg"
+      },
+      {
+        "brief": "一家扫地机器人公司跨界推出**8K运动相机**，这一消息在Reddit引发热议。传统清洁电器品牌进军影像硬件的动作，预示着消费硬件品类边界正变得模糊，新玩家的跨界打法可能为运动相机市场带来新的竞争变量。",
+        "url": "https://www.reddit.com/r/gadgets/comments/1waouvn/a_robot_vacuum_company_is_launching_an_8k_action/",
+        "source": "Reddit",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": ""
+      }
+    ]
+  },
+  {
     "date": "2026-09-08",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airtag-2-radiating-sound.jpg?quality=82&#038;strip=all&#038;w=1600"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "items": [
-      {
-        "brief": "Ohsnap MCON是一款通过MagSafe磁吸在iPhone背面的模块化游戏手柄，滑开即可变身掌机，收起后小巧便携。9to5Mac编辑亲测两周，认为其概念与实用性俱佳，是手机游戏配件的创新形态，对3C配件品类有启发意义。",
-        "url": "https://9to5mac.com/2026/08/09/hands-on-this-modular-controller-slides-open-to-transform-your-iphone-into-a-mobile-game-console-video/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/controller.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "据彭博社Mark Gurman报道，苹果计划在今年重新推出备受喜爱的**陶瓷版Apple Watch**。该材质上次出现于2019年的Series 5，此次回归将作为更高端的材质选项，有望成为Apple Watch产品线的新卖点，对智能穿戴配件生态有直接影响。",
-        "url": "https://9to5mac.com/2026/08/09/a-new-ceramic-apple-watch-could-go-on-sale-soon/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/08/Ceramic.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "彭博社报道，苹果正考虑为Apple Watch进行彻底革新，包括探索**圆形屏幕**等更激进的设计。此举旨在应对Oura Ring等无屏智能健身设备的竞争，意味着苹果将从头重新构想Apple Watch，对整个可穿戴行业格局有重大影响。",
-        "url": "https://9to5mac.com/2026/08/09/apple-watch-revamp-redesign-round-screen/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-lineup.jpg?quality=82&#038;strip=all&#038;w=1456"
-      },
-      {
-        "brief": "OpenAI传闻中的AI智能音箱售价预计在**300至400美元**之间。作为OpenAI首款消费级硬件，其定价和形态将直接影响AI硬件市场格局，是图拉斯关注AI硬件赛道的重要风向标。",
-        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": true,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
-      },
-      {
-        "brief": "爱沙尼亚初创公司Rollo Robotics推出**单轮安防机器人1Rollo**，采用类似BB-8的独特单轮形态，旨在降低复杂度和成本。这一新颖的硬件形态为安防机器人领域带来新思路，展示了具身智能在垂直场景的创新可能。",
-        "url": "https://www.core77.com/posts/144936/Unique-Form-Factor-for-a-Security-Robot-Rollos-Monowheel-Bot",
-        "source": "Core77",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://s3files.core77.com/blog/images/1844107_81_144936_FK5a5UxKH.jpg"
-      },
-      {
-        "brief": "一款创新机械键盘通过可切换的物理结构，在**打字手感与游戏手感**间自由变换，解决了键盘市场长期以来的细分痛点。这种在单一硬件上实现两种物理体验的模块化设计，对3C配件创新具有参考价值。",
-        "url": "https://www.yankodesign.com/2026/08/08/most-keyboards-pick-typing-or-gaming-this-one-swaps-its-physical-feel/?utm_source=rss&utm_medium=rss&utm_campaign=most-keyboards-pick-typing-or-gaming-this-one-swaps-its-physical-feel",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/most-keyboards-pick-typing-or-gaming-this-one-swaps-its-physical-feel/GlowHint-KT75-Hall-Effect-Rapid-Trigger-Magnetic-Keyboard-hero.jpg"
-      },
-      {
-        "brief": "中国音频品牌Syitren推出**透明CD播放器RM1**，采用亚克力框架，可桌面或壁挂使用，兼具播放功能与展示艺术性。其独特的透明设计和针对Gen Z的定位，为便携音频硬件提供了新的形态参考。",
-        "url": "https://www.core77.com/posts/144933/A-Transparent-CD-Player",
-        "source": "Core77",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://s3files.core77.com/blog/images/1844059_81_144933_M_ka3iubA.jpeg"
       }
     ]
   }

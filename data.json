@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-11",
+    "items": [
+      {
+        "brief": "Insta360 发布 **Luna Pro 云台相机**，搭载 **1 英寸传感器**与徕卡 Summicron 镜头，支持 8K 杜比视界与 10-bit I-Log，由 4nm 芯片加独立图像处理器驱动。手持云台相机在影像配件赛道持续升温，对图拉斯拓展影像周边与支架类配件有参考价值。",
+        "url": "https://www.gsmarena.com/insta360_luna_pro_gimbal_camera_goes_official_with_a_1inch_sensor-news-74571.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/insta360-luna-pro-announced/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "Nomad 为 iPhone Duo 推出 **皮革 Folio 保护壳**，把折叠屏手机变成类似双折钱包的形态。折叠屏手机壳是配件厂商的新战场，Nomad 以皮革材质和钱包式交互切入，为图拉斯在折叠屏保护壳品类提供设计思路。",
+        "url": "https://www.yankodesign.com/2026/09/10/nomads-leather-folio-turns-your-iphone-duo-into-a-1999-bifold-wallet/?utm_source=rss&utm_medium=rss&utm_campaign=nomads-leather-folio-turns-your-iphone-duo-into-a-1999-bifold-wallet",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/647478/nomad_iphone_duo_foliocase_1.jpeg"
+      },
+      {
+        "brief": "Belkin 的 **45W 紧凑型 USB-C 充电器**在亚马逊降价 25% 至 **14.99 美元**，支持 PD 3.1 与 PPS，可为手机、平板及部分笔记本供电。头部配件品牌在 GaN 充电器上的价格下探，直接影响图拉斯在同类快充产品的定价与规格竞争。",
+        "url": "https://www.androidauthority.com/belkin-45w-compact-charger-deal-3710049/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": ""
+      },
+      {
+        "brief": "Apple 发布 **Watch Series 12 与 Watch Ultra 4**，新增 **Audio Intelligence** 功能，可回听并回顾日常对话内容。这是苹果正式切入 AI 可穿戴录音与记忆场景，与 AI 夹式设备、AI 笔记硬件形成正面竞争，值得关注其对智能穿戴配件生态的带动。",
+        "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675"
+      },
+      {
+        "brief": "Product Hunt 上出现名为 **Vibe Eyes** 的新产品，定位为 AI 相关的消费级硬件设备。作为新锐 AI 硬件项目，其具体形态与交互方式尚待披露，但代表了 AI 可穿戴/视觉设备方向的新尝试，值得图拉斯关注其产品定义与市场反馈。",
+        "url": "https://www.producthunt.com/products/vibe-eyes",
+        "source": "Product Hunt",
+        "score": 2,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?w=500"
+      },
+      {
+        "brief": "Retroid 推出 **Pocket Duo 双屏 Android 掌机**，采用现代翻盖设计，让双屏游戏体验重新变得新鲜。该产品以双屏交互与复古掌机形态切入细分市场，对图拉斯在游戏配件、支架与扩展坞等 3C 配件品类有潜在启发。",
+        "url": "https://www.yankodesign.com/2026/09/10/retroid-pocket-duo-makes-dual-screen-gaming-feel-fresh-again-with-its-modern-clamshell-design/?utm_source=rss&utm_medium=rss&utm_campaign=retroid-pocket-duo-makes-dual-screen-gaming-feel-fresh-again-with-its-modern-clamshell-design",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/retroid-pocket-duo-makes-dual-screen-gaming-feel-fresh-again-with-its-modern-clamshell-design/Retroid-Pocket-Duo-Pocket-Duo-Lite-5.jpg"
+      },
+      {
+        "brief": "Hacker News 上 **「别让人拿走你的线缆盒」** 一文引发热议，获得 **296 分**与 **226 条评论**。文章讨论用户对线缆收纳与保留的执念，反映出充电线、数据线等基础配件在消费者心中的高粘性，对图拉斯线材类产品的用户洞察有参考意义。",
+        "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+        "source": "Hacker News",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://cdn.jim-nielsen.com/blog/2026/cables.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-10",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-Prime-25W-3-in-1-Foldable-MagSafe-Charger-Press-Image.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "items": [
-      {
-        "brief": "彭博社Mark Gurman否认了此前的取消传闻，称苹果**全玻璃20周年纪念版iPhone**仍在按计划推进。这款采用激进无接口设计的设备若如期发布，将重新定义智能手机形态，对3C配件行业（如无线充电、保护壳）产生深远影响。",
-        "url": "https://www.gsmarena.com/new_report_says_apples_allglass_20th_anniversary_iphone_hasnt_been_cancelled-news-74107.php",
-        "source": "GSMArena",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-20-anniversary-still-on-track/-184x111/gsmarena_00.jpg"
-      },
-      {
-        "brief": "三星Galaxy Buds的**助听器功能**获得美国FDA批准，可作为OTC解决方案为18岁以上用户提供辅助。这一认证使TWS耳机从消费音频正式跨界到医疗健康领域，为智能穿戴开辟了新场景，也预示着健康功能将成为耳机品类的新竞争焦点。",
-        "url": "https://www.gsmarena.com/fda_approves_samsungs_hearing_aid_feature_on_galaxy_buds-news-74121.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/04/galaxy-buds4-pro-firmware-update/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "iPhone 18 Pro预计将带来**三项重大相机升级**，距离发布仅数周。作为年度最受关注的旗舰机型，其影像系统的改进将直接影响手机配件（如镜头膜、磁吸散热器等）的设计方向，是图拉斯规划下一代iPhone配件的重要参考。",
-        "url": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "雅培与Google Health合作推出**AI驱动的血糖监测**方案，将实现实时血糖追踪。这一合作把连续血糖监测（CGM）从医疗设备推向大众健康消费市场，预示着智能健康硬件与AI结合的新方向，对可穿戴设备品类具有前瞻性影响。",
-        "url": "https://www.engadget.com/2234851/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/",
-        "source": "Engadget",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.engadget.com/img/gallery/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/l-intro-1786473283.jpg"
-      },
-      {
-        "brief": "苹果正在开发**Apple Reference Image**系统，通过iOS 27 beta 5中的代码引用，在拍摄时嵌入来源元数据，让用户能证明照片非AI伪造。这一功能将照片真实性验证从软件层面下沉到硬件采集端，是消费电子应对深度伪造的重要探索。",
-        "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Clicks推出售价**99美元**的**Power Keyboard**，通过MagSafe和Qi2磁吸为手机提供黑莓风格的滑出式物理键盘。该产品将复古输入体验与现代磁吸生态结合，为手机配件开辟了新的细分场景，但增加的体积可能影响大屏手机的握持体验。",
-        "url": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": true,
-        "tier": "新锐产品",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_2852.jpg?resize=1200,900"
-      },
-      {
-        "brief": "海信新款**e-ink墨水屏手机**实拍图曝光，配备可拆卸副屏的独特形态。在智能手机同质化严重的当下，这款设备以护眼阅读为核心卖点，探索了双屏交互的新可能，为3C配件和手机形态创新提供了差异化思路。",
-        "url": "https://www.reddit.com/r/gadgets/comments/1vjo8uf/new_hisense_eink_phone_appears_in_reallife_images/",
-        "source": "Reddit",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": ""
       }
     ]
   }

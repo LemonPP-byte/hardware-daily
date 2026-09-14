@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-14",
+    "items": [
+      {
+        "brief": "彭博社 Mark Gurman 证实 **Apple 正在自研 iPhone 游戏手柄**，且可能以 **Beats 品牌** 销售。此前 macOS 26.7 代码中已出现两款第一方手柄引用，Apple Store 目前只卖 Backbone One 等第三方产品，苹果亲自下场将直接切走配件市场一块蛋糕。",
+        "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-game-controller-backbone.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "9to5Mac 编辑实测一年后给出 **iPhone 18 Pro 快充推荐清单**，覆盖多款充电器与 **MagSafe 充电支架**。新机刚开启预售，用户正处在配件采购决策窗口，这类实测榜单对充电类选品有直接参考价值。",
+        "url": "https://9to5mac.com/2026/09/12/best-fast-chargers-for-iphone-18-pro/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.19.58.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Dezeen 复盘 **Dyson 成功颠覆的四个品类与失败的四个品类**，背景是其 **CameraJet 摄像头牙刷** 正在冲击牙刷市场。对做配件与硬件的团队来说，这是一份难得的「品类颠覆方法论」案例集，能反推什么样的新形态才真正打动消费者。",
+        "url": "https://www.dezeen.com/2026/09/12/dyson-products-roundup/",
+        "source": "Dezeen",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "http://static.dezeen.com/uploads/2026/09/dyson-composite-sq-411x411.jpg"
+      },
+      {
+        "brief": "**Oppo Watch X3** 评测出炉，约 **€300** 定价，主打 **满血智能模式下最长 5 天续航**，配备蓝宝石玻璃，47.4×47.4×11.0mm、43g。Wear OS 阵营里以续航为差异点的产品，对智能穿戴选品有参考意义。",
+        "url": "https://www.gsmarena.com/oppo_watch_x3_review-news-73855.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-watch-x3-review/-184x111/gsmarena_1000.jpg"
+      },
+      {
+        "brief": "Wokyis 推出 **复古风格 Mac 扩展坞 G5/G7**，为 Mac mini 与 Mac Studio 加入 **翻转式显示屏、Thunderbolt 5 与 8TB 存储**。把扩展坞做成带屏幕的桌面摆件，是 3C 配件里少见的形态创新，值得关注其众筹与定价策略。",
+        "url": "https://9to5mac.com/2026/09/13/this-unique-retro-dock-adds-a-flip-up-display-thunderbolt-5-8tb-storage-to-your-mac-wokyis-g5-g7-video/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wokyis_2x1_400kb.jpg?quality=82&#038;strip=all&#038;w=1086"
+      },
+      {
+        "brief": "Wired 发布 **2026 最佳智能喂鸟器** 榜单，这类产品把 **摄像头与联网 App** 结合，让用户在家观察并识别鸟类。属于「智能家居硬件 + 摄像头」的细分新形态，讨论与购买热度都在上升，可作为智能硬件品类拓展的观察样本。",
+        "url": "https://www.wired.com/story/best-smart-bird-feeders/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://media.wired.com/photos/69ebdf79c2561fc92a314957/191:100/w_1280,c_limit/The-Best-Smart-Bird-Feeders-for-Backyard-Birding.jpg"
+      },
+      {
+        "brief": "Yanko Design 报道一款 **螺旋结构耳塞**，宣称让 1970 年代以来几乎没变过的 **泡沫耳塞** 设计过时。属于佩戴类小配件的新形态尝试，与耳机、可穿戴配件品类相邻，可作为新锐配件设计灵感来源。",
+        "url": "https://www.yankodesign.com/2026/09/12/foam-earplugs-havent-changed-since-the-1970s-this-spiral-design-just-made-them-obsolete/?utm_source=rss&utm_medium=rss&utm_campaign=foam-earplugs-havent-changed-since-the-1970s-this-spiral-design-just-made-them-obsolete",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/foam-earplugs-havent-changed-since-the-1970s-this-spiral-design-just-made-them-obsolete/Ears-360-Silence-_-The-Earplug-That-Disappears-in-Your-Ear-hero.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-13",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://media.wired.com/photos/6a7c1ff5b6f093068a6a7f95/191:100/w_1280,c_limit/PUFF_CHAINS.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "items": [
-      {
-        "brief": "LG与Nvidia签署合作协议，共同开发AI机器人和自动驾驶硬件，并计划于**2027年第一季度**推出**人形机器人**。这一战略动向将深刻影响AI硬件和机器人产业格局，对图拉斯布局智能硬件具有重要参考价值。",
-        "url": "https://www.gsmarena.com/lg_joins_forces_with_nvidia_to_build_aipowered_robots_and_hardware_for_selfdriving_cars-news-74180.php",
-        "source": "GSMArena",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/lg-building-ai-robots-with-nvidia/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "三星正在研发新款**Galaxy H1头戴式耳机**，旨在与AirPods Max竞争，预计2027年发布。这将是三星自2015年Level On以来首款头戴式耳机，标志着其音频产品线的重大扩展，对TWS和头戴耳机市场格局有潜在影响。",
-        "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "谷歌为Pixel 11系列推出独家**Camera Looks**功能，在传感器层面处理图像数据，可模拟老式数码相机风格，如“Digi”模式。该功能旨在摆脱“智能手机感”的照片风格，为移动摄影带来全新创意方向。",
-        "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-back-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "中国宇树科技的**Unitree G1机器人**因价格相对亲民且能吸引人群而在网络上走红，成为新晋“网红”。报道探讨了这款四英尺高机器人能否胜任实际工作，展示了具身智能在消费级市场的潜力和挑战。",
-        "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-        "source": "Wired",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://media.wired.com/photos/6a7e3d7b0f200c034ba14a12/191:100/w_1280,c_limit/Made-In-China-Made-in-China-Unitree-Robots-Americans-Love-Business.jpg"
-      },
-      {
-        "brief": "Tecno推出**Pova AI Buds Pro**真无线耳机，主打AI功能，支持**AI实时语音转文字**和通话摘要。该产品将AI能力集成到TWS耳机中，为便携音频设备带来了新的应用场景和用户价值。",
-        "url": "https://www.gsmarena.com/tecno_pova_ai_buds_pro_bring_ai_recording_and_call_summarization-news-74179.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/tecno-pova-ai-buds-pro-ofic/-184x111/gsmarena_00.jpg"
-      },
-      {
-        "brief": "Nothing旗下平价品牌CMF推出**Clip Pro夹耳式耳机**，在低价与好音质之间取得了良好平衡。该产品采用独特的夹耳设计，为不喜欢入耳式耳机的用户提供了新选择，展现了3C配件在形态上的创新。",
-        "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268665_Nothing_CMF_Clip_Pro_earbuds_AKrales_0144.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "韩国品牌Modhaus推出**Upright无线充电器**，底座采用**混凝土材质**，手机接触面则使用橡木或胡桃木。这款售价78美元的产品在几小时内就众筹成功，将工业风设计与充电功能结合，为桌面配件带来了新的美学方向。",
-        "url": "https://www.core77.com/posts/144901/Modhaus-Wireless-Phone-Charger-with-a-Concrete-Base",
-        "source": "Core77",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://s3files.core77.com/blog/images/1843584_81_144901_kfqDt56LS.jpg"
       }
     ]
   }

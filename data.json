@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-21",
+    "items": [
+      {
+        "brief": "Android Authority 上手 **DailyObjects Node 模块化无线充电系统**，作者称测试过数十款无线充电器后第一款真正愿意长期使用的产品。模块化组合形态对图拉斯充电品类有直接参考价值。",
+        "url": "https://www.androidauthority.com/modular-wireless-charging-system-dailyobjects-node-hands-on-3710655/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Daily-Objects-Node-charging-station-.jpg"
+      },
+      {
+        "brief": "Satechi 推出 **Thunderbolt 5 CubeDock**，评测认为与新款 M6 Mac mini 完美搭配。扩展坞是 3C 配件中高客单价品类，Thunderbolt 5 规格升级值得关注。",
+        "url": "https://9to5mac.com/2026/09/20/satechi-thunderbolt-5-cubedock-mac-mini-review/",
+        "source": "9to5Mac",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC01978.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "GSMArena 周度投票结果显示 **iPhone Duo 的宽折叠形态获得压倒性好评**，iPhone 18 Pro Max 风头盖过 18 Pro。苹果首款折叠形态获市场认可，将影响配件生态走向。",
+        "url": "https://www.gsmarena.com/weekly_poll_results_the_iphone_duo_nailed_the_form_factor_iphone_18_pro_max_upstages_the_18_pro-news-74650.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-poll-results-iphone-duo-iphone-18pro-18promax/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Vocci 推出 **售价 249 美元的会议记录戒指**，为会议笔记场景增加全新可穿戴形态。AI 可穿戴戒指切入办公场景，但摘要提示可能存在隐私争议。",
+        "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675"
+      },
+      {
+        "brief": "**Lapis One 售价 499 美元**，定位迷你 Mac mini 替代品，专为运行 AI Agent 设计。AI Agent 专用硬件终端是新形态，反映本地 AI 算力硬件的消费化趋势。",
+        "url": "https://www.yankodesign.com/2026/09/20/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/?utm_source=rss&utm_medium=rss&utm_campaign=the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_1.jpg"
+      },
+      {
+        "brief": "Retroid Pocket 意外扩充 Duo 产品线，推出 **Lite Plus 版本**，并为 Duo Lite 用户提供免费换新升级。掌机配件生态的快速迭代策略值得新锐品牌参考。",
+        "url": "https://www.engadget.com/2263442/retroid-pocket-unexpectedly-expands-its-duo-lineup-with-a-lite-plus-version/",
+        "source": "Engadget",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.engadget.com/img/gallery/retroid-pocket-unexpectedly-expands-its-duo-lineup-with-a-lite-plus-version/l-intro-1789927347.jpg"
+      },
+      {
+        "brief": "Yoniq 推出 **售价 199 美元的 PlayStation Portal 替代品**，无需连接 PlayStation 即可使用。低价串流掌机形态切入游戏配件市场，是新锐硬件差异化思路。",
+        "url": "https://www.yankodesign.com/2026/09/20/yoniq-made-a-199-playstation-portal-that-doesnt-need-a-playstation/?utm_source=rss&utm_medium=rss&utm_campaign=yoniq-made-a-199-playstation-portal-that-doesnt-need-a-playstation",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/649343/yoniq_portal_1.jpeg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-20",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/08/syitren-rm1-puts-its-entire-cd-mechanism-on-display-inside-a-clear-acrylic-frame-that-doubles-as-wall-art/syitren_rm1_1.jpeg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "items": [
-      {
-        "brief": "苹果带摄像头的AirPods更多细节曝光，每个耳塞独立拍摄图像并同步用于视觉智能。这一设计将彻底改变TWS耳机的功能边界，为配件生态开辟全新场景，是图拉斯可重点关注的下代产品趋势。",
-        "url": "https://www.engadget.com/2241639/more-details-on-apple-camera-equipped-airpods/",
-        "source": "Engadget",
-        "score": 5,
-        "recurring": true,
-        "tier": "每日头条",
-        "image": "https://www.engadget.com/img/gallery/we-have-more-details-on-apples-camera-equipped-airpods-and-they-are-pretty-dang-weird/l-intro-1787327785.jpg"
-      },
-      {
-        "brief": "Apple Watch Series 12和Ultra 4下月发布，将搭载更强大的新芯片，在完美时机到来。作为苹果年度旗舰穿戴更新，芯片升级将带动性能与健康功能体验跃升，直接影响智能穿戴配件市场走向。",
-        "url": "https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "沃尔玛宣布将于8月24日起在部分门店支持Apple Pay和Google Pay，2026年底前覆盖全美门店。这一移动支付里程碑将推动NFC支付配件的需求增长，对充电及3C配件生态产生积极影响。",
-        "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "RayNeo发布两款AR眼镜：主打轻量全天佩戴的iO系列（重33g）和专注多媒体娱乐的GT系列。作为市占率23.7%的头部AR厂商，其产品线细分策略为AI眼镜赛道提供新方向，值得关注。",
-        "url": "https://www.gsmarena.com/rayneo_unveils_productivity_focused_io_glasses_and_multimedia_focused_gt_glasses-news-74284.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/rayneo-io-gt-smart-glasses/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "售价225美元的Pebble Time 2智能手表回归，配备电子纸显示屏、物理按键和数周续航，兼具趣味性与极客精神。在智能手表同质化严重的当下，其差异化交互和长续航卖点极具吸引力。",
-        "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/image-1.webp?resize=1200,923"
-      },
-      {
-        "brief": "HoverAir Versa模块化无人机在Indiegogo首发仅3天后即被FCC禁令叫停美国订单。这款可折叠放进口袋、定义为“相机”的变形无人机，其法律与产品定义的博弈为便携拍摄设备带来新思考。",
-        "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": true,
-        "tier": "新锐产品",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Poco X8 Power据传即将发布，配备10000mAh超大容量电池。在续航焦虑时代，这一卖点直接击中用户痛点，延续了红米Note系列的大电池策略，为移动充电配件市场带来新需求。",
-        "url": "https://www.gsmarena.com/poco_x8_power_with_10000mah_battery_said_to_launch_soon-news-74277.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/poco-x8-power-rumor/-184x111/gsmarena_00.jpg"
       }
     ]
   }

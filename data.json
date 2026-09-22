@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-22",
+    "items": [
+      {
+        "brief": "Yanko Design 报道一款**无线充电器兼桌面台灯**，直击「多数无线充像机场休息室里的黑色平板、毫无设计感」的痛点，把充电与照明两个桌面高频场景合并成一件家具化产品。对图拉斯而言，这是充电配件「去工具化、进家居化」的明确信号。",
+        "url": "https://www.yankodesign.com/2026/09/21/a-wireless-charger-that-quietly-doubles-as-a-desk-lamp/?utm_source=rss&utm_medium=rss&utm_campaign=a-wireless-charger-that-quietly-doubles-as-a-desk-lamp",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/a-wireless-charger-that-quietly-doubles-as-a-desk-lamp/poetry-electricity-01.jpg"
+      },
+      {
+        "brief": "Counterpoint 数据显示 **2026 上半年 AI 眼镜出货量暴涨 263%**，Meta 在无显示版本中遥遥领先，同时 Apple 正准备入场。无显示款占 96% 说明轻量音频/拍摄形态才是当前真实走量主力，这直接决定配件与充电生态的下一步形态。",
+        "url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Ray-Ban-Meta-smart-glasses-could-get-a-display-next-year.webp?w=1500"
+      },
+      {
+        "brief": "Yanko Design 爆料 Apple 可能推出**无屏幕健康追踪设备「Watch Air」**，对标 Whoop 与 Fitbit Air。若成真，Apple 将把可穿戴从「手腕上的屏幕」推向「无感佩戴的传感器」，对表带、充电底座等配件品类是结构性机会。",
+        "url": "https://www.yankodesign.com/2026/09/21/apple-may-launch-a-watch-air-screen-less-health-tracker-to-compete-with-whoop-and-fitbit-air/?utm_source=rss&utm_medium=rss&utm_campaign=apple-may-launch-a-watch-air-screen-less-health-tracker-to-compete-with-whoop-and-fitbit-air",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/apple-may-launch-a-watch-air-screen-less-health-tracker-to-compete-with-whoop-and-fitbit/apple_watch_air_rumor_2.jpeg"
+      },
+      {
+        "brief": "Vocci 推出售价 **249 美元的会议记录戒指**，为会议笔记场景增加全新可穿戴形态。把 AI 录音与转写塞进戒指，绕开了手表与手机的形态竞争，但报道也指出其可能引发隐私质疑——这正是 AI 可穿戴落地时最难的一关。",
+        "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675"
+      },
+      {
+        "brief": "Petlibro 推出 **Granary 2 智能喂食器**，内置称重模块，高配版带 AI 摄像头追踪每只猫的进食量与时间，但最进阶的健康监测功能需要额外订阅。AI 硬件「硬件低价+订阅收费」的模式在多宠家庭场景再次被验证。",
+        "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200"
+      },
+      {
+        "brief": "Android Authority 上手 **OnePlus 16 的「星际」背部发光灯效**，评价实机效果比预期更酷，并直言这是「借了 Nothing 的一页」。手机背部的光效与灯语正在成为新的外观差异化战场，也为手机壳留出透光开孔等配件设计空间。",
+        "url": "https://www.androidauthority.com/oneplus-16-interstellar-lighting-hands-on-3713735/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Oneplus-16-rear-light-shot-1.jpg"
+      },
+      {
+        "brief": "vivo 发布 **Watch 6**，45mm 表壳提供钛金属与不锈钢两种选择，1.47 英寸 AMOLED、466x466 分辨率、60Hz 刷新率、3500 尼特峰值亮度，覆盖蓝宝石玻璃，内置 505mAh 电池与心率血氧传感器。国产智能穿戴在材质与屏幕规格上继续向上堆料。",
+        "url": "https://www.gsmarena.com/vivo_watch_6_launches_with_titanium_case_sapphire_crystal_and_a_505mah_battery-news-74700.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-watch-6-official/-184x111/gsmarena_000.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-21",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/08/643250/cuktech_30_charging_station_ultra_1.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "items": [
-      {
-        "brief": "苹果首款**触屏MacBook**预计10月发布，将伴随MacBook Pro重新设计，可能命名为MacBook Ultra。这是苹果Mac产品线十余年来最大的交互变革，将直接带动3C配件市场新一波配件需求。",
-        "url": "https://9to5mac.com/2026/08/22/touchscreen-macbook-ultra-coming-soon-heres-whats-coming/",
-        "source": "9to5Mac",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "亚马逊因**内存和存储组件成本大幅上涨**，将Echo、Kindle、Fire TV和Eero等设备价格上调最高达60%，Echo Dot从49.99美元涨至79.99美元。这一行业性涨价信号将直接影响消费硬件成本与定价策略。",
-        "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Apple Watch Series 12和Ultra 4**下月发布，将搭载更强大的新芯片，在完美时机到来。作为苹果年度旗舰穿戴设备，芯片升级将显著提升性能与AI能力，引领智能穿戴配件市场新趋势。",
-        "url": "https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": true,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "**荣耀Robot Phone**的云台相机维修费用曝光，更换需**457美元**。这款集成云台相机的独特手机虽非真正机器人，但其创新形态和昂贵的维修成本引发市场关注，对手机配件和保护方案提出新需求。",
-        "url": "https://www.gsmarena.com/heres_how_much_youll_pay_if_you_break_the_honor_robot_phones_gimbal_camera-news-74289.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-robot-phone-repair-prices/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**Watti机器人台灯**能主动感知用户行为并预判照明需求，在用户开口前自动调整光线。这款AI驱动的桌面设备将传统台灯进化为智能交互终端，为智能家居硬件开辟新场景。",
-        "url": "https://www.yankodesign.com/2026/08/22/watti-is-the-robotic-desk-lamp-that-wants-to-know-what-youre-doing-before-you-ask-for-light/?utm_source=rss&utm_medium=rss&utm_campaign=watti-is-the-robotic-desk-lamp-that-wants-to-know-what-youre-doing-before-you-ask-for-light",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/watti-is-the-robotic-desk-lamp-that-wants-to-know-what-youre-doing-before-you-ask-for-light/watti-diy-smart-robot-lamp-02.jpg"
-      },
-      {
-        "brief": "**vivo V70 Lite 4G**发布，配备**8100mAh超大电池**和IP69防护等级，支持44W有线充电。在续航焦虑时代，超大容量电池与顶级防水组合直击用户痛点，为手机续航竞赛再添新标杆。",
-        "url": "https://www.gsmarena.com/vivo_v70_lite_4g_arrives_with_8100mah_battery_and_ip69_rating-news-74288.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-v70-lite-4g-ofic/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "这款**透明亚克力CD播放器**将音乐收藏转化为动态艺术，延续iMac G3透明美学。在流媒体时代，实体音乐载体的复兴为3C配件带来怀旧与科技融合的新形态，激发独特购买欲。",
-        "url": "https://www.yankodesign.com/2026/08/21/this-clear-acrylic-cd-player-turns-your-music-collection-into-kinetic-art/?utm_source=rss&utm_medium=rss&utm_campaign=this-clear-acrylic-cd-player-turns-your-music-collection-into-kinetic-art",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/syitren-rm1-puts-its-entire-cd-mechanism-on-display-inside-a-clear-acrylic-frame-that-doubles-as-wall-art/syitren_rm1_1.jpeg"
       }
     ]
   }

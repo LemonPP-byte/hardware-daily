@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-23",
+    "items": [
+      {
+        "brief": "**ESR** 为 iPhone Duo 与 iPhone 18 Pro 推出 4 款配件，直击折叠新形态下手机壳、充电器、保护膜需要重新设计的痛点。折叠屏配件是图拉斯可直接切入的高相关品类，值得研究其形态解法。",
+        "url": "https://www.yankodesign.com/2026/09/22/4-esr-accessories-worth-getting-for-the-iphone-duo-and-iphone-18-pro/?utm_source=rss&utm_medium=rss&utm_campaign=4-esr-accessories-worth-getting-for-the-iphone-duo-and-iphone-18-pro",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/4-esr-accessories-worth-getting-for-the-iphone-duo-and-iphone-18-pro/ESR-Hero-01.jpg"
+      },
+      {
+        "brief": "**Motorola Signature 27** 成为首批搭载高通 **Snapdragon 8 Elite Extreme Gen 6** 的机型，外观设计激进，但完整规格、价格与发售时间仍未公布。头部安卓厂商抢发新旗舰芯片，会带动配件与充电生态的换机节奏。",
+        "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/motorola-signature-27-green-hand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Motorola** 与 **Bang & Olufsen** 达成多年合作，Signature 27 成为首款挂 B&O 标识的摩托罗拉手机，效仿 Poco 联名 Bose 的路线。音频联名正在成为手机差异化卖点，可能影响配件与耳机生态的联动方式。",
+        "url": "https://www.gsmarena.com/the_signature_27_will_be_motorolas_first_smartphone_with_bang___olufsen_audio-news-74710.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/motorola-bang-olufsen-partnership/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Comu Action Pro** 是一款 7mm 厚的桌面 AI 会议记录器，放在桌上即可录音转写，无需占用手机。把 AI 记录做成独立薄型硬件，是会议场景可穿戴/桌面设备的新形态尝试。",
+        "url": "https://www.yankodesign.com/2026/09/22/this-slim-ai-note-taker-lets-you-stay-focused-in-meetings-without-tying-up-your-phone/?utm_source=rss&utm_medium=rss&utm_campaign=this-slim-ai-note-taker-lets-you-stay-focused-in-meetings-without-tying-up-your-phone",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/this-slim-ai-note-taker-lets-you-stay-focused-in-meetings-without-tying-up-your-phone/Comu-Action-Pro-Smart-Note-Taker-5.jpg"
+      },
+      {
+        "brief": "**Viture Vonder Glasses** 是 Viture 首款无显示屏智能眼镜，取消摄像头，改用骨传导麦克风私下记录日常想法。AI 眼镜从「看」转向「听与记」，为可穿戴形态提供了新思路。",
+        "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+        "source": "Wired",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6ab12960f8eb3bb5e52c1630/191:100/w_1280,c_limit/VONDER_Oslo+Smoke+Ruby.png"
+      },
+      {
+        "brief": "**ETA Prime** 的 DIY 方案把闲置 **Galaxy S10** 改造成不到 100 美元的防水 cyberdeck，让旧手机获得第二生命。旧机再利用与模块化外壳是 3C 配件可借鉴的低成本创新方向。",
+        "url": "https://www.yankodesign.com/2026/09/22/turn-your-old-galaxy-phone-into-a-weatherproof-cyberdeck-for-under-100/?utm_source=rss&utm_medium=rss&utm_campaign=turn-your-old-galaxy-phone-into-a-weatherproof-cyberdeck-for-under-100",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/turn-your-old-galaxy-phone-into-a-weatherproof-cyberdeck-for-under-100/Galaxy-S10-Cyberdeck-DIY-7.jpg"
+      },
+      {
+        "brief": "一款不依赖 App、灯泡或智能家居系统的**氛围灯**，用物理方式直接调节光线色彩。绕开智能家居生态的复杂配置，对做智能硬件与桌面配件的品牌是「去 App 化」交互的参考。",
+        "url": "https://www.yankodesign.com/2026/09/22/mood-lighting-without-the-app-the-bulb-or-the-smart-home/?utm_source=rss&utm_medium=rss&utm_campaign=mood-lighting-without-the-app-the-bulb-or-the-smart-home",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/mood-lighting-without-the-app-the-bulb-or-the-smart-home/gel-lamp-00.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-play-20a-announced/-184x111/gsmarena_0000.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "items": [
-      {
-        "brief": "彭博社最新报道披露了**iPhone Ultra**内部试用者的真实反馈，这款折叠屏iPhone预计数周后发布。报道揭示了用户最喜爱的功能点，作为苹果首款折叠屏产品，其设计取向将直接定义未来折叠屏配件的生态方向，对图拉斯提前布局折叠屏保护壳、支架等配件极具参考价值。",
-        "url": "https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/",
-        "source": "9to5Mac",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "彭博社Gurman报道，苹果正在开发搭载**M6芯片**并采用**新配色**的iMac，预计年底前发布。这是iMac时隔两年后的重大更新，作为苹果桌面生态的核心产品，其发布将带动周边配件（如扩展坞、支架、外设）的更新换代需求，对3C配件市场有风向标意义。",
-        "url": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-imac-vs-m3-imac-colors.jpeg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "斯洛伐克在交通测速摄像头中发现**俄罗斯后门**，引发对公共基础设施安全的高度关注，Hacker News热度达345。此事件虽非消费级产品，但将深刻影响全球对联网设备安全性的审视，可能推动消费级安防、智能家居及车载电子产品的安全标准升级，对行业格局有潜在影响。",
-        "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-        "source": "Hacker News",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "/static/img/RB-OG-Social.jpg"
-      },
-      {
-        "brief": "人形机器人已打破**博尔特**的百米世界纪录，Engadget报道了这一里程碑事件。尽管姿态滑稽，但这标志着具身智能在运动能力和硬件工程上的巨大飞跃，预示着机器人硬件在消费级市场的潜力，为图拉斯关注AI硬件与机器人赛道提供了重要信号。",
-        "url": "https://www.engadget.com/2242295/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record/",
-        "source": "Engadget",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.engadget.com/img/gallery/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record/l-intro-1787510210.jpg"
-      },
-      {
-        "brief": "GSMArena发起投票，询问读者是否会购买**荣耀Robot Phone**。这款手机独特的**机器人云台手臂**设计已正式开售，其创新形态引发了关于实用性的大讨论。投票结果将直接反映消费者对手机新形态的真实态度，为图拉斯评估未来手机配件设计方向提供一手数据。",
-        "url": "https://www.gsmarena.com/weekly_poll_would_you_buy_the_honor_robot_phone_and_why-news-74243.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-honor-robot-phone/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "Mophie推出四款新款**iPhone充电宝**，主打**口袋便携**和**内置线缆**，提供5000mAh和10000mAh两种容量，定价亲民。在充电宝市场同质化严重的当下，其便携形态与实用设计结合，为图拉斯在便携充电品类上提供了直接的产品定义参考。",
-        "url": "https://9to5mac.com/2026/08/23/mophie-new-pocketable-battery-banks-for-iphone/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Mophie-4-batteries.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "CUKTECH推出**300W桌面充电器**，旨在取代用户抽屉里所有的充电头。这款产品由曾参与小米充电器研发的团队打造，以超大功率和多口输出为核心卖点，直击多设备用户的充电痛点，是桌面充电形态的一次重要升级，对图拉斯探索大功率充电场景有启发意义。",
-        "url": "https://www.yankodesign.com/2026/08/23/cuktechs-300w-desktop-charger-wants-to-replace-your-entire-drawer-of-power-bricks/?utm_source=rss&utm_medium=rss&utm_campaign=cuktechs-300w-desktop-charger-wants-to-replace-your-entire-drawer-of-power-bricks",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/643250/cuktech_30_charging_station_ultra_1.jpg"
       }
     ]
   }

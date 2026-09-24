@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-24",
+    "items": [
+      {
+        "brief": "Meta 在 Connect 2026 上短暂展示了 **Muse Charm**——一台没有表带的厚实智能手表形态设备，配大屏与挂绳，右上角带指纹传感器，专为 Muse AI 智能体打造的独立硬件。这是 Meta 把 AI 从手机 App 搬进随身实体终端的信号，对做 AI 可穿戴与配件的品牌是重要形态参考。",
+        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+        "source": "The Verge",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Meta 发布 **VR Glasses**，把沉浸式显示做进普通眼镜形态而非头显，可看电影、玩游戏、办公，售价 1300 美元。Engadget 直言它更像 Apple 该做的 Vision Pro 续作。眼镜形态的显示终端正在重新定义头戴设备的佩戴逻辑。",
+        "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
+        "source": "The Verge",
+        "score": 5,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_29_03_12.Still016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Meta 推出 **Ray-Ban Meta Audio**，是其首款不带摄像头的智能眼镜，以此绕开偷拍争议。同期 Ray-Ban Meta Gen 3 带来更好续航但价格上涨，并新增 Aviator 与 Zena 两种框型。无摄像头路线为配件与镜框设计留出更大空间。",
+        "url": "https://www.engadget.com/2267212/meta-announces-ray-ban-meta-audio-its-first-smart-glasses-without-a-camera/",
+        "source": "Engadget",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.engadget.com/img/gallery/meta-announces-ray-ban-meta-audio-its-first-smart-glasses-without-a-camera/l-intro-1790191670.jpg"
+      },
+      {
+        "brief": "**Rollme Matrix** 是一款售价 89 美元的 4G 智能手表，最大亮点是表冠上集成了弹出式摄像头。在低价耐用 GPS 手表赛道里，把摄像头塞进表冠是少见的结构创新，为可穿戴的影像交互提供了新思路。",
+        "url": "https://www.yankodesign.com/2026/09/23/rollme-matrix-is-89-4g-smartwatch-with-a-crown-mounted-pop-up-camera/?utm_source=rss&utm_medium=rss&utm_campaign=rollme-matrix-is-89-4g-smartwatch-with-a-crown-mounted-pop-up-camera",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/rollme-matrix-is-89-4g-smartwatch-with-a-crown-mounted-pop-up-camera/Rollme-Matrix-Smartwatch-1.jpg"
+      },
+      {
+        "brief": "**Huawei Watch D3** 正式在欧洲开售，随机附赠智能体重秤。它用表带内置可充气气囊袖带测量血压，而非光学传感器，并已获得 CE MDR 认证。这是少数真正合规做血压监测的智能手表，对健康向可穿戴的传感器方案有参考价值。",
+        "url": "https://www.gsmarena.com/the_huawei_watch_d3_is_now_available_in_europe_comes_with_a_free_smart_bathroom_scale-news-74727.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/huawei-watch-d3-now-available/-184x111/gsmarena_0000.jpg"
+      },
+      {
+        "brief": "微软发布第二代 **Surface Mouse**，首次加入触觉反馈与可自定义操作键，按键默认用于快速唤起 Copilot，也可在 Surface 应用中改配其他快捷方式。下月上市。鼠标加入触觉反馈，是桌面外设交互升级的一个新方向。",
+        "url": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Surface-Mouse-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Xiaomi 18 Pro / Pro Max** 发布，成为首批搭载骁龙 8 Elite Gen 6 的机型，Pro Max 拿下 8 Elite Extreme 版本。除新旗舰芯片外，还带来隐私显示屏与更实用的背部副屏。背部副屏的持续迭代，为手机壳与配件生态带来新的开孔与交互设计课题。",
+        "url": "https://www.gsmarena.com/xiaomi_18_pro_and_18_pro_max_arrive_with_latest_snapdragon_chips_privacy_displays_and_more_useful_re-news-74733.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-18-pro-series-ofic/-184x111/gsmarena_000.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-23",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.engadget.com/img/gallery/benqs-first-dual-monitor-desk-lamp-will-give-your-screens-a-glow-up/l-intro-1787689571.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "items": [
-      {
-        "brief": "彭博社Gurman最新报道，**iPhone Ultra**早期内部测试者对其设计、铰链和易用性给予高度评价。这款折叠屏iPhone预计数周后发布，定价超2000美元，其铰链工艺和折叠形态将直接定义下一代旗舰标准，对3C配件市场格局影响深远。",
-        "url": "https://www.gsmarena.com/gurman_early_iphone_ultra_testers_praise_its_design_hinge_and_usability-news-74301.php",
-        "source": "GSMArena",
-        "score": 5,
-        "recurring": true,
-        "tier": "每日头条",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-ultra-early-testers-report/-184x111/gsmarena_00.jpg"
-      },
-      {
-        "brief": "苹果首款折叠屏**iPhone Ultra**即将发布，但报道指出其可能缺少五项关键功能。作为定价超2000美元的旗舰，这些功能取舍将直接影响用户购买决策和配件生态的适配方向，值得图拉斯在规划配件时重点关注。",
-        "url": "https://9to5mac.com/2026/08/24/iphone-ultra-wont-have-these-five-features/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "受内存芯片成本上涨影响，**iPhone 18系列**价格确认将上调，预计全系比前代贵100美元。这一价格变动将重塑高端手机市场格局，并可能影响消费者对配件的预算分配，对图拉斯的产品定价策略有参考价值。",
-        "url": "https://www.gsmarena.com/iphone_18_series_prices_confirmed_to_go_up_due_to_rising_memory_chip_cost-news-74304.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/ios-27-reveals-six-new-iphones/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "据爆料，**三星Galaxy S27 Ultra**可能首发**自修复玻璃**技术。该技术灵感源自LG G Flex 2，能让手机外壳轻微划痕自动愈合，这一创新材质将引领手机防护新趋势，为3C配件（如保护壳、贴膜）市场带来新的挑战与机遇。",
-        "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-self-healing-glass-3702407/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-display.jpg"
-      },
-      {
-        "brief": "Wired评测推荐**有线虚拟显示眼镜**，认为其比Meta Ray-Bans等智能眼镜更实用。这类眼镜通过连接设备投射巨大虚拟屏幕，以极简设计换取高效生产力，为AI硬件和智能穿戴领域提供了新的产品形态思路。",
-        "url": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
-        "source": "Wired",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://media.wired.com/photos/6a87862020408e2e1b24b43a/191:100/w_1280,c_limit/All-Work-Virtual-Play-Gear.jpg"
-      },
-      {
-        "brief": "**RayNeo**将智能眼镜产品线拆分为两款专注不同场景的产品：主打轻量全天佩戴的iO系列（重33g）和专注多媒体娱乐的GT系列。作为市占率领先的头部品牌，其产品策略为智能眼镜品类提供了新方向，值得关注。",
-        "url": "https://www.yankodesign.com/2026/08/24/rayneo-just-split-smart-glasses-into-two-and-neither-one-compromises/?utm_source=rss&utm_medium=rss&utm_campaign=rayneo-just-split-smart-glasses-into-two-and-neither-one-compromises",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": true,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/rayneo-just-split-smart-glasses-into-two-and-neither-one-compromises/rayneo-io-gt-smart-glasses-04.jpg"
-      },
-      {
-        "brief": "**荣耀Play20A**发布，配备6.9英寸大屏和背部副屏，以及6000mAh电池。其独特的背部副屏设计在非折叠手机中独树一帜，为手机形态创新和差异化配件设计提供了新思路。",
-        "url": "https://www.gsmarena.com/the_honor_play20a_has_a_massive_69_display_a_second_display_on_the_back_and_a_6000mah_battery-news-74302.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-play-20a-announced/-184x111/gsmarena_0000.jpg"
       }
     ]
   }

@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-26",
+    "items": [
+      {
+        "brief": "Yanko Design 报道一款**随升降桌移动的电源排插**，直击「早上六点爬到桌下找插座」的痛点。它把排插从固定地面解放出来，跟随桌面升降同步移动，对做**桌面充电与办公配件**的图拉斯来说，是充电类产品切入办公场景的明确新形态。",
+        "url": "https://www.yankodesign.com/2026/09/25/the-power-strip-that-actually-moves-with-your-desk/?utm_source=rss&utm_medium=rss&utm_campaign=the-power-strip-that-actually-moves-with-your-desk",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/the-power-strip-that-actually-moves-with-your-desk/power-duck-00.jpg"
+      },
+      {
+        "brief": "The Verge 报道 Apple 代码泄露，确认 **HomePod mini 2、iPad mini 8、Apple TV 4K** 三款新品将在年底前发布，并附有图片。这是 Apple 在 iPhone 18 Pro 与折叠 iPhone Duo 之后的下一波硬件节奏，直接影响配件与充电生态的备货方向。",
+        "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22025413/dseifert_201107_4281_0006.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "9to5Mac 指出 Apple 为数十款设备公开发布**高精度尺寸图纸**，专门帮助配件厂商围绕其产品做设计。对做手机壳、支架、MagSafe 配件的图拉斯来说，这是官方级的开模数据源，能显著缩短新品适配周期。",
+        "url": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs/",
+        "source": "9to5Mac",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-dimensional-drawings.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "GSMArena 援引中国供应链消息，**Insta360 正在研发一款 AI 智能眼镜**，其专利描述了一种不带摄像头的「可穿戴眼镜」形态。影像头部玩家切入 AI 眼镜，可能把运动相机的防抖与影像能力带进这一品类，值得关注其对智能穿戴格局的冲击。",
+        "url": "https://www.gsmarena.com/insta360_may_be_working_on_a_unique_pair_of_aipowered_smart_glasses-news-74769.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/insta360-ai-smart-glasses/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "The Verge 报道 Tesla **Optimus 机器人遭遇量产爬坡难题**：原定每周 2 万台的目​​标难以达成，上月实际仅产出「每周数百台」，且手部装配精度出现问题。这是具身智能从演示走向量产的真实阻力样本，对判断机器人供应链成熟度有参考价值。",
+        "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Yanko Design 报道一款售价 **249 美元的夹扣式设备**，向人体照射「不可见」红外阳光以改善情绪，灵感来自阿姆斯特丹与洛杉矶日照时长的差异。它把光疗从笨重灯箱做成可穿戴夹扣，是健康类智能硬件的新形态尝试。",
+        "url": "https://www.yankodesign.com/2026/09/25/this-249-clip-on-device-shines-invisible-infrared-sunlight-on-you-to-boost-your-mood/?utm_source=rss&utm_medium=rss&utm_campaign=this-249-clip-on-device-shines-invisible-infrared-sunlight-on-you-to-boost-your-mood",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/draft-sunbooster/sunbooster_ifa_2026_1.jpeg"
+      },
+      {
+        "brief": "Infinix 发布 **GT NX Controller 手柄与 GT NX Station 底座**，手柄号称搭载「全球首个像素级 FPS 精准触控板」，主打移动端射击游戏的鼠标级精度，并采用三芯片低延迟架构。手游外设正在从「能玩」卷向「电竞级」，是 3C 配件值得关注的新赛道。",
+        "url": "https://www.gsmarena.com/infinix_unveils_gt_nx_controller_and_gt_nx_station_dock-news-74768.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/infinix-gt-nx-controller-station/-184x111/gsmarena_000.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-25",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-02.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "items": [
-      {
-        "brief": "苹果正式宣布将于9月9日举行iPhone发布会，预计将推出**iPhone 18 Pro系列**和传闻已久的**首款折叠屏iPhone Ultra**。这场发布会将是苹果CEO交接后的首场重大活动，直接影响整个3C配件和充电行业的备货方向。",
-        "url": "https://www.gsmarena.com/apple_schedules_iphone_event_for_september_9-news-74357.php",
-        "source": "GSMArena",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-18-pro-max-ultra-launch-date/-184x111/gsmarena_00.jpg"
-      },
-      {
-        "brief": "Garmin发布**Fenix 9和Fenix 9 Pro**旗舰手表，Pro版首次采用全钛金属表壳和Fenix系列最大AMOLED屏幕，续航最长可达**57天**。作为户外智能手表标杆，其材质和续航的升级对智能穿戴配件生态有风向标意义。",
-        "url": "https://www.gsmarena.com/garmin_launches_the_fenix_9_and_fenix_9_pro_with_up_to_57_days_of_battery_life-news-74347.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/garmin-fenix-9-fenix-9-pro-official/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "JBL宣布**Pulse 6**音箱将于下月上市，售价**330美元**。这款音箱延续了标志性的灯光秀功能，将音频与视觉体验结合，是便携蓝牙音箱品类中兼具氛围感和音质的代表产品。",
-        "url": "https://www.engadget.com/2245008/the-colorful-jbl-pulse-6-speaker-will-be-available-next-month/",
-        "source": "Engadget",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.engadget.com/img/gallery/the-colorful-jbl-pulse-6-speaker-will-be-available-next-month/l-intro-1787774245.jpg"
-      },
-      {
-        "brief": "听力科技初创公司Legato携**1200万美元**融资和**AI听力眼镜Legato Frames**走出隐身模式。该眼镜将助听技术集成到镜腿中，为传统眼镜赋予听力辅助功能，是AI与可穿戴设备结合的新方向。",
-        "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,751"
-      },
-      {
-        "brief": "**Milan智能眼镜**采用时尚的圆形镜框设计，内置**1200万像素摄像头**并支持实时翻译。其“非数码产品”的外观设计旨在打破智能眼镜的科技感，更贴近日常佩戴的眼镜形态。",
-        "url": "https://www.yankodesign.com/2026/08/26/milan-smart-glasses-pack-a-12mp-camera-live-translation-in-a-stylish-non-gadget-design/?utm_source=rss&utm_medium=rss&utm_campaign=milan-smart-glasses-pack-a-12mp-camera-live-translation-in-a-stylish-non-gadget-design",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/draft-laltitude-milan/LAtitude-52N-Milan-Smart_Glasses_hero.jpg"
-      },
-      {
-        "brief": "TUCCH推出一款售价**24美元**的**MagSafe钱包**，独特之处在于其可折叠闭合设计，解决了传统MagSafe钱包卡片暴露的问题。为iPhone配件市场提供了一个更安全、更精致的新选择。",
-        "url": "https://www.yankodesign.com/2026/08/26/magsafe-wallets-leave-your-cards-exposed-but-this-24-one-closes/?utm_source=rss&utm_medium=rss&utm_campaign=magsafe-wallets-leave-your-cards-exposed-but-this-24-one-closes",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/magsafe-wallets-leave-your-cards-exposed-but-this-24-one-closes/tucch-pu-leather-magsafe-wallet-06.jpg"
-      },
-      {
-        "brief": "FiiO推出**QX11便携解码耳放**，将台式级音频功率浓缩至口袋大小。这款DAC旨在不占用桌面空间的情况下提供高解析度音频体验，是音频发烧友的便携新选择。",
-        "url": "https://www.yankodesign.com/2026/08/26/fiio-qx11-brings-desktop-class-audio-power-to-a-pocket-sized-dac/?utm_source=rss&utm_medium=rss&utm_campaign=fiio-qx11-brings-desktop-class-audio-power-to-a-pocket-sized-dac",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/fiio-qx11-brings-desktop-class-audio-power-to-a-pocket-sized-dac/Fiio-QX11-DAC-2.jpg"
       }
     ]
   }

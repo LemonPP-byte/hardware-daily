@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-29",
+    "items": [
+      {
+        "brief": "**Nothing Headphone 1 Pro** 正式发布，采用**三单元驱动**（40mm 动圈 + 精密动圈 + xMEMS 硅振膜高音），10 麦克风 ANC，玻璃与钛金属机身，售价 **399 美元**，较前代涨价 100 美元。Nothing 以透明工业设计切入高端头戴市场，是今年音频配件领域最值得关注的品牌升级动作。",
+        "url": "https://www.androidauthority.com/nothing-headphone-1-pro-launch-price-specs-features-3715645/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/nothing-headphone-1-pro-hero.jpg"
+      },
+      {
+        "brief": "**Pioneer** 以 **SDA-SC600** 正式进入 MagSafe 配件市场，这是一款车载磁吸支架，支持 **Qi2 无线充电**并内置散热风扇。Pioneer 从传统车载音频品牌跨界到 MagSafe 充电配件，对图拉斯车载充电产品线构成直接竞争信号。",
+        "url": "https://9to5mac.com/2026/09/28/pioneer-sda-sc600/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Pioneer-SDA-SC600.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "**Bose** 时隔十余年重新推出有线耳机 **Noise Cancelling Wired Earbuds**，灵感直接来自青少年用户偏好。在无线耳机主导的市场里，Bose 反向押注有线形态，可能预示着年轻用户对「零延迟、免充电」音频配件的需求回潮。",
+        "url": "https://www.wired.com/story/bose-to-release-wired-headphones-after-10-years/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://media.wired.com/photos/6ab70043d3514249479bb32e/191:100/w_1280,c_limit/Bose-NC-Wired-Earbuds_Credit-HR_02-2.jpg"
+      },
+      {
+        "brief": "**Bose** 为 **QuietComfort Ultra Headphones Gen 2**（售价 449 美元）推送固件更新，以 beta 形式加入 **Bluetooth LE Audio 与 Auracast** 支持，成为 Bose 首款支持音频共享技术的旗舰耳机。Auracast 生态的推进会影响未来耳机与充电配件（如充电盒、底座）的联动设计。",
+        "url": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24844791/BoseQCUltra.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Kitchenery** 推出一款厨房无线供电垫，无需插头、电池或线缆即可为厨房电器供电，把无线充电从手机场景延伸到厨房家电。这种「桌面任意位置供电」的形态对充电类产品经理有直接启发——无线供电的下一步可能不是手机，而是整个桌面生态。",
+        "url": "https://www.yankodesign.com/2026/09/28/no-plugs-no-batteries-no-mess-this-futuristic-kitchen-pad-wirelessly-powers-your-appliances/?utm_source=rss&utm_medium=rss&utm_campaign=no-plugs-no-batteries-no-mess-this-futuristic-kitchen-pad-wirelessly-powers-your-appliances",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/draft-kitchenery/Kitchenery-The-Cordless-Kitchen-Ecosystem-06.jpg"
+      },
+      {
+        "brief": "一款**倾斜式 Apple Watch 表带**，通过将表盘向用户倾斜来提升查看和操作的人体工学体验，类似笔记本支架和垂直鼠标的倾斜逻辑。对做智能穿戴配件的团队来说，这是一个低成本、高感知的配件创新方向。",
+        "url": "https://www.yankodesign.com/2026/09/28/genius-tilted-apple-watch-band-makes-the-entire-experience-10x-more-ergonomic/?utm_source=rss&utm_medium=rss&utm_campaign=genius-tilted-apple-watch-band-makes-the-entire-experience-10x-more-ergonomic",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/this-clever-tilted-apple-watch-band-makes-the-entire-experience-10x-more-ergonomic/tilted_apple_watch_band_1.jpeg"
+      },
+      {
+        "brief": "**Ayaneo** 推出 **Konkr Pocket Block** 掌机，把 Game Boy 竖版形态缩小到极致，售价仅 **89 美元**，已开启预售并将于 **10 月**开始发货。极低价格 + 复古形态的组合在掌机配件和便携硬件市场有很强的传播潜力。",
+        "url": "https://www.engadget.com/2271129/ayaneo-shrank-down-the-game-boy-form-factor-with-its-latest-89-handheld/",
+        "source": "Engadget",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.engadget.com/img/gallery/ayaneo-shrank-down-the-game-boy-form-factor-with-its-latest-89-handheld/l-intro-1790620236.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-28",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/08/this-radio-clips-to-your-bag-and-could-save-your-life/hangingonbagside_1400x.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "items": [
-      {
-        "brief": "Sharge推出**Shargeek 300 Power Bank**，采用金属一体成型机身，配备显示屏、RGB灯效和透明窗口，可同时为两台MacBook充电。这款充电宝在设计上极具视觉冲击力，是充电品类中少见的“秀肌肉”产品，对追求个性化和科技感的消费者有很强吸引力。",
-        "url": "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Shargeek-300-Power-Bank-review-FI.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "苹果确认将于明年推出首款**AI智能眼镜**，集成Visual Intelligence和Siri。作为头部品牌在AI硬件领域的重磅布局，该产品将直接定义下一代智能穿戴形态，对图拉斯等配件厂商的生态布局具有战略参考价值。",
-        "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
-        "source": "9to5Mac",
-        "score": 5,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "华为将于9月7日发布**Mate XT 2三折叠手机**，最新视频确认其采用内折U型设计，与上代Z型折叠方案不同。作为三折叠品类的迭代产品，其全新的铰链和折叠形态是行业关注焦点，将影响折叠屏配件市场走向。",
-        "url": "https://www.gsmarena.com/huawei_mate_xt_2_design-news-74403.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-mate-xt-2-design/-184x111/gsmarena_002.jpg"
-      },
-      {
-        "brief": "Soundcore发布**Liberty 5 Pro耳机**，Wired评测称其通话质量卓越，且价格极具竞争力。在真无线耳机市场，该产品以“通话”这一核心场景作为差异化卖点，对注重实用性的消费者有较强吸引力。",
-        "url": "https://www.wired.com/review/soundcore-liberty-5-pro/",
-        "source": "Wired",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://media.wired.com/photos/6a925150bb3a85e785f50cc3/191:100/w_1280,c_limit/Review--Soundcore-Liberty-5-Pro.jpg"
-      },
-      {
-        "brief": "Plaud推出**Plaud One AI耳机**，主打会议记录与摘要功能，让用户专注于对话本身。该产品将AI能力与TWS耳机形态结合，切入商务办公场景，是AI硬件在音频领域的一次实用化尝试。",
-        "url": "https://www.yankodesign.com/2026/08/29/plaud-one-ai-earbuds-remember-and-summarize-your-conversations-so-you-can-focus-on-the-work/?utm_source=rss&utm_medium=rss&utm_campaign=plaud-one-ai-earbuds-remember-and-summarize-your-conversations-so-you-can-focus-on-the-work",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/plaud-one-ai-earbuds-remember-and-summarize-your-conversations-so-you-can-focus-on-the-work/Plaud-One-AI-Wearable-Earbuds-4.jpg"
-      },
-      {
-        "brief": "万代推出**Tamagotchi Ring**，一款可玩的电子宠物戒指，配备彩色屏幕。这款产品将经典IP与穿戴设备结合，形态极具话题性和情感价值，精准击中怀旧与新奇感并存的消费心理。",
-        "url": "https://www.engadget.com/2246986/i-hate-how-badly-i-want-the-tamagotchi-ring/",
-        "source": "Engadget",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.engadget.com/img/gallery/i-hate-how-badly-i-want-the-tamagotchi-ring/l-intro-1788025317.jpg"
-      },
-      {
-        "brief": "万代推出**Mecha Case名片盒**，售价22美元，将机甲元素融入商务配件。该产品通过酷炫的变形设计让递名片这一动作变得令人难忘，是3C配件领域将“功能”与“社交话题”结合的创新案例。",
-        "url": "https://www.yankodesign.com/2026/08/29/business-cards-were-forgettable-so-bandai-built-a-22-mecha-case/?utm_source=rss&utm_medium=rss&utm_campaign=business-cards-were-forgettable-so-bandai-built-a-22-mecha-case",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/business-cards-were-forgettable-so-bandai-built-a-22-mecha-case/automatic-transformation-business-card-case-03.jpg"
       }
     ]
   }

@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-30",
+    "items": [
+      {
+        "brief": "OpenAI 在 DevDay 发布 **Dots**，对标 Meta Muse 的常驻 AI 代理，用可爱可定制头像代表，能在后台跨应用持续执行多步任务并学习用户偏好。这是 OpenAI 首次把 AI 代理做成有形象、有陪伴感的消费级入口，对做 AI 硬件与配件生态的团队是重要风向标。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "iFixit 拆解 **AirPods 5**，发现苹果首次带来真正意义上的可维修性改进，虽然幅度很小但方向明确。对做耳机配件、保护类与充电周边的人来说，可维修性提升意味着拆机结构与内部布局变化，可能影响后续配件设计空间。",
+        "url": "https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement/",
+        "source": "9to5Mac",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods-5-teardown.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Apple 公布 **iPhone Duo** 预购流程启动时间：正式预购从 10 月 16 日（周五）开始，并提前开放早期准备通道。折叠形态 iPhone 的上市节奏直接决定手机壳、支架、磁吸配件等周边品类的开模与备货窗口，是配件厂商必须盯紧的时间点。",
+        "url": "https://9to5mac.com/2026/09/29/apple-announces-when-you-can-start-the-iphone-duo-pre-order-process/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Yanko Design 报道 **Meta 把 AI 做成电子宠物**，Muse 以 Tamagotchi 式可爱形象出现，试图用情感化外观降低普通人对 AI 的心理门槛。这种「AI 陪伴 + 挂饰形态」的思路正在被头部玩家验证，对做 AI 硬件与随身配件的团队有直接参考价值。",
+        "url": "https://www.yankodesign.com/2026/09/29/meta-just-turned-its-ai-into-a-tamagotchi-and-its-pretty-cute/?utm_source=rss&utm_medium=rss&utm_campaign=meta-just-turned-its-ai-into-a-tamagotchi-and-its-pretty-cute",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/meta-just-turned-its-ai-into-a-tamagotchi-and-its-pretty-cute/meta-charm-03.jpg"
+      },
+      {
+        "brief": "PNOĒ 推出更简洁的 **自助式呼吸分析面罩**，将于 10 月 1 日上市，让健身房用户无需专业操作员即可在 8 分钟内测得 VO₂ max 等代谢指标。把实验室级健康检测做成消费级可自助设备，是智能健康硬件值得关注的新方向。",
+        "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/PNOE-2.0.png?resize=1200,675"
+      },
+      {
+        "brief": "**Fairbuds 2** 终于公布价格与上市日期，这款主打模块化可维修的真无线耳机即将开卖。模块化设计让耳机可自行更换电池与部件，直击 TWS 一次性消费痛点，对做耳机配件与充电周边的品牌是值得研究的产品思路。",
+        "url": "https://www.androidauthority.com/fairbuds-2-launch-date-3716894/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/04/Fairphone-Fairbuds_3.jpg"
+      },
+      {
+        "brief": "Levoit 推出专为养宠家庭设计的 **新空气净化器**，售价 **189.99 美元**，采用三段式过滤系统并针对宠物毛发与「湿狗味」做定向优化。相比通用净化器更聚焦单一痛点场景，这种「场景专用化」硬件思路对做智能家居周边的团队有启发。",
+        "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Levoit-Vital-Pet-Pro_7.jpg?w=1200"
+      }
+    ]
+  },
+  {
     "date": "2026-09-29",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://media.wired.com/photos/6a92405cbb3a85e785f50cad/191:100/w_1280,c_limit/The-Best-MagSafe-Phone-Grips.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "items": [
-      {
-        "brief": "苹果Apple TV 4K预计9月9日发布，最大亮点是搭载**Gemini驱动的Siri AI**，支持真正自然的对话式交互。作为苹果智能家居生态核心，这一升级将显著提升语音助手的实用性，并可能带动整个智能家居配件市场的交互标准升级。",
-        "url": "https://www.yankodesign.com/2026/08/30/apple-tv-4k-is-coming-september-9-with-a-gemini-powered-siri-you-can-actually-talk-to/?utm_source=rss&utm_medium=rss&utm_campaign=apple-tv-4k-is-coming-september-9-with-a-gemini-powered-siri-you-can-actually-talk-to",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/apple_tv_4k_2026_1.jpeg"
-      },
-      {
-        "brief": "据彭博社Mark Gurman报道，**Apple Watch Series 12**可能配备**全天候心率追踪**功能和新版Fitness应用，并测试两种陶瓷版本。健康监测功能的持续强化，将进一步巩固Apple Watch在智能穿戴领域的领导地位，对图拉斯等配件厂商的生态布局有重要参考价值。",
-        "url": "https://9to5mac.com/2026/08/30/apple-watch-series-12-last-minute-leaks-new-fitness-app-heart-rate/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/07/apple-watch-heart-rate-app-watchos-10.jpeg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "索尼发布**Xperia 10 VIII**，搭载骁龙6 Gen 4、6.1英寸OLED屏、5000mAh电池和50MP主摄，起售价600美元。三星则推出**Galaxy S26 FE**，升级芯片并搭载最新One UI 9和Galaxy AI功能。两款中端新机均主打AI体验，显示头部品牌正加速AI功能向中端市场渗透。",
-        "url": "https://www.gsmarena.com/xperia_10_viii_galaxy_s26_fe_are_official_poco_f9_pro_and_ultra_coming_week_35_in_review-news-74394.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/week-35-in-review/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "Wired报道，一批新兴**极简主义可穿戴设备**正逆潮流而行，主打在不打扰用户的前提下静默收集健康数据。这类产品摒弃了通知轰炸和屏幕交互，专注于无感监测，为智能穿戴市场提供了全新的设计思路，对探索差异化产品形态的图拉斯具有启发意义。",
-        "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-        "source": "Wired",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://media.wired.com/photos/6a8f1c5ba84e455f12fd962b/191:100/w_1280,c_limit/NoScreenWearable.jpg"
-      },
-      {
-        "brief": "GSMArena周度投票显示，**荣耀Robot Phone**凭借其摄像头和AI能力吸引了大量关注，但价格和仅在中国发售是主要顾虑。该产品将AI与手机形态结合，其市场反响为AI硬件的产品定义和定价策略提供了重要参考。",
-        "url": "https://www.gsmarena.com/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-results-honor-robot-phone/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "ZWO推出**Seestar S50 Pro**智能天文望远镜，将复杂的天文摄影设备浓缩进一个相机包大小的体积内，大幅降低了天文摄影门槛。该产品通过高度集成和自动化，将专业级功能转化为消费级体验，是智能硬件细分场景创新的典型案例。",
-        "url": "https://www.yankodesign.com/2026/08/29/the-zwo-seestar-s50-pro-shrinks-a-hardware-store-into-a-camera-bag/?utm_source=rss&utm_medium=rss&utm_campaign=the-zwo-seestar-s50-pro-shrinks-a-hardware-store-into-a-camera-bag",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/the-zwo-seestar-s50-pro-shrinks-a-hardware-store-into-a-camera-bag/Seestar-S50-Pro-hero.jpg"
-      },
-      {
-        "brief": "Yanko Design介绍一款售价**60美元**的**应急收音机**，可夹在包上，在紧急情况下可能救命。该产品将传统收音机功能与现代便携设计结合，主打户外和应急场景，为3C配件在细分使用场景下的创新提供了新思路。",
-        "url": "https://www.yankodesign.com/2026/08/29/this-60-radio-clips-to-your-bag-and-could-save-your-life/?utm_source=rss&utm_medium=rss&utm_campaign=this-60-radio-clips-to-your-bag-and-could-save-your-life",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/this-radio-clips-to-your-bag-and-could-save-your-life/hangingonbagside_1400x.jpg"
       }
     ]
   }

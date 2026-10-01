@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-01",
+    "items": [
+      {
+        "brief": "Apple 传闻中的带屏 HomePod（**HomePad**，代号 J490）据 Bloomberg 的 Mark Gurman 称将于 **10 月 13 日**发布，同时还会更新 HomePod mini。这款设备被定位为 Apple 智能家居战略的核心，对做智能家居硬件与配件的厂商是重要风向标。",
+        "url": "https://www.gsmarena.com/this_is_when_apple_is_rumored_to_be_launching_the_homepad-news-74839.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-homepad-launch-date-rumor/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Samsung 首款 **夹耳式（clip-on）真无线耳机 Galaxy Buds On** 更多渲染图曝光，不入耳道的开放式佩戴形态是当前 TWS 最热的新方向。对做耳机配件与音频周边的品牌来说，这种新形态会带来全新的收纳、充电与佩戴配件机会。",
+        "url": "https://www.gsmarena.com/more_images_of_the_samsung_galaxy_buds_on_surface_they_show_off_the_clipon_design-news-74836.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-buds-on-new-images/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Samsung 的 **智能眼镜** 已通过 FCC 认证，为秋季发布扫清障碍。作为头部手机厂商正式入局 AI 眼镜赛道，这会直接带动智能穿戴配件（镜腿充电、收纳盒、镜片保护）的供应链与需求。",
+        "url": "https://www.androidauthority.com/samsungs-smart-glasses-stop-by-fcc-3717548/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg"
+      },
+      {
+        "brief": "The Verge 深度分析 **OpenAI Dots 与 Meta Muse** 两款 AI 硬件：两大 AI 巨头都选择用「可爱软硬件形象」试水实体设备，试图撬动专用 AI 硬件的消费市场。这是判断 AI 陪伴设备形态走向的关键报道。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "HN 热度 122 的开源项目 **JBR-001**：一台基于 Arduino Uno Q 的 **3D 打印桌面陪伴机器人**，可自行打印组装。开源桌面机器人正成为 AI 硬件爱好者的新宠，对探索 AI 陪伴硬件形态有参考价值。",
+        "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+        "source": "Hacker News",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://projects.arduinocontent.cc/cover-images/5dff6f3b-25f5-492f-96f2-0b5db5018528.jpg"
+      },
+      {
+        "brief": "Fujifilm 发布 **Instax Pal 2** 迷你数码相机，最大亮点是可直接插入智能手机传输照片，结合软件滤镜与实体按键的触感操作。这种「实体相机 + 手机直连」的轻量玩法，是 3C 配件与影像周边值得关注的新形态。",
+        "url": "https://www.engadget.com/2274075/fujifilm-instax-pal-2-can-plug-directly-into-your-smartphone-to-transfer-images/",
+        "source": "Engadget",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.engadget.com/img/gallery/fujifilms-instax-pal-2-can-plug-directly-into-your-smartphone-to-transfer-images/l-intro-1790805837.jpg"
+      },
+      {
+        "brief": "Yanko Design 报道一组创意改造：把旧 **Barbie 娃娃** 改造成 **蓝牙音箱与充电宝**，把怀旧玩具变成实用 3C 配件。这种「玩具 + 充电/音频」的跨界形态，对做差异化充电类与音频配件有启发。",
+        "url": "https://www.yankodesign.com/2026/09/30/your-old-barbie-dolls-actually-become-speakers-and-power-banks/?utm_source=rss&utm_medium=rss&utm_campaign=your-old-barbie-dolls-actually-become-speakers-and-power-banks",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/your-old-barbie-dolls-actually-become-speakers-and-power-banks/gomi-00.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-30",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/08/645033/rog-ally-x-dual-screen-mod-12.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "items": [
-      {
-        "brief": "Anker推出**Prime Qi2 25W折叠式3合1无线充电器**，可折叠至扁平，重量与iPhone 17 Pro Max相当，同时为iPhone、Apple Watch和AirPods充电，将25W Qi2快充浓缩至口袋大小，是旅行充电的革新形态。",
-        "url": "https://9to5mac.com/2026/08/31/ankers-foldable-3-in-1-charger-brings-25w-qi2-charging-into-something-pocket-sized/",
-        "source": "9to5Mac",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/bradley_60288f.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "Tim Cook发布告别备忘录，将苹果交棒给**John Ternus**，强调其作为产品构建者的深厚经验。这一领导层交接标志着一个新时代的开始，其产品策略将深刻影响整个3C配件与智能硬件生态的走向。",
-        "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Apple-John-Ternus-Tim-Cook_Full-Bleed-Image.jpg.xlarge_2x.jpg?resize=1200,675"
-      },
-      {
-        "brief": "**Galaxy Z Fold 8**市场反响热烈，销量超出预期，三星甚至开始调用未来组件储备来满足需求。这一信号表明折叠屏手机正加速成为主流，其供应链动态和设计趋势对3C配件厂商具有重要参考价值。",
-        "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ddi-demand-ramp-up-3704985/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-3-scaled.jpg"
-      },
-      {
-        "brief": "**Playa Phone**在Hacker News引发热议（488分），是一款为特定场景设计的手机，其极简功能与独特定位引发了关于数字极简主义和专注力经济的广泛讨论，是消费电子领域一个值得关注的新兴细分方向。",
-        "url": "https://playaphone.com/",
-        "source": "Hacker News",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": ""
-      },
-      {
-        "brief": "一项新技术利用**智能手机LED灯与AI算法**检测隐藏摄像头，为个人隐私安全提供了低成本、高便利性的解决方案。该技术将AI能力与手机现有硬件结合，开辟了全新的安全应用场景。",
-        "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-        "source": "Hacker News",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&amp;width=1200&amp;height=630&amp;smart=true"
-      },
-      {
-        "brief": "JMGO推出**Iris Ultra Max 4K 120Hz投影仪**，采用独特的双虹膜系统实现10000:1原生对比度，专为游戏和体育场景设计，现已在中国以外地区发售，是高端家用投影市场的一款强力新品。",
-        "url": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/01-lRIS-Ultra-Max-Right45.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Wired精选2026年**9款最佳MagSafe手机握把**，兼顾防摔与个性化表达。该榜单为追求手感与安全的用户提供了专业选购指南，也反映了手机配件市场在功能性之外对设计感的持续追求。",
-        "url": "https://www.wired.com/gallery/best-magsafe-grips/",
-        "source": "Wired",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://media.wired.com/photos/6a92405cbb3a85e785f50cad/191:100/w_1280,c_limit/The-Best-MagSafe-Phone-Grips.jpg"
       }
     ]
   }

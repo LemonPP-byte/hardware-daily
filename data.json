@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-02",
+    "items": [
+      {
+        "brief": "听力科技创业公司 **Legato** 推出 **AI 听力眼镜**，把助听功能集成进普通眼镜形态，主打降低传统助听器的成本、佩戴不适与社交污名感。这是 AI 眼镜从「显示/拍摄」转向「感官增强」的新分支，对做智能穿戴与眼镜配件的厂商是值得关注的新形态。",
+        "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670"
+      },
+      {
+        "brief": "**Samsung** 在韩国正式发售其首款 **夹耳式（clip-on）真无线耳机 Galaxy Buds On**，不入耳道的开放式形态主打长时间佩戴与运动场景，全球上市计划尚未公布细节。头部手机厂商入局夹耳式形态，会直接带动开放式耳机的配件与充电生态需求。",
+        "url": "https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea/",
+        "source": "Engadget",
+        "score": 4,
+        "recurring": true,
+        "tier": "成熟品牌",
+        "image": "https://www.engadget.com/img/gallery/samsung-launches-its-first-clip-on-earbuds-in-south-korea/l-intro-1790888120.jpg"
+      },
+      {
+        "brief": "**Amazon** 在 Kindle 20 周年前夕全面更新 **Kindle / Paperwhite / Colorsoft** 产品线，采用更薄更轻的机身、铝合金材质与全新无边框前平设计，并新增配色。电子阅读器形态向「更小更轻」演进，对做便携配件与保护类产品的厂商有参考价值。",
+        "url": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://media.wired.com/photos/6abe13780f613e5391667af0/191:100/w_1280,c_limit/New%20Kindles%202026%20SOURCE%20Julian%20Chokkattu.jpg"
+      },
+      {
+        "brief": "创业公司 **Freckle** 推出面向 7-13 岁儿童的 **AI 手机**，设计核心是鼓励孩子走到户外观察自然，而非依赖家长式限制与监控。这是 AI 硬件在儿童场景的差异化尝试，把「反屏幕沉迷」做成产品卖点，值得关注其交互逻辑。",
+        "url": "https://www.dezeen.com/2026/10/01/freckle-phone-sends-kids-outside/",
+        "source": "Dezeen",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "http://static.dezeen.com/uploads/2026/09/freckle-phone-design_dezeen_2364_sq2-411x411.jpg"
+      },
+      {
+        "brief": "The Verge 上手 **Meta VR Glasses**（售价 **$1,299**），认为这款非不透明头显的眼镜形态「改变了游戏规则」——它既不是传统 VR 头显也不是普通透明 AR 眼镜。Meta 在轻量化眼镜形态上的设计领先，可能重塑可穿戴硬件的竞争格局。",
+        "url": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260924_130227-EDIT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**VIVIFoCAL S1** 眼镜可自动对焦，原理类似手机激光对焦——发射不可见激光脉冲测距后驱动微型马达调整镜片，让眼睛不必自己费力调节。这是把消费电子对焦技术移植到眼镜的新形态，对做智能穿戴与光学配件的厂商有启发。",
+        "url": "https://www.yankodesign.com/2026/10/01/the-vivifocal-s1-glasses-focus-themselves-so-your-eyes-dont-have-to/?utm_source=rss&utm_medium=rss&utm_campaign=the-vivifocal-s1-glasses-focus-themselves-so-your-eyes-dont-have-to",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/the-vivifocal-s1-glasses-focus-themselves-so-your-eyes-dont-have-to/VIVIFoCAL-S1-Deposit-Reservation-hero.jpg"
+      },
+      {
+        "brief": "**Samsung SmartTag3** 以 **790 天**电池续航为卖点，主打「几乎不用换电池」的防丢追踪体验，直击钥匙、钱包、耳机随手乱放找不到的痛点。超长续航是追踪器品类的关键竞争维度，对做 3C 配件与智能硬件的厂商有直接参考意义。",
+        "url": "https://www.yankodesign.com/2026/10/01/samsungs-smarttag3-refuses-to-die-at-790-days-battery-life/?utm_source=rss&utm_medium=rss&utm_campaign=samsungs-smarttag3-refuses-to-die-at-790-days-battery-life",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/samsungs-smarttag3-refuses-to-die-at-790-days-battery-life/smart-tag-3-01.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-01",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/anker-prime-power-bank-ifa.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-02",
-    "items": [
-      {
-        "brief": "戴森推出售价499美元的**CameraJet摄像头牙刷**，刷头下隐藏1mm摄像头，每秒读取28张图像，能在100毫秒内发现牙缝问题。该产品将口腔护理与精密影像技术结合，重新定义了智能个护硬件，对图拉斯探索健康监测类配件极具启发。",
-        "url": "https://www.yankodesign.com/2026/09/01/dysons-499-camera-toothbrush-is-so-advanced-they-had-to-redesign-the-toothpaste-for-it/?utm_source=rss&utm_medium=rss&utm_campaign=dysons-499-camera-toothbrush-is-so-advanced-they-had-to-redesign-the-toothpaste-for-it",
-        "source": "Yanko Design",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/645201/dyson_camerajet_toothbrush_1.jpg"
-      },
-      {
-        "brief": "iPhone Ultra新细节曝光：Mark Gurman透露其规格、多任务处理能力及发布时间。作为苹果下周二发布会的重磅新品，**iPhone Ultra**将定义新的高端旗舰形态，其多任务交互创新可能引领下一代移动设备交互范式，直接影响图拉斯高端配件产品线规划。",
-        "url": "https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/",
-        "source": "9to5Mac",
-        "score": 5,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "Sonos发布**Beam Ultra**条形音箱（699美元）和**Ace Ultra**耳机（449美元），并推出全新Sonos Fabric系统和AI增强应用。作为智能音频头部品牌，Sonos将AI代理能力融入家庭影音生态，其软硬结合策略为智能家居音频配件树立新标杆。",
-        "url": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/beamultra1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "TP-Link在IFA 2026发布**全球首款完整Wi-Fi 8路由器产品线**。作为网络设备头部厂商，TP-Link率先落地Wi-Fi 8标准，将推动新一代无线技术的普及，对图拉斯未来无线充电和智能硬件产品的连接性能升级具有前瞻参考价值。",
-        "url": "https://www.reddit.com/r/hardware/comments/1w4d4zf/tplink_unveils_worlds_first_complete_wifi_8/",
-        "source": "Reddit",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": ""
-      },
-      {
-        "brief": "Nori Robotics（YC S26）推出**低成本人形机器人**，专为开发场景设计，在Hacker News获111分热度。该产品大幅降低了具身智能的研发门槛，让个人开发者和小团队也能进入人形机器人领域，是AI硬件民主化的重要一步。",
-        "url": "https://www.norirobotics.com/",
-        "source": "Hacker News",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://noril1.com/opengraph-image/a3-2026e?09f634070dee520a"
-      },
-      {
-        "brief": "Homey推出**Portal物理旋钮**智能家居控制器，为智能家居控制带来复古而直观的交互体验。在触屏和语音助手泛滥的当下，物理旋钮的回归满足了用户对精准、触感控制的需求，是智能家居配件形态的一次有趣探索。",
-        "url": "https://www.androidauthority.com/homey-portal-launch-features-price-availability-3705203/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Homey-Portal.jpg"
-      },
-      {
-        "brief": "一款ROG Ally X改装模块可**磁吸式安装120Hz副屏**，用毕即可取下。该设计无需购买全新双屏掌机，通过模块化升级为现有设备增添第二屏，为游戏掌机配件开辟了灵活、低成本的新形态，极具DIY吸引力。",
-        "url": "https://www.yankodesign.com/2026/09/01/this-rog-ally-x-mod-snaps-on-a-120hz-second-screen-then-off-again/?utm_source=rss&utm_medium=rss&utm_campaign=this-rog-ally-x-mod-snaps-on-a-120hz-second-screen-then-off-again",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/645033/rog-ally-x-dual-screen-mod-12.jpg"
       }
     ]
   }

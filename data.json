@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-03",
+    "items": [
+      {
+        "brief": "Meta 开源 **Muse AI 硬件开发代码**，允许用户自制搭载 Muse 智能体的设备，官方示范包括彩色 E Ink 提醒屏、HDMI 棒、类 **Muse Charm** 的小触屏设备，同时推出自有智能家居设备 Muse Home Link。",
+        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "source": "The Verge",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Apple 传闻将于 **10 月 13 日**发布全新 Home 产品，并同步推出全新操作系统 **homeOS**，这是苹果在智能家居生态的关键落子，将直接影响配件与充电场景的联动设计。",
+        "url": "https://9to5mac.com/2026/10/02/apples-new-homeos-will-launch-this-month-heres-whats-coming/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-home-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Twelve South 推出超小型 **Airfly Drive 无线 CarPlay 适配器**，把有线 CarPlay/Android Auto 转为无线连接，并已公布完整车辆兼容列表，是车载配件领域值得关注的新形态。",
+        "url": "https://9to5mac.com/2026/10/02/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Neurable 推出改进版 **Neurable One ANC 耳机**，在降噪耳机形态中集成非侵入式 **脑机接口（BCI）**，可主动追踪脑活动，把神经科学 R&D 带入消费级可穿戴硬件。",
+        "url": "https://www.yankodesign.com/2026/10/02/improved-neurable-one-anc-headphones-actively-track-brain-activity-while-sounding-great/?utm_source=rss&utm_medium=rss&utm_campaign=improved-neurable-one-anc-headphones-actively-track-brain-activity-while-sounding-great",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/improved-neurable-one-anc-headphones-actively-track-brain-activity-while-sounding-great/Neurable-One-Headphones-4.jpg"
+      },
+      {
+        "brief": "Mobvoi 推出 **TicNote 智能手表**，整机只有一个按键，核心卖点是随时记录并提醒你容易遗忘的信息，把 AI 记忆助手做成腕上硬件，交互极简。",
+        "url": "https://www.yankodesign.com/2026/10/02/mobvoi-ticnote-smartwatch-has-one-button-and-its-built-to-remember-what-you-often-forget/?utm_source=rss&utm_medium=rss&utm_campaign=mobvoi-ticnote-smartwatch-has-one-button-and-its-built-to-remember-what-you-often-forget",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/mobvoi-ticnote-smartwatch-has-one-button-and-its-built-to-remember-what-you-often-forget/Mobvoi-TicNote-Watch-Smartwatch.jpg"
+      },
+      {
+        "brief": "一款售价 **249 美元**的便携播放器复活 **iPod 转盘**交互，主打「真正拥有自己的音乐」，在流媒体时代用复古硬件形态唤起怀旧购买欲，属于高话题度新锐音频硬件。",
+        "url": "https://www.yankodesign.com/2026/10/02/this-249-player-brings-back-the-ipod-wheel-and-with-it-the-lost-art-of-owning-your-music/?utm_source=rss&utm_medium=rss&utm_campaign=this-249-player-brings-back-the-ipod-wheel-and-with-it-the-lost-art-of-owning-your-music",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/sudo_music_player_1.jpg"
+      },
+      {
+        "brief": "Nothing 开放 **Community Review Program** 报名，入选者可提前拿到未发布产品与软件上手体验，并直接与团队沟通，这种「先玩后发」的社区策略对配件与生态联动有参考价值。",
+        "url": "https://www.gsmarena.com/nothing_will_let_you_play_with_its_upcoming_products_before_anyone_else_heres_how-news-74877.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/nothing-community-review-program/-184x111/gsmarena_000.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/ugreen-chargers-group.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-03",
-    "items": [
-      {
-        "brief": "新任苹果CEO John Ternus发布首份备忘录，**高调预告下周的“巨大发布”**，传闻将推出**首款折叠屏iPhone**。这一发布将直接定义未来一年高端手机与配件市场走向，对图拉斯等配件厂商的备货与设计方向有重大参考价值。",
-        "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-        "source": "TechCrunch",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2271736494.jpg?resize=1200,800"
-      },
-      {
-        "brief": "The Verge汇总了**IFA 2026展会目前最佳科技产品**，涵盖智能家居、笔记本电脑、游戏手柄、AI耳机等品类。作为欧洲最大消费电子展，IFA是观察头部品牌新品趋势与行业风向的核心窗口，对产品规划极具参考价值。",
-        "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "华为在慕尼黑发布**Watch 6系列**旗舰手表，并让Watch GT 7系列走向全球。华为在穿戴领域的持续迭代，特别是健康监测与设计创新，是图拉斯在智能硬件与配件生态中需要重点研究的竞品动向。",
-        "url": "https://www.gsmarena.com/huawei_watch_6_series_announced_watch_gt_7_and_gt_7_pro_go_global-news-74436.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/huawei-watch-6-series-ofic/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "Yanko Design介绍一款**售价500美元的可穿戴脑电波追踪设备**，能在运动状态下全天候监测大脑活动。该产品将专业脑机接口技术消费化，是AI与健康穿戴结合的前沿形态，对探索新品类有启发意义。",
-        "url": "https://www.yankodesign.com/2026/09/02/this-500-wearable-tracks-your-brain-all-day-even-while-youre-moving/?utm_source=rss&utm_medium=rss&utm_campaign=this-500-wearable-tracks-your-brain-all-day-even-while-youre-moving",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/atlas-1-0-brain-monitoring-wearable-accurately-analyses-the-most-taxing-activities-you-better-get-up/Atlas-1-Wearable-Brain-Analysing-6.jpg"
-      },
-      {
-        "brief": "Google与MrBeast达成多年合作，将在其视频中植入**Gemini AI与Fitbit Air穿戴设备**，首期节目为荒野求生。借助MrBeast的庞大流量，这一合作将极大推动AI硬件在消费市场的认知度与购买欲。",
-        "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Yanko Design介绍一款**将CD机械结构外露展示的CD播放器**，以透明外壳和可视化的读碟过程，将怀旧媒介转化为桌面上的机械美学摆件。这种将复古功能与现代工业设计结合的手法，对3C配件的颜值创新有借鉴意义。",
-        "url": "https://www.yankodesign.com/2026/09/02/this-cd-player-doesnt-hide-its-mechanism-it-puts-it-on-display/?utm_source=rss&utm_medium=rss&utm_campaign=this-cd-player-doesnt-hide-its-mechanism-it-puts-it-on-display",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/your-cd-player-finally-turns-albums-into-wall-art/ClearFrame-CD-Player-Speaker_Retro_Analogue_hero.jpg"
-      },
-      {
-        "brief": "Anker Prime移动电源迎来**21%折扣，降至259.99美元**，这款高端充电宝配备智能显示屏且支持笔记本级输出。作为充电品类头部品牌的旗舰产品降价，是观察市场定价策略与消费者反馈的重要样本。",
-        "url": "https://www.androidauthority.com/anker-prime-power-bank-deal-amazon-3706359/",
-        "source": "Android Authority",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/anker-prime-power-bank-ifa.jpg"
       }
     ]
   }

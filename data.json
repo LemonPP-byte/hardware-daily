@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-04",
+    "items": [
+      {
+        "brief": "**StillFrame 耳机**主打「一天切换四种工作模式」，针对长时间坐在屏幕前的人群，试图用形态/功能切换解决工作场景下的音频需求。对做 3C 配件与音频形态创新的团队来说，这种「场景化多功能耳机」思路值得关注。",
+        "url": "https://www.yankodesign.com/2026/10/03/4-times-a-day-the-stillframe-headphones-switch-jobs-for-you/?utm_source=rss&utm_medium=rss&utm_campaign=4-times-a-day-the-stillframe-headphones-switch-jobs-for-you",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/4-times-a-day-the-stillframe-headphones-switch-jobs-for-you/stillframe-0.jpg"
+      },
+      {
+        "brief": "vivo 在印度预告 **X Fold6 折叠屏**与 **MR 头显**将于 10 月 6 日发布，头部手机厂商正式把 MR 头显纳入产品线。对图拉斯而言，这意味着折叠屏配件与 XR 周边可能迎来新的需求窗口。",
+        "url": "https://www.gsmarena.com/vivo_x_fold6_vivo_vision_india_launch_teaser-news-74891.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x-fold6-india-launch-teaser/-184x111/gsmarena_001.jpg"
+      },
+      {
+        "brief": "Amazon 新款 **Fire TV Stick 4K**更薄更快，最大升级是重新设计的遥控器，暗光下更易操作。作为成熟品牌的配件级迭代，说明「遥控器手感」这类细节仍能成为购买理由，对做配件体验的团队有参考价值。",
+        "url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/fire-tv-stick-4k-ftv-remote-hero-amazonnews-ck92916.jpg?resize=1200,675"
+      },
+      {
+        "brief": "TDK 公布用于智能眼镜的**直接视网膜投影显示**方案，采用 meta-optic 反射镜实现，HN 热度 21。这是 AI 眼镜显示路径上的新硬件方向，可能影响未来智能眼镜的形态与光学供应链。",
+        "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
+        "source": "Hacker News",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": ""
+      },
+      {
+        "brief": "Meta 开源 **Muse AI 硬件代码**，允许用户自制搭载 Muse 智能体的设备，官方示范包括彩色 E Ink 提醒屏、HDMI 棒、小型触屏设备等。这是 AI 硬件「DIY 生态」的明确信号，值得关注其对 AI 配件形态的启发。",
+        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**MR.GADGET** 推出一款 AirTag 大小的 EDC 打火机，把 Zippo 式火焰塞进 1.4 英寸高的钛合金机身。虽非充电品类，但其「极致小型化 + 金属质感」的配件思路，对做便携 3C 配件有形态启发。",
+        "url": "https://www.yankodesign.com/2026/10/02/airtag-sized-edc-lighter-packs-a-zippo-style-flame-into-a-1-4-inch-tall-titanium-body/?utm_source=rss&utm_medium=rss&utm_campaign=airtag-sized-edc-lighter-packs-a-zippo-style-flame-into-a-1-4-inch-tall-titanium-body",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/pyra_micro_tatium_lighter_1.jpg"
+      },
+      {
+        "brief": "Core77 报道一款**手机外接阅读屏**，通过附加硬件限制手机使用，帮用户摆脱刷手机、专注阅读。这类「反手机」配件正在形成小品类，对做手机周边与场景化配件的团队是一个可观察的新方向。",
+        "url": "https://www.core77.com/posts/145541/Hell-in-a-Handbasket-An-Add-On-Reading-Screen-for-Your-Phone-So-You-Dont-Have-to-Develop-Willpower",
+        "source": "Core77",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://s3files.core77.com/blog/images/1852391_81_145541_ec35ghMz9.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-03",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://fdn.gsmarena.com/imgroot/news/26/09/tecno-bezel-less-concept-ifa-2026/-184x111/gsmarena_00.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-04",
-    "items": [
-      {
-        "brief": "UGREEN发布**MagFlow Pro磁吸无线充电宝**，配备可视化**液态冷却系统**，用户可直接看到冷却液流动。售价149.99美元，10000mAh容量，定位高端市场。将充电过程转化为视觉体验，极具话题性和购买欲。",
-        "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
-        "source": "The Verge",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Anker在IFA 2026推出**MindBase**智能家居中枢，可为旧款eufy摄像头提供本地AI处理能力，并支持高达**48TB**存储。该设备让现有安防硬件获得“大脑”升级，是盘活存量市场的创新思路，对充电及配件大厂Anker的生态布局有标杆意义。",
-        "url": "https://www.yankodesign.com/2026/09/03/anker-mindbase-gives-your-old-eufy-cameras-a-real-brain-and-48tb-of-memory-hands-on-at-ifa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=anker-mindbase-gives-your-old-eufy-cameras-a-real-brain-and-48tb-of-memory-hands-on-at-ifa-2026",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/645767/anker_mindbase_1.jpg"
-      },
-      {
-        "brief": "Belkin在IFA 2026推出**SureFind Loop Cable Tag**，这是首款自带可用**USB-C挂绳**的追踪器。它解决了AirTag等产品需另购配件的痛点，将充电线与防丢标签合二为一，形态新颖，对3C配件品类有启发意义。",
-        "url": "https://www.yankodesign.com/2026/09/03/the-first-tracker-with-a-working-usb-c-leash-hands-on-with-belkin-surefind-loop-cable-tag-at-ifa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-tracker-with-a-working-usb-c-leash-hands-on-with-belkin-surefind-loop-cable-tag-at-ifa-2026",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/645787/belkin_surefind_loop_cable_tag_ifa2026_1.jpg"
-      },
-      {
-        "brief": "**Qualcomm**领投**Ultrahuman** 7000万美元融资，押注将智能戒指发展为“计算机”。Ultrahuman正基于高通平台打造新款智能戒指，目标在2027年1月实现2亿美元年收入。此举表明芯片巨头看好智能戒指赛道，将加速该品类从健康追踪向独立计算平台演进。",
-        "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg?resize=1200,800"
-      },
-      {
-        "brief": "Circular发布**Ring 3系列**智能戒指，新增**非接触式支付**和指上震动提醒功能。该系列包含Pro和Slim两个型号，在Oura Ring 5和RingConn Gen 3竞争白热化的背景下，通过支付功能寻求差异化，是智能穿戴领域值得关注的新动向。",
-        "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Circular-Ring-3-Slim-Lineup.png?resize=1200,1200"
-      },
-      {
-        "brief": "Vention在IFA 2026推出自有品牌充电宝，设计语言强调美学而非参数，外观如“日落”般具有氛围感。作为长期为其他品牌代工电池的厂商，此举是其走向前台的关键一步，其设计驱动的充电产品形态值得关注。",
-        "url": "https://www.yankodesign.com/2026/09/03/ventions-new-power-bank-reads-like-a-sunset-not-a-spec-sheet/?utm_source=rss&utm_medium=rss&utm_campaign=ventions-new-power-bank-reads-like-a-sunset-not-a-spec-sheet",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/ventions-new-power-bank-reads-like-a-sunset-not-a-spec-sheet/vention-h-series-dash-series.jpg"
-      },
-      {
-        "brief": "UGREEN发布新款**Qi2充电宝**，主打可视化冷却系统，将散热功能从“感受”变为“可见”。该产品是UGREEN MagFlow Pro系列的一部分，通过透明窗口展示冷却液流动，为充电宝品类带来了新的交互和视觉卖点。",
-        "url": "https://www.androidauthority.com/ugreen-magflo-pro-3706594/",
-        "source": "Android Authority",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/ugreen-chargers-group.jpg"
       }
     ]
   }

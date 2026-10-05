@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-05",
+    "items": [
+      {
+        "brief": "**Meta Glasses Nova（Gen 3）**评测出炉，Wired 直言「没什么新东西」——电池和麦克风略有提升，摄像头保留。作为 Ray-Ban 联名智能眼镜的第三代，头部玩家迭代放缓值得图拉斯关注 AI 眼镜配件窗口。",
+        "url": "https://www.wired.com/review/meta-glasses-gen-3/",
+        "source": "Wired",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://media.wired.com/photos/6ac01e4e87049b21d32345fe/191:100/w_1280,c_limit/Meta%20Glasses%20Nova%20Tonal-resized.jpg"
+      },
+      {
+        "brief": "**Fitbit Edge** 真机图泄露，定位介于 Pixel Watch 与 Fitbit Air 之间的中端健身手环，配小屏可显示小组件。Google 在可穿戴产品线的重新梳理，直接影响智能穿戴配件生态。",
+        "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**OhSnap Wallet 2** 磁吸杠杆式卡包上手，可与其 Snap Grip 支架叠放，无需工具模块化拆装。The Verge 编辑称其为「贴在手机上最酷的钱包」，MagSafe 配件形态创新值得图拉斯参考。",
+        "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Soulog Sense** 是一款 AI 语音记录器，不仅录音还能理解并整理对话内容，内置个人上下文系统。AI 硬件从「记录」走向「理解与组织」，是 AI 可穿戴的新方向。",
+        "url": "https://www.androidauthority.com/soulog-sense-ai-voice-recorder-3716740/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Soulog-sense-featured.jpg"
+      },
+      {
+        "brief": "Dezeen 播客讨论 **Meta Muse Charm** AI 设备，标题直言「我们害怕 Meta 这款可爱的 AI 设备」。AI 硬件采用可爱化设计引发设计界警惕，是 AI 陪伴设备形态与心理影响的重要讨论。",
+        "url": "https://www.dezeen.com/2026/10/02/muse-ai-charm-new-york-jails-dezeen-weekly-podcast/",
+        "source": "Dezeen",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "http://static.dezeen.com/uploads/2026/10/dezeen-weekly-podcast-2-october-2026-sq-411x411.jpg"
+      },
+      {
+        "brief": "一款 **USB-C 线**被设计成工地延长线的样子，Yanko Design 称其「好笑但实用」。USB-C 线材外观同质化严重，这种反差设计思路对图拉斯线材产品差异化有启发。",
+        "url": "https://www.yankodesign.com/2026/10/04/hilariously-practical-usb-c-cable-looks-exactly-like-a-construction-site-extension-cord/?utm_source=rss&utm_medium=rss&utm_campaign=hilariously-practical-usb-c-cable-looks-exactly-like-a-construction-site-extension-cord",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/652095/matty_extension_usb_cable_1.jpg"
+      },
+      {
+        "brief": "Yanko Design 盘点 **5 款 EDC 风格飓风季应急小工具**，聚焦断电场景下的实用装备。应急场景下的充电与照明配件需求，是图拉斯充电类产品可拓展的使用场景。",
+        "url": "https://www.yankodesign.com/2026/10/04/5-best-edc-style-gadgets-designed-to-get-you-through-hurricane-season/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-edc-style-gadgets-designed-to-get-you-through-hurricane-season",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/draft-edc-style-gadgets-designed-to-get-you-through-hurricane-season/5_edc_hurricane_yanko_design_01.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-04",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://fdn.gsmarena.com/imgroot/news/26/09/motorola-wide-foldable-design-sketches/-184x111/gsmarena_001.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-05",
-    "items": [
-      {
-        "brief": "Belkin在IFA 2026推出**半固态充电宝**，这是充电技术的一次重要革新。半固态电池相比传统锂电具有更高能量密度和安全性，Belkin作为头部配件品牌率先落地该技术，将推动整个充电品类向新电池形态迁移，对图拉斯的产品规划具有直接参考价值。",
-        "url": "https://www.reddit.com/r/gadgets/comments/1w76uue/belkin_launches_semi_solid_state_power_banks_at/",
-        "source": "Reddit",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": ""
-      },
-      {
-        "brief": "苹果将于9月9日举行发布会，预计推出**iPhone 18系列**及传闻已久的**折叠屏iPhone Ultra**。这是新CEO John Ternus首次主持发布会，也是苹果首款折叠屏产品，将直接定义未来两年高端手机市场格局，并带动相关配件生态的全面洗牌。",
-        "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
-        "source": "The Verge",
-        "score": 5,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-08-26-at-9.17.30-AM.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Anker推出**SOLIX E10全屋备用电源系统**，主打“风暴不停电”的无限家庭供电场景。该系统将Anker从移动充电拓展至家庭储能领域，是其在能源品类上的重要战略布局，其产品定义和渠道打法对图拉斯拓展新品类有借鉴意义。",
-        "url": "https://www.androidauthority.com/anker-solix-e10-3701899/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/01/Anker-SOLIX-E10-with-smart-generator-scaled.jpg"
-      },
-      {
-        "brief": "The Verge汇总了**IFA 2026最佳科技产品**，涵盖无边框手机、扫地机器人、AI耳机等。作为欧洲最大消费电子展，IFA是下半年新品风向标，这份清单能快速帮图拉斯捕捉到充电、配件、AI硬件领域的最新设计语言与功能趋势。",
-        "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/besttop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Yanko Design盘点了IFA 2026上最疯狂的**可穿戴设备**，主题是“身体即新科技平台”。这些产品将传感器与身体深度融合，覆盖健康监测、交互控制等新场景，展示了可穿戴设备在形态和功能上的更多可能性，对图拉斯探索智能硬件新品类具有启发意义。",
-        "url": "https://www.yankodesign.com/2026/09/04/your-body-is-the-new-tech-platform-the-wildest-wearables-at-ifa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=your-body-is-the-new-tech-platform-the-wildest-wearables-at-ifa-2026",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/draft-gcs-body-tech/gcs_body_tech_ifa2026_1.jpg"
-      },
-      {
-        "brief": "Bandai为庆祝**Tamagotchi**诞生30周年，推出了一款可佩戴的**微型戒指版电子宠物**，尺寸仅28毫米。这款产品将怀旧IP与可穿戴设备结合，创造了全新的情感陪伴场景，展示了IP硬件化的巨大潜力，是智能穿戴与情感消费结合的典型案例。",
-        "url": "https://www.dezeen.com/2026/09/02/tamagochi-ring/",
-        "source": "Dezeen",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "http://static.dezeen.com/uploads/2026/09/sq-tamagotchi-ring_dezeen_2364_col_0-411x411.jpg"
-      },
-      {
-        "brief": "Tecno在IFA 2026展示了**无边框概念手机**，通过消除屏幕黑边将屏占比推向极限。GSMArena进行了上手体验，指出其金属中框因此显得更宽。这一设计探索代表了手机形态进化的一个前沿方向，其结构设计思路对3C配件（如保护壳）的适配提出了新挑战。",
-        "url": "https://www.gsmarena.com/tecno_bezelless_concept_phone_handson-news-74476.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/tecno-bezel-less-concept-ifa-2026/-184x111/gsmarena_00.jpg"
       }
     ]
   }

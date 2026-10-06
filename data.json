@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-06",
+    "items": [
+      {
+        "brief": "Wired 实测超 100 款后发布 **2026 最佳充电宝**榜单，覆盖手机、笔记本、掌机等设备的旅行续航需求。作为充电类核心品类的权威横评，直接反映海外消费者对容量、体积、快充协议的偏好趋势，对图拉斯充电宝产品定义有直接参考价值。",
+        "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+        "source": "Wired",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://media.wired.com/photos/6ac03e8a3c662ead2b64eb3c/191:100/w_1280,c_limit/Best%20Power%20Banks%20102026%20top%20art%20SOURCE%20Amazon.jpg"
+      },
+      {
+        "brief": "Samsung 或已找到**延长 Galaxy S27 Ultra 高功率充电持续时间**的方法，通过优化策略让快充峰值维持更久。头部安卓厂商在充电曲线上的持续打磨，会拉高消费者对「快充体验」的预期，直接影响图拉斯 GaN 充电头与充电宝的协议兼容与功率规划。",
+        "url": "https://www.androidauthority.com/galaxy-s27-ultra-fast-charging-optimization-3719282/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Charging-Settings-on-Samsung-Galaxy-S26-scaled.jpg"
+      },
+      {
+        "brief": "Samsung 确认 **SmartTag 3 追踪器**将正式支持更广泛的 Android 设备，打破此前仅限 Galaxy 生态的限制。作为头部品牌在防丢配件上的生态开放动作，可能带动第三方磁吸/挂绳类配件需求，与图拉斯 3C 配件品类存在交叉机会。",
+        "url": "https://www.androidauthority.com/smarttag-3-android-3719353/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/smarttag-3-2.jpg"
+      },
+      {
+        "brief": "19 岁创始人创立的 Ghost 获 1100 万美元融资，首款产品 **Core 是一台售价 3,499 美元、专为个人 AI 智能体打造的计算机**，可代用户执行操作。这是「AI 智能体专用硬件」这一新形态的早期尝试，高定价与明确交付计划值得关注其能否成立。",
+        "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803"
+      },
+      {
+        "brief": "听力科技创业公司 Legato 正式发布 **AI 听力眼镜**，把助听功能集成进普通眼镜形态，主打降低传统助听器的成本、佩戴不适与社交污名。这是「眼镜 + 健康功能」融合的又一案例，与 AI 眼镜赛道形成互补思路，值得关注其形态与定价策略。",
+        "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670"
+      },
+      {
+        "brief": "Nacon 推出 PS5 兼容的 **Revolution 5 Unlimited 手柄**，最大亮点是机身集成一块**内置屏幕**，延续 ROG Raikiri II Pro 开启的「带屏手柄」新趋势。手柄加屏这一形态正在形成小品类，对图拉斯在游戏配件与支架类产品的形态创新有启发。",
+        "url": "https://www.yankodesign.com/2026/10/05/playstation-5-compatible-nacon-revolution-5-unlimited-gaming-controller-shows-off-a-built-in-screen/?utm_source=rss&utm_medium=rss&utm_campaign=playstation-5-compatible-nacon-revolution-5-unlimited-gaming-controller-shows-off-a-built-in-screen",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/nacon-revolution-5-unlimited-gaming-controller-for-playstation-5-has-a-built-in-screen/Nacon-Revolution-5-Unlimited-Controller-3.jpg"
+      },
+      {
+        "brief": "Wuben 借 2026 秋季 Prime Day 促销主推其**多场景便携照明**产品线，强调「每种携带方式都有对应的灯」。作为 EDC 照明新锐品牌，其产品定义思路（形态细分、场景绑定）对图拉斯在便携充电与应急配件上的场景化设计有借鉴意义。",
+        "url": "https://www.yankodesign.com/2026/10/05/wubens-prime-day-fall-2026-sale-has-a-different-light-for-every-kind-of-carry/?utm_source=rss&utm_medium=rss&utm_campaign=wubens-prime-day-fall-2026-sale-has-a-different-light-for-every-kind-of-carry",
+        "source": "Yanko Design",
+        "score": 2,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/wubens-prime-day-fall-2026-sale-has-a-different-light-for-every-kind-of-carry/Wuben-E2-hero.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-06",
-    "items": [
-      {
-        "brief": "Yanko Design 介绍了一款售价 **99 美元** 的 **AI 夹式设备**，主打“记住你忘记的一切”。它面向会议和对话场景，通过AI进行记录与回忆，以极低的价格切入AI可穿戴市场，有望激发大众消费者的购买欲。",
-        "url": "https://www.yankodesign.com/2026/09/05/this-99-clip-on-ai-remembers-everything-youll-ever-forget/?utm_source=rss&utm_medium=rss&utm_campaign=this-99-clip-on-ai-remembers-everything-youll-ever-forget",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/this-99-clip-on-ai-remembers-everything-youll-ever-forget/switchbot-ai-00.jpg"
-      },
-      {
-        "brief": "据 GSMArena 报道，**苹果** 正在研发两款 **游戏手柄**。尽管细节尚未公布，但苹果进入游戏硬件配件领域，将直接改变游戏外设市场的竞争格局，对图拉斯等3C配件厂商具有重要的战略参考意义。",
-        "url": "https://www.gsmarena.com/apple_apparently_has_two_game_controllers_in_the_works-news-74487.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-two-unannounced-game-controllers/-184x111/gsmarena_001.jpg"
-      },
-      {
-        "brief": "**小米** 在中国市场正式发布 **Smart Band 11** 智能手环，延续标志性的药丸形屏幕设计。作为全球可穿戴设备的头部玩家，小米手环的迭代将巩固其在入门级市场的地位，并影响整个智能手环品类的设计风向。",
-        "url": "https://www.gsmarena.com/xiaomi_unveils_the_smart_band_11-news-74489.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-unveil-smart-band-11/-184x111/gsmarena_001.jpg"
-      },
-      {
-        "brief": "TechCrunch 报道，**Oura** 即将上市，但 **智能戒指** 赛道正面临众多新锐挑战。文章盘点了试图挑战Oura统治地位的新兴公司及其差异化策略，揭示了智能戒指市场即将爆发的激烈竞争与创新方向。",
-        "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800"
-      },
-      {
-        "brief": "Android Authority 认为 **Insta360 X6** 全景相机有望成为“一机走天下”的终极设备。其强大的 **AI 剪辑** 功能降低了全景内容创作门槛，可能推动全景相机从小众走向大众市场，成为新的消费电子热点。",
-        "url": "https://www.androidauthority.com/insta360-x6-ai-editing-3707926/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Insta360-logo-with-X6-camera.jpg"
-      },
-      {
-        "brief": "**Razer** 推出 **Clio X** 游戏音频设备，专为“摘下耳机”的场景设计。它解决了游戏玩家在沉浸体验与感知环境之间的痛点，是游戏音频外设形态的一次创新尝试，对3C配件品类有启发意义。",
-        "url": "https://www.yankodesign.com/2026/09/05/razers-clio-x-is-gaming-audio-for-when-headphones-have-to-come-off/?utm_source=rss&utm_medium=rss&utm_campaign=razers-clio-x-is-gaming-audio-for-when-headphones-have-to-come-off",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/razers-clio-x-is-gaming-audio-for-when-headphones-have-to-come-off/razer-clio-x-01.jpg"
-      },
-      {
-        "brief": "继三星和华为之后，**摩托罗拉** 也被曝将推出自家的 **横向折叠屏手机**，预计于“未来几个月”内发布。此举标志着横向折叠屏市场进入多强争霸阶段，将加速该形态的普及并重塑高端手机市场格局。",
-        "url": "https://www.gsmarena.com/motorola_wide_foldable_design_sketches-news-74488.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/motorola-wide-foldable-design-sketches/-184x111/gsmarena_001.jpg"
       }
     ]
   }

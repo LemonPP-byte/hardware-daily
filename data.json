@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-07",
+    "items": [
+      {
+        "brief": "**Apple 联手 LG 打造智能家居新品线**，首批包括视频门铃、智能锁、恒温器、室内摄像头等，产品将挂 LG 品牌但接入苹果传闻中的智能家居中枢，预计 **10 月 13 日发布会**亮相。这是苹果正式切入智能家居硬件生态的关键一步，将直接影响配件与充电周边格局。",
+        "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
+        "source": "The Verge",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK071_APPLE_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "vivo 在印度推出 **S2 FE**，搭载品牌史上最大 **10,000mAh 电池**，支持 44W 快充与反向充电，可当充电宝使用，配 6.83 英寸大屏。手机与充电宝形态融合，是充电类产品经理值得关注的「反向充电」新思路。",
+        "url": "https://www.gsmarena.com/vivo_s2_fe_goes_official_with_a_massive_10000mah_battery-news-74923.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-s2-fe-ofic/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "报道称 **Apple 计划 10 月进行两轮产品发布**：10 月 13 日推出传闻中的 HomePad 智能家居中枢，月底再办一场线上发布，可能涉及 MacBook 等。苹果密集发布节奏将牵动整个 3C 配件与充电生态的备货方向。",
+        "url": "https://www.gsmarena.com/apple_reportedly_planning_two_rounds_of_product_launches_in_october-news-74918.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-two-launches-october-rumor/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "**TDK 公布智能眼镜直接视网膜投影显示方案**，采用 meta-optic 反射镜实现，HN 热度 125、60 条评论。这是 AI 眼镜显示模组的关键技术突破，直接关系到下一代智能眼镜的轻薄化与光学形态。",
+        "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
+        "source": "Hacker News",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": ""
+      },
+      {
+        "brief": "创业公司 **Freckle** 推出面向 7-13 岁儿童的 **AI 手机**，设计核心是鼓励孩子走到户外观察自然，而非依赖家长式限制与监控，由设计工作室 Body Shop 联合开发。AI 硬件切入儿童场景的新尝试，形态与交互逻辑值得参考。",
+        "url": "https://www.dezeen.com/2026/10/01/freckle-phone-sends-kids-outside/",
+        "source": "Dezeen",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "http://static.dezeen.com/uploads/2026/09/freckle-phone-design_dezeen_2364_sq2-411x411.jpg"
+      },
+      {
+        "brief": "**Abxylute 发布 M5 与 M6 手机游戏手柄**，主打把手机变成 Xperia Play 式的掌机形态，官方称针对前代 M4 的缺陷做了修正。手机外接手柄是 3C 配件中增长迅速的细分品类，形态创新值得关注。",
+        "url": "https://www.androidauthority.com/abxylute-m5-m6-mobile-gaming-controllers-3719753/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Abxylute-M6.jpg"
+      },
+      {
+        "brief": "**Hisense Vidda 4K 投影仪**采用玫瑰金云台设计，外观被形容为「雕塑感珠宝」，可在云台上自由摆动。投影仪从功能件转向家居装饰件的设计思路，对 3C 配件的形态与材质语言有借鉴意义。",
+        "url": "https://www.yankodesign.com/2026/10/06/this-hisense-vidda-4k-projector-swings-on-a-rose-gold-gimbal-that-looks-like-sculptural-jewelry/?utm_source=rss&utm_medium=rss&utm_campaign=this-hisense-vidda-4k-projector-swings-on-a-rose-gold-gimbal-that-looks-like-sculptural-jewelry",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/652350/vidda_m2_pro_1.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-06",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/09/xteink-made-its-79-reader-better-by-adding-less-not-more/xteink-x4-classic-07.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-07",
-    "items": [
-      {
-        "brief": "XREAL 的 **Android XR 眼镜** 终于接近成熟，体验后让人期待正式发布。这款眼镜将 Android 生态引入 AR 眼镜形态，有望成为消费级 AR 的转折点，对智能硬件赛道有风向标意义。",
-        "url": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-1.jpg"
-      },
-      {
-        "brief": "IFA 2026 上亮相的 **Macintosh 风格扩展坞**，集成了 SSD 存储、多端口、快捷按键和迷你屏幕。它将复古美学与实用功能结合，为桌面 3C 配件提供了新的设计思路，极具话题性。",
-        "url": "https://www.yankodesign.com/2026/09/06/this-macintosh-inspired-hub-adds-ssd-storage-ports-shortcuts-and-a-mini-screen-hands-on-at-ifa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=this-macintosh-inspired-hub-adds-ssd-storage-ports-shortcuts-and-a-mini-screen-hands-on-at-ifa-2026",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/wokyis_i5_dock_ifa2026_1.jpg"
-      },
-      {
-        "brief": "PITAKA 在 IFA 2026 发布全新 **芳纶纤维手机壳** 系列，将柏林地堡改造成麦田进行展示。品牌通过场景化艺术营销强化材质与设计美学，为高端 3C 配件的品牌塑造提供了新范式。",
-        "url": "https://www.yankodesign.com/2026/09/05/pitaka-turned-a-berlin-bunker-into-a-wheat-field-for-their-new-aramid-case-collection-at-ifa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=pitaka-turned-a-berlin-bunker-into-a-wheat-field-for-their-new-aramid-case-collection-at-ifa-2026",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/646341/pitaka_signals_in_the_wind_ifa2026_1.jpg"
-      },
-      {
-        "brief": "Boya 推出 **Notra Neo AI 笔记设备**，内置三种模式且无需手动切换，可自动适应讲座、会议等不同场景。这种无感智能交互设计，是 AI 硬件提升用户体验的有益探索。",
-        "url": "https://www.yankodesign.com/2026/09/05/boya-notra-neo-ai-note-taker-has-3-modes-never-asks-which-one-to-use/?utm_source=rss&utm_medium=rss&utm_campaign=boya-notra-neo-ai-note-taker-has-3-modes-never-asks-which-one-to-use",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/08/boya-notra-neo-ai-note-taker-has-3-modes-never-asks-which-one-to-use/boya-notra-neo-07.jpg"
-      },
-      {
-        "brief": "新型 **AA 和 AAA 锂离子充电电池** 直接配备 USB-C 接口，可兼容现有设备并简化充电方式。该产品有望替代传统镍氢电池，是充电配件领域的一个高潜力创新方向。",
-        "url": "https://www.reddit.com/r/hardware/comments/1w8gz6s/notebookcheck_new_aa_and_aaa_lithiumion_batteries/",
-        "source": "Reddit",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": ""
-      },
-      {
-        "brief": "Yanko Design 盘点了 IFA 2026 上 **“向技术妥协宣战”** 的最佳产品，聚焦那些同时满足性能与设计、无需用户取舍的创新硬件，是观察行业产品趋势的优质汇总。",
-        "url": "https://www.yankodesign.com/2026/09/06/ifa-2026s-best-just-declared-war-on-tech-trade-offs/?utm_source=rss&utm_medium=rss&utm_campaign=ifa-2026s-best-just-declared-war-on-tech-trade-offs",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/ifa-2026s-best-just-declared-war-on-tech-trade-offs/Best-of-IFA-2026.jpg"
-      },
-      {
-        "brief": "Ugreen 推出 **13.3 英寸彩色电子墨水屏相框**，将数字艺术展示带入家居场景。作为充电与配件大厂，Ugreen 此举拓展了桌面与家居装饰的智能硬件品类。",
-        "url": "https://www.reddit.com/r/gadgets/comments/1w6u7qv/ugreen_133_color_e_ink_digital_picture_frame/",
-        "source": "Reddit",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": ""
       }
     ]
   }

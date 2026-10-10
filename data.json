@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-10",
+    "items": [
+      {
+        "brief": "OnePlus 想把一台**微型空调**贴在游戏手机背面，延续 MagSafe 让手机背面成为「黄金地段」的思路，把散热从被动变主动。对图拉斯而言，这是**手机散热器**品类从外挂配件向手机原生集成演进的信号，直接关系到散热背夹的产品定义与差异化方向。",
+        "url": "https://www.yankodesign.com/2026/10/09/oneplus-wants-to-stick-a-tiny-air-conditioner-on-the-back-of-its-gaming-phone/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-wants-to-stick-a-tiny-air-conditioner-on-the-back-of-its-gaming-phone",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/oneplus_magnetic_ice_card_1.jpg"
+      },
+      {
+        "brief": "Nothing 旗下 **CMF 将于 10 月 12 日（下周一）发布两款新品**：CMF Speaker S 与 CMF Speaker M，同时 CMF 正转型为独立的印度公司。作为以设计驱动、性价比著称的品牌，CMF 切入便携音频会进一步搅动 3C 配件与音频配件的设计竞争。",
+        "url": "https://www.gsmarena.com/nothings_cmf_is_launching_new_products_next_week-news-74987.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/cmf-speaker-teaser/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Google 在社交平台预热新款 **Fitbit Edge 可穿戴设备**，确认将于 **10 月 12 日**正式揭晓，此前已有大量泄露信息。Google 亲自下场做健身手环，会挤压中端智能穿戴市场，也影响配件生态（表带、充电底座）的机会窗口。",
+        "url": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
+        "source": "Engadget",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.engadget.com/img/gallery/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/l-intro-1791584869.jpg"
+      },
+      {
+        "brief": "Natura 推出 **99 美元的 Interface 智能戒指**，按下手指即可召唤 AI 代理完成任务、记录想法并控制设备，同时兼具健康追踪功能。把 AI 代理入口压缩到戒指这一最小可穿戴形态，是 AI 硬件从「戴在耳朵/脖子」向「戴在手指」延伸的重要信号。",
+        "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491"
+      },
+      {
+        "brief": "19 岁创始人创立的 Ghost 获 1100 万美元融资，首款产品 **Core 是一台售价 3,499 美元、专为个人 AI 代理设计的计算机**，可代表用户执行操作。这是「AI 原生硬件」在 PC 形态上的激进尝试，定价与定位都值得关注其对高端 AI 终端市场的试探。",
+        "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803"
+      },
+      {
+        "brief": "Spigen 推出 **Steam Controller 充电底座支架**，把充电与收纳合二为一。在掌机与手柄配件同质化的当下，这类「充电+支架」二合一形态正是图拉斯充电类与支架类产品可以借鉴的交叉品类思路。",
+        "url": "https://www.reddit.com/r/gadgets/comments/1wzszn7/spigen_launches_charging_dock_stand_for_steam/",
+        "source": "Reddit",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": ""
+      },
+      {
+        "brief": "Onvis 发布新款 **Matter over Thread 户外智能插座**，支持实时能耗监测与 IP65 防水，可原生接入 Apple Home 无需额外网关。智能家居配件正从「能用」走向「协议原生+场景细分」，户外插座是充电类配件向智能家居延伸的可行方向。",
+        "url": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
+        "source": "9to5Mac",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/plug.jpg?quality=82&#038;strip=all&#038;w=1600"
+      }
+    ]
+  },
+  {
     "date": "2026-10-09",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://cdn.jim-nielsen.com/blog/2026/cables.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-10",
-    "items": [
-      {
-        "brief": "苹果首款折叠屏 **iPhone Duo** 正式发布，采用钛合金铰链并集成磁吸阵列，内屏为屏下前摄，成为 iOS 生态首个折叠形态设备。作为苹果十年来最大形态变革，它将直接重塑高端手机配件与充电生态。",
-        "url": "https://www.gsmarena.com/its_here__iphone_duo_gets_official_as_apples_first_foldable_smartphone-news-74545.php",
-        "source": "GSMArena",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-duo-official/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "苹果为 **iPhone Duo** 同步推出两款官方保护壳：带多角度支架的 Folio（深蓝/灰褐）与超薄款。折叠屏手机壳需兼顾铰链保护与支架功能，为图拉斯等配件厂商提供了明确的产品定义参考。",
-        "url": "https://www.gsmarena.com/iphone_duo_gets_two_official_firstparty_cases_here_they_are-news-74547.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-iphone-duo-official-cases/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "苹果发布 **AirPods 5**，开放式设计首次标配主动降噪，并提供 USB-C 与无线充电盒两个版本。Hacker News 热度 358、294 条评论，是本次发布会讨论度最高的硬件单品之一。",
-        "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-        "source": "Hacker News",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609091909"
-      },
-      {
-        "brief": "苹果发布 **Apple Watch Series 12 与 Ultra 4**，新增 Audio Intelligence 功能，可回听并总结日常对话内容。这是苹果正面回应 AI 可穿戴浪潮的关键动作，将智能手表从健康追踪推向 AI 交互终端。",
-        "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675"
-      },
-      {
-        "brief": "Meta 推出 AI 智能体 **Muse**，并因社交账号命名冲突意外抢走了同名乐队 Muse 的社交媒体账号。作为 Meta 在 AI 消费级入口上的新尝试，其硬件载体与生态走向值得持续跟踪。",
-        "url": "https://www.producthunt.com/products/muse-22",
-        "source": "Product Hunt",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?w=668"
-      },
-      {
-        "brief": "一款售价 **179 美元** 的 iPhone 音箱主打「永不需要充电」，瞄准用户等待新专辑上线的场景。免充电音频配件为充电类与音频配件厂商提供了新的产品思路。",
-        "url": "https://www.yankodesign.com/2026/09/09/the-179-iphone-speaker-that-never-needs-charging/?utm_source=rss&utm_medium=rss&utm_campaign=the-179-iphone-speaker-that-never-needs-charging",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/the-179-iphone-speaker-that-never-needs-charging/iSpeaker_09_1728x.jpg"
-      },
-      {
-        "brief": "一款 **夜光追踪器** 瞄准健忘人群，可夹在钱包、车钥匙或背包上，在暗处发光便于寻找。作为 3C 配件中的高频刚需品类，夜光设计为防丢器提供了差异化卖点。",
-        "url": "https://www.yankodesign.com/2026/09/09/never-lose-your-keys-again-with-a-tracker-that-glows-in-the-dark/?utm_source=rss&utm_medium=rss&utm_campaign=never-lose-your-keys-again-with-a-tracker-that-glows-in-the-dark",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/never-lose-your-keys-again-with-a-tracker-that-glows-in-the-dark/neon-pulse-09.jpg"
       }
     ]
   }

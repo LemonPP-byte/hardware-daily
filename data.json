@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-11",
+    "items": [
+      {
+        "brief": "Reddit 硬件社区热议「**为什么到现在才有人做磁吸 USB-C 接口**」，直指充电线连接体验的长期痛点。磁吸方案能避免插拔磨损、单手盲插，与图拉斯充电线、MagSafe 配件品类高度相关，是值得深挖的产品形态机会。",
+        "url": "https://www.reddit.com/r/hardware/comments/1x2c5g2/why_did_it_take_so_long_for_someone_to_make_a/",
+        "source": "Reddit",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": ""
+      },
+      {
+        "brief": "**Xiaomi Watch S5** 评测出炉，€150 定价、功能丰富且外观进一步精修，被评价为比前代更漂亮、更值得买。小米在平价智能穿戴上的持续迭代，对图拉斯智能硬件与配件生态有直接参考价值。",
+        "url": "https://www.gsmarena.com/xiaomi_watch_s5_review-news-73952.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/xiaomi-watch-s5-review/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Oppo Find X10 Pro Max 哈苏长焦增距镜套装**开箱上手，套装含增距镜头、**MagSafe 磁吸手机壳**、镜头安装件等六件。手机摄影配件走向专业化、模块化，磁吸生态再次成为配件创新的关键接口。",
+        "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_hasselblad_teleconverter_kit_unboxing_and_handson-news-74979.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-pro-max-hasselblad-tele-kit/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Q8botOne** 是一款售价 **599 美元**、能放在桌面上的机器狗，采用类似乐高机械组的结构，把核心电子件集中在中枢，摆脱传统机器狗满身走线的形态。桌面级具身智能硬件正在降低门槛，值得关注其交互与可玩性。",
+        "url": "https://www.yankodesign.com/2026/10/10/a-599-robot-dog-that-fits-on-your-desk-and-works-like-lego-technic/?utm_source=rss&utm_medium=rss&utm_campaign=a-599-robot-dog-that-fits-on-your-desk-and-works-like-lego-technic",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/a-599-robot-dog-that-fits-on-your-desk-and-works-like-lego-technic/q8botone-palm-sized-quadruped-robot-03.jpg"
+      },
+      {
+        "brief": "**Natura Interface** 智能戒指售价 **99 美元**，按下手指即可召唤 AI 代理完成任务、记录想法并控制设备，同时兼具健康追踪功能。低价 AI 可穿戴形态对智能戒指品类是重要变量，但该产品此前已推送过，需关注是否有新进展。",
+        "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491"
+      },
+      {
+        "brief": "**Await 相机**售价 **146 美元**，复刻一次性相机体验，每卷仅 **24 张**，让每一次快门都更珍贵。在手机摄影过剩的时代，这种「限制即体验」的复古硬件思路，对配件与影像周边产品有启发。",
+        "url": "https://www.yankodesign.com/2026/10/09/the-146-await-camera-brings-back-the-disposable-with-24-photos-per-roll-so-every-shot-counts/?utm_source=rss&utm_medium=rss&utm_campaign=the-146-await-camera-brings-back-the-disposable-with-24-photos-per-roll-so-every-shot-counts",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/the-146-await-camera-brings-back-the-disposable-with-24-photos-per-roll-so-every-shot-counts/Await-Digital-Ease-Analog-Soul-Camera-for-what-matters-hero.jpg"
+      },
+      {
+        "brief": "一款售价 **55 美元**的相机被伪装成**一卷 35mm 胶卷**，主打隐蔽与复古趣味。这种把数码硬件藏进经典耗材形态的设计，切中 Z 世代对复古物件的猎奇心理，是小型 3C 创新配件的典型样本。",
+        "url": "https://www.yankodesign.com/2026/10/09/a-55-camera-secretly-disguised-as-a-roll-of-35mm-film/?utm_source=rss&utm_medium=rss&utm_campaign=a-55-camera-secretly-disguised-as-a-roll-of-35mm-film",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/09/a-55-camera-secretly-disguised-as-a-roll-of-35mm-film/analog-capsule-00.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-10",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://media.wired.com/photos/69f5039cd2f33f723151e0ca/191:100/w_1280,c_limit/The-Best-Travel-Adapters.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-11",
-    "items": [
-      {
-        "brief": "Insta360 发布 **Luna Pro 云台相机**，搭载 **1 英寸传感器**与徕卡 Summicron 镜头，支持 8K 杜比视界与 10-bit I-Log，由 4nm 芯片加独立图像处理器驱动。手持云台相机在影像配件赛道持续升温，对图拉斯拓展影像周边与支架类配件有参考价值。",
-        "url": "https://www.gsmarena.com/insta360_luna_pro_gimbal_camera_goes_official_with_a_1inch_sensor-news-74571.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/insta360-luna-pro-announced/-184x111/gsmarena_00.jpg"
-      },
-      {
-        "brief": "Nomad 为 iPhone Duo 推出 **皮革 Folio 保护壳**，把折叠屏手机变成类似双折钱包的形态。折叠屏手机壳是配件厂商的新战场，Nomad 以皮革材质和钱包式交互切入，为图拉斯在折叠屏保护壳品类提供设计思路。",
-        "url": "https://www.yankodesign.com/2026/09/10/nomads-leather-folio-turns-your-iphone-duo-into-a-1999-bifold-wallet/?utm_source=rss&utm_medium=rss&utm_campaign=nomads-leather-folio-turns-your-iphone-duo-into-a-1999-bifold-wallet",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/647478/nomad_iphone_duo_foliocase_1.jpeg"
-      },
-      {
-        "brief": "Belkin 的 **45W 紧凑型 USB-C 充电器**在亚马逊降价 25% 至 **14.99 美元**，支持 PD 3.1 与 PPS，可为手机、平板及部分笔记本供电。头部配件品牌在 GaN 充电器上的价格下探，直接影响图拉斯在同类快充产品的定价与规格竞争。",
-        "url": "https://www.androidauthority.com/belkin-45w-compact-charger-deal-3710049/",
-        "source": "Android Authority",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": ""
-      },
-      {
-        "brief": "Apple 发布 **Watch Series 12 与 Watch Ultra 4**，新增 **Audio Intelligence** 功能，可回听并回顾日常对话内容。这是苹果正式切入 AI 可穿戴录音与记忆场景，与 AI 夹式设备、AI 笔记硬件形成正面竞争，值得关注其对智能穿戴配件生态的带动。",
-        "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675"
-      },
-      {
-        "brief": "Product Hunt 上出现名为 **Vibe Eyes** 的新产品，定位为 AI 相关的消费级硬件设备。作为新锐 AI 硬件项目，其具体形态与交互方式尚待披露，但代表了 AI 可穿戴/视觉设备方向的新尝试，值得图拉斯关注其产品定义与市场反馈。",
-        "url": "https://www.producthunt.com/products/vibe-eyes",
-        "source": "Product Hunt",
-        "score": 2,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?w=500"
-      },
-      {
-        "brief": "Retroid 推出 **Pocket Duo 双屏 Android 掌机**，采用现代翻盖设计，让双屏游戏体验重新变得新鲜。该产品以双屏交互与复古掌机形态切入细分市场，对图拉斯在游戏配件、支架与扩展坞等 3C 配件品类有潜在启发。",
-        "url": "https://www.yankodesign.com/2026/09/10/retroid-pocket-duo-makes-dual-screen-gaming-feel-fresh-again-with-its-modern-clamshell-design/?utm_source=rss&utm_medium=rss&utm_campaign=retroid-pocket-duo-makes-dual-screen-gaming-feel-fresh-again-with-its-modern-clamshell-design",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/retroid-pocket-duo-makes-dual-screen-gaming-feel-fresh-again-with-its-modern-clamshell-design/Retroid-Pocket-Duo-Pocket-Duo-Lite-5.jpg"
-      },
-      {
-        "brief": "Hacker News 上 **「别让人拿走你的线缆盒」** 一文引发热议，获得 **296 分**与 **226 条评论**。文章讨论用户对线缆收纳与保留的执念，反映出充电线、数据线等基础配件在消费者心中的高粘性，对图拉斯线材类产品的用户洞察有参考意义。",
-        "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-        "source": "Hacker News",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://cdn.jim-nielsen.com/blog/2026/cables.jpg"
       }
     ]
   }

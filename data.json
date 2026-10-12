@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-12",
+    "items": [
+      {
+        "brief": "**Kuxiu D5 三合一充电器**新增勃艮第红配色，精准匹配 iPhone 18 Pro 新主打色。去年 Kuxiu 就靠宇宙橙配色做到「像原厂配件」，今年延续这一策略，对图拉斯配色跟进的节奏是直接参照。",
+        "url": "https://9to5mac.com/2026/10/11/kuxius-d5-charger-now-comes-in-burgundy-to-perfectly-match-your-iphone-18-pro/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/IMG_6370-e1791734782767.jpeg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Apple 首款智能家居中枢定名 **HomeView**，将于 10 月 13 日「Welcome home」活动发布、**11 月上市**，提供四种配色并搭载 A18 芯片。这是苹果正式切入智能家居控制中心的关键一步，将重塑配件生态。",
+        "url": "https://9to5mac.com/2026/10/11/apple-homeview-home-hub-four-colors-november/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/homepod-touch-homepad-photos-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "传闻新款 **Apple TV** 将内置麦克风，配套遥控器新增扬声器，用户可直接用 Siri 语音控制机顶盒，并让 Apple TV 兼任智能家居中枢，控制恒温器与门锁。配件形态与交互方式都可能被改写。",
+        "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24160553/DSCF0260_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Natura 推出 **99 美元 Interface 智能戒指**，按下手指即可召唤 AI 代理完成任务、记录想法并控制设备，同时兼具健康追踪功能。把 AI 交互压缩到戒指这一最小穿戴形态，是 AI 硬件的新入口尝试。",
+        "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491"
+      },
+      {
+        "brief": "**BirdVue** 号称全球首款 4G 智能喂鸟器，让用户在任何有信号的地方实时观看鸟类在自己栖息地的活动。把户外摄像头与喂食器结合，切中 2020 年以来的观鸟热潮，是智能家居外延的新品类。",
+        "url": "https://www.yankodesign.com/2026/10/10/birdvue-the-worlds-first-4g-smart-bird-feeder-finally-lets-you-watch-birds-where-they-actually-live/?utm_source=rss&utm_medium=rss&utm_campaign=birdvue-the-worlds-first-4g-smart-bird-feeder-finally-lets-you-watch-birds-where-they-actually-live",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/08/this-4g-smart-bird-feeder-finally-lets-you-watch-birds-where-they-actually-live-without-wi-fi/BirdVue-The-Worlds-First-4G-Smart-Bird-Feeder-hero.jpg"
+      },
+      {
+        "brief": "Anbernic 新款双屏掌机 **RG DDS** 曝光，主屏采用 5:3 比例、下屏为 4:3，被评价为「玩 3DS 游戏的完美比例」。双屏掌机形态在复古游戏圈持续升温，对配件与散热方案有连带需求。",
+        "url": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/",
+        "source": "Engadget",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.engadget.com/img/gallery/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/l-intro-1791743775.jpg"
+      },
+      {
+        "brief": "华为 **Watch D3** 送测，延续血压健康监测定位，相比前代几乎全面升级。值得注意的是其磁吸无线充电底座终于改用 **USB-C 接口**（上代为 USB-A），充电配件接口统一趋势值得关注。",
+        "url": "https://www.gsmarena.com/huawei_watch_d3_in_for_review-news-74981.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/huawei-watch-d3-ifr/-184x111/gsmarena_000.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-shift-left-edge-setting.jpg?quality=82&#038;strip=all&#038;w=1600"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-12",
-    "items": [
-      {
-        "brief": "**Meta Project Phoenix** 头显外观首次泄露，图片来自 HorizonOS 处方镜片固件包，形态明显区别于厚重的 Quest，更接近 Xreal、Viture 这类轻量 MR 眼镜。Meta Connect 将于 9 月 23 日开幕，这款新形态设备可能重新定义头戴显示的产品边界。",
-        "url": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rx_attach_thumb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**三星 Galaxy Buds On** 官方渲染图再度泄露，采用开放式耳夹设计，两部分结构分别承担发声与固定。这是三星首次进入开放式耳夹耳机形态，直接对标 Bose、华为等已布局的同类产品，开放式音频配件赛道竞争加剧。",
-        "url": "https://www.gsmarena.com/samsungs_galaxy_buds_on_leak_again_-news-74579.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-buds-on-leak-again/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**Fairphone Fairbuds 2** 真无线耳机泄露绿黑两色，预计 2026 年第四季度（10-12 月）发布。Fairphone 以模块化可维修设计著称，二代产品设计变化明显，可持续理念在 3C 配件中的落地方式值得配件品牌参考。",
-        "url": "https://www.gsmarena.com/fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/fairbuds-2-leak/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**Dyson CameraJet 牙刷** 成为 Dezeen 播客讨论焦点，这款带摄像头的智能牙刷以抢眼设计引发设计圈热议。Dyson 将影像与传感技术带入个护硬件，其产品定义思路对智能硬件品类拓展有借鉴意义。",
-        "url": "https://www.dezeen.com/2026/09/11/dyson-camerajet-toothbrush-petra-heights-stone-building-dezeen-weekly-podcast/",
-        "source": "Dezeen",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "http://static.dezeen.com/uploads/2026/09/dyson-camerajet-petra-heights-dezeen-weekly-11-september-2026-sq-411x411.jpg"
-      },
-      {
-        "brief": "**Oura 即将上市**，但多家智能戒指公司正以不同技术路线争夺其王座。智能戒指作为可穿戴新形态，正从单品牌主导走向多玩家竞争，这一品类的供应链与交互方案变化值得硬件厂商持续跟踪。",
-        "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800"
-      },
-      {
-        "brief": "**Poco X8 Power** 在印度开售，搭载 **10000mAh 电池**，8GB/128GB 售价 INR 35,999（约 375 美元），8GB/256GB 为 INR 38,999（约 410 美元）。超大电池手机把续航作为核心卖点，反向印证移动充电与续航焦虑仍是消费者强需求。",
-        "url": "https://www.gsmarena.com/poco_x8_power_with_a_10000mah_battery_goes_on_sale_in_india-news-74578.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/poco-x8-power-on-sale-india/-184x111/gsmarena_00.jpg"
-      },
-      {
-        "brief": "Wired 发布 **2026 最佳旅行转换插头** 榜单，实测超过 20 款型号，覆盖出国充电所需的插头与充电器组合。旅行充电配件是充电类目中的高频刚需，这份横评对产品定义与竞品分析有直接参考价值。",
-        "url": "https://www.wired.com/gallery/best-travel-adapters/",
-        "source": "Wired",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://media.wired.com/photos/69f5039cd2f33f723151e0ca/191:100/w_1280,c_limit/The-Best-Travel-Adapters.jpg"
       }
     ]
   }

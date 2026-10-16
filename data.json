@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-16",
+    "items": [
+      {
+        "brief": "亚马逊旗下 Bee 发布被收购后首批 AI 硬件：**Bee Frontier 可穿戴**与信用卡大小的 **Bee Eclipse 录音器**，可夹在手机背面，售价 74.99 美元起，能总结对话、生成待办并接入 Alexa 与亚马逊购物。",
+        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "source": "TechCrunch",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080"
+      },
+      {
+        "brief": "索尼发布三款新 Walkman 便携播放器，**NW-ZX900 起价 1899.99 美元**，**镀金 NW-WM1ZM3 高达 5899 美元**，中间档 NW-WM1AM3 售价 2999.99 美元。在便携音频被手机蚕食的当下，索尼用极致定价重申高端随身听的存在感。",
+        "url": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sony_walkman_WM1ZM3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**REDMAGIC 12 Pro Plus** 游戏手机曝光，搭载高通最新旗舰平台并采用 **RGB 液冷散热**，电池容量达 8400mAh。主动散热与超大电池的组合，延续了游戏手机把「性能释放」做成核心卖点的路线。",
+        "url": "https://www.androidauthority.com/redmagic-12-pro-snapdragon-8-elite-extreme-gen-6-3723955/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": ""
+      },
+      {
+        "brief": "亚马逊推出两款 Bee 个人 AI 设备：**Bee Frontier 可穿戴**（硅胶腕带或衣物夹持，双麦克风，Lavender/Sage/Onyx 三色）与 **Bee Eclipse 手机配件**，均用于记录对话并生成摘要、待办与提醒。",
+        "url": "https://www.gsmarena.com/amazon_launches_bee_frontier_ai_wearable_and_bee_eclipse_phone_attachment-news-75073.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/amazon-bee-frontier-eclipse/-184x111/gsmarena_005.jpg"
+      },
+      {
+        "brief": "一款紧凑型手机配件把**支架、三脚架与握把**三合一，解决手机免手持拍摄时只能靠书堆或找人帮忙的痛点。这类多功能磁吸/夹持配件正是 3C 配件里最容易做出差异化的品类。",
+        "url": "https://www.yankodesign.com/2026/10/15/this-compact-phone-accessory-gives-you-a-stand-tripod-and-grip-in-one/?utm_source=rss&utm_medium=rss&utm_campaign=this-compact-phone-accessory-gives-you-a-stand-tripod-and-grip-in-one",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/this-compact-phone-accessory-gives-you-a-stand-tripod-and-grip-in-one/ATECH-OMNIGRIP-1.jpg"
+      },
+      {
+        "brief": "通过更换**主板**，老款 iPod 现在可以直接与 **AirPods** 配对使用。这种把经典播放器形态与现代无线音频打通的改装方案，说明复古硬件 + 新连接的组合仍有稳定的玩家需求。",
+        "url": "https://www.yankodesign.com/2026/10/15/you-now-pair-your-old-ipod-with-airpods-thanks-to-this-motherboard-swap/?utm_source=rss&utm_medium=rss&utm_campaign=you-now-pair-your-old-ipod-with-airpods-thanks-to-this-motherboard-swap",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/you-now-pair-your-old-ipod-with-airpods-thanks-to-this-motherboard-swap/sprout_ipod_motherboard_1.jpeg"
+      },
+      {
+        "brief": "**InkBoy** 项目把 Game Boy 塞进一块**电子墨水屏**，能以 30 FPS 运行《Super Mario Land》。在阅读级屏幕上跑动作游戏的反差体验，为复古掌机与低功耗显示的结合提供了新思路。",
+        "url": "https://www.yankodesign.com/2026/10/15/this-tiny-e-paper-game-boy-lets-you-play-super-mario-land-at-30-fps-on-a-reading-screen/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-e-paper-game-boy-lets-you-play-super-mario-land-at-30-fps-on-a-reading-screen",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/this-tiny-e-paper-game-boy-lets-you-play-super-mario-land-at-30-fps-on-a-screen-built-for-reading/GameBoy-on-E-Paper-ESP32-DIY-5.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-15",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/09/a-speaker-that-clips-to-city-poles-and-leaves-no-mark/orchid-0.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-16",
-    "items": [
-      {
-        "brief": "Yanko Design 报道一款**交通锥造型充电器**，核心卖点是充电时把手机「锁」在锥体里，物理上阻止你边充边刷手机。把充电配件与行为约束结合，是充电类产品少见的场景创新，对图拉斯充电品类有直接启发。",
-        "url": "https://www.yankodesign.com/2026/09/15/the-traffic-cone-charger-that-actually-keeps-you-off-your-phone/?utm_source=rss&utm_medium=rss&utm_campaign=the-traffic-cone-charger-that-actually-keeps-you-off-your-phone",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/the-traffic-cone-charger-that-actually-keeps-you-off-your-phone/cone-00.jpg"
-      },
-      {
-        "brief": "aulumu 为 **iPhone 18 Pro** 推出新壳，主打抗摔、**夜光**与自动散热三重卖点，定价约 40 美元。手机壳叠加主动散热是 3C 配件的新方向，与图拉斯手机壳与散热器两条产品线都直接相关。",
-        "url": "https://www.yankodesign.com/2026/09/15/aulumus-iphone-18-pro-cases-survive-drops-glow-in-the-dark-and-auto-cool-your-phone/?utm_source=rss&utm_medium=rss&utm_campaign=aulumus-iphone-18-pro-cases-survive-drops-glow-in-the-dark-and-auto-cool-your-phone",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/draft-aulumu/Aulumu-Case-Armor.jpg"
-      },
-      {
-        "brief": "三星即将推出的**耳夹式 Galaxy Buds**（Galaxy Buds Able / Buds On）已现身 FCC，意味着发布在即。这是三星首次进入开放式耳夹形态，会直接带动耳夹耳机配件与充电仓周边需求。",
-        "url": "https://www.androidauthority.com/galaxy-buds-able-fcc-3711613/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": ""
-      },
-      {
-        "brief": "富士发布 **Instax Pal 2** 迷你数码相机，相比三年前初代新增屏幕与取景器，并加入无线与自动对焦、人脸检测，外形致敬小型胶片相机。口袋相机形态回潮，是便携影像硬件值得关注的信号。",
-        "url": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/instax4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Wired 报道一款名为 **ZuckOff** 的免费应用，用手机帮助用户发现附近正在拍摄的 **Meta 智能眼镜**。智能眼镜普及带来的隐私反制需求正在形成，是 AI 眼镜生态外溢出的新硬件/软件机会。",
-        "url": "https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/",
-        "source": "Wired",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://media.wired.com/photos/6aa967ea2d07a4d487b8f97e/191:100/w_1280,c_limit/MetaGlasses_lead.jpg"
-      },
-      {
-        "brief": "Yanko Design 介绍一款面向 **Gen Z** 的 **CD 播放器**，瞄准年轻人重新收集实体唱片的潮流。复古便携音频形态持续回温，与图拉斯关注的便携音频与年轻消费场景有交集。",
-        "url": "https://www.yankodesign.com/2026/09/15/finally-a-cd-player-gen-z-actually-wants-to-own/?utm_source=rss&utm_medium=rss&utm_campaign=finally-a-cd-player-gen-z-actually-wants-to-own",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/finally-a-cd-player-gen-z-actually-wants-to-own/r400-00.jpg"
-      },
-      {
-        "brief": "HKC 推出 **48.3 英寸 4K 曲面显示器**，可拆分为两到三个独立分区供多任务使用。超宽屏分区是桌面硬件的新交互思路，对扩展坞、支架等 3C 配件品类有连带需求。",
-        "url": "https://www.yankodesign.com/2026/09/15/hkc-debuts-a-48-3-inch-4k-curved-monitor-that-splits-into-two-or-three-sections-for-power-users/?utm_source=rss&utm_medium=rss&utm_campaign=hkc-debuts-a-48-3-inch-4k-curved-monitor-that-splits-into-two-or-three-sections-for-power-users",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/hkc-debus-a-48-3-inch-4k-curved-monitor-that-can-be-split-into-two-or-three-sections/HKC-Tianqi-43H180C-Ultra-Wide-Monitor-1.jpg"
       }
     ]
   }

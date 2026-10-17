@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-17",
+    "items": [
+      {
+        "brief": "**Apple 首款折叠屏 iPhone Duo 正式发布**，5.4 英寸外屏 + 7.6 英寸内屏，采用「纳米纹理」内屏与电源键 Touch ID，iOS 27 为折叠形态重做交互。预购需求被官方称为「extraordinary」，发货日期已推迟至明年 1 月 22 日。",
+        "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+        "source": "The Verge",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Apple 正式推出自有智能家居产品线 Home Collection**，包含摄像头、恒温器、传感器与智能门锁，与 HomeView 中枢协同。这是 Apple 十余年来首次从「让别人做」转向亲自下场，将直接重塑智能家居配件生态格局。",
+        "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Tag Heuer 据报退出智能手表市场**，Connected Calibre E5 或成该品牌最后一款产品。传统奢侈表商在智能穿戴赛道折戟，反映出高端智能手表市场正被 Apple、Samsung 等科技厂商进一步挤压。",
+        "url": "https://www.androidauthority.com/tag-heuer-discontinues-connected-smartwatches-3724654/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": ""
+      },
+      {
+        "brief": "**Amazon 旗下 Bee 发布被收购后首批 AI 硬件**，包括升级版可穿戴设备与信用卡大小的录音器，可总结对话、生成待办并接入 Alexa 与 Amazon 购物，**起售价 74.99 美元**。这是 Amazon 在 ambient AI 硬件方向的关键落子。",
+        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080"
+      },
+      {
+        "brief": "**Amazon 设备负责人 Panos Panay 在 TechCrunch Disrupt 上描绘 AI 设备取代 App 的未来**，认为 ambient AI 设备将在后台预判用户需求而非等待指令。这一表态预示 Amazon 硬件战略将全面转向无感交互形态。",
+        "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024"
+      },
+      {
+        "brief": "**一款折纸结构鼠标通过折叠变得更扁平而非更小**，解决桌面被笔记本、充电线挤占后鼠标无处安放的痛点。这种「扁平化收纳」思路对便携 3C 配件形态创新有直接参考价值。",
+        "url": "https://www.yankodesign.com/2026/10/16/this-origami-mouse-folds-flatter-not-smaller-in-every-direction/?utm_source=rss&utm_medium=rss&utm_campaign=this-origami-mouse-folds-flatter-not-smaller-in-every-direction",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/this-origami-mouse-folds-flatter-not-smaller-in-every-direction/Origami-Swift-Mouse_Japanese_Hero_Desk-Gadgets.jpg"
+      },
+      {
+        "brief": "**Analogue 推出 Mega Sg+ 与 Super Nt+ 两款 16 位复古主机**，采用 FPGA 芯片完美还原 Sega Genesis 与 SNES 卡带运行，并内置无线手柄连接。复古硬件持续吸引收藏级玩家，配件生态（手柄、外壳）存在衍生机会。",
+        "url": "https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/",
+        "source": "Engadget",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.engadget.com/img/gallery/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/l-intro-1792170102.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-16",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/BLUETTI-Elite-10-Mini-Portable-Power-Station-used-by-woman-on-plane.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-17",
-    "items": [
-      {
-        "brief": "**iPhone 18 Pro Max 成为史上充电最快的 iPhone**，据 Ice Universe 爆料 **0 到 50% 仅需 15 分钟**，10 分钟充至 34%，55 分钟显示 100%。这是苹果在快充规格上的重大跃升，直接决定第三方充电器与 MagSafe 配件的功率门槛，对图拉斯充电线、充电头与无线充产品线规划有直接影响。",
-        "url": "https://www.gsmarena.com/the_iphone_18_pro_max_is_the_fastestcharging_iphone_ever-news-74652.php",
-        "source": "GSMArena",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-18-pro-max-charging/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**Dyson 推出全新扫地机器人 Nurovi 系列**，包含三款 **LiDAR 导航机型**，其中作者最感兴趣的一款需通过 Costco 会员渠道购买。戴森从吸尘器、吹风机跨入扫地机器人赛道，是头部品牌对智能家居清洁硬件的重新下注，值得关注其形态与定价策略。",
-        "url": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/",
-        "source": "Wired",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://media.wired.com/photos/6aab23852d174664403341f6/191:100/w_1280,c_limit/Dyson-Just-Dropped-New-Lidar-Powered-Robot-Vacuums.-Here%E2%80%99s-a-Look-at-Each-Model.jpg"
-      },
-      {
-        "brief": "**Meta 被曝正在开发无摄像头版智能眼镜 Luna**，预计在年度开发者大会上亮相。此前 Meta 智能眼镜因拍摄功能引发隐私争议，无摄像头版本瞄准不愿被拍摄的用户群，是智能眼镜品类在隐私与普及之间寻找平衡的重要产品动向。",
-        "url": "https://www.gsmarena.com/meta_is_working_on_a_pair_of_smart_glasses_without_a_camera_new_report_claims-news-74643.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/meta-glasses-with-no-camera-rumor/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "The Verge 上手体验 **Snap 售价 2195 美元的 Specs AR 眼镜**，作者最惊喜的是用捏合手势在真实桌面上玩多米诺骨牌，交互体验区别于 VR 头显。**独立式 AR 眼镜**正式进入消费市场，是 AI 可穿戴形态的重要里程碑。",
-        "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268716_Snap_Specs_NMonroe_0038_crop_ce3bfd.jpg?quality=90&#038;strip=all&#038;crop=5.153125,0,94.846875,100"
-      },
-      {
-        "brief": "设计学生 Gargi Agrawalla 凭 **SIVO.GO 系统** 赢得英国 James Dyson Award，该设备用 **AI 识别敲门、火警等关键声音**并提醒听障用户，训练样本超过 500 个。AI 硬件切入无障碍场景，是智能家居硬件中少见的高情感价值方向。",
-        "url": "https://www.dezeen.com/2026/09/16/gargi-agrawalla-sivogo-james-dyson-award/",
-        "source": "Dezeen",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "http://static.dezeen.com/uploads/2026/09/sq-dyson-uk-award-sivo.go_dezeen_2364_col_0-411x411.jpg"
-      },
-      {
-        "brief": "Yanko Design 介绍一款 **虚拟宠物设备**，核心卖点是**阻止你无意识刷手机**——当你沉迷滑动时宠物会受影响，用情感绑定替代强制锁机。把数字健康干预做成实体硬件，是充电类之外 3C 配件探索「手机使用管理」场景的新思路。",
-        "url": "https://www.yankodesign.com/2026/09/16/virtual-pet-that-wont-let-you-waste-your-life-scrolling/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-pet-that-wont-let-you-waste-your-life-scrolling",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/virtual-pet-that-wont-let-you-waste-your-life-scrolling/ai-pet-01.jpg"
-      },
-      {
-        "brief": "Yanko Design 报道一款**可夹在城市灯杆上的音箱**，取下后**不留任何痕迹**。面向公共空间的无痕便携音频形态，把「随身听」扩展为「随处挂」，是便携音频硬件在场景创新上的有趣尝试。",
-        "url": "https://www.yankodesign.com/2026/09/16/a-speaker-that-clips-to-city-poles-and-leaves-no-mark/?utm_source=rss&utm_medium=rss&utm_campaign=a-speaker-that-clips-to-city-poles-and-leaves-no-mark",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/a-speaker-that-clips-to-city-poles-and-leaves-no-mark/orchid-0.jpg"
       }
     ]
   }

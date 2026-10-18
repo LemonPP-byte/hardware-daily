@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-18",
+    "items": [
+      {
+        "brief": "**UGREEN 推出 25W Qi2.2 MagSafe 磁吸充电宝**，10000mAh 容量，最大亮点是内置**液冷散热**。磁吸充电宝同质化严重，液冷是少见的差异化卖点，直接对标图拉斯充电类核心战场，值得拆解其散热结构与定价策略。",
+        "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "**Apple 官方 iPhone Duo 硅胶保护壳需用胶粘固定**，售价 79 美元，另一款 folio 壳 129 美元。折叠屏配件形态被迫改变，粘合式固定是否会被用户接受存疑，这正是第三方配件商切入差异化保护方案的机会窗口。",
+        "url": "https://www.gsmarena.com/apples_official_silicone_case_for_the_iphone_duo_requires_adhesive-news-75099.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-case-adhesive/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Bose 推出有线降噪耳机**，The Verge 评测称其「以最好的方式保持简单」。有线耳机销量在连续五年下滑后今年回升，Bose 这一头部音频品牌逆势入场，反映「反无线」消费情绪正在形成，对便携音频配件选品有参考价值。",
+        "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Ato 收音机造型 AI 助手**用**一个旋钮加一个按键**取代触屏，主打家庭消息沟通无需学习新 App。在 AI 硬件普遍堆屏幕的当下，这种「去屏幕化、拟物化」的交互思路对智能硬件形态设计很有启发。",
+        "url": "https://www.yankodesign.com/2026/10/17/atos-radio-inspired-ai-assistant-trades-touchscreens-for-a-button-and-knob/?utm_source=rss&utm_medium=rss&utm_campaign=atos-radio-inspired-ai-assistant-trades-touchscreens-for-a-button-and-knob",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/atos-radio-inspired-ai-assistant-trades-touchscreens-for-a-button-and-knob/ato-ai-assistant-03.jpg"
+      },
+      {
+        "brief": "**HTC 推出 Vive Eagle 智能眼镜**，功能上几乎对标 Meta 眼镜，但**不绑定任何社交平台**，主打隐私。Wired 称其为「反 Meta」路线。智能眼镜赛道出现隐私差异化定位，是穿戴硬件值得关注的第二条产品叙事。",
+        "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+        "source": "Wired",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
+      },
+      {
+        "brief": "**Honor Win2 系列预热**，号称全球首款 **2K 185Hz 屏幕**，并内置**主动散热风扇**，标准版电池达 10100mAh，Win2 RT 更是 12070mAh。手机厂商把风扇和大电池做成卖点，说明主动散热与续航正成为硬件竞争新维度。",
+        "url": "https://www.gsmarena.com/honor_win2_teased_once_again_with_worlds_first_2k_185hz_display-news-75098.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-display-teased/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Arc 手环概念产品**通过轻微震动**提醒用户停止刷手机**，不靠 App 而靠实体触觉反馈介入使用习惯。这类「数字健康」穿戴设备形态轻、成本低，是智能穿戴配件的一个细分切口，值得观察其量产可能性。",
+        "url": "https://www.yankodesign.com/2026/10/17/arcs-bracelet-concept-quietly-nudges-you-to-stop-scrolling/?utm_source=rss&utm_medium=rss&utm_campaign=arcs-bracelet-concept-quietly-nudges-you-to-stop-scrolling",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/arcs-bracelet-concept-quietly-nudges-you-to-stop-scrolling/arc-01.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-17",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://s3files.core77.com/blog/images/1850394_81_145394_Pnr4eVnie.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-18",
-    "items": [
-      {
-        "brief": "**UGREEN 为 iPhone 18 Pro 推出带副屏的手机壳**，主打所谓「iPhone Duo Effect」，用 **E-ink 副屏** 在手机背面加出一块显示区，无需花 1999 美元买折叠屏也能获得双屏体验。对图拉斯而言，这是手机壳品类从保护向「功能扩展」升级的直接信号。",
-        "url": "https://www.yankodesign.com/2026/09/17/ugreens-iphone-18-pro-case-packs-an-extra-screen-for-that-iphone-duo-effect/?utm_source=rss&utm_medium=rss&utm_campaign=ugreens-iphone-18-pro-case-packs-an-extra-screen-for-that-iphone-duo-effect",
-        "source": "Yanko Design",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/ugreen_magic_eink_screen_case_1.jpg"
-      },
-      {
-        "brief": "**Bose 发布第二代 Ultra Open Earbuds 与全新 Sport Open Earbuds**，前者为旗舰开放式耳夹形态，主打音质与续航升级，后者定位更亲民的开放运动款。开放式耳夹赛道持续升温，与三星即将推出的耳夹式 Galaxy Buds 形成正面竞争。",
-        "url": "https://www.gsmarena.com/bose_unveils_new_ultra_open_earbuds_and_sport_open_earbuds-news-74663.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/bose-ultra-open-earbuds-sport-open-earbuds-official/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**Wired 发布 Apple Watch Series 12 评测**，作者昼夜佩戴一周后认为更好的健康追踪、**更快的充电速度** 与更简洁的界面让这款手表明显更好用，并首次加入 Readiness Score。快充与健康监测是智能穿戴配件的核心卖点方向。",
-        "url": "https://www.wired.com/review/apple-watch-series-12/",
-        "source": "Wired",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://media.wired.com/photos/6aab51d5fb7533563c98fa41/191:100/w_1280,c_limit/GettyImages-2293832395.jpg"
-      },
-      {
-        "brief": "**Snap 的 Specs AR 眼镜正式开启预售**，定价 **2195 美元**，为无需连接手机或电脑的独立式 AR 眼镜，配备透明显示屏，Verizon 同步提供数据套餐。这是继 The Verge 上手后进入可购买阶段的关键一步，AR 眼镜形态开始有真实交付。",
-        "url": "https://www.gsmarena.com/snaps_specs_ar_glasses_are_now_on_preorder_verizon_is_offering_data_plans_for_them-news-74661.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/specs-verizon/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**AI 助听器初创 Fortell 获 1.63 亿美元融资**，创始人用「为什么戴眼镜不需要人劝，戴助听器却要」的提问切入，花六年时间打造这款产品。AI 助听器正成为可穿戴音频与健康交叉的新品类，对图拉斯的耳机与穿戴布局有参考价值。",
-        "url": "https://techcrunch.com/podcast/why-thrive-founders-fund-and-antonio-gracias-are-betting-on-hearing-aids/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fortell_251028_CaseInteraction_0482_Fullres-GRAINS.jpg?resize=1200,900"
-      },
-      {
-        "brief": "**Camp Snap 推出 110D 无屏数码相机**，采用 1970 年代柯达胶卷相机流行的横向薄型设计，**预售 74.95 美元**，提供黑灰与白橙两种配色及配套配件。复古无屏相机持续吸引年轻消费者，是 3C 配件外延的新锐形态。",
-        "url": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/campsnap2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**BLUETTI Elite 10 Mini 便携电源在亚马逊降至 119 美元**，折扣幅度 40%，面向旅行、露营与短时停电场景。便携储能是充电类目的自然延伸，价格下探到百元级意味着这一形态正在向大众消费市场渗透。",
-        "url": "https://www.androidauthority.com/bluetti-elite-10-mini-deal-3712550/",
-        "source": "Android Authority",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/BLUETTI-Elite-10-Mini-Portable-Power-Station-used-by-woman-on-plane.jpg"
       }
     ]
   }

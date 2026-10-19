@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-19",
+    "items": [
+      {
+        "brief": "**OnePlus 16** 正式发布，搭载 **9000mAh** 超大电池，支持 100W 有线与 50W 无线充电，配 6.78 英寸 185Hz LTPO OLED 与骁龙 8 Elite Extreme Gen 6。手机电池容量与快充规格持续上探，直接牵动充电配件与散热配件的产品定义。",
+        "url": "https://www.gsmarena.com/oneplus_16_is_official_with_9000mah_battery_week_42_in_review-news-75092.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/week-42-in-review/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Apple 首款触屏 MacBook** 或将于 11 月 6 日亮相，最早 10 月 27 日官宣，采用 OLED 屏幕。Mac 产品线首次引入触控交互，将重塑笔记本配件（支架、扩展坞、保护类）的使用场景与形态机会。",
+        "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "报道称 Apple 下一代 **HomeView** 可能最早明年推出，并加入 **机械臂**。现款 HomeView 售价 299 美元，用户抱怨多人场景下需手动挪动屏幕，机械臂方案正是对这一痛点的硬件级回应，智能家居中枢形态或将再进化。",
+        "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Amazon 旗下 **Bee** 发布被收购后首批 AI 设备：升级版可穿戴与信用卡大小的录音器，可总结对话、生成待办并接入 Alexa 与 Amazon 购物，**起价 74.99 美元**。低价切入的随身 AI 录音形态，是 AI 硬件最值得跟踪的品类之一。",
+        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080"
+      },
+      {
+        "brief": "前 Apple 工程师团队打造的 **Hiyd** 健康追踪器，可无需磁吸或胶粘直接附着在你已有的手表上，为其增加生物传感能力。这种「给现有穿戴做加法」的配件化思路，对 3C 配件品类有直接启发。",
+        "url": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/HIYD-9.jpg?resize=1200,800"
+      },
+      {
+        "brief": "Yanko 盘点 5 个解决日常小烦恼的日本设计，其中包括**直插掌心的充电线**等形态。这类从握持与收纳痛点出发的微创新，对充电线、配件的人机细节设计有直接参考价值。",
+        "url": "https://www.yankodesign.com/2026/10/18/5-japanese-everyday-designs-that-fix-familiar-frustrations/?utm_source=rss&utm_medium=rss&utm_campaign=5-japanese-everyday-designs-that-fix-familiar-frustrations",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/japanese-everyday-designs-that-fix-familiar-frustrations/5_best_japanese_everyday_yanko_design_hero.jpg"
+      },
+      {
+        "brief": "**Ember** 推出新款温控马克杯，最大变化是**无需打开 App** 即可调节饮品温度。把智能硬件的核心操作从手机端收回机身，是智能家居小件提升日常使用率的关键方向。",
+        "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ember_Table-with-Phone-Dark-Black-10oz_030326.png?w=1200"
+      }
+    ]
+  },
+  {
     "date": "2026-10-18",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/09/the-wooden-box-that-refuses-to-let-your-phone-win/faraday-01.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-19",
-    "items": [
-      {
-        "brief": "三星 Galaxy S27 Pro 与 S27 Ultra 通过中国 3C 认证，确认均支持 **60W 有线充电**，与上代 S26 Ultra 持平，但电池容量有令人期待的提升。作为安卓阵营头部旗舰的充电规格走向，直接影响图拉斯 GaN 充电头与 MagSafe 类配件的功率规划。",
-        "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultras_battery_capacities_and_charging_spec_revealed-news-74677.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s27-pro-s27-ultra-battery-capacity-charging-speed/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "Wired 发布 **Apple Watch Ultra 4** 评测，认为其健康追踪更智能、续航更长，但结论是 Series 12 已经足够接近。可穿戴旗舰的传感器与充电体验升级，是图拉斯智能硬件与充电配件的重要参考坐标。",
-        "url": "https://www.wired.com/review/apple-watch-ultra-4/",
-        "source": "Wired",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://media.wired.com/photos/6aad913c4bac9edc7d3a0145/191:100/w_1280,c_limit/2293832250"
-      },
-      {
-        "brief": "Engadget 发布 **AirPods 5** 评测，指出最值得关注的升级在两个版本上都有，但结论是「选择很明确」——更贵的那款更让人满意。TWS 耳机迭代方向与充电盒体验，是图拉斯便携音频与充电类配件需要持续跟踪的品类。",
-        "url": "https://www.engadget.com/2261751/apple-airpods-5-review/",
-        "source": "Engadget",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.engadget.com/img/gallery/apple-airpods-5-review-spend-the-extra-20/l-intro-1789670880.jpg"
-      },
-      {
-        "brief": "TechCrunch 编辑体验 **Orion 售价 2195 美元的 AI 床垫垫**，形容睡上去像「整张床都是枕头凉的那一面」。AI 硬件正从穿戴向家居睡眠场景渗透，高定价与强体验感说明 AI 消费硬件仍有溢价空间。",
-        "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Orion_Product-1.png?resize=1200,828"
-      },
-      {
-        "brief": "设计学生 Gargi Agrawalla 凭 **SIVO.GO 系统** 赢得英国 James Dyson Award，该设备用 AI 提醒听障用户注意敲门声、火警等重要声音，训练样本超过 500 个。AI 助听/提醒类可穿戴形态持续升温，是智能硬件值得关注的新方向。",
-        "url": "https://www.dezeen.com/2026/09/16/gargi-agrawalla-sivogo-james-dyson-award/",
-        "source": "Dezeen",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "http://static.dezeen.com/uploads/2026/09/sq-dyson-uk-award-sivo.go_dezeen_2364_col_0-411x411.jpg"
-      },
-      {
-        "brief": "Razer 推出新款游戏键盘，把 **31 个可自定义按键** 全部集中在手掌下方，主打游戏时只保留真正需要的控制。外设形态的密集按键创新，对 3C 配件类产品的交互设计有借鉴意义。",
-        "url": "https://www.yankodesign.com/2026/09/18/razers-new-gaming-keypad-puts-31-customizable-controls-right-under-your-hand/?utm_source=rss&utm_medium=rss&utm_campaign=razers-new-gaming-keypad-puts-31-customizable-controls-right-under-your-hand",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/razers-new-gaming-keypad-puts-31-customizable-controls-right-under-your-hand/Razer-Tartarus-V2-Pro-Keyboard-Gamepad-2.jpg"
-      },
-      {
-        "brief": "丹麦配件品牌 **Pedestal** 联合瑞士设计公司 Big Game 重新设计电源排插，推出三插位 Power Bar 与五插位版本。排插这一长期缺乏进化的品类被重新做设计，与图拉斯充电类产品的形态创新思路高度相关。",
-        "url": "https://www.core77.com/posts/145394/Pedestals-Power-Strip-Accessories",
-        "source": "Core77",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://s3files.core77.com/blog/images/1850394_81_145394_Pnr4eVnie.jpg"
       }
     ]
   }

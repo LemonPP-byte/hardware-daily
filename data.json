@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-20",
+    "items": [
+      {
+        "brief": "**iPhone 18 Pro 配件选购指南**出炉，涵盖固态电池充电宝、三合一 MagSafe 充电站、车载配件与快充头，并首次覆盖折叠屏 iPhone Duo 的专属配件。对图拉斯而言，这是新机上市窗口期配件需求爆发的直接信号。",
+        "url": "https://9to5mac.com/2026/10/19/best-iphone-18-pro-accessories-solid-state-power-bank/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-iPhone-18-Pro-accessories-best-2026.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "**BMX SolidSafe Duo** 专为折叠屏 iPhone Duo 的异形机身定制 MagSafe 电池，贴合背面不溢出并自带支架。折叠屏带来的新尺寸正在催生「专机专用」配件赛道，是图拉斯磁吸产品线值得跟进的形态信号。",
+        "url": "https://9to5mac.com/2026/10/19/solidsafe-duo/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-Duo-Battery-2.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Apple 发出 **10 月 28 日第二场发布会**邀请，预计推出 OLED 触屏 MacBook Pro 与刷新版 iPad mini。触屏 MacBook 将重塑笔记本配件生态（支架、扩展坞、保护壳），对图拉斯 3C 配件规划有直接影响。",
+        "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Miles Plug** 是一款售价 99 美元的车载 OBD-II 智能插头，可追踪位置、驾驶习惯与车况，并提供事故应急响应与道路救援，主打不售卖用户数据。车载智能硬件与隐私卖点的组合，对图拉斯车载充电品类有参考价值。",
+        "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6271.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Yanko 评论认为 **Nothing Ear (open)** 开放式耳机本该归入 CMF 子品牌，2024 年以 149 美元发布，透明设计语言与 CMF 定位更契合。开放式耳机形态与品牌分层策略，对便携音频配件玩家有借鉴意义。",
+        "url": "https://www.yankodesign.com/2026/10/19/nothings-ear-open-should-have-been-a-cmf-product-all-along-heres-proof/?utm_source=rss&utm_medium=rss&utm_campaign=nothings-ear-open-should-have-been-a-cmf-product-all-along-heres-proof",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/654807/cmf_ear_open_concept_1.jpg"
+      },
+      {
+        "brief": "Nothing 子品牌 **CMF 推出 Speaker S 便携蓝牙音箱**，外形灵感来自牛奶盒的锐利几何，控制极简但保留实体旋钮与发光电源键。低价位 + 强设计辨识度的打法，是新锐音频配件值得研究的样本。",
+        "url": "https://www.core77.com/posts/145672/CMFs-Milk-Carton-Inspired-Affordable-Portable-Speaker",
+        "source": "Core77",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://s3files.core77.com/blog/images/1854159_81_145672_EoCvLwsGS.jpeg"
+      },
+      {
+        "brief": "**TUNE X3 耳机**把音量与音效调节放回物理旋钮和触感开关，主张调音不该靠盲按小按钮或触摸面。这种「实体交互回归」的设计思路，对配件类产品的交互差异化有启发。",
+        "url": "https://www.yankodesign.com/2026/10/19/these-retro-modern-headphones-put-audio-adjustments-on-physical-dials-and-tactile-switches/?utm_source=rss&utm_medium=rss&utm_campaign=these-retro-modern-headphones-put-audio-adjustments-on-physical-dials-and-tactile-switches",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/these-retro-modern-headphones-put-audio-adjustments-on-physical-dials-and-tactile-switches/TUNE-X3-Headphones-2.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-19",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/09/649343/yoniq_portal_1.jpeg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-20",
-    "items": [
-      {
-        "brief": "Yanko Design 报道一款 **21 美元三合一充电器**，可同时为 iPhone、Apple Watch 和 AirPods 供电。低价位多设备无线充电是图拉斯核心品类，**21 美元定价**极具攻击性，值得关注其结构与成本方案。",
-        "url": "https://www.yankodesign.com/2026/09/19/this-21-charger-powers-your-iphone-apple-watch-and-airpods-at-once/?utm_source=rss&utm_medium=rss&utm_campaign=this-21-charger-powers-your-iphone-apple-watch-and-airpods-at-once",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/this-21-charger-powers-your-iphone-apple-watch-and-airpods-at-once/1.jpg"
-      },
-      {
-        "brief": "iPhone 18 Pro Max 电池容量大幅提升，苹果为此在 iOS 27 新增专门功能并发布支持文档说明额外运输要求。**超大电池带来的充电与散热需求**，直接利好图拉斯的充电与散热配件规划。",
-        "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-max-ship.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "Android Authority 实测 Pixel 11 Pro XL 的 **PixelSnap 25W 无线充电**，结论是虽有提升但依然**慢且发热**。安卓阵营无线充电体验短板，是图拉斯磁吸散热充电方案的切入机会。",
-        "url": "https://www.androidauthority.com/pixel-11-pixelsnap-wireless-charging-test-3710882/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/PixelSnap-on-Pixel-11-Pro-XL.jpg"
-      },
-      {
-        "brief": "Petlibro 推出 **Granary 2 智能喂食器**，内置称重模块，高配版带 **AI 摄像头**追踪每只猫的进食量与时间，但高级健康监测需额外订阅。AI 宠物硬件是智能家居硬件的活跃细分方向。",
-        "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200"
-      },
-      {
-        "brief": "Yanko Design 介绍 **MATE**，形态像便利贴，**写下内容即自动设定闹钟**，省去解锁手机、开 App、打字的步骤。把提醒交互从屏幕搬到实体纸面，是低门槛 AI/智能硬件的思路参考。",
-        "url": "https://www.yankodesign.com/2026/09/19/mate-works-like-a-sticky-note-that-sets-its-own-alarm-when-you-write/?utm_source=rss&utm_medium=rss&utm_campaign=mate-works-like-a-sticky-note-that-sets-its-own-alarm-when-you-write",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/mate-works-like-a-sticky-note-that-sets-its-own-alarm-when-you-write/mate-smart-note-taking-concept-03.jpg"
-      },
-      {
-        "brief": "**MAKERphone 2.0** 以散件形式发售，像乐高一样自行组装，组装完成后是可正常通话的 **4G 手机**。把手机变成可动手拼装的硬件玩具，是 3C 配件与教育硬件的跨界新形态。",
-        "url": "https://www.yankodesign.com/2026/09/18/makerphone-2-0-assembles-like-lego-calls-like-a-real-4g-phone/?utm_source=rss&utm_medium=rss&utm_campaign=makerphone-2-0-assembles-like-lego-calls-like-a-real-4g-phone",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/makerphone-2-0-assembles-like-lego-calls-like-a-real-4g-phone/MAKERphone-2-0-an-educational-DIY-mobile-phone-hero.jpg"
-      },
-      {
-        "brief": "Yanko Design 报道一款**木质盒子**，核心卖点是物理上阻止你继续玩手机，作者称已试过勿扰模式、灰度、放另一个房间等所有办法。把「戒手机」做成实体配件，与充电类配件共享桌面场景。",
-        "url": "https://www.yankodesign.com/2026/09/19/the-wooden-box-that-refuses-to-let-your-phone-win/?utm_source=rss&utm_medium=rss&utm_campaign=the-wooden-box-that-refuses-to-let-your-phone-win",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/the-wooden-box-that-refuses-to-let-your-phone-win/faraday-01.jpg"
       }
     ]
   }

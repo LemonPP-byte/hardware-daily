@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-21",
+    "items": [
+      {
+        "brief": "**These smart glasses turn your blinks into electricity**，把眨眼与咀嚼的微小动能转化为电能，为智能眼镜供电。对充电类与可穿戴配件而言，这是「免充电」形态的极端想象，值得关注能量采集在小型穿戴上的可行性。",
+        "url": "https://www.yankodesign.com/2026/10/20/these-smart-glasses-turn-your-blinks-into-electricity/?utm_source=rss&utm_medium=rss&utm_campaign=these-smart-glasses-turn-your-blinks-into-electricity",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/glassteng_1.jpg"
+      },
+      {
+        "brief": "9to5Toys 汇总当日苹果生态折扣，其中 **13 英寸 25W 三合一可折叠 MagSafe 充电器降价 35%**，另有 AirPods Pro 3 减 50 美元、Duo 保护壳与 Apple TV 4K 预购优惠。三合一折叠磁吸充电站正是图拉斯主力赛道，价格战信号值得盯。",
+        "url": "https://9to5mac.com/2026/10/20/deals-apple-tv-4k-airpods-pro-3-macbook-air-duo-cases/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-TV-4K-Mac-mini-AirPods-Duo.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "**Huawei Watch D3** 评测称其为腕上血压监测的「游戏规则改变者」，把医疗级血压测量做进手表形态。智能穿戴健康传感的军备竞赛正在加速，对图拉斯判断穿戴配件与健康硬件方向有参考价值。",
+        "url": "https://www.yankodesign.com/2026/10/20/huawei-watch-d3-review-a-game-changer-for-on-wrist-blood-pressure-monitoring/?utm_source=rss&utm_medium=rss&utm_campaign=huawei-watch-d3-review-a-game-changer-for-on-wrist-blood-pressure-monitoring",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/huawei-watch-d3-review-a-game-changer-for-on-wrist-blood-pressure-monitoring/huawei-watch-d3-review-04.jpg"
+      },
+      {
+        "brief": "**Oura 为智能戒指新增 Cardio Effort 与自动 VO2 Max 两项心血管指标**，覆盖 Gen 3 及之后机型。智能戒指赛道竞争加剧（RingConn、Ultrahuman 追击），靠软件指标差异化，是穿戴硬件「卖服务」的典型样本。",
+        "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oura1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Wired 评测 **Hatch Sleep Clock**，一款无需佩戴的接触式睡眠追踪设备，主打不想戴表睡觉的人群。非穿戴式健康硬件是智能家居与穿戴之间的空白地带，形态思路值得借鉴。",
+        "url": "https://www.wired.com/review/review-hatch-sleep-clock/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6ad67177f85dfee471db0a6b/191:100/w_1280,c_limit/Review%20Hatch%20Sleep%20Clock%20102026%20top%20art%20SOURCE%20Hatch.jpg"
+      },
+      {
+        "brief": "日本音频品牌 **Final 推出 Porta 无线头戴耳机**，把最熟悉的头梁结构精简到仅 **40 克**。极致轻量化是便携音频的明确卖点方向，对配件与音频品类的形态创新有启发。",
+        "url": "https://www.yankodesign.com/2026/10/20/finals-porta-wireless-on-ear-headphones-strip-back-the-headband-to-just-40-grams/?utm_source=rss&utm_medium=rss&utm_campaign=finals-porta-wireless-on-ear-headphones-strip-back-the-headband-to-just-40-grams",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/finals-porta-wireless-on-ear-headphones-strip-back-the-headband-to-just-40-grams/Final-Porta-Headphones-7.jpg"
+      },
+      {
+        "brief": "**无需插座、无需另备杯子的便携浓缩咖啡方案**，把咖啡机从厨房台面解放到户外场景。这类「去插座化」的便携电器思路，与充电宝、户外电源的使用场景高度重合，值得关注其供电方案。",
+        "url": "https://www.yankodesign.com/2026/10/20/espresso-without-an-outlet-or-a-separate-cup/?utm_source=rss&utm_medium=rss&utm_campaign=espresso-without-an-outlet-or-a-separate-cup",
+        "source": "Yanko Design",
+        "score": 2,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/espresso-without-an-outlet-or-a-separate-cup/pura-neo-0.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-20",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-watch-6-official/-184x111/gsmarena_000.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-21",
-    "items": [
-      {
-        "brief": "Android Authority 上手 **DailyObjects Node 模块化无线充电系统**，作者称测试过数十款无线充电器后第一款真正愿意长期使用的产品。模块化组合形态对图拉斯充电品类有直接参考价值。",
-        "url": "https://www.androidauthority.com/modular-wireless-charging-system-dailyobjects-node-hands-on-3710655/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Daily-Objects-Node-charging-station-.jpg"
-      },
-      {
-        "brief": "Satechi 推出 **Thunderbolt 5 CubeDock**，评测认为与新款 M6 Mac mini 完美搭配。扩展坞是 3C 配件中高客单价品类，Thunderbolt 5 规格升级值得关注。",
-        "url": "https://9to5mac.com/2026/09/20/satechi-thunderbolt-5-cubedock-mac-mini-review/",
-        "source": "9to5Mac",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC01978.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "GSMArena 周度投票结果显示 **iPhone Duo 的宽折叠形态获得压倒性好评**，iPhone 18 Pro Max 风头盖过 18 Pro。苹果首款折叠形态获市场认可，将影响配件生态走向。",
-        "url": "https://www.gsmarena.com/weekly_poll_results_the_iphone_duo_nailed_the_form_factor_iphone_18_pro_max_upstages_the_18_pro-news-74650.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-poll-results-iphone-duo-iphone-18pro-18promax/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "Vocci 推出 **售价 249 美元的会议记录戒指**，为会议笔记场景增加全新可穿戴形态。AI 可穿戴戒指切入办公场景，但摘要提示可能存在隐私争议。",
-        "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675"
-      },
-      {
-        "brief": "**Lapis One 售价 499 美元**，定位迷你 Mac mini 替代品，专为运行 AI Agent 设计。AI Agent 专用硬件终端是新形态，反映本地 AI 算力硬件的消费化趋势。",
-        "url": "https://www.yankodesign.com/2026/09/20/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/?utm_source=rss&utm_medium=rss&utm_campaign=the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_1.jpg"
-      },
-      {
-        "brief": "Retroid Pocket 意外扩充 Duo 产品线，推出 **Lite Plus 版本**，并为 Duo Lite 用户提供免费换新升级。掌机配件生态的快速迭代策略值得新锐品牌参考。",
-        "url": "https://www.engadget.com/2263442/retroid-pocket-unexpectedly-expands-its-duo-lineup-with-a-lite-plus-version/",
-        "source": "Engadget",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.engadget.com/img/gallery/retroid-pocket-unexpectedly-expands-its-duo-lineup-with-a-lite-plus-version/l-intro-1789927347.jpg"
-      },
-      {
-        "brief": "Yoniq 推出 **售价 199 美元的 PlayStation Portal 替代品**，无需连接 PlayStation 即可使用。低价串流掌机形态切入游戏配件市场，是新锐硬件差异化思路。",
-        "url": "https://www.yankodesign.com/2026/09/20/yoniq-made-a-199-playstation-portal-that-doesnt-need-a-playstation/?utm_source=rss&utm_medium=rss&utm_campaign=yoniq-made-a-199-playstation-portal-that-doesnt-need-a-playstation",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/649343/yoniq_portal_1.jpeg"
       }
     ]
   }

@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-23",
+    "items": [
+      {
+        "brief": "**iPhone Duo 预售火爆**，发货日期已排到明年 1 月，Apple 据供应链消息将出货目标上调 **44%**（从 970 万台级别提升）。折叠屏 iPhone 的高需求将直接带动配套磁吸充电、保护壳、支架等配件生态爆发，是图拉斯配件线最值得提前布局的信号。",
+        "url": "https://www.gsmarena.com/apple_reportedly_orders_44_more_iphone_duo_units_from_its_suppliers-news-75174.php",
+        "source": "GSMArena",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-orders-more-iphone-duo-units/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Anker Soundcore Space 2** 头戴降噪耳机降至历史最低价，Wired 称即使原价也值得买，此次再降 **18%**。Anker 在音频配件线的持续价格攻势，是图拉斯评估音频与配件交叉品类竞争格局的直接参照。",
+        "url": "https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://media.wired.com/photos/6ada4bc4d53570f6403f714a/191:100/w_1280,c_limit/Soundcore%20by%20Anker%20Space%202%20deal%20102026%20top%20art%20SOURCE%20Amazon.jpg"
+      },
+      {
+        "brief": "爆料称 **下一代 iPad mini** 可能取消扬声器开孔并首次加入防水能力。Apple 一贯的「删孔」设计哲学若落地，将改变平板保护壳、支架与密封配件的结构设计，对 3C 配件厂商是提前预判的形态信号。",
+        "url": "https://www.yankodesign.com/2026/10/22/apples-next-ipad-mini-could-lose-the-speaker-grilles-and-finally-gain-water-resistance/?utm_source=rss&utm_medium=rss&utm_campaign=apples-next-ipad-mini-could-lose-the-speaker-grilles-and-finally-gain-water-resistance",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/655489/ipad_mini_8_rumors_1.jpg"
+      },
+      {
+        "brief": "纽约公司 Tuesday Labs 推出首款半自主家用机器人 **Voxel Series-1**，可浇花、扫碎屑，采用自主智能加远程遥操作，刻意避开人形机器人的「恐怖谷」外观。家用机器人形态的差异化探索，是 AI 硬件赛道值得跟踪的新方向。",
+        "url": "https://www.dezeen.com/2026/10/22/tuesday-labs-voxel-series-1/",
+        "source": "Dezeen",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://static-2026.dezeen.com/uploads/2026/10/tuesday-labs-voxel-robot_dezeen_2364_sq-1-1024x1024.jpg"
+      },
+      {
+        "brief": "Wired 报道 **Mori**，一款外形像可爱蘑菇的家居机器人，几乎不说话也不做复杂动作，主打把带摄像头的机器人伪装成家居装饰以降低用户戒心。这种「去功能化、重情绪价值」的 AI 硬件思路，对智能硬件产品定义有启发。",
+        "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/191:100/w_1280,c_limit/OKA_MORI_Companion_EveningWorkAtLaptop.jpg"
+      },
+      {
+        "brief": "Zac Builds 改造的 **Game Boy Color** 加入 OLED 屏、USB-C 与**无线充电**，延续其此前改造 iPod 的复古硬件现代化路线。复古掌机加无线充电的组合，展示了充电配件在怀旧改装场景中的新玩法与话题性。",
+        "url": "https://www.yankodesign.com/2026/10/22/diy-modded-game-boy-color-has-an-oled-screen-usb-c-and-wireless-charging/?utm_source=rss&utm_medium=rss&utm_campaign=diy-modded-game-boy-color-has-an-oled-screen-usb-c-and-wireless-charging",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/655463/zacbuilds_modern_gameboy_1.jpeg"
+      },
+      {
+        "brief": "**Nico AI Companion** 概念产品借用游戏手柄式实体控件，为儿童作业提供提示而非直接给答案。把 AI 陪伴硬件的交互从触屏拉回实体按键，是 AI 教育硬件在交互形态上的一个有趣探索。",
+        "url": "https://www.yankodesign.com/2026/10/22/nico-ai-companion-concept-borrows-game-controls-for-homework-hints/?utm_source=rss&utm_medium=rss&utm_campaign=nico-ai-companion-concept-borrows-game-controls-for-homework-hints",
+        "source": "Yanko Design",
+        "score": 2,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/nico-ai-companion-concept-borrows-game-controls-for-homework-hints/nico-ai-learning-companion-concept-05.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-18-pro-series-ofic/-184x111/gsmarena_000.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-23",
-    "items": [
-      {
-        "brief": "**ESR** 为 iPhone Duo 与 iPhone 18 Pro 推出 4 款配件，直击折叠新形态下手机壳、充电器、保护膜需要重新设计的痛点。折叠屏配件是图拉斯可直接切入的高相关品类，值得研究其形态解法。",
-        "url": "https://www.yankodesign.com/2026/09/22/4-esr-accessories-worth-getting-for-the-iphone-duo-and-iphone-18-pro/?utm_source=rss&utm_medium=rss&utm_campaign=4-esr-accessories-worth-getting-for-the-iphone-duo-and-iphone-18-pro",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/4-esr-accessories-worth-getting-for-the-iphone-duo-and-iphone-18-pro/ESR-Hero-01.jpg"
-      },
-      {
-        "brief": "**Motorola Signature 27** 成为首批搭载高通 **Snapdragon 8 Elite Extreme Gen 6** 的机型，外观设计激进，但完整规格、价格与发售时间仍未公布。头部安卓厂商抢发新旗舰芯片，会带动配件与充电生态的换机节奏。",
-        "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/motorola-signature-27-green-hand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Motorola** 与 **Bang & Olufsen** 达成多年合作，Signature 27 成为首款挂 B&O 标识的摩托罗拉手机，效仿 Poco 联名 Bose 的路线。音频联名正在成为手机差异化卖点，可能影响配件与耳机生态的联动方式。",
-        "url": "https://www.gsmarena.com/the_signature_27_will_be_motorolas_first_smartphone_with_bang___olufsen_audio-news-74710.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/motorola-bang-olufsen-partnership/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**Comu Action Pro** 是一款 7mm 厚的桌面 AI 会议记录器，放在桌上即可录音转写，无需占用手机。把 AI 记录做成独立薄型硬件，是会议场景可穿戴/桌面设备的新形态尝试。",
-        "url": "https://www.yankodesign.com/2026/09/22/this-slim-ai-note-taker-lets-you-stay-focused-in-meetings-without-tying-up-your-phone/?utm_source=rss&utm_medium=rss&utm_campaign=this-slim-ai-note-taker-lets-you-stay-focused-in-meetings-without-tying-up-your-phone",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/this-slim-ai-note-taker-lets-you-stay-focused-in-meetings-without-tying-up-your-phone/Comu-Action-Pro-Smart-Note-Taker-5.jpg"
-      },
-      {
-        "brief": "**Viture Vonder Glasses** 是 Viture 首款无显示屏智能眼镜，取消摄像头，改用骨传导麦克风私下记录日常想法。AI 眼镜从「看」转向「听与记」，为可穿戴形态提供了新思路。",
-        "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-        "source": "Wired",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://media.wired.com/photos/6ab12960f8eb3bb5e52c1630/191:100/w_1280,c_limit/VONDER_Oslo+Smoke+Ruby.png"
-      },
-      {
-        "brief": "**ETA Prime** 的 DIY 方案把闲置 **Galaxy S10** 改造成不到 100 美元的防水 cyberdeck，让旧手机获得第二生命。旧机再利用与模块化外壳是 3C 配件可借鉴的低成本创新方向。",
-        "url": "https://www.yankodesign.com/2026/09/22/turn-your-old-galaxy-phone-into-a-weatherproof-cyberdeck-for-under-100/?utm_source=rss&utm_medium=rss&utm_campaign=turn-your-old-galaxy-phone-into-a-weatherproof-cyberdeck-for-under-100",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/turn-your-old-galaxy-phone-into-a-weatherproof-cyberdeck-for-under-100/Galaxy-S10-Cyberdeck-DIY-7.jpg"
-      },
-      {
-        "brief": "一款不依赖 App、灯泡或智能家居系统的**氛围灯**，用物理方式直接调节光线色彩。绕开智能家居生态的复杂配置，对做智能硬件与桌面配件的品牌是「去 App 化」交互的参考。",
-        "url": "https://www.yankodesign.com/2026/09/22/mood-lighting-without-the-app-the-bulb-or-the-smart-home/?utm_source=rss&utm_medium=rss&utm_campaign=mood-lighting-without-the-app-the-bulb-or-the-smart-home",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/mood-lighting-without-the-app-the-bulb-or-the-smart-home/gel-lamp-00.jpg"
       }
     ]
   }

@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-24",
+    "items": [
+      {
+        "brief": "**Abxylute 65 美元手机游戏手柄**把霍尔效应扳机、可按压摇杆与陀螺仪瞄准塞进手机配件形态，主打用手机替代掌机。**手机外设配件**在掌机涨价背景下有明确替代需求，是3C配件品类值得关注的新形态。",
+        "url": "https://www.yankodesign.com/2026/10/23/abxylutes-65-smartphone-gamepad-packs-hall-effect-triggers-clickable-sticks-and-gyro-aiming/?utm_source=rss&utm_medium=rss&utm_campaign=abxylutes-65-smartphone-gamepad-packs-hall-effect-triggers-clickable-sticks-and-gyro-aiming",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/655702/abxylute_m6_m5_gaming_controllers_1.png"
+      },
+      {
+        "brief": "**UGREEN 45W 六口全球旅行转换插头**在亚马逊降至 27.99 美元，回到历史最低价。多口旅行充电配件是充电类的高频刚需，价格触底往往带来销量爆发，值得关注竞品定价策略。",
+        "url": "https://www.androidauthority.com/ugreen-45w-travel-adapter-deal-3727455/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/UGREEN-45W-6-Port-Universal-Travel-Plug-Adapter-Press-Image.jpg"
+      },
+      {
+        "brief": "**Samsung Galaxy Buds On** 的 360 度渲染动画泄露，曝光了这款即将推出的真无线耳机外观，并透露了全球发售线索。三星音频产品线的新命名与形态，对便携音频配件竞争格局有参考价值。",
+        "url": "https://www.androidauthority.com/galaxy-buds-on-release-details-and-animation-3727460/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-Budson-3.jpg"
+      },
+      {
+        "brief": "**OKA 的蘑菇机器人 Mori** 用发光眼睛和蘑菇外形提供陪伴，刻意不说话也不做复杂动作，主打放在床头柜上的亲和感。这种「去人形化」的 AI 陪伴硬件思路，为 AI 硬件形态提供了新方向。",
+        "url": "https://www.yankodesign.com/2026/10/23/mori-the-mushroom-robot-offers-company-without-saying-a-word/?utm_source=rss&utm_medium=rss&utm_campaign=mori-the-mushroom-robot-offers-company-without-saying-a-word",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/mori-the-mushroom-robot-offers-company-without-saying-a-word/mori-01.jpg"
+      },
+      {
+        "brief": "**Tuesday Labs 的 Voxel Series-1** 半自主家用机器人首次亮相，可浇花、扫碎屑，目前依靠自主智能与远程遥操作结合完成家务，刻意避开人形机器人的恐怖谷。家用机器人落地形态值得硬件团队跟踪。",
+        "url": "https://www.dezeen.com/2026/10/22/tuesday-labs-voxel-series-1/",
+        "source": "Dezeen",
+        "score": 3,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://static-2026.dezeen.com/uploads/2026/10/tuesday-labs-voxel-robot_dezeen_2364_sq-1-1024x1024.jpg"
+      },
+      {
+        "brief": "**Teenage Engineering 的 EP-35 音箱**背面可打开，露出专门收纳线材与配件的隔层。把「线材收纳」这种不性感的痛点做成产品卖点，对充电线、配件类产品的收纳设计有直接启发。",
+        "url": "https://www.yankodesign.com/2026/10/23/teenage-engineerings-ep-35-amp-has-a-hidden-cable-compartment/?utm_source=rss&utm_medium=rss&utm_campaign=teenage-engineerings-ep-35-amp-has-a-hidden-cable-compartment",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/teenage-engineerings-ep-35-amp-has-a-hidden-cable-compartment/teenage-engineering-ep-35.jpg"
+      },
+      {
+        "brief": "**SwitchBot 的 RGBICWW 灯条**在彩色分区之外单独加入冷白与暖白 LED，兼顾工作阅读的真实白光与观影的 12 区彩色氛围，支持 Wi-Fi/Matter 无需网关。智能家居灯光的双光源思路值得借鉴。",
+        "url": "https://9to5mac.com/2026/10/23/switchbots-new-light-bars-bring-12-zone-color-to-apple-home/",
+        "source": "9to5Mac",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Switchbot-2.jpg?quality=82&#038;strip=all&#038;w=1600"
+      }
+    ]
+  },
+  {
     "date": "2026-10-23",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/devyn_ps5_redesign_1.jpeg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-24",
-    "items": [
-      {
-        "brief": "Meta 在 Connect 2026 上短暂展示了 **Muse Charm**——一台没有表带的厚实智能手表形态设备，配大屏与挂绳，右上角带指纹传感器，专为 Muse AI 智能体打造的独立硬件。这是 Meta 把 AI 从手机 App 搬进随身实体终端的信号，对做 AI 可穿戴与配件的品牌是重要形态参考。",
-        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-        "source": "The Verge",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Meta 发布 **VR Glasses**，把沉浸式显示做进普通眼镜形态而非头显，可看电影、玩游戏、办公，售价 1300 美元。Engadget 直言它更像 Apple 该做的 Vision Pro 续作。眼镜形态的显示终端正在重新定义头戴设备的佩戴逻辑。",
-        "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-        "source": "The Verge",
-        "score": 5,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_29_03_12.Still016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Meta 推出 **Ray-Ban Meta Audio**，是其首款不带摄像头的智能眼镜，以此绕开偷拍争议。同期 Ray-Ban Meta Gen 3 带来更好续航但价格上涨，并新增 Aviator 与 Zena 两种框型。无摄像头路线为配件与镜框设计留出更大空间。",
-        "url": "https://www.engadget.com/2267212/meta-announces-ray-ban-meta-audio-its-first-smart-glasses-without-a-camera/",
-        "source": "Engadget",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.engadget.com/img/gallery/meta-announces-ray-ban-meta-audio-its-first-smart-glasses-without-a-camera/l-intro-1790191670.jpg"
-      },
-      {
-        "brief": "**Rollme Matrix** 是一款售价 89 美元的 4G 智能手表，最大亮点是表冠上集成了弹出式摄像头。在低价耐用 GPS 手表赛道里，把摄像头塞进表冠是少见的结构创新，为可穿戴的影像交互提供了新思路。",
-        "url": "https://www.yankodesign.com/2026/09/23/rollme-matrix-is-89-4g-smartwatch-with-a-crown-mounted-pop-up-camera/?utm_source=rss&utm_medium=rss&utm_campaign=rollme-matrix-is-89-4g-smartwatch-with-a-crown-mounted-pop-up-camera",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/rollme-matrix-is-89-4g-smartwatch-with-a-crown-mounted-pop-up-camera/Rollme-Matrix-Smartwatch-1.jpg"
-      },
-      {
-        "brief": "**Huawei Watch D3** 正式在欧洲开售，随机附赠智能体重秤。它用表带内置可充气气囊袖带测量血压，而非光学传感器，并已获得 CE MDR 认证。这是少数真正合规做血压监测的智能手表，对健康向可穿戴的传感器方案有参考价值。",
-        "url": "https://www.gsmarena.com/the_huawei_watch_d3_is_now_available_in_europe_comes_with_a_free_smart_bathroom_scale-news-74727.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/huawei-watch-d3-now-available/-184x111/gsmarena_0000.jpg"
-      },
-      {
-        "brief": "微软发布第二代 **Surface Mouse**，首次加入触觉反馈与可自定义操作键，按键默认用于快速唤起 Copilot，也可在 Surface 应用中改配其他快捷方式。下月上市。鼠标加入触觉反馈，是桌面外设交互升级的一个新方向。",
-        "url": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Surface-Mouse-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Xiaomi 18 Pro / Pro Max** 发布，成为首批搭载骁龙 8 Elite Gen 6 的机型，Pro Max 拿下 8 Elite Extreme 版本。除新旗舰芯片外，还带来隐私显示屏与更实用的背部副屏。背部副屏的持续迭代，为手机壳与配件生态带来新的开孔与交互设计课题。",
-        "url": "https://www.gsmarena.com/xiaomi_18_pro_and_18_pro_max_arrive_with_latest_snapdragon_chips_privacy_displays_and_more_useful_re-news-74733.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-18-pro-series-ofic/-184x111/gsmarena_000.jpg"
       }
     ]
   }

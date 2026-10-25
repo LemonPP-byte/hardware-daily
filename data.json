@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-25",
+    "items": [
+      {
+        "brief": "**Belkin** 推出两款**半固态电池** iPhone 移动电源：10000mAh USB-C 版与 5000mAh MagSafe 版（15W Qi2），铝合金机身且重量远低于同级产品。半固态电芯首次下放到消费级充电配件，直接指向充电宝「轻量化+高安全」的新竞争维度。",
+        "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03234.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "**CMF Speaker S** 上手体验出炉，69 欧元的紧凑蓝牙音箱，外形与材质在同价位里最有个性。Nothing 子品牌用设计差异化打便携音频，是成熟品牌下探平价市场的典型样本。",
+        "url": "https://www.gsmarena.com/cmf_speaker_s_unboxing_and_handson-news-75117.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/cmf-speaker-s-hands-on/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Wired 评测 **Ray-Ban Meta Audio**，去掉摄像头只保留音频的智能眼镜被评為「最好的智能眼镜」——摆脱监控包袱后日常佩戴接受度大幅提升。为智能穿戴「做减法换普及」提供了有力论据。",
+        "url": "https://www.wired.com/review/ray-ban-meta-audio/",
+        "source": "Wired",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://media.wired.com/photos/6adb65de4cb8f4b09a1af178/191:100/w_1280,c_limit/Ray-Ban%20Meta%20Audio%20-%20Lifestyle2.jpg"
+      },
+      {
+        "brief": "一款外形像**微型显示器**的 **AI 助手**，实际能直接操作你的电脑，替用户完成复制客户信息到表格这类重复劳动。把 AI 能力装进桌面实体小硬件，是 AI 交互终端的新形态探索。",
+        "url": "https://www.yankodesign.com/2026/10/24/this-ai-assistant-looks-like-a-tiny-monitor-but-actually-operates-your-computer/?utm_source=rss&utm_medium=rss&utm_campaign=this-ai-assistant-looks-like-a-tiny-monitor-but-actually-operates-your-computer",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/this-ai-assistant-looks-like-a-tiny-monitor-but-actually-operates-your-computer/VIOLOOP-PLUG-IN-AI-FOR-YOUR-COMPUTER.jpg"
+      },
+      {
+        "brief": "Wired 评选 2026 最佳**宠物摄像头**，覆盖 Furbo、Petcube 与 Enabot 三款。带云台与互动的家用摄像头是智能家居硬件里复购与情感黏性最强的品类之一，值得关注形态演进。",
+        "url": "https://www.wired.com/gallery/best-pet-cameras/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6adb915b98f760e7b008b9de/191:100/w_1280,c_limit/Pet%20Cameras%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg"
+      },
+      {
+        "brief": "**BIONIC** 为 **iPhone Duo** 设计的支架，把折叠屏撑开成一台迷你显示器，解决双手占用时无处安放的痛点。折叠屏配件是 3C 配件新战场，支架形态正随新机身重新设计。",
+        "url": "https://www.yankodesign.com/2026/10/24/bionics-iphone-duo-stand-makes-the-foldable-look-like-a-miniature-monitor/?utm_source=rss&utm_medium=rss&utm_campaign=bionics-iphone-duo-stand-makes-the-foldable-look-like-a-miniature-monitor",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/bionics-iphone-duo-stand-makes-the-foldable-look-like-a-miniature-monitor/bionic-iphone-duo-charger-01.jpg"
+      },
+      {
+        "brief": "**Qubitunes Soundstage** 无屏音频玩具套装，面向 3 岁以上儿童，用实体组件搭建声音世界。屏幕-free 的儿童音频硬件是便携音频的细分增量市场，交互形态值得参考。",
+        "url": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://media.wired.com/photos/6adb9462163ba15a9a5f5353/191:100/w_1280,c_limit/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-24",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://fdn.gsmarena.com/imgroot/news/26/09/infinix-gt-nx-controller-station/-184x111/gsmarena_000.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-25",
-    "items": [
-      {
-        "brief": "高通发布 **Snapdragon Sound Elite Gen 2**，首次把微功耗 Wi-Fi 6E 集成进音频芯片，让耳机和音频眼镜直连家庭 Wi-Fi 云端串流无损音频，摆脱手机距离限制。对做充电与音频配件的图拉斯而言，这是耳机形态与连接方式可能被重写的信号。",
-        "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h29m15s548.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Nothing **Headphone 1 Pro** 渲染图泄露，首次曝光其高端头戴耳机的设计。Nothing 以透明工业设计和高性价比切入音频市场，这款 Pro 定位意味着它要正面挑战 Bose、Sony 的高端头戴，值得关注其定价与设计语言。",
-        "url": "https://www.androidauthority.com/nothing-headphone-1-pro-renders-3715240/",
-        "source": "Android Authority",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Nothing-Headphone-1-Pro.jpg"
-      },
-      {
-        "brief": "微软发布 **Surface Pro 12 英寸（第二代）** 与 **Surface Laptop 13 英寸**，搭载骁龙 X2 Plus。Pro 12 为 2196x1464 分辨率 3:2 比例 90Hz LCD 的 Windows on ARM 平板。微软在配件生态与形态上的动作，会影响扩展坞、支架等 3C 配件需求。",
-        "url": "https://www.gsmarena.com/microsoft_unveils_surface_pro_12_tablet_and_surface_laptop_13_with_snapdragon_x2_plus-news-74747.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/microsoft-surface-pro-12-surface-laptop-13-official/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "TechCrunch 解析 Meta 的 **Muse Charm**：外形像 Tamagotchi，但以悬挂式形态切入 Gen Z 的包挂饰、复古科技与「把设备变成时尚配件」趋势。这是 AI 硬件从功能走向时尚符号的典型案例，对配件品牌的产品定义有直接启发。",
-        "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
-      },
-      {
-        "brief": "Hello Robot CEO Aaron Edsinger 将在 TechCrunch Disrupt 2026 现场演示 **Stretch 4** 机器人。Stretch 系列是少见的面向真实场景的移动操作机器人，其迭代方向对具身智能硬件形态与家用机器人落地节奏有参考价值。",
-        "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200"
-      },
-      {
-        "brief": "Yanko Design 报道一款致敬 **Teenage Engineering 与 iPod Shuffle** 的音乐播放器，把屏幕放在「眼睛实际所在的位置」，绕开传统播放器需要低头看屏的交互。这种反常规的屏幕位置设计，对做便携音频与配件交互的产品经理很有启发。",
-        "url": "https://www.yankodesign.com/2026/09/24/teenage-engineering-meets-ipod-shuffle-this-music-player-puts-the-screen-where-your-eyes-actually-are/?utm_source=rss&utm_medium=rss&utm_campaign=teenage-engineering-meets-ipod-shuffle-this-music-player-puts-the-screen-where-your-eyes-actually-are",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/mad5_hifi_player_1.jpg"
-      },
-      {
-        "brief": "一款售价 **90 美元** 的 PS5 替换外壳，把主机变成 Xbox 风格的「巨石」造型，同时带来更好的散热表现。它把「外观改装 + 散热升级」打包成配件生意，是 3C 配件从保护走向性能与审美改造的典型样本。",
-        "url": "https://www.yankodesign.com/2026/09/24/these-90-cover-plates-turn-your-ps5-into-an-xbox-ish-monolith-with-much-better-thermals/?utm_source=rss&utm_medium=rss&utm_campaign=these-90-cover-plates-turn-your-ps5-into-an-xbox-ish-monolith-with-much-better-thermals",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/devyn_ps5_redesign_1.jpeg"
       }
     ]
   }

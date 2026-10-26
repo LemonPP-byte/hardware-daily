@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-26",
+    "items": [
+      {
+        "brief": "**Belkin 半固态电池** iPhone 移动电源上手：10000mAh USB-C 版与 5000mAh MagSafe 版（15W Qi2），铝合金机身且比预期轻得多。半固态电池首次下放到消费级充电配件，是充电品类的形态级变量。",
+        "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": true,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03234.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "**OLED iPad mini 8** 本周发布：2021 年以来首次大改，换用 OLED 屏幕并刷新芯片，是苹果少见的非 Pro 线重大升级。屏幕形态变化会直接带动保护壳、支架、磁吸配件的新一轮换机需求。",
+        "url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "**触屏 OLED MacBook Pro** 本周登场，苹果将首次在笔记本线引入触控，售价定位偏高。这打破苹果数十年的产品哲学，触控笔、支架、扩展坞等配件生态可能随之重估。",
+        "url": "https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "TechCrunch 汇总当前最热的 **AI 可穿戴与 AI 硬件**，覆盖 Muse Charm、Bee、Friend、Plaud 等已可购买的产品。是快速摸清 AI 硬件赛道真实在售阵容的一份清单。",
+        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849"
+      },
+      {
+        "brief": "Reddit 热议「**AI 别针为什么失败**：没人想对着自己的衬衫说话」，直指 AI 可穿戴的交互形态根本问题。对规划 AI 硬件的团队是一份反面教材式的用户洞察。",
+        "url": "https://www.reddit.com/r/gadgets/comments/1xdin2n/ai_pins_failed_because_nobody_wants_to_talk_to/",
+        "source": "Reddit",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": ""
+      },
+      {
+        "brief": "The Verge 上手 **Crkd Nitro Deck 2**：为 Switch 与 Switch 2 打造的滑入式手柄壳，59.99 美元，延续霍尔摇杆优势，但摇杆与面键间距过近。是掌机配件形态与手感取舍的典型案例。",
+        "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Wuben** 把 500 流明手电与刀片塞进仅 40 克的机身，主打口袋级 EDC。极致轻量化+多功能合一的思路，对便携 3C 配件的形态设计有直接参考价值。",
+        "url": "https://www.yankodesign.com/2026/10/24/wubens-tiny-flashlight-packs-500-lumens-and-a-blade-into-40-grams/?utm_source=rss&utm_medium=rss&utm_campaign=wubens-tiny-flashlight-packs-500-lumens-and-a-blade-into-40-grams",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/wubens-tiny-flashlight-packs-500-lumens-and-a-blade-into-40-grams/WUBEN-G6-Ultra-Slim-Multi-Use-Keychain-Light.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-25",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/09/reach-is-a-modular-gps-sports-computer-built-to-snap-into-any-sport/REACH-Worlds-First-Modular-Multi-Sport-GPS-Computer-hero.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-26",
-    "items": [
-      {
-        "brief": "Yanko Design 报道一款**随升降桌移动的电源排插**，直击「早上六点爬到桌下找插座」的痛点。它把排插从固定地面解放出来，跟随桌面升降同步移动，对做**桌面充电与办公配件**的图拉斯来说，是充电类产品切入办公场景的明确新形态。",
-        "url": "https://www.yankodesign.com/2026/09/25/the-power-strip-that-actually-moves-with-your-desk/?utm_source=rss&utm_medium=rss&utm_campaign=the-power-strip-that-actually-moves-with-your-desk",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/the-power-strip-that-actually-moves-with-your-desk/power-duck-00.jpg"
-      },
-      {
-        "brief": "The Verge 报道 Apple 代码泄露，确认 **HomePod mini 2、iPad mini 8、Apple TV 4K** 三款新品将在年底前发布，并附有图片。这是 Apple 在 iPhone 18 Pro 与折叠 iPhone Duo 之后的下一波硬件节奏，直接影响配件与充电生态的备货方向。",
-        "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22025413/dseifert_201107_4281_0006.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "9to5Mac 指出 Apple 为数十款设备公开发布**高精度尺寸图纸**，专门帮助配件厂商围绕其产品做设计。对做手机壳、支架、MagSafe 配件的图拉斯来说，这是官方级的开模数据源，能显著缩短新品适配周期。",
-        "url": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs/",
-        "source": "9to5Mac",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-dimensional-drawings.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "GSMArena 援引中国供应链消息，**Insta360 正在研发一款 AI 智能眼镜**，其专利描述了一种不带摄像头的「可穿戴眼镜」形态。影像头部玩家切入 AI 眼镜，可能把运动相机的防抖与影像能力带进这一品类，值得关注其对智能穿戴格局的冲击。",
-        "url": "https://www.gsmarena.com/insta360_may_be_working_on_a_unique_pair_of_aipowered_smart_glasses-news-74769.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/insta360-ai-smart-glasses/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "The Verge 报道 Tesla **Optimus 机器人遭遇量产爬坡难题**：原定每周 2 万台的目​​标难以达成，上月实际仅产出「每周数百台」，且手部装配精度出现问题。这是具身智能从演示走向量产的真实阻力样本，对判断机器人供应链成熟度有参考价值。",
-        "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Yanko Design 报道一款售价 **249 美元的夹扣式设备**，向人体照射「不可见」红外阳光以改善情绪，灵感来自阿姆斯特丹与洛杉矶日照时长的差异。它把光疗从笨重灯箱做成可穿戴夹扣，是健康类智能硬件的新形态尝试。",
-        "url": "https://www.yankodesign.com/2026/09/25/this-249-clip-on-device-shines-invisible-infrared-sunlight-on-you-to-boost-your-mood/?utm_source=rss&utm_medium=rss&utm_campaign=this-249-clip-on-device-shines-invisible-infrared-sunlight-on-you-to-boost-your-mood",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/draft-sunbooster/sunbooster_ifa_2026_1.jpeg"
-      },
-      {
-        "brief": "Infinix 发布 **GT NX Controller 手柄与 GT NX Station 底座**，手柄号称搭载「全球首个像素级 FPS 精准触控板」，主打移动端射击游戏的鼠标级精度，并采用三芯片低延迟架构。手游外设正在从「能玩」卷向「电竞级」，是 3C 配件值得关注的新赛道。",
-        "url": "https://www.gsmarena.com/infinix_unveils_gt_nx_controller_and_gt_nx_station_dock-news-74768.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/infinix-gt-nx-controller-station/-184x111/gsmarena_000.jpg"
       }
     ]
   }

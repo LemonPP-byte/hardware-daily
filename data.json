@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-27",
+    "items": [
+      {
+        "brief": "**Anker 万圣节大促全场充电产品 8 折**，涵盖其最受好评的充电器与移动电源。作为充电类头部品牌的价格动作，是观察北美充电配件促销节奏与价格带的直接窗口，对图拉斯定价与促销策略有参考价值。",
+        "url": "https://www.wired.com/story/anker-halloween-sale-oct-2026/",
+        "source": "Wired",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://media.wired.com/photos/6adfb111ce126e8759a8370d/191:100/w_1280,c_limit/Anker%20Halloween%20Sale%20deals%20102026%20top%20art%20SOURCE%20Anker.jpg"
+      },
+      {
+        "brief": "**Even Realities 推出玳瑁纹新镜框**，评论称光凭设计就愿意买下这副智能眼镜。这家深圳新锐用「先做好一副眼镜」的思路切入 AI 眼镜赛道，与 Meta、Google 的路径形成对照，对智能穿戴外观设计有启发。",
+        "url": "https://www.yankodesign.com/2026/10/26/even-realities-new-tortoise-shell-frame-is-so-gorgeous-id-buy-the-smart-glasses-just-for-the-design/?utm_source=rss&utm_medium=rss&utm_campaign=even-realities-new-tortoise-shell-frame-is-so-gorgeous-id-buy-the-smart-glasses-just-for-the-design",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/even-realities-new-tortoise-shell-frame-is-so-gorgeous-id-buy-the-smart-glasses-just-for-the-design/even_realities_brown_2_1.jpg"
+      },
+      {
+        "brief": "**Nothing Ear 3A 降噪耳机降至历史最低价**，四款配色在亚马逊、沃尔玛、百思买同步促销。Nothing 以配色与设计驱动的平价音频策略持续奏效，是 3C 配件品牌做「设计差异化」的典型样本。",
+        "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Wired 评测 **Google Fitbit Edge**：对老 Fitbit 用户是受欢迎的升级，但**取消 NFC 支付**被视为令人费解的倒退。智能穿戴在功能取舍上的失误，是硬件产品定义阶段的典型反面案例。",
+        "url": "https://www.wired.com/review/google-fitbit-edge/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6adf55bb4342ac0de5548459/191:100/w_1280,c_limit/Google%20Fitbit%20Edge%20Review%20102026%20top%20art%20SOURCE%20Google.jpg"
+      },
+      {
+        "brief": "**Oura 再次起诉 Ultrahuman**，指控其 Ring Pro 侵犯两项专利，直接威胁后者在美国智能戒指市场的回归。智能戒指赛道专利战升级，将影响该品类的入场门槛与供应链选择。",
+        "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800"
+      },
+      {
+        "brief": "**LISEN 迷你移动电源**在亚马逊降价 21%，**10000mAh 容量 + 45W USB-C 输出**塞进旅行友好尺寸，价格跌破 32 美元。小体积高功率的充电宝形态持续走热，是充电类选品的高频方向。",
+        "url": "https://www.androidauthority.com/lisen-10-000mah-travel-charger-down-3728239/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/LISEN-Small-Portable-Charger-Press-Image.jpg"
+      },
+      {
+        "brief": "**罗技 Pebble Up 鼠标可变形为垂直握持姿态**，面向重度用户兼顾便携与人体工学。在罗技 Mobi Fold 之后继续在形态可变上做文章，是 3C 配件「一物多用」设计思路的又一案例。",
+        "url": "https://www.yankodesign.com/2026/10/26/logitech-pebble-up-mouse-transforms-into-a-vertical-configuration-for-power-users/?utm_source=rss&utm_medium=rss&utm_campaign=logitech-pebble-up-mouse-transforms-into-a-vertical-configuration-for-power-users",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/logitech-pebble-up-mouse-transforms-into-a-vertical-configuration-for-power-users/Logitech-Pebble-Up-mouse-1.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-26",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/09/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/physical-console-smart-lights-05.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-27",
-    "items": [
-      {
-        "brief": "**BIONIC 充电垫**把无线充电与桌面收纳合二为一，解决门口或床头柜上手机、AirPods、钥匙、眼镜堆成一团的痛点。对做充电类与桌面配件的图拉斯来说，这是「充电+收纳」复合形态的直接参考。",
-        "url": "https://www.yankodesign.com/2026/09/26/charging-pads-save-your-phone-bionics-also-clears-your-counter/?utm_source=rss&utm_medium=rss&utm_campaign=charging-pads-save-your-phone-bionics-also-clears-your-counter",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/charging-pads-save-your-phone-bionics-also-clears-your-counter/bionic-valet-charger-01.jpg"
-      },
-      {
-        "brief": "**HomePod Mini 2** 五色外观图曝光：粉、白、绿、蓝、午夜色，其中粉色与绿色为新增配色。作为 Apple 智能家居入口的迭代，配色策略与外观走向会直接影响配件与桌面生态的搭配需求。",
-        "url": "https://www.gsmarena.com/apple_homepod_mini_2_design_colors-news-74786.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-homepod-mini-2-design-colors/-184x111/gsmarena_001.jpg"
-      },
-      {
-        "brief": "9to5Mac 上手 **iPhone 18 Pro / Pro Max 手机壳**，围绕 Glacier、Burgundy、Deep Black 等新配色给出搭配建议。新机上市一周正是壳类配件出货窗口，配色与材质方向对图拉斯壳类选品有直接参考价值。",
-        "url": "https://9to5mac.com/2026/09/26/these-are-my-favorite-iphone-18-pro-pro-max-cases-so-far-video/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Cases.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "Meta 发布 **Muse Charm** 便携 AI 代理设备，外形类似 Apple Watch 但用小挂绳替代表带，由前 Apple 设计主管 Alan Dye 领衔的新设计团队打造，可自定义卡通角色。这是 AI 陪伴硬件从屏幕走向「挂饰形态」的重要信号。",
-        "url": "https://www.dezeen.com/2026/09/25/meta-debuts-tamagotchi-style-ai-agent/",
-        "source": "Dezeen",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "http://static.dezeen.com/uploads/2026/09/sq-meta-muse-charm_dezeen_2364_col_0-411x411.jpg"
-      },
-      {
-        "brief": "TechCrunch 解析 **Meta Muse Charm**：外形像 Tamagotchi，但悬挂式形态切中 Gen Z 的包挂、复古科技与「把设备当时尚配饰」趋势。对做 3C 配件的品牌来说，这是硬件配饰化的关键案例。",
-        "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
-      },
-      {
-        "brief": "Yanko Design 盘点 **4 款钥匙扣相机**，直击「看到值得记录的瞬间第一反应是掏手机」的痛点，把拍摄硬件缩到随身挂件尺寸。对做便携配件与随身硬件的团队，这是「去手机化拍摄」的新形态参考。",
-        "url": "https://www.yankodesign.com/2026/09/26/4-keychain-cameras-nobody-will-leave-the-house-without/?utm_source=rss&utm_medium=rss&utm_campaign=4-keychain-cameras-nobody-will-leave-the-house-without",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/4-keychain-cameras-nobody-will-leave-the-house-without/yashica-00.jpg"
-      },
-      {
-        "brief": "**REACH** 是一款模块化运动 GPS 电脑，可卡入不同运动底座，替代过去分别购买对讲机、运动相机、风速仪的多设备方案。模块化硬件思路对做配件与智能硬件的图拉斯有形态启发。",
-        "url": "https://www.yankodesign.com/2026/09/25/reach-is-a-modular-sports-gps-computer-built-to-snap-into-any-sport/?utm_source=rss&utm_medium=rss&utm_campaign=reach-is-a-modular-sports-gps-computer-built-to-snap-into-any-sport",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/reach-is-a-modular-gps-sports-computer-built-to-snap-into-any-sport/REACH-Worlds-First-Modular-Multi-Sport-GPS-Computer-hero.jpg"
       }
     ]
   }

@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-29",
+    "items": [
+      {
+        "brief": "**Apple 为 Mac 推出四款新配件**：两款更新功率的电源适配器、一根电源延长线与一个旅行转接头套装，随 PROLED XDR MacBook Pro 同步发布。头部品牌在充电配件上的规格更新，直接牵动第三方充电生态的兼容与形态走向。",
+        "url": "https://9to5mac.com/2026/10/28/apple-introduces-new-power-adapters-for-mac-plus-extension-cable-travel-kit/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-power-adapter-extension-cable.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "**Amazon 发布 Alexa Photo Frame 与 Echo Time 智能时钟**，同时更新 Echo Dot、带视觉智能的 Echo Studio 与 Echo Show 16。智能家居硬件线集体换代，把 AI 能力塞进相框、时钟这类低门槛桌面设备，是观察家庭场景入口争夺的关键动作。",
+        "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/echoshow16-alexaphotoframe-echotime-echostudio-echodot-hero-amazonnews-ck102526.png?resize=1200,676"
+      },
+      {
+        "brief": "**Sony 推出透明 DualSense 手柄**，复刻 1999 年透明机身的复古审美，并同步发售配套 PS5 主机盖。透明外壳是配件类最容易被复制的情绪化设计语言，对手机壳、充电器等 3C 配件的材质与配色策略有直接参考价值。",
+        "url": "https://www.engadget.com/2300152/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/",
+        "source": "Engadget",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.engadget.com/img/gallery/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/l-intro-1793212633.jpg"
+      },
+      {
+        "brief": "**Xreal Aura 是一款由 Android XR 驱动的有线头显**，起售价 **1279 美元**，上市时将带多款 XR 专属应用。有线形态绕开重量与散热瓶颈，是 AI/XR 可穿戴在「全天佩戴」之外的另一条产品路线。",
+        "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Xreal-Aura.jpg?resize=1200,675"
+      },
+      {
+        "brief": "**Petoi 推出掌心大小的机器狗**，用 **Nokia 电池**供电，背部是可自定义的乐高兼容接口。把机器人玩具做成可拆装、可扩展的桌面物件，比人形机器人更接近真实购买决策，也是 AI 陪伴硬件的一种低成本形态。",
+        "url": "https://www.yankodesign.com/2026/10/28/this-palm-sized-robot-dog-has-a-nokia-battery-and-a-customizable-lego-compatible-back/?utm_source=rss&utm_medium=rss&utm_campaign=this-palm-sized-robot-dog-has-a-nokia-battery-and-a-customizable-lego-compatible-back",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/draft-quaddle/petoi_quaddle_1.jpg"
+      },
+      {
+        "brief": "**Linkind 推出 Matter 兼容的常驻户外灯带**，主打一次安装全年不用再爬梯子换节日装饰，用手机改灯效只需几秒。把「季节性装饰」变成常驻智能硬件，是智能家居里少见的强场景化切口。",
+        "url": "https://www.yankodesign.com/2026/10/28/id-happily-swap-my-december-ladder-ritual-for-linkinds-matter-compatible-smart-permanent-outdoor-lights/?utm_source=rss&utm_medium=rss&utm_campaign=id-happily-swap-my-december-ladder-ritual-for-linkinds-matter-compatible-smart-permanent-outdoor-lights",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/id-happily-swap-my-december-ladder-ritual-for-these-matter-compatible-smart-permanent-outdoor-lights/Linkind-Halloween-Lighting-Sale-hero.jpg"
+      },
+      {
+        "brief": "**电子纤维把触摸屏织进袖子**，且经得起机洗。把触控交互从玻璃面板迁移到可穿戴织物，是 3C 配件与穿戴硬件交界处最值得盯的形态实验，一旦成熟会重写「屏幕」的定义。",
+        "url": "https://www.reddit.com/r/gadgets/comments/1xhzhw2/electronic_fibers_weave_touchscreen_into_sleeve/",
+        "source": "Reddit",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": ""
+      }
+    ]
+  },
+  {
     "date": "2026-10-28",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://techcrunch.com/wp-content/uploads/2026/09/Levoit-Vital-Pet-Pro_7.jpg?w=1200"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-29",
-    "items": [
-      {
-        "brief": "**Nothing Headphone 1 Pro** 正式发布，采用**三单元驱动**（40mm 动圈 + 精密动圈 + xMEMS 硅振膜高音），10 麦克风 ANC，玻璃与钛金属机身，售价 **399 美元**，较前代涨价 100 美元。Nothing 以透明工业设计切入高端头戴市场，是今年音频配件领域最值得关注的品牌升级动作。",
-        "url": "https://www.androidauthority.com/nothing-headphone-1-pro-launch-price-specs-features-3715645/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/nothing-headphone-1-pro-hero.jpg"
-      },
-      {
-        "brief": "**Pioneer** 以 **SDA-SC600** 正式进入 MagSafe 配件市场，这是一款车载磁吸支架，支持 **Qi2 无线充电**并内置散热风扇。Pioneer 从传统车载音频品牌跨界到 MagSafe 充电配件，对图拉斯车载充电产品线构成直接竞争信号。",
-        "url": "https://9to5mac.com/2026/09/28/pioneer-sda-sc600/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Pioneer-SDA-SC600.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "**Bose** 时隔十余年重新推出有线耳机 **Noise Cancelling Wired Earbuds**，灵感直接来自青少年用户偏好。在无线耳机主导的市场里，Bose 反向押注有线形态，可能预示着年轻用户对「零延迟、免充电」音频配件的需求回潮。",
-        "url": "https://www.wired.com/story/bose-to-release-wired-headphones-after-10-years/",
-        "source": "Wired",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://media.wired.com/photos/6ab70043d3514249479bb32e/191:100/w_1280,c_limit/Bose-NC-Wired-Earbuds_Credit-HR_02-2.jpg"
-      },
-      {
-        "brief": "**Bose** 为 **QuietComfort Ultra Headphones Gen 2**（售价 449 美元）推送固件更新，以 beta 形式加入 **Bluetooth LE Audio 与 Auracast** 支持，成为 Bose 首款支持音频共享技术的旗舰耳机。Auracast 生态的推进会影响未来耳机与充电配件（如充电盒、底座）的联动设计。",
-        "url": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24844791/BoseQCUltra.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Kitchenery** 推出一款厨房无线供电垫，无需插头、电池或线缆即可为厨房电器供电，把无线充电从手机场景延伸到厨房家电。这种「桌面任意位置供电」的形态对充电类产品经理有直接启发——无线供电的下一步可能不是手机，而是整个桌面生态。",
-        "url": "https://www.yankodesign.com/2026/09/28/no-plugs-no-batteries-no-mess-this-futuristic-kitchen-pad-wirelessly-powers-your-appliances/?utm_source=rss&utm_medium=rss&utm_campaign=no-plugs-no-batteries-no-mess-this-futuristic-kitchen-pad-wirelessly-powers-your-appliances",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/draft-kitchenery/Kitchenery-The-Cordless-Kitchen-Ecosystem-06.jpg"
-      },
-      {
-        "brief": "一款**倾斜式 Apple Watch 表带**，通过将表盘向用户倾斜来提升查看和操作的人体工学体验，类似笔记本支架和垂直鼠标的倾斜逻辑。对做智能穿戴配件的团队来说，这是一个低成本、高感知的配件创新方向。",
-        "url": "https://www.yankodesign.com/2026/09/28/genius-tilted-apple-watch-band-makes-the-entire-experience-10x-more-ergonomic/?utm_source=rss&utm_medium=rss&utm_campaign=genius-tilted-apple-watch-band-makes-the-entire-experience-10x-more-ergonomic",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/this-clever-tilted-apple-watch-band-makes-the-entire-experience-10x-more-ergonomic/tilted_apple_watch_band_1.jpeg"
-      },
-      {
-        "brief": "**Ayaneo** 推出 **Konkr Pocket Block** 掌机，把 Game Boy 竖版形态缩小到极致，售价仅 **89 美元**，已开启预售并将于 **10 月**开始发货。极低价格 + 复古形态的组合在掌机配件和便携硬件市场有很强的传播潜力。",
-        "url": "https://www.engadget.com/2271129/ayaneo-shrank-down-the-game-boy-form-factor-with-its-latest-89-handheld/",
-        "source": "Engadget",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.engadget.com/img/gallery/ayaneo-shrank-down-the-game-boy-form-factor-with-its-latest-89-handheld/l-intro-1790620236.jpg"
       }
     ]
   }

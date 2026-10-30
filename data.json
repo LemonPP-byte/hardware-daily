@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-30",
+    "items": [
+      {
+        "brief": "**小米开放式耳机**用五单元驱动+珠宝化外观，把TWS从工具做成配饰。开放式+多单元是今年增长最快的耳机形态，小米用设计感切入，直接对标华为FreeClip与Bose Ultra Open，对图拉斯音频配件线是形态参考。",
+        "url": "https://www.yankodesign.com/2026/10/29/these-xiaomi-open-earbuds-have-five-drivers-and-look-like-tech-jewelry/?utm_source=rss&utm_medium=rss&utm_campaign=these-xiaomi-open-earbuds-have-five-drivers-and-look-like-tech-jewelry",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/xiaomi_openwear_stereo_pro_1.jpeg"
+      },
+      {
+        "brief": "**Sony ELF-MN1** 是放在桌面上的裸眼3D LCD，专为虚拟手办、动漫角色与数字内容设计，无需眼镜即可观看立体形象。索尼把显示技术下放到桌面级小众场景，是3C配件与内容生态结合的新形态，值得关注其定价与内容生态。",
+        "url": "https://www.yankodesign.com/2026/10/29/sony-puts-a-glass-free-3d-anime-display-on-your-desk-with-elf-mn1/?utm_source=rss&utm_medium=rss&utm_campaign=sony-puts-a-glass-free-3d-anime-display-on-your-desk-with-elf-mn1",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/sony-puts-a-glass-free-3d-anime-display-on-your-desk-with-elf-mn1/Sony-ELF-MN1-3D-Display-8.jpg"
+      },
+      {
+        "brief": "**一加 Ace 7 / Ace 7 Pro** 在机身内塞入散热风扇并配 185Hz 屏幕，主打长时间游戏不降频。手机内置主动散热是今年性能机的关键差异化，对图拉斯散热器与手机壳品类构成「被内置替代」的潜在威胁，需重点跟踪。",
+        "url": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_announced_in_china_with_cooling_fans_and_185hz_displays-news-75273.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-series-offic/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Ultrahuman Ring Pro** 正式在美国线上线下同步开卖，官网用码后价格从 479 美元降至 431.10 美元，并已进入 Best Buy、Target、Walmart 渠道。智能戒指赛道在 Oura 诉讼压力下仍加速铺货，是AI可穿戴最接近大众消费的品类。",
+        "url": "https://www.gsmarena.com/the_ultrahuman_ring_pro_is_on_sale_across_the_us_online_and_in_stores-news-75260.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/ultrahuman-ring-pro-in-stores-in-the-us/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Amazon 一次性刷新五款 Alexa 硬件**：Echo Show 16 智能屏、Echo Dot、带摄像头的 Echo Studio、Echo Time 智能钟与 Alexa Photo Frame，全部搭载可多轮追问的 Alexa+。智能家居入口硬件集体换代，是观察语音助手硬件形态演进的重要窗口。",
+        "url": "https://www.gsmarena.com/amazon_launches_the_echo_show_16_echo_time_alexa_photo_frame_and_new_echo_speakers-news-75267.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/amazon-new-echo-devices-with-alexa/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "一款**内置照明的皮革手提包**，拉开拉链后包内自带光源，方便在深色内衬里翻找钥匙和 AirPods。把「包内找东西」这个高频痛点用一颗灯解决，是3C配件思路外溢到时尚单品的典型案例，对便携照明与收纳类配件有启发。",
+        "url": "https://www.yankodesign.com/2026/10/29/this-leather-handbag-has-a-built-in-light-so-you-can-easily-find-your-keys-and-airpods/?utm_source=rss&utm_medium=rss&utm_campaign=this-leather-handbag-has-a-built-in-light-so-you-can-easily-find-your-keys-and-airpods",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/this-leather-handbag-has-its-own-built-in-light-so-you-can-easily-find-your-keys-and-airpods/Untitled.jpg"
+      },
+      {
+        "brief": "中国工具品牌 **Arrowmax 的电动螺丝刀**能自动识别螺丝类型与尺寸，省去「先找对批头再拧」的步骤，解决批头选错的反复试错。把识别能力做进手动工具，是3C配件与工具交界处的实用创新，对多功能配件产品定义有参考价值。",
+        "url": "https://www.core77.com/posts/145760/An-Electric-Screwdriver-That-Identifies-Which-Bit-You-Need",
+        "source": "Core77",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://s3files.core77.com/blog/images/1855339_81_145760_rHAj96yow.jpeg"
+      }
+    ]
+  },
+  {
     "date": "2026-10-29",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/09/your-old-barbie-dolls-actually-become-speakers-and-power-banks/gomi-00.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-30",
-    "items": [
-      {
-        "brief": "OpenAI 在 DevDay 发布 **Dots**，对标 Meta Muse 的常驻 AI 代理，用可爱可定制头像代表，能在后台跨应用持续执行多步任务并学习用户偏好。这是 OpenAI 首次把 AI 代理做成有形象、有陪伴感的消费级入口，对做 AI 硬件与配件生态的团队是重要风向标。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "iFixit 拆解 **AirPods 5**，发现苹果首次带来真正意义上的可维修性改进，虽然幅度很小但方向明确。对做耳机配件、保护类与充电周边的人来说，可维修性提升意味着拆机结构与内部布局变化，可能影响后续配件设计空间。",
-        "url": "https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement/",
-        "source": "9to5Mac",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods-5-teardown.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "Apple 公布 **iPhone Duo** 预购流程启动时间：正式预购从 10 月 16 日（周五）开始，并提前开放早期准备通道。折叠形态 iPhone 的上市节奏直接决定手机壳、支架、磁吸配件等周边品类的开模与备货窗口，是配件厂商必须盯紧的时间点。",
-        "url": "https://9to5mac.com/2026/09/29/apple-announces-when-you-can-start-the-iphone-duo-pre-order-process/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "Yanko Design 报道 **Meta 把 AI 做成电子宠物**，Muse 以 Tamagotchi 式可爱形象出现，试图用情感化外观降低普通人对 AI 的心理门槛。这种「AI 陪伴 + 挂饰形态」的思路正在被头部玩家验证，对做 AI 硬件与随身配件的团队有直接参考价值。",
-        "url": "https://www.yankodesign.com/2026/09/29/meta-just-turned-its-ai-into-a-tamagotchi-and-its-pretty-cute/?utm_source=rss&utm_medium=rss&utm_campaign=meta-just-turned-its-ai-into-a-tamagotchi-and-its-pretty-cute",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/meta-just-turned-its-ai-into-a-tamagotchi-and-its-pretty-cute/meta-charm-03.jpg"
-      },
-      {
-        "brief": "PNOĒ 推出更简洁的 **自助式呼吸分析面罩**，将于 10 月 1 日上市，让健身房用户无需专业操作员即可在 8 分钟内测得 VO₂ max 等代谢指标。把实验室级健康检测做成消费级可自助设备，是智能健康硬件值得关注的新方向。",
-        "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/PNOE-2.0.png?resize=1200,675"
-      },
-      {
-        "brief": "**Fairbuds 2** 终于公布价格与上市日期，这款主打模块化可维修的真无线耳机即将开卖。模块化设计让耳机可自行更换电池与部件，直击 TWS 一次性消费痛点，对做耳机配件与充电周边的品牌是值得研究的产品思路。",
-        "url": "https://www.androidauthority.com/fairbuds-2-launch-date-3716894/",
-        "source": "Android Authority",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2024/04/Fairphone-Fairbuds_3.jpg"
-      },
-      {
-        "brief": "Levoit 推出专为养宠家庭设计的 **新空气净化器**，售价 **189.99 美元**，采用三段式过滤系统并针对宠物毛发与「湿狗味」做定向优化。相比通用净化器更聚焦单一痛点场景，这种「场景专用化」硬件思路对做智能家居周边的团队有启发。",
-        "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Levoit-Vital-Pet-Pro_7.jpg?w=1200"
       }
     ]
   }

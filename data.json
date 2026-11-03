@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-03",
+    "items": [
+      {
+        "brief": "**Jackery Explorer 100D** 把户外电源压缩成 96Wh 的方块机身，却提供 **140W USB-C** 输出，外形像复古收音机。户外电源小型化+高功率 USB-C 直充是充电品类的新方向，与图拉斯充电产品线高度相关。",
+        "url": "https://www.yankodesign.com/2026/11/02/jackery-shrank-its-power-station-into-a-96wh-cube-with-140w-usb-c/?utm_source=rss&utm_medium=rss&utm_campaign=jackery-shrank-its-power-station-into-a-96wh-cube-with-140w-usb-c",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/657334/jackery_e100d_1.jpg"
+      },
+      {
+        "brief": "三星 **Galaxy S27+** 通过多项认证，确认支持 **45W 充电**（15V/3A），覆盖全球、韩国等多个版本。三星旗舰充电功率的走向直接影响第三方充电配件的规格规划。",
+        "url": "https://www.gsmarena.com/samsung_galaxy_s27_certification_reveals_its_charging_prowess-news-75310.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-s27-plus-new-certification/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Burga** 手机配件促销，订单满 50 美元立减 25 美元，覆盖手机壳、磁吸环、Apple Watch 表带与充电宝。手机壳+磁吸配件组合打法值得关注，是 3C 配件品牌的典型促销策略。",
+        "url": "https://www.wired.com/story/burga-sale-november-2026/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://media.wired.com/photos/6ae8f6cf1d7504f7ba2ae9cb/191:100/w_1280,c_limit/Burga%20Phone%20Case%20Sale%20112026%20top%20art%20SOURCE%20Shop.jpg"
+      },
+      {
+        "brief": "**Voxel** 家用机器人主打「不像人」的造型，用芥末黄机身和弯曲腿部完成整理家务的任务。家用具身智能硬件正从人形转向更亲和的功能形态，是 AI 硬件值得观察的方向。",
+        "url": "https://www.yankodesign.com/2026/11/02/voxel-the-robot-wants-to-tidy-your-home-without-looking-human/?utm_source=rss&utm_medium=rss&utm_campaign=voxel-the-robot-wants-to-tidy-your-home-without-looking-human",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/voxel-the-robot-wants-to-tidy-your-home-without-looking-human/voxel-01.jpg"
+      },
+      {
+        "brief": "**Hero Keyboard** 把一台 Windows 11 电脑塞进键盘，并借用平板作为屏幕，省去同时携带平板和笔记本的两块屏。这种「键盘即主机」的形态对 3C 配件与桌面硬件边界是值得关注的新思路。",
+        "url": "https://www.yankodesign.com/2026/11/02/hero-keyboard-packs-a-windows-11-pc-and-borrows-your-tablets-screen/?utm_source=rss&utm_medium=rss&utm_campaign=hero-keyboard-packs-a-windows-11-pc-and-borrows-your-tablets-screen",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/hero-keyboard-packs-a-windows-11-pc-and-borrows-your-tablets-screen/hero-keyboard-08.jpg"
+      },
+      {
+        "brief": "**NoxTi** 钛合金 EDC 手电筒主打数十年不用充电的自发光，用氚气管替代电池，把「永不断电」做成随身照明卖点。EDC 照明与充电替代方案是配件品类里的小众但高粘性方向。",
+        "url": "https://www.yankodesign.com/2026/11/02/hal-jordan-has-to-recharge-his-ring-but-the-noxti-titanium-edc-lantern-glows-for-decades/?utm_source=rss&utm_medium=rss&utm_campaign=hal-jordan-has-to-recharge-his-ring-but-the-noxti-titanium-edc-lantern-glows-for-decades",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/10/hal-jordan-has-to-recharge-his-ring-but-the-noxti-titanium-edc-lantern-glows-for-decades/NoxTi-TRI-Ti-Tritium-Keychain-New-Glow-Outshine-the-Night-hero.jpg"
+      },
+      {
+        "brief": "Engadget 讨论 **机场 USB 口充电是否安全**，指出随机 USB 充电口存在风险但概率极小，并给出防护方法。这类消费者充电安全话题直接关联充电类产品的信任卖点与营销切入点。",
+        "url": "https://www.engadget.com/2279347/is-it-safe-to-charge-phone-with-airport-usb-port/",
+        "source": "Engadget",
+        "score": 2,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.engadget.com/img/gallery/is-it-actually-safe-to-charge-your-iphone-at-airport-usb-ports/l-intro-1791316236.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-11-02",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/09/draft-edc-style-gadgets-designed-to-get-you-through-hurricane-season/5_edc_hurricane_yanko_design_01.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-04",
-    "items": [
-      {
-        "brief": "**StillFrame 耳机**主打「一天切换四种工作模式」，针对长时间坐在屏幕前的人群，试图用形态/功能切换解决工作场景下的音频需求。对做 3C 配件与音频形态创新的团队来说，这种「场景化多功能耳机」思路值得关注。",
-        "url": "https://www.yankodesign.com/2026/10/03/4-times-a-day-the-stillframe-headphones-switch-jobs-for-you/?utm_source=rss&utm_medium=rss&utm_campaign=4-times-a-day-the-stillframe-headphones-switch-jobs-for-you",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/4-times-a-day-the-stillframe-headphones-switch-jobs-for-you/stillframe-0.jpg"
-      },
-      {
-        "brief": "vivo 在印度预告 **X Fold6 折叠屏**与 **MR 头显**将于 10 月 6 日发布，头部手机厂商正式把 MR 头显纳入产品线。对图拉斯而言，这意味着折叠屏配件与 XR 周边可能迎来新的需求窗口。",
-        "url": "https://www.gsmarena.com/vivo_x_fold6_vivo_vision_india_launch_teaser-news-74891.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x-fold6-india-launch-teaser/-184x111/gsmarena_001.jpg"
-      },
-      {
-        "brief": "Amazon 新款 **Fire TV Stick 4K**更薄更快，最大升级是重新设计的遥控器，暗光下更易操作。作为成熟品牌的配件级迭代，说明「遥控器手感」这类细节仍能成为购买理由，对做配件体验的团队有参考价值。",
-        "url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/fire-tv-stick-4k-ftv-remote-hero-amazonnews-ck92916.jpg?resize=1200,675"
-      },
-      {
-        "brief": "TDK 公布用于智能眼镜的**直接视网膜投影显示**方案，采用 meta-optic 反射镜实现，HN 热度 21。这是 AI 眼镜显示路径上的新硬件方向，可能影响未来智能眼镜的形态与光学供应链。",
-        "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
-        "source": "Hacker News",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": ""
-      },
-      {
-        "brief": "Meta 开源 **Muse AI 硬件代码**，允许用户自制搭载 Muse 智能体的设备，官方示范包括彩色 E Ink 提醒屏、HDMI 棒、小型触屏设备等。这是 AI 硬件「DIY 生态」的明确信号，值得关注其对 AI 配件形态的启发。",
-        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": true,
-        "tier": "AI 硬件",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**MR.GADGET** 推出一款 AirTag 大小的 EDC 打火机，把 Zippo 式火焰塞进 1.4 英寸高的钛合金机身。虽非充电品类，但其「极致小型化 + 金属质感」的配件思路，对做便携 3C 配件有形态启发。",
-        "url": "https://www.yankodesign.com/2026/10/02/airtag-sized-edc-lighter-packs-a-zippo-style-flame-into-a-1-4-inch-tall-titanium-body/?utm_source=rss&utm_medium=rss&utm_campaign=airtag-sized-edc-lighter-packs-a-zippo-style-flame-into-a-1-4-inch-tall-titanium-body",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/pyra_micro_tatium_lighter_1.jpg"
-      },
-      {
-        "brief": "Core77 报道一款**手机外接阅读屏**，通过附加硬件限制手机使用，帮用户摆脱刷手机、专注阅读。这类「反手机」配件正在形成小品类，对做手机周边与场景化配件的团队是一个可观察的新方向。",
-        "url": "https://www.core77.com/posts/145541/Hell-in-a-Handbasket-An-Add-On-Reading-Screen-for-Your-Phone-So-You-Dont-Have-to-Develop-Willpower",
-        "source": "Core77",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://s3files.core77.com/blog/images/1852391_81_145541_ec35ghMz9.jpg"
       }
     ]
   }

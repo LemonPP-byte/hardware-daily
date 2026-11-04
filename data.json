@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-04",
+    "items": [
+      {
+        "brief": "荣耀正在推进 **14000mAh 级手机电池**量产，爆料称容量在 14000-15000mAh 之间，官方口径可支撑约一周续航。手机电池容量跃升会直接改变用户对**充电宝与快充配件**的需求结构，是充电品类必须盯住的变量。",
+        "url": "https://www.gsmarena.com/honors_14000mah_smartphone_battery_can_reportedly_last_a_week-news-75326.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-14000mah-battery-phone-leak-new/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "iPhone Duo 因品控与屏幕问题吓退部分买家，韩国报告称 **Galaxy Z Fold8** 一周内销量上涨超 20%，此前 Duo 发布时也曾带来 10% 周环比增长。折叠屏格局的此消彼长，直接影响**折叠机配件**（壳、支架、磁吸）的选品节奏。",
+        "url": "https://www.gsmarena.com/iphone_duos_woes_are_a_boon_for_samsung_as_galaxy_z_fold8_sales_go_up_by_20_in_a_week-news-75325.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/galaxy-z-fold8-sales-pick-up-after-iphone-duo-troubles/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Wired 评测 **AirPods 5**：苹果首次把 ANC 下放到全系 AirPods，但结论是「比之前好，仍不及 Pro」。入门款主动降噪普及会拉高消费者对**便携音频与耳机配件**的预期，值得关注其定价与佩戴形态。",
+        "url": "https://www.wired.com/review/apple-airpods-5/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://media.wired.com/photos/6ae7ceda7ef4ba44e2d4570c/191:100/w_1280,c_limit/New%20AirPods%205%20Review%20112026%20top%20art%20SOURCE%20Amazon.jpg"
+      },
+      {
+        "brief": "一款**肌电读取眼镜**用肌肉信号实现「不说话也能输入」，被称可能是目前最好的文字输入方案。把**AI 眼镜的交互**从语音/触控转向肌电，是 AI 可穿戴最值得押注的形态创新之一。",
+        "url": "https://www.androidauthority.com/glasses-mouth-input-3731345/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/subvocal-speech-muscles.jpg"
+      },
+      {
+        "brief": "**Stringman** 是一台 800 美元的开源房间级夹爪机器人，HN 热度 402、148 条评论。开源+低价把具身智能从实验室拉到极客桌面，是观察**家用机器人**成本曲线与社区购买意愿的好样本。",
+        "url": "https://neufangled.com/",
+        "source": "Hacker News",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": ""
+      },
+      {
+        "brief": "**Flipper One** 开启 Kickstarter 预热与预售，HN 热度 177、79 条评论。作为极客向多功能硬件的新一代产品，它的众筹表现能反映**小众硬核配件**的付费意愿与形态接受度。",
+        "url": "https://flipper.net/pages/flipper-one",
+        "source": "Hacker News",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "http://flipper.net/cdn/shop/files/page_flipper-one_og-image.png?v=1785249769"
+      },
+      {
+        "brief": "雷蛇推出 **EVANGELION EVA-01 联名外设套装**，以紫绿初号机配色覆盖整套游戏桌面装备。IP 联名把外设从参数竞争拉向**情绪与收藏价值**，是 3C 配件提升溢价与话题度的典型打法。",
+        "url": "https://www.yankodesign.com/2026/11/03/razers-evangelion-eva-01-collection-turns-your-gaming-setup-into-an-anime-inspired-battle-station/?utm_source=rss&utm_medium=rss&utm_campaign=razers-evangelion-eva-01-collection-turns-your-gaming-setup-into-an-anime-inspired-battle-station",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/razers-evangelion-eva-01-collection-turns-a-gaming-setup-into-an-anime-inspired-battle-station/Razer-x-Evangelion-EVA-01-Collection-2.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-11-03",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/10/wubens-prime-day-fall-2026-sale-has-a-different-light-for-every-kind-of-carry/Wuben-E2-hero.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-05",
-    "items": [
-      {
-        "brief": "**Meta Glasses Nova（Gen 3）**评测出炉，Wired 直言「没什么新东西」——电池和麦克风略有提升，摄像头保留。作为 Ray-Ban 联名智能眼镜的第三代，头部玩家迭代放缓值得图拉斯关注 AI 眼镜配件窗口。",
-        "url": "https://www.wired.com/review/meta-glasses-gen-3/",
-        "source": "Wired",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://media.wired.com/photos/6ac01e4e87049b21d32345fe/191:100/w_1280,c_limit/Meta%20Glasses%20Nova%20Tonal-resized.jpg"
-      },
-      {
-        "brief": "**Fitbit Edge** 真机图泄露，定位介于 Pixel Watch 与 Fitbit Air 之间的中端健身手环，配小屏可显示小组件。Google 在可穿戴产品线的重新梳理，直接影响智能穿戴配件生态。",
-        "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**OhSnap Wallet 2** 磁吸杠杆式卡包上手，可与其 Snap Grip 支架叠放，无需工具模块化拆装。The Verge 编辑称其为「贴在手机上最酷的钱包」，MagSafe 配件形态创新值得图拉斯参考。",
-        "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Soulog Sense** 是一款 AI 语音记录器，不仅录音还能理解并整理对话内容，内置个人上下文系统。AI 硬件从「记录」走向「理解与组织」，是 AI 可穿戴的新方向。",
-        "url": "https://www.androidauthority.com/soulog-sense-ai-voice-recorder-3716740/",
-        "source": "Android Authority",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Soulog-sense-featured.jpg"
-      },
-      {
-        "brief": "Dezeen 播客讨论 **Meta Muse Charm** AI 设备，标题直言「我们害怕 Meta 这款可爱的 AI 设备」。AI 硬件采用可爱化设计引发设计界警惕，是 AI 陪伴设备形态与心理影响的重要讨论。",
-        "url": "https://www.dezeen.com/2026/10/02/muse-ai-charm-new-york-jails-dezeen-weekly-podcast/",
-        "source": "Dezeen",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "http://static.dezeen.com/uploads/2026/10/dezeen-weekly-podcast-2-october-2026-sq-411x411.jpg"
-      },
-      {
-        "brief": "一款 **USB-C 线**被设计成工地延长线的样子，Yanko Design 称其「好笑但实用」。USB-C 线材外观同质化严重，这种反差设计思路对图拉斯线材产品差异化有启发。",
-        "url": "https://www.yankodesign.com/2026/10/04/hilariously-practical-usb-c-cable-looks-exactly-like-a-construction-site-extension-cord/?utm_source=rss&utm_medium=rss&utm_campaign=hilariously-practical-usb-c-cable-looks-exactly-like-a-construction-site-extension-cord",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/652095/matty_extension_usb_cable_1.jpg"
-      },
-      {
-        "brief": "Yanko Design 盘点 **5 款 EDC 风格飓风季应急小工具**，聚焦断电场景下的实用装备。应急场景下的充电与照明配件需求，是图拉斯充电类产品可拓展的使用场景。",
-        "url": "https://www.yankodesign.com/2026/10/04/5-best-edc-style-gadgets-designed-to-get-you-through-hurricane-season/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-edc-style-gadgets-designed-to-get-you-through-hurricane-season",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/draft-edc-style-gadgets-designed-to-get-you-through-hurricane-season/5_edc_hurricane_yanko_design_01.jpg"
       }
     ]
   }

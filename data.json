@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-09",
+    "items": [
+      {
+        "brief": "**Motorola Signature 27** 正式发布，塞进 **7000mAh 硅碳电池**并支持 90W 有线 + 50W 无线充电，配 6.78 英寸 120Hz 串联 OLED、峰值亮度最高 12000 尼特。大电池加高功率无线充的组合，直接给充电配件厂商划出新的功率与散热需求线。",
+        "url": "https://www.gsmarena.com/motorola_signature_27_is_official_honor_magic9_pro_max_at_hq_week_45_in_review-news-75388.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/week-45-in-review/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Snap 的 **Specs** 今秋正式走向市场，TechCrunch 上手称其虽然依旧贵得离谱，但佩戴舒适度比前几代大幅改善。AR 眼镜从概念走向可购买，是智能穿戴配件生态（镜腿、充电盒、鼻托）值得提前卡位的信号。",
+        "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675"
+      },
+      {
+        "brief": "**Optoma** 推出一台 **599 美元**的 4K 投影仪，可投出 150 英寸画面，价格被形容为「一台 Android 手机的钱」。低价 4K 大屏把客厅影音硬件的门槛再压低一档，也带出配套支架、便携电源等配件机会。",
+        "url": "https://www.yankodesign.com/2026/11/08/optomas-599-4k-projector-casts-a-150-inch-screen-for-the-price-of-an-android-phone/?utm_source=rss&utm_medium=rss&utm_campaign=optomas-599-4k-projector-casts-a-150-inch-screen-for-the-price-of-an-android-phone",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/optomas-599-4k-projector-casts-a-150-inch-screen-for-the-price-of-an-android-phone/optoma_pk31_1.jpeg"
+      },
+      {
+        "brief": "iOS 27.3 beta 代码中出现 **「Conversational Apps」** 分类标记，暗示 Apple 可能为其智能家居中枢 **HomeView** 引入 ChatGPT、Claude 等聊天机器人支持。智能家居中枢的 AI 化会重塑家庭场景下的语音交互与硬件形态。",
+        "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Apple Watch 的 **Audio Intelligence** 功能进入 beta 测试，可回听并总结对话内容、辅助记笔记。把 AI 记忆能力塞进腕上设备，是智能穿戴从健康监测向「个人助理」延伸的关键一步。",
+        "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
+      },
+      {
+        "brief": "一款 **光充电 E Ink 相框** 主打把照片从手机里「解放」出来，靠环境光供电维持显示，无需频繁充电。电子墨水 + 光能取电的组合，为桌面 3C 配件提供了低功耗、免布线的产品思路。",
+        "url": "https://www.yankodesign.com/2026/11/07/this-light-charging-e-ink-frame-gives-your-photos-a-home-beyond-your-phone/?utm_source=rss&utm_medium=rss&utm_campaign=this-light-charging-e-ink-frame-gives-your-photos-a-home-beyond-your-phone",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/this-light-charging-e-ink-frame-gives-your-photos-a-home-beyond-your-phone/inkanva-light-charging-e-ink-photo-frame-01.jpg"
+      },
+      {
+        "brief": "Wired 编辑称 **Wandrd 磁吸相机背带** 已成为自己的新宠配件，用磁吸结构解决相机背带拆装与切换的麻烦。磁吸连接在相机配件上的落地，与 MagSafe 生态的磁吸思路同源，值得配件厂商关注。",
+        "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://media.wired.com/photos/6aee3d12f8a94dfe58ce6d81/191:100/w_1280,c_limit/SM_MagneticCameraStrap30mm_WANDRD%20SOURCE%20Wandrd.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-11-08",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/09/a-55-camera-secretly-disguised-as-a-roll-of-35mm-film/analog-capsule-00.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-10",
-    "items": [
-      {
-        "brief": "OnePlus 想把一台**微型空调**贴在游戏手机背面，延续 MagSafe 让手机背面成为「黄金地段」的思路，把散热从被动变主动。对图拉斯而言，这是**手机散热器**品类从外挂配件向手机原生集成演进的信号，直接关系到散热背夹的产品定义与差异化方向。",
-        "url": "https://www.yankodesign.com/2026/10/09/oneplus-wants-to-stick-a-tiny-air-conditioner-on-the-back-of-its-gaming-phone/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-wants-to-stick-a-tiny-air-conditioner-on-the-back-of-its-gaming-phone",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/oneplus_magnetic_ice_card_1.jpg"
-      },
-      {
-        "brief": "Nothing 旗下 **CMF 将于 10 月 12 日（下周一）发布两款新品**：CMF Speaker S 与 CMF Speaker M，同时 CMF 正转型为独立的印度公司。作为以设计驱动、性价比著称的品牌，CMF 切入便携音频会进一步搅动 3C 配件与音频配件的设计竞争。",
-        "url": "https://www.gsmarena.com/nothings_cmf_is_launching_new_products_next_week-news-74987.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/cmf-speaker-teaser/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "Google 在社交平台预热新款 **Fitbit Edge 可穿戴设备**，确认将于 **10 月 12 日**正式揭晓，此前已有大量泄露信息。Google 亲自下场做健身手环，会挤压中端智能穿戴市场，也影响配件生态（表带、充电底座）的机会窗口。",
-        "url": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
-        "source": "Engadget",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.engadget.com/img/gallery/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/l-intro-1791584869.jpg"
-      },
-      {
-        "brief": "Natura 推出 **99 美元的 Interface 智能戒指**，按下手指即可召唤 AI 代理完成任务、记录想法并控制设备，同时兼具健康追踪功能。把 AI 代理入口压缩到戒指这一最小可穿戴形态，是 AI 硬件从「戴在耳朵/脖子」向「戴在手指」延伸的重要信号。",
-        "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": true,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491"
-      },
-      {
-        "brief": "19 岁创始人创立的 Ghost 获 1100 万美元融资，首款产品 **Core 是一台售价 3,499 美元、专为个人 AI 代理设计的计算机**，可代表用户执行操作。这是「AI 原生硬件」在 PC 形态上的激进尝试，定价与定位都值得关注其对高端 AI 终端市场的试探。",
-        "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": true,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803"
-      },
-      {
-        "brief": "Spigen 推出 **Steam Controller 充电底座支架**，把充电与收纳合二为一。在掌机与手柄配件同质化的当下，这类「充电+支架」二合一形态正是图拉斯充电类与支架类产品可以借鉴的交叉品类思路。",
-        "url": "https://www.reddit.com/r/gadgets/comments/1wzszn7/spigen_launches_charging_dock_stand_for_steam/",
-        "source": "Reddit",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": ""
-      },
-      {
-        "brief": "Onvis 发布新款 **Matter over Thread 户外智能插座**，支持实时能耗监测与 IP65 防水，可原生接入 Apple Home 无需额外网关。智能家居配件正从「能用」走向「协议原生+场景细分」，户外插座是充电类配件向智能家居延伸的可行方向。",
-        "url": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
-        "source": "9to5Mac",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/plug.jpg?quality=82&#038;strip=all&#038;w=1600"
       }
     ]
   }

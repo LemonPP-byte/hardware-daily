@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-10",
+    "items": [
+      {
+        "brief": "**Intricuit Magic Screen** 用 MacBook 屏幕周围的磁吸结构，把任何 MacBook 变成支持手写的触屏，售价 **179 美元**。对 3C 配件厂商而言，这是「用磁吸+外设把存量设备升级」的典型思路，与图拉斯磁吸配件能力高度契合。",
+        "url": "https://www.yankodesign.com/2026/11/09/the-179-magic-screen-gives-any-macbook-a-touchscreen-with-stylus-support/?utm_source=rss&utm_medium=rss&utm_campaign=the-179-magic-screen-gives-any-macbook-a-touchscreen-with-stylus-support",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/the-179-magic-screen-gives-any-macbook-a-touchscreen-with-stylus-support/intricuit_magic_screen_1.jpeg"
+      },
+      {
+        "brief": "**Baseus Picogo AM71** 磁吸充电宝在亚马逊降至 **49.99 美元**，为今年最低价，主打 10000mAh 超薄机身。倍思在磁吸充电宝上的价格战与形态迭代，是图拉斯充电类产品最直接的竞品信号。",
+        "url": "https://www.androidauthority.com/baseus-picogo-am71-magnetic-power-bank-deal-3733045/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": ""
+      },
+      {
+        "brief": "三星为 **Galaxy Buds4 Pro** 推出与歌手 Nina Chuba 联名的限量版，全球仅 **2000 台**，售价维持 **249 欧元** 不加价。限量联名是成熟音频配件拉高话题度的常用打法，值得关注其营销与配色策略。",
+        "url": "https://www.gsmarena.com/samsung_made_limited_edition_galaxy_buds4_pro_with_nina_chuba-news-75409.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-buds4-pro-nina-chuba-limited-edition/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Aina 智能戒指** 把屏幕、摇杆和麦克风塞进戒指，可语音操控 AI agent、接电话、在 Mac 上听写笔记。把 AI 交互从手机搬到手指上的形态，是 AI 可穿戴里少见的「有屏+有操控」方案。",
+        "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+        "source": "TechCrunch",
+        "score": 4,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805"
+      },
+      {
+        "brief": "Snap 的 **Specs** 今秋正式走向市场，TechCrunch 上手称其虽然依旧贵得离谱，但佩戴舒适度比前几代大幅改善。AR 眼镜从概念走向可穿戴体验优化，对智能硬件配件形态有参考价值。",
+        "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": true,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675"
+      },
+      {
+        "brief": "**8BitDo** 推出 **40 美元** 的 Xbox 有线手柄，带耳机孔与防漂移摇杆。在配件普遍涨价的背景下，用低价+耐用性切入游戏外设，是性价比型 3C 配件的典型打法。",
+        "url": "https://www.yankodesign.com/2026/11/09/8bitdos-40-xbox-controller-has-a-cable-a-headphone-jack-and-drift-resistant-sticks/?utm_source=rss&utm_medium=rss&utm_campaign=8bitdos-40-xbox-controller-has-a-cable-a-headphone-jack-and-drift-resistant-sticks",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/658457/8bitdo_ultimate_3c_wired_controller_1.jpg"
+      },
+      {
+        "brief": "Engadget 提醒消费者**别买还在用 micro USB 的数码产品**，指出 USB-C 已基本完成替代。对充电与配件厂商而言，这是接口标准收敛的明确信号，直接影响线材与充电头的产品规划。",
+        "url": "https://www.engadget.com/2307748/why-avoid-buying-micro-usb-gadgets/",
+        "source": "Engadget",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.engadget.com/img/gallery/why-you-probably-shouldnt-buy-gadgets-with-micro-usb-ports/l-intro-1793654155.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-11-09",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://fdn.gsmarena.com/imgroot/news/26/10/huawei-watch-d3-ifr/-184x111/gsmarena_000.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-11",
-    "items": [
-      {
-        "brief": "Reddit 硬件社区热议「**为什么到现在才有人做磁吸 USB-C 接口**」，直指充电线连接体验的长期痛点。磁吸方案能避免插拔磨损、单手盲插，与图拉斯充电线、MagSafe 配件品类高度相关，是值得深挖的产品形态机会。",
-        "url": "https://www.reddit.com/r/hardware/comments/1x2c5g2/why_did_it_take_so_long_for_someone_to_make_a/",
-        "source": "Reddit",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": ""
-      },
-      {
-        "brief": "**Xiaomi Watch S5** 评测出炉，€150 定价、功能丰富且外观进一步精修，被评价为比前代更漂亮、更值得买。小米在平价智能穿戴上的持续迭代，对图拉斯智能硬件与配件生态有直接参考价值。",
-        "url": "https://www.gsmarena.com/xiaomi_watch_s5_review-news-73952.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/xiaomi-watch-s5-review/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**Oppo Find X10 Pro Max 哈苏长焦增距镜套装**开箱上手，套装含增距镜头、**MagSafe 磁吸手机壳**、镜头安装件等六件。手机摄影配件走向专业化、模块化，磁吸生态再次成为配件创新的关键接口。",
-        "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_hasselblad_teleconverter_kit_unboxing_and_handson-news-74979.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-pro-max-hasselblad-tele-kit/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**Q8botOne** 是一款售价 **599 美元**、能放在桌面上的机器狗，采用类似乐高机械组的结构，把核心电子件集中在中枢，摆脱传统机器狗满身走线的形态。桌面级具身智能硬件正在降低门槛，值得关注其交互与可玩性。",
-        "url": "https://www.yankodesign.com/2026/10/10/a-599-robot-dog-that-fits-on-your-desk-and-works-like-lego-technic/?utm_source=rss&utm_medium=rss&utm_campaign=a-599-robot-dog-that-fits-on-your-desk-and-works-like-lego-technic",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/a-599-robot-dog-that-fits-on-your-desk-and-works-like-lego-technic/q8botone-palm-sized-quadruped-robot-03.jpg"
-      },
-      {
-        "brief": "**Natura Interface** 智能戒指售价 **99 美元**，按下手指即可召唤 AI 代理完成任务、记录想法并控制设备，同时兼具健康追踪功能。低价 AI 可穿戴形态对智能戒指品类是重要变量，但该产品此前已推送过，需关注是否有新进展。",
-        "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": true,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491"
-      },
-      {
-        "brief": "**Await 相机**售价 **146 美元**，复刻一次性相机体验，每卷仅 **24 张**，让每一次快门都更珍贵。在手机摄影过剩的时代，这种「限制即体验」的复古硬件思路，对配件与影像周边产品有启发。",
-        "url": "https://www.yankodesign.com/2026/10/09/the-146-await-camera-brings-back-the-disposable-with-24-photos-per-roll-so-every-shot-counts/?utm_source=rss&utm_medium=rss&utm_campaign=the-146-await-camera-brings-back-the-disposable-with-24-photos-per-roll-so-every-shot-counts",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/the-146-await-camera-brings-back-the-disposable-with-24-photos-per-roll-so-every-shot-counts/Await-Digital-Ease-Analog-Soul-Camera-for-what-matters-hero.jpg"
-      },
-      {
-        "brief": "一款售价 **55 美元**的相机被伪装成**一卷 35mm 胶卷**，主打隐蔽与复古趣味。这种把数码硬件藏进经典耗材形态的设计，切中 Z 世代对复古物件的猎奇心理，是小型 3C 创新配件的典型样本。",
-        "url": "https://www.yankodesign.com/2026/10/09/a-55-camera-secretly-disguised-as-a-roll-of-35mm-film/?utm_source=rss&utm_medium=rss&utm_campaign=a-55-camera-secretly-disguised-as-a-roll-of-35mm-film",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/09/a-55-camera-secretly-disguised-as-a-roll-of-35mm-film/analog-capsule-00.jpg"
       }
     ]
   }

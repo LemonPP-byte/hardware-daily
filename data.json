@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-12",
+    "items": [
+      {
+        "brief": "**Nothing** CEO Carl Pei 放出首款 **无屏 AI 原生设备**的完整外观：拉丝金属机身、圆角造型，确认下月发布。Nothing 从手机配件跨到 AI 硬件形态，是今年最值得盯的新品类信号。",
+        "url": "https://www.gsmarena.com/heres_your_first_look_at_nothings_upcoming_screenless_ainative_device-news-75439.php",
+        "source": "GSMArena",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/nothing-ai-device-design/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "Sharge **Pixel 140W GaN 充电器**在亚马逊与官网降至 **69.88/69.90 美元**（省 24 美元），67W 版 19.90 美元、100W 版 59.90 美元。复古像素外观的氮化镓充电头，是充电类里少见的「颜值驱动购买」样本。",
+        "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/sharge-pixel-140-charger-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "小米确认 11 月 17 日巴黎发布会除 18 Pro 系列外，还将带来 **Watch S5 41mm**、**Smart Band 11** 和 Xiaomi Clip 耳夹耳机，以及米家智能家电。穿戴+音频配件齐发，是图拉斯在 3C 配件侧的直接对标动向。",
+        "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_smart_band_11_xiaomi_clip_earbuds_will_be_at_next_weeks_event_too-news-75442.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-watch-band-clip-november-17/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**SlashVibe** 把 AI 工作流做成一块专属屏幕加可拆卸语音控制器，让 AI 对话从手机里独立出来。专用屏+分离式语音硬件的组合，是 AI 终端形态的一个新解法，值得关注交互定义。",
+        "url": "https://www.yankodesign.com/2026/11/11/slashvibe-gives-ai-work-a-dedicated-screen-and-a-detachable-voice-controller/?utm_source=rss&utm_medium=rss&utm_campaign=slashvibe-gives-ai-work-a-dedicated-screen-and-a-detachable-voice-controller",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/slashvibe-gives-ai-work-a-dedicated-screen-and-a-detachable-voice-controller/SlashVibe-hero.jpg"
+      },
+      {
+        "brief": "Wired 记者用 OpenAI 模型训练 **Microduck** 机器鸭，让它摇摇摆摆走路并兼职「猫咪管家」。小型具身智能玩具的入门门槛被拉低，是 AI 陪伴硬件里成本最低、最容易量产的一类形态。",
+        "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg"
+      },
+      {
+        "brief": "**Home Assistant Connect AUX-2** 售价 **69 美元**，把老音箱、老电视接入智能家居，让闲置 hi-fi 系统「二次上岗」。低价多功能桥接盒，是智能家居配件里复购逻辑清晰的一类。",
+        "url": "https://www.androidauthority.com/home-assistant-connect-aux-2-launch-3733837/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/HomeAssistant-widget-with-temperature-readout-scaled.jpeg"
+      },
+      {
+        "brief": "**Knit** 推出 **999 美元** 杜比全景声回音壁，机身外包一层针织毛衣，直接对抗「黑色塑料条」的客厅审美疲劳。把家电做成家居软装，是配件类提升溢价的一条可复制路径。",
+        "url": "https://www.yankodesign.com/2026/11/11/knits-999-dolby-atmos-soundbar-comes-wrapped-in-a-woven-sweater/?utm_source=rss&utm_medium=rss&utm_campaign=knits-999-dolby-atmos-soundbar-comes-wrapped-in-a-woven-sweater",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/658700/knit_soundbar_1.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-11-11",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?w=668"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-13",
-    "items": [
-      {
-        "brief": "**Apple「Welcome home」特别活动将于 10 月 13 日（明天）举行**，预计发布三款全新智能家居产品，包括传闻已久的 HomeView 智能家居中枢。这是 Apple 首次系统性进军智能家居硬件赛道，将直接影响智能家居配件生态与充电配件的联动方向。",
-        "url": "https://9to5mac.com/2026/10/12/apple-welcome-home-event-three-new-products/",
-        "source": "9to5Mac",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-welcome-home.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "**Nothing 旗下 CMF 正式发布首款便携音箱 CMF Speakers S&M**，采用「表现力几何设计」，支持 **Bluetooth 6.0、IP68 防水防尘**，并具备 Stereo Mode 与 Party Mode 多音箱串联功能。作为 CMF 首款音频产品，其设计语言与定价策略值得配件品牌关注。",
-        "url": "https://www.gsmarena.com/nothing_launches_cmf_speakers_s_m_here_are_the_specs_and_pricing_details-news-75002.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/cmf-speaker-s-m-official/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**Google 发布 Fitbit Edge 智能手环**，定价 **179.99 美元**，定位介于 Fitbit Air 与 Pixel Watch 之间，配备 OLED 显示屏与 Pixel Watch 同款智能功能，续航达一周。这是 Google 在可穿戴中端市场的关键补位，对智能穿戴配件生态有直接影响。",
-        "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4514.webp?w=1200"
-      },
-      {
-        "brief": "**Natura 推出 99 美元 Interface 智能戒指**，按下手指即可召唤 AI 代理完成任务、记录想法并控制设备，同时兼具健康追踪功能。将 AI 代理交互压缩到指尖的实体硬件形态，是 AI 可穿戴设备的新探索方向。",
-        "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": true,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491"
-      },
-      {
-        "brief": "**Mechanism 推出首款 Switch 2 保护壳 Basecase**，售价 **49 美元**，采用卡扣式外壳设计，兼容该公司模块化配件系统，后板支持（非官方）乐高积木与小人仔兼容。在多数厂商放缓 Switch 2 配件发布节奏时，这款模块化设计提供了新思路。",
-        "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/basecase4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Redmi 推出售价仅 42 美元的显示器支架臂**，支持线缆隐藏管理。小米正以极低价格逐步补齐桌面生态配件，从显示器到支架臂，这种「低价高配」策略对 3C 配件市场的价格体系可能产生冲击。",
-        "url": "https://www.yankodesign.com/2026/10/12/redmi-just-debuted-an-ultra-affordable-42-monitor-arm-that-hides-your-cables-too/?utm_source=rss&utm_medium=rss&utm_campaign=redmi-just-debuted-an-ultra-affordable-42-monitor-arm-that-hides-your-cables-too",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/653542/redmi_monitor_arm_1.jpeg"
-      },
-      {
-        "brief": "**CMF 新款牛奶盒造型音箱**因外观设计引发热议——每个人都知道牛奶盒的手感，这正是其令人过目不忘的原因。作为 Nothing 旗下平价子品牌，CMF 再次用「日常物品形态 + 鲜明配色」的设计策略制造话题，对配件类产品的形态创新有参考价值。",
-        "url": "https://www.yankodesign.com/2026/10/12/why-cmfs-new-milk-carton-speakers-are-so-irresistible-to-look-at/?utm_source=rss&utm_medium=rss&utm_campaign=why-cmfs-new-milk-carton-speakers-are-so-irresistible-to-look-at",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/why-cmfs-new-milk-carton-speakers-are-so-irresistible-to-look-at/cmf_speaker_s_m_1.jpg"
       }
     ]
   }

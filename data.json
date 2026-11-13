@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-13",
+    "items": [
+      {
+        "brief": "**Samsung Intelligent Eyewear** 智能眼镜正式开启预售，起售价 **395 美元**，与 Warby Parker、Gentle Monster 联名推出 30 种设计，12 月 10 日在韩国和美国上市。这是三星首款面向消费市场的 AI 眼镜，直接对标 Meta Ray-Ban，也是 Android XR 生态的首个落地终端。",
+        "url": "https://www.gsmarena.com/samsungs_intelligent_eyewear_glasses_are_now_up_for_preorder-news-75454.php",
+        "source": "GSMArena",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-intelligent-eyewear-now-on-pre-order/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "**Apple HomeView** 明日正式发货，这是苹果首款智能显示屏产品，首发前已推送修复 9 个安全漏洞的软件更新。作为苹果进军智能家居中枢的关键硬件，HomeView 的上市节奏和软件成熟度将直接影响整个智能家居配件生态的走向。",
+        "url": "https://9to5mac.com/2026/11/12/apple-homeview-launches-tomorrow-but-its-first-security-update-is-already-here/",
+        "source": "9to5Mac",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-siri-calendar.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "三星就 **Wireless PowerShare** 无线反向充电功能达成四年专利诉讼和解，与芯片供应商 Renesas 及 WiPQTUS 撤诉。该功能可让 Galaxy 手机为手表、耳机等配件反向充电，诉讼落定意味着无线充电专利格局趋于清晰，对配件厂的兼容设计有参考意义。",
+        "url": "https://www.gsmarena.com/samsung_settles_fouryear_wireless_powershare_patent_lawsuit-news-75456.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-wireless-powershare-patent-trial-settlement/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "Engadget 上手 **Google 首批 Android XR 智能眼镜**，称其让作者重新思考「无屏智能眼镜」的价值。作为 Google 智能眼镜的回归之作，无屏形态主打轻量与日常佩戴，与三星、Meta 形成三足鼎立，是 AI 可穿戴赛道的重要变量。",
+        "url": "https://www.engadget.com/2314258/android-xr-smartglasses-hands-on/",
+        "source": "Engadget",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794495834.jpg"
+      },
+      {
+        "brief": "Android Authority 实测 **Google Intelligent Eyewear** 的实时翻译功能，称其翻译能力出色但不足以支撑自然对话。这篇实测揭示了无屏 AI 眼镜在真实场景中的能力边界，对判断 AI 眼镜的可用性与用户预期管理很有价值。",
+        "url": "https://www.androidauthority.com/smart-glasses-translation-3734126/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/gentle-monster-head-shs.jpg"
+      },
+      {
+        "brief": "一篇高热度技术博客（HN 148 分、58 条评论）演示如何把 **40 欧元的 USB-C 扩展坞**改造成 Nintendo Switch 2 底座。低成本替代官方底座的玩法在社区引发热议，说明扩展坞/转接类配件的「一物多用」需求旺盛，对 3C 配件产品定义有启发。",
+        "url": "http://blog.nozomi.space/posts/sw2_dock/",
+        "source": "Hacker News",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": ""
+      },
+      {
+        "brief": "**Sony 复刻 1979 年 Walkman 经典耳机**，推出 MDR-3R，保留彩色可更换海绵耳垫的复古设计。在真无线主导的当下，索尼用有线复古耳机切入「反充电焦虑」的怀旧消费群体，是音频配件领域一次有意思的逆向产品策略。",
+        "url": "https://www.dezeen.com/2026/11/09/sony-walkman-headphones-mdr-3r/",
+        "source": "Dezeen",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://static-2026.dezeen.com/uploads/2026/11/sq-sony-mdr-3r-headphones_dezeen_2364_col_0-1024x1024.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-11-12",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airtag-2-radiating-sound.jpg?quality=82&#038;strip=all&#038;w=1600"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "items": [
-      {
-        "brief": "Apple 正式发布 **HomeView** 智能家居中枢，配备 **7 英寸触控屏**与 Apple Intelligence 加持的新 Siri，提供桌面与壁挂两种形态，下月开售。这是 Apple 多年来对智能家居最大的一次押注，直接对标 Echo Show 与 Nest Hub，其磁吸/壁挂安装方式与配件生态将牵动整个 3C 配件供应链。",
-        "url": "https://www.gsmarena.com/apple_announces_homeview_with_a_7inch_touchscreen_and_siri_with_apple_intelligence-news-75027.php",
-        "source": "GSMArena",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-homeview-announcement/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "Apple 发布 **HomePod mini 2**，搭载 **S10 芯片**带来 Siri AI，新增 Sound Glow 灯效、支持最多 4 台串联与全新配色。作为智能家居音频入口的更新，它和 HomeView、新 Apple TV 一起构成 Apple 家庭生态闭环，配件厂商可围绕其桌面摆放与供电场景做文章。",
-        "url": "https://www.gsmarena.com/apples_homepod_mini_2_is_here_with_siri_ai_new_colors_and_improved_sound-news-75028.php",
-        "source": "GSMArena",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/homepod-mini-2-ofic/-184x111/gsmarena_00.jpg"
-      },
-      {
-        "brief": "Apple 确认壁挂版 **HomeView** 包装内不含电源适配器，并发布支持文档说明供电要求，买错适配器可能导致无法工作。这条对图拉斯是直接机会信号——新形态智能屏的壁挂供电、线缆隐藏与适配器兼容，正是充电配件可以切入的空白位。",
-        "url": "https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-3.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "The Verge 上手评测 **Ray-Ban Meta Audio 眼镜**，作者表示完全不怀念摄像头版本——纯音频智能眼镜在日常通勤、跑步、点单、读书场景中更自然。这为「AI 可穿戴去摄像头化」提供了真实用户视角，是判断智能眼镜形态走向的重要参考。",
-        "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Rivian CEO 的机器人初创 **Mind Robotics** 挖来 **Doug Field** 出任总裁，此人曾任 Apple 特别项目 VP、主导过 Titan 造车计划，也做过 Mac 硬件工程 VP。顶级硬件人才向具身智能流动，预示消费级机器人赛道的产品化节奏可能加快。",
-        "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/c60a24b2-e1cf-4857-8c59-5fb7f9f74efe-Doug_Field_portrait.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Fosi Audio DAP Neo** 以复古现代设计复活 iPod 式纯音乐播放体验，把实体转盘与本地播放重新带回便携音频。在流媒体统治的时代，这类「反智能手机」的音频硬件切中怀旧与专注听歌的情绪价值，是便携音频配件值得关注的差异化方向。",
-        "url": "https://www.yankodesign.com/2026/10/13/retro-modern-fosi-audio-dap-neo-revives-the-lost-glory-of-listening-to-music-on-ipod/?utm_source=rss&utm_medium=rss&utm_campaign=retro-modern-fosi-audio-dap-neo-revives-the-lost-glory-of-listening-to-music-on-ipod",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/retro-modern-fosi-audio-dap-neo-revives-the-lost-glory-of-listening-to-music-on-ipod/Fosi-Audio-DAP-Neo-5.jpg"
-      },
-      {
-        "brief": "Anker 推出新款便携式家庭备电电池，主打自放电更慢、长期存放后仍能保留电量。在户外电源与家庭应急备电同质化的当下，把「放着不用也不掉电」作为核心卖点，切中真实使用痛点，值得充电类产品经理研究其产品定义思路。",
-        "url": "https://www.reddit.com/r/gadgets/comments/1x27l53/ankers_latest_portable_home_backup_battery_wont/",
-        "source": "Reddit",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?w=668"
       }
     ]
   }

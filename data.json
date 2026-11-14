@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-14",
+    "items": [
+      {
+        "brief": "**Camp Snap CS-8 Micro** 把无屏复古数码摄像机缩到约三英寸长、仅 1.5 盎司，可挂钥匙扣。无屏拍摄+复古滤镜的形态持续细分，是3C配件与年轻消费电子交叉的典型新锐玩法。",
+        "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnapA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**CMF Speaker S** 牛奶盒造型蓝牙音箱在 Nothing 早期黑五促销中降至 **39 美元**（省 20 美元），为历史最低价。Nothing 子品牌用造型差异化切入低价音频，对3C配件外观创新有参考价值。",
+        "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**Nothing Headphone (a)** 头戴耳机主打 **135 小时续航**，亚马逊降价 90 美元至历史最低，约合 45% 折扣。长续航+设计感是 Nothing 音频线的核心卖点，值得关注其价格策略对配件市场的挤压。",
+        "url": "https://www.androidauthority.com/nothing-headphone-a-black-friday-3735126/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Headphone-a-yellow.jpg"
+      },
+      {
+        "brief": "**CAIM1 3D 打印相机** 在照片背后嵌入安全芯片，作为对抗 AI 深度伪造的凭证。把「真实性验证」做成实体硬件卖点，是 AI 时代相机品类的新叙事方向。",
+        "url": "https://www.yankodesign.com/2026/11/13/the-caim1-3d-printed-camera-puts-a-security-chip-behind-your-photos-as-proof-against-ai-deepfakes/?utm_source=rss&utm_medium=rss&utm_campaign=the-caim1-3d-printed-camera-puts-a-security-chip-behind-your-photos-as-proof-against-ai-deepfakes",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/draft-caim/caimera_1_1.jpg"
+      },
+      {
+        "brief": "**OpenAI 解散机器人团队**，转而用通用模型直接驱动机器人（HN 145 分、64 条评论）。这是具身智能路线的重要信号：模型层与硬件层解耦，可能加速第三方机器人硬件创业。",
+        "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+        "source": "Hacker News",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600"
+      },
+      {
+        "brief": "爆料称 **OPPO 口袋云台相机**（代号 Fuyao）将于年底前亮相，同时还有宽屏折叠机与 16:9 宽屏旗舰。手机厂切入口袋云台相机，直接对标大疆 Pocket 系列，是影像配件的新竞争变量。",
+        "url": "https://www.gsmarena.com/oppos_pocket_gimbal_camera_said_to_debut_this_year_widefoldable_also_coming_soon-news-75466.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-gimbal-camera-launch-wide-foldable-details/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "**Keychron T1 HE** 无线轨迹球鼠标把 34mm 球体置于侧面，且**轨迹球位置可调**以适配不同手型。可调节人体工学是外设配件差异化的新切口，对支架/配件类产品有借鉴意义。",
+        "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/keychron1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      }
+    ]
+  },
+  {
     "date": "2026-11-13",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/10/this-tiny-e-paper-game-boy-lets-you-play-super-mario-land-at-30-fps-on-a-screen-built-for-reading/GameBoy-on-E-Paper-ESP32-DIY-5.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-15",
-    "items": [
-      {
-        "brief": "**Samsung Android XR 智能眼镜**实拍图与规格泄露，由 Gentle Monster 与 Warby Parker 打造多款镜框设计，传闻 **11 月发布**。这是三星首次以时尚联名方式切入 AI 眼镜赛道，直接对标 Ray-Ban Meta，将重塑智能穿戴配件的设计语言与供应链格局。",
-        "url": "https://www.gsmarena.com/leak_images_and_specs_of_samsungs_upcoming_android_xr_smart_glasses_surface-news-75044.php",
-        "source": "GSMArena",
-        "score": 5,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-android-xr-glasses-images-leak/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "Apple 智能家居阵容再扩容，除 HomeView 中枢外同步推出**智能门锁、恒温器与视频门铃**，全部可与 HomeView 联动控制配件与应用。这是 Apple 首次成体系切入家居安防硬件，将带动 Matter 生态配件与配套充电/支架类需求。",
-        "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-Home-Collection-lineup-261013_big.jpg.large_2x.jpg?w=1200"
-      },
-      {
-        "brief": "**Sony 发布 ECM-W5 无线麦克风套装**，正面挑战 DJI 在创作者音频市场的主导地位，Engadget 评价其「价格不便宜」。索尼把专业音频技术下放到便携创作配件，可能推高手机/相机外接麦克风的整体产品标准。",
-        "url": "https://www.engadget.com/2286975/sony-is-taking-on-dji-with-its-new-ecm-w5-wireless-microphone-kit/",
-        "source": "Engadget",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.engadget.com/img/gallery/sony-is-taking-on-dji-with-its-new-ecm-w5-wireless-microphone-kit/l-intro-1792005860.jpg"
-      },
-      {
-        "brief": "前 Apple 工程师团队推出 **Hiyd 健康追踪器**，可**无需磁吸或胶粘**直接附着在你已有的手表上，为其增加生物传感能力。这种「给旧表加装传感器」的模块化思路，为智能穿戴配件开辟了全新的轻量升级路径。",
-        "url": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/HIYD-9.jpg?resize=1200,800"
-      },
-      {
-        "brief": "前 Plaud 高管为「**后台持续聆听的 AI 应用**」融资 2600 万美元，主打通过长期收集用户上下文来提供更精准的 AI 协助。这类常听型 AI 产品正从软件向可穿戴实体载体延伸，是 AI 陪伴/记录硬件的风向标。",
-        "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800"
-      },
-      {
-        "brief": "**OnePlus Ace 7** 原理图泄露，显示将首发**双风道主动散热系统**，内置散热风扇。继此前 OnePlus 把微型空调贴到手机背面之后，主动散热正从外设走向手机本体，对手机散热配件品类构成潜在替代威胁。",
-        "url": "https://www.gsmarena.com/leaked_oneplus_ace_7_schematic_shows_its_dualairflow_cooling_setup-news-75043.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-active-cooling-system-leak/-184x111/gsmarena_000.jpg"
-      },
-      {
-        "brief": "**ElevationLab 因跟踪隐患争议下架 AirTag Silencer**，该配件可屏蔽 AirTag 提示音，被批评可能助长跟踪滥用。这是 3C 配件因伦理与合规风险被迫召回的典型案例，提醒配件厂商在功能创新时需评估安全与舆论边界。",
-        "url": "https://9to5mac.com/2026/10/14/elevationlab-pulls-airtag-silencer-after-backlash-over-stalking-concerns/",
-        "source": "9to5Mac",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airtag-2-radiating-sound.jpg?quality=82&#038;strip=all&#038;w=1600"
       }
     ]
   }

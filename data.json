@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-20",
+    "items": [
+      {
+        "brief": "Meta 的 **Muse Charm** AI 小屏设备据 The Information 报道定价 **300 美元**，并可能捆绑 Verizon 5G 免费数据。扎克伯格此前称目标「12 月假日季前出货」。这是大厂把 AI 助手做成独立随身硬件的关键一枪，直接决定 AI 可穿戴的定价锚点。",
+        "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+        "source": "The Verge",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "Nothing 的 **AI 设备**再被曝光，Swedish House Mafia 成员 Sebastian Ingrosso 放出新图，设备与 **Headphone (1) Pro** 同框可判断体积。Nothing 一向擅长用设计语言撬动话题，其首款 AI 硬件的形态值得配件厂提前预判交互与佩戴场景。",
+        "url": "https://www.gsmarena.com/nothing_ai_device_gets_teased_in_a_new_image-news-75540.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/nothing-ai-shm-tease/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Whoop** 成为 **F1 官方健康与健身可穿戴合作伙伴**，签下四年全球合约，其追踪器成为首个获 FIA 批准可在比赛中佩戴的消费级可穿戴，本周末拉斯维加斯大奖赛车手首次佩戴。可穿戴借顶级赛事背书破圈，是智能穿戴品类的强信号。",
+        "url": "https://www.gsmarena.com/whoop_becomes_formula_1s_official_wearable_will_put_drivers_heart_rate_on_tv-news-75543.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/whoop-f1-partnership/-184x111/gsmarena_002.jpg"
+      },
+      {
+        "brief": "**Bose Ultra Open Earbuds（第二代）** 耳夹式开放耳机在亚马逊降至 **249 美元**，为上市以来最低价，直降 50 美元。开放式耳夹是当前增长最快的音频形态之一，头部品牌价格下探会加速品类渗透，值得关注其对配件生态的带动。",
+        "url": "https://www.androidauthority.com/bose-ultra-open-earbuds-2nd-gen-deal-3737453/",
+        "source": "Android Authority",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594"
+      },
+      {
+        "brief": "Munbyn 推出一款造型可爱的 **AI 打印机**，能把孩子天马行空的想法变成贴纸打印出来，思路致敬 1998 年 Game Boy 的热敏打印机。把 AI 生成与实体热敏打印结合成儿童场景硬件，是 AI 硬件里少见的「有明确使用场景 + 家庭购买决策」方向。",
+        "url": "https://www.yankodesign.com/2026/11/19/munbyns-adorable-ai-printer-turns-your-kids-weirdest-ideas-into-quirky-stickers/?utm_source=rss&utm_medium=rss&utm_campaign=munbyns-adorable-ai-printer-turns-your-kids-weirdest-ideas-into-quirky-stickers",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/munbyns-adorable-ai-printer-turns-your-kids-weirdest-ideas-into-quirky-stickers/munbyn.jpg"
+      },
+      {
+        "brief": "一款**微型铝合金登山扣**，只需简单一拧就能翻转成桌面挂钩，把包挂到桌沿防止落地。极小体积 + 单一动作完成形态转换，是 3C 配件思路做通用小物的典型样本，对配件类产品的机构创新有参考价值。",
+        "url": "https://www.yankodesign.com/2026/11/19/this-tiny-aluminum-carabiner-flips-into-a-table-hook-with-one-simple-twist/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-aluminum-carabiner-flips-into-a-table-hook-with-one-simple-twist",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/this-tiny-aluminum-carabiner-flips-into-a-table-hook-with-one-simple-twist/Kolabo-02.jpg"
+      },
+      {
+        "brief": "Sharp **AQUOS sense11** 把「手机屏幕朝下放」这个习惯动作做成功能：屏幕朝下时仍能通过机身提示来电与通知。把用户既有行为转化为交互卖点，是手机本体厂在配件化体验上的探索，对壳膜与支架场景有启发。",
+        "url": "https://www.yankodesign.com/2026/11/19/sharps-aquos-sense11-signals-calls-and-notifications-with-its-screen-face-down/?utm_source=rss&utm_medium=rss&utm_campaign=sharps-aquos-sense11-signals-calls-and-notifications-with-its-screen-face-down",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/sharps-aquos-sense11-signals-calls-and-notifications-with-its-screen-face-down/sharp-aquos-sense11-01.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-11-19",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-pro-max-hasselblad-tele-kit-samples/-184x111/gsmarena_000.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-21",
-    "items": [
-      {
-        "brief": "**These smart glasses turn your blinks into electricity**，把眨眼与咀嚼的微小动能转化为电能，为智能眼镜供电。对充电类与可穿戴配件而言，这是「免充电」形态的极端想象，值得关注能量采集在小型穿戴上的可行性。",
-        "url": "https://www.yankodesign.com/2026/10/20/these-smart-glasses-turn-your-blinks-into-electricity/?utm_source=rss&utm_medium=rss&utm_campaign=these-smart-glasses-turn-your-blinks-into-electricity",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/glassteng_1.jpg"
-      },
-      {
-        "brief": "9to5Toys 汇总当日苹果生态折扣，其中 **13 英寸 25W 三合一可折叠 MagSafe 充电器降价 35%**，另有 AirPods Pro 3 减 50 美元、Duo 保护壳与 Apple TV 4K 预购优惠。三合一折叠磁吸充电站正是图拉斯主力赛道，价格战信号值得盯。",
-        "url": "https://9to5mac.com/2026/10/20/deals-apple-tv-4k-airpods-pro-3-macbook-air-duo-cases/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-TV-4K-Mac-mini-AirPods-Duo.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "**Huawei Watch D3** 评测称其为腕上血压监测的「游戏规则改变者」，把医疗级血压测量做进手表形态。智能穿戴健康传感的军备竞赛正在加速，对图拉斯判断穿戴配件与健康硬件方向有参考价值。",
-        "url": "https://www.yankodesign.com/2026/10/20/huawei-watch-d3-review-a-game-changer-for-on-wrist-blood-pressure-monitoring/?utm_source=rss&utm_medium=rss&utm_campaign=huawei-watch-d3-review-a-game-changer-for-on-wrist-blood-pressure-monitoring",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/huawei-watch-d3-review-a-game-changer-for-on-wrist-blood-pressure-monitoring/huawei-watch-d3-review-04.jpg"
-      },
-      {
-        "brief": "**Oura 为智能戒指新增 Cardio Effort 与自动 VO2 Max 两项心血管指标**，覆盖 Gen 3 及之后机型。智能戒指赛道竞争加剧（RingConn、Ultrahuman 追击），靠软件指标差异化，是穿戴硬件「卖服务」的典型样本。",
-        "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oura1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Wired 评测 **Hatch Sleep Clock**，一款无需佩戴的接触式睡眠追踪设备，主打不想戴表睡觉的人群。非穿戴式健康硬件是智能家居与穿戴之间的空白地带，形态思路值得借鉴。",
-        "url": "https://www.wired.com/review/review-hatch-sleep-clock/",
-        "source": "Wired",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://media.wired.com/photos/6ad67177f85dfee471db0a6b/191:100/w_1280,c_limit/Review%20Hatch%20Sleep%20Clock%20102026%20top%20art%20SOURCE%20Hatch.jpg"
-      },
-      {
-        "brief": "日本音频品牌 **Final 推出 Porta 无线头戴耳机**，把最熟悉的头梁结构精简到仅 **40 克**。极致轻量化是便携音频的明确卖点方向，对配件与音频品类的形态创新有启发。",
-        "url": "https://www.yankodesign.com/2026/10/20/finals-porta-wireless-on-ear-headphones-strip-back-the-headband-to-just-40-grams/?utm_source=rss&utm_medium=rss&utm_campaign=finals-porta-wireless-on-ear-headphones-strip-back-the-headband-to-just-40-grams",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/finals-porta-wireless-on-ear-headphones-strip-back-the-headband-to-just-40-grams/Final-Porta-Headphones-7.jpg"
-      },
-      {
-        "brief": "**无需插座、无需另备杯子的便携浓缩咖啡方案**，把咖啡机从厨房台面解放到户外场景。这类「去插座化」的便携电器思路，与充电宝、户外电源的使用场景高度重合，值得关注其供电方案。",
-        "url": "https://www.yankodesign.com/2026/10/20/espresso-without-an-outlet-or-a-separate-cup/?utm_source=rss&utm_medium=rss&utm_campaign=espresso-without-an-outlet-or-a-separate-cup",
-        "source": "Yanko Design",
-        "score": 2,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/espresso-without-an-outlet-or-a-separate-cup/pura-neo-0.jpg"
       }
     ]
   }

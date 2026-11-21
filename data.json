@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-21",
+    "items": [
+      {
+        "brief": "**Nothing** 官宣其首款无屏 AI 原生设备将于 **12 月 8 日**正式发布，此前已曝光「Talk」按键与外观设计，但产品名与功能仍未公开。这是 Nothing 从手机配件向 AI 硬件转型的关键一役，值得关注其形态定义。",
+        "url": "https://www.gsmarena.com/nothings_screenless_ai_device_gets_an_official_launch_date-news-75567.php",
+        "source": "GSMArena",
+        "score": 5,
+        "recurring": true,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/nothing-ai-device-official-launch-date/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**Teenage Engineering** 推出首款 CD 播放器 **EP/BC-1**，售价 **329 美元**，采用唱片机式裸露旋转碟片设计，是其全新「broadcast」音频系列的开山之作。设计驱动型音频硬件的新样本，对配件与便携音频品类有参考价值。",
+        "url": "https://www.engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/",
+        "source": "Engadget",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://www.engadget.com/img/gallery/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/l-intro-1795200766.jpg"
+      },
+      {
+        "brief": "**Samsung** 七年来首次调整领导层，移动部门负责人换人，**Won-Joon Choi** 接替 TM Roh 出任 MX 负责人，TM Roh 保留 CEO 与 DX 负责人职位。头部安卓厂商的组织变动将影响其配件生态与产品节奏。",
+        "url": "https://www.gsmarena.com/samsung_appoints_new_leadership_tm_roh_remains_ceo-news-75568.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-dram-market-q2-2026/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "TechCrunch 盘点 **6 款 AI 办公硬件**，涵盖 AI 记事本与网络摄像头等，聚焦如何升级居家办公桌面。可作为 AI 硬件在办公场景落地的品类地图，观察哪些形态已具备购买理由。",
+        "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800"
+      },
+      {
+        "brief": "**Lafaer 5 合 1 存在传感器**在 9to5Mac 的 HomeKit 专栏获推荐，除毫米波外还带光照传感器，解决 Apple Home 中「按时间判断开灯」的老问题。智能家居感知硬件的小而实用创新。",
+        "url": "https://9to5mac.com/2026/11/20/lafaers-5-in-1-presence-sensor-fixes-the-most-annoying-automation-in-apple-home/",
+        "source": "9to5Mac",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/bradley_16e85d.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "Yanko Design 精选 **5 款真正值得占包位的便携科技小物**，点名批评合盖后仍臃肿的鼠标、裸露插脚的充电器等设计缺陷。对 3C 配件的便携化与收纳形态设计有直接启发。",
+        "url": "https://www.yankodesign.com/2026/11/20/5-portable-tech-gadgets-that-earn-their-space-in-your-bag/?utm_source=rss&utm_medium=rss&utm_campaign=5-portable-tech-gadgets-that-earn-their-space-in-your-bag",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/portable-tech-gadgets-that-earn-their-space-in-your-bag/5_best_portable_tech_yanko_design_hero.jpg"
+      },
+      {
+        "brief": "**Mangmi** 预告新款安卓游戏掌机 **Air X Pro**，但关键规格仍未公布。掌机赛道持续有新玩家涌入，便携游戏硬件形态与配件机会值得跟踪。",
+        "url": "https://www.androidauthority.com/mangmi-air-x-pro-teaser-3737851/",
+        "source": "Android Authority",
+        "score": 2,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/mangmi-air-x-pro.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-11-20",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/10/nico-ai-companion-concept-borrows-game-controls-for-homework-hints/nico-ai-learning-companion-concept-05.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-22",
-    "items": [
-      {
-        "brief": "**Ninja Labs MagSafe Flex Pouch** 把手机背面变成可拉伸的日常收纳口袋，磁吸贴合、弹力扩容，解决手机壳无法携带小物件的痛点。这是 MagSafe 生态从充电向「功能扩展」延伸的典型形态，对图拉斯磁吸配件线有直接启发。",
-        "url": "https://www.yankodesign.com/2026/10/21/ninja-labs-magsafe-flex-pouch-turns-your-phone-into-a-stretchy-everyday-carry-pocket/?utm_source=rss&utm_medium=rss&utm_campaign=ninja-labs-magsafe-flex-pouch-turns-your-phone-into-a-stretchy-everyday-carry-pocket",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/ninja-labs-magsafe-flex-pouch-turns-your-phone-into-a-stretchy-everyday-carry-pocket/Ninja-Labs-Magsafe-Flex-Pouch-3.jpg"
-      },
-      {
-        "brief": "**Bose 收购 Skullcandy**，两家消费音频玩家合并，Bose 借此触达更年轻、更平价的市场，Skullcandy 此前已引入 Bose 的空间音频与 ANC 技术。头部音频品牌整合会重塑中低端耳机与音箱的竞争格局，值得图拉斯关注。",
-        "url": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
-        "source": "The Verge",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Sony PlayStation Pulse 头戴耳机** 将于 11 月 19 日上市，定价 100 美元，10 月 29 日开启预售。索尼以百元价位切入游戏音频配件，是主机生态配件化的重要一步，对便携音频与游戏外设品类都有参考价值。",
-        "url": "https://www.engadget.com/2293077/sonys-playstation-pulse-headset-arrives-on-november-19-for-dollar100/",
-        "source": "Engadget",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.engadget.com/img/gallery/sonys-playstation-pulse-headset-arrives-on-november-19-for-100/l-intro-1792598917.jpg"
-      },
-      {
-        "brief": "Amazon 旗下 **Bee 发布被收购后首批 AI 设备**，含升级版可穿戴与信用卡大小的录音器，售价 74.99 美元起，可总结对话、生成待办并接入 Alexa 与 Amazon 购物。低价位 AI 可穿戴的落地，是 AI 硬件商业化的重要信号。",
-        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080"
-      },
-      {
-        "brief": "**Oura 为智能戒指新增两项运动指标**，用于展示训练对身体的实际影响，在智能戒指赛道日益拥挤之际强化差异化。可穿戴健康数据的深化是智能硬件的高价值方向，值得关注其交互与数据呈现方式。",
-        "url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800"
-      },
-      {
-        "brief": "一款 **Hershey's Kiss 造型的智能手表移动充电器**，把便携充电做成糖果外壳形态，主打外出时为手表补电。造型驱动的充电配件是激发购买欲的低成本创新路径，对图拉斯充电类产品的外观差异化有借鉴意义。",
-        "url": "https://www.yankodesign.com/2026/10/21/smartwatch-mobile-charger-hidden-in-a-hersheys-kiss-shaped-shell/?utm_source=rss&utm_medium=rss&utm_campaign=smartwatch-mobile-charger-hidden-in-a-hersheys-kiss-shaped-shell",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/smartwatch-mobile-charger-hidden-in-a-hersheys-kiss-shaped-shell/kisses-charger-0.jpg"
-      },
-      {
-        "brief": "**Oppo Find X10 Pro Max 的哈苏增距镜套装** 放出实拍样张，把手机影像通过外接镜头配件进一步专业化。手机影像配件化是 3C 配件的高潜力方向，与图拉斯的转接、支架类产品思路相通。",
-        "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_hasselblad_teleconverter_kit_samples-news-75139.php",
-        "source": "GSMArena",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-pro-max-hasselblad-tele-kit-samples/-184x111/gsmarena_000.jpg"
       }
     ]
   }

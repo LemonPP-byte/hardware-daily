@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-23",
+    "items": [
+      {
+        "brief": "**UGREEN 25W MagSafe 磁吸充电宝**采用**液冷散热**方案，Qi2.2 协议 10000mAh 容量，黑五直降 40%。在磁吸充电宝同质化严重的当下，用液冷解决发热降功率这一真实痛点，是充电类产品差异化的重要信号。",
+        "url": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/",
+        "source": "9to5Mac",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "柯达推出 **SlideTag**，一款钥匙扣大小的**电子墨水数码相框**，同时兼具蓝牙防丢器功能，支持 Find My 与 Google 生态。把「照片展示」和「物品追踪」两个高频场景塞进极小体积，是 3C 配件形态创新的好样本。",
+        "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+        "source": "The Verge",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "**AirPods Pro 3** 黑五降至 **169.99 美元**，直降 80 美元，距历史最低仅差 1 美元。苹果旗舰 TWS 的价格下探会直接压缩第三方音频配件的定价空间，值得关注其对配件生态的连带影响。",
+        "url": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
+        "source": "9to5Mac",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro3-holiday.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "TechCrunch 盘点 **6 款 AI 办公硬件**，涵盖 AI 记事本与网络摄像头，聚焦如何升级居家办公桌面。可作为 AI 硬件在「桌面场景」落地的品类地图，观察哪些形态已具备真实购买理由。",
+        "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+        "source": "TechCrunch",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800"
+      },
+      {
+        "brief": "**Motorola Moto Tag 3** 已现身亚马逊英国站，配色为 Pantone Lucent White，距上一代仅隔不到一年。安卓阵营防丢器迭代加速，是配件类目里被低估的高频小件，值得关注其与 MagSafe 生态的兼容思路。",
+        "url": "https://www.gsmarena.com/motorola_moto_tag_3_features_design_amazon_listing-news-75585.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/motorola-tag-3-amazon-listing/-184x111/gsmarena_001.jpg"
+      },
+      {
+        "brief": "**Neewer 100W 环形补光灯**在照明之外还能同时为**最多 3 台手机充电**，把直播补光与多设备供电合二为一。创作者场景下的「一物多能」思路，对充电类产品的场景延展有直接参考价值。",
+        "url": "https://www.yankodesign.com/2026/11/21/neewers-100w-ring-light-can-light-your-face-as-well-as-charge-up-to-3-phones/?utm_source=rss&utm_medium=rss&utm_campaign=neewers-100w-ring-light-can-light-your-face-as-well-as-charge-up-to-3-phones",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/neewers-100w-ring-light-can-light-your-face-as-well-as-charge-up-to-3-phones/light-04.jpg"
+      },
+      {
+        "brief": "Wired 发布 **2026 最佳旅行转换插头**榜单，实测 20+ 款型号，覆盖多国插座与充电组合。旅行充电配件是图拉斯出海重点品类，这份实测榜单可作为竞品形态与用户偏好的直接参照。",
+        "url": "https://www.wired.com/gallery/best-travel-adapters/",
+        "source": "Wired",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://media.wired.com/photos/69f5039cd2f33f723151e0ca/191:100/w_1280,c_limit/The-Best-Travel-Adapters.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://media.wired.com/photos/6adb9462163ba15a9a5f5353/191:100/w_1280,c_limit/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-24",
-    "items": [
-      {
-        "brief": "**Abxylute 65 美元手机游戏手柄**把霍尔效应扳机、可按压摇杆与陀螺仪瞄准塞进手机配件形态，主打用手机替代掌机。**手机外设配件**在掌机涨价背景下有明确替代需求，是3C配件品类值得关注的新形态。",
-        "url": "https://www.yankodesign.com/2026/10/23/abxylutes-65-smartphone-gamepad-packs-hall-effect-triggers-clickable-sticks-and-gyro-aiming/?utm_source=rss&utm_medium=rss&utm_campaign=abxylutes-65-smartphone-gamepad-packs-hall-effect-triggers-clickable-sticks-and-gyro-aiming",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/655702/abxylute_m6_m5_gaming_controllers_1.png"
-      },
-      {
-        "brief": "**UGREEN 45W 六口全球旅行转换插头**在亚马逊降至 27.99 美元，回到历史最低价。多口旅行充电配件是充电类的高频刚需，价格触底往往带来销量爆发，值得关注竞品定价策略。",
-        "url": "https://www.androidauthority.com/ugreen-45w-travel-adapter-deal-3727455/",
-        "source": "Android Authority",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/UGREEN-45W-6-Port-Universal-Travel-Plug-Adapter-Press-Image.jpg"
-      },
-      {
-        "brief": "**Samsung Galaxy Buds On** 的 360 度渲染动画泄露，曝光了这款即将推出的真无线耳机外观，并透露了全球发售线索。三星音频产品线的新命名与形态，对便携音频配件竞争格局有参考价值。",
-        "url": "https://www.androidauthority.com/galaxy-buds-on-release-details-and-animation-3727460/",
-        "source": "Android Authority",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-Budson-3.jpg"
-      },
-      {
-        "brief": "**OKA 的蘑菇机器人 Mori** 用发光眼睛和蘑菇外形提供陪伴，刻意不说话也不做复杂动作，主打放在床头柜上的亲和感。这种「去人形化」的 AI 陪伴硬件思路，为 AI 硬件形态提供了新方向。",
-        "url": "https://www.yankodesign.com/2026/10/23/mori-the-mushroom-robot-offers-company-without-saying-a-word/?utm_source=rss&utm_medium=rss&utm_campaign=mori-the-mushroom-robot-offers-company-without-saying-a-word",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": true,
-        "tier": "AI 硬件",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/mori-the-mushroom-robot-offers-company-without-saying-a-word/mori-01.jpg"
-      },
-      {
-        "brief": "**Tuesday Labs 的 Voxel Series-1** 半自主家用机器人首次亮相，可浇花、扫碎屑，目前依靠自主智能与远程遥操作结合完成家务，刻意避开人形机器人的恐怖谷。家用机器人落地形态值得硬件团队跟踪。",
-        "url": "https://www.dezeen.com/2026/10/22/tuesday-labs-voxel-series-1/",
-        "source": "Dezeen",
-        "score": 3,
-        "recurring": true,
-        "tier": "AI 硬件",
-        "image": "https://static-2026.dezeen.com/uploads/2026/10/tuesday-labs-voxel-robot_dezeen_2364_sq-1-1024x1024.jpg"
-      },
-      {
-        "brief": "**Teenage Engineering 的 EP-35 音箱**背面可打开，露出专门收纳线材与配件的隔层。把「线材收纳」这种不性感的痛点做成产品卖点，对充电线、配件类产品的收纳设计有直接启发。",
-        "url": "https://www.yankodesign.com/2026/10/23/teenage-engineerings-ep-35-amp-has-a-hidden-cable-compartment/?utm_source=rss&utm_medium=rss&utm_campaign=teenage-engineerings-ep-35-amp-has-a-hidden-cable-compartment",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/teenage-engineerings-ep-35-amp-has-a-hidden-cable-compartment/teenage-engineering-ep-35.jpg"
-      },
-      {
-        "brief": "**SwitchBot 的 RGBICWW 灯条**在彩色分区之外单独加入冷白与暖白 LED，兼顾工作阅读的真实白光与观影的 12 区彩色氛围，支持 Wi-Fi/Matter 无需网关。智能家居灯光的双光源思路值得借鉴。",
-        "url": "https://9to5mac.com/2026/10/23/switchbots-new-light-bars-bring-12-zone-color-to-apple-home/",
-        "source": "9to5Mac",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Switchbot-2.jpg?quality=82&#038;strip=all&#038;w=1600"
       }
     ]
   }

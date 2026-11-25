@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-25",
+    "items": [
+      {
+        "brief": "**华为 Mate X8** 在国内发布，主打**磁控展平铰链**，内屏 8.2 英寸 LTPO、1:1 比例、8000 尼特峰值亮度、120Hz，并支持 Ruiying Z10 模块化相机配件（自带 1 英寸 50MP 传感器）。折叠形态与模块化外设的组合，是配件生态的新想象空间。",
+        "url": "https://www.gsmarena.com/huawei_mate_x8_launches_with_a_magnetic_controlled_flattening_hinge_system_-news-75620.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-mate-x8-ofic/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "**华为 MateBook Fold S** 是一款 14.7 英寸折叠平板，半折后可当笔记本用，下半屏可变第二屏或游戏手柄，背面还额外带一块显示屏。多屏折叠形态对支架、保护壳、转接类配件提出全新需求。",
+        "url": "https://www.gsmarena.com/the_huawei_matebook_fold_s_is_a_foldable_147_tablet_with_an_extra_display_on_the_back-news-75614.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-matebook-fold-s-announcement/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**三星 Galaxy Fit4** 价格曝光，作为 2024 年 2 月发布的 Fit3 的继任者，此前已流出外观与主要功能，其配套 App 列表还暗示支持 **NFC**。入门手环加入 NFC 会拉高整个价位段的配置基准。",
+        "url": "https://www.gsmarena.com/heres_how_much_the_samsung_galaxy_fit4_will_cost-news-75612.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-fit4-eu-price/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "**AirTag 2** 现价 **18 美元**（原价 29 美元），9to5Mac 总结了两项值得升级的改进。苹果防丢配件降价会直接压缩第三方 Find My 配件的价格空间，对柯达 SlideTag、Moto Tag 这类差异化产品形成压力。",
+        "url": "https://9to5mac.com/2026/11/24/airtag-2-has-two-big-improvements-that-make-it-worth-the-upgrade/",
+        "source": "9to5Mac",
+        "score": 3,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/airtag-2-jb-hand.jpg?quality=82&#038;strip=all&#038;w=1600"
+      },
+      {
+        "brief": "**Genspark** 为 AI agent 做了一款**五键遥控器**，采用 Cherry 机械轴。把「敲提示词」从键盘搬到专用实体按键上，是 AI 交互硬件化的一次具体尝试，形态小巧、成本可控，值得关注其交互逻辑。",
+        "url": "https://www.yankodesign.com/2026/11/24/genspark-built-a-five-button-remote-for-your-ai-agents-and-it-has-cherry-mechanical-switches/?utm_source=rss&utm_medium=rss&utm_campaign=genspark-built-a-five-button-remote-for-your-ai-agents-and-it-has-cherry-mechanical-switches",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/genspark-built-a-five-button-remote-for-your-ai-agents-and-it-has-cherry-mechanical-switches/SecondBrain-1.jpg"
+      },
+      {
+        "brief": "一篇技术博客讲**如何把一个 USB-C 口拆成 USB 3 与 USB 2 两路**，在 Hacker News 拿到 **143 分、92 条评论**。对做扩展坞、多口充电与转接配件的团队来说，这是理解接口复用与供电分配的一手参考。",
+        "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+        "source": "Hacker News",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://frankchiarulli.com/blog/splitting-usb-c/opengraph-image?1da773d5ba88c69c"
+      },
+      {
+        "brief": "一种**可重写锑硒化物显示屏**，断电后仍能显示图像长达数月，HN 热度 18 分、6 条评论。零功耗常显若能量产，对电子价签、桌面小屏、防丢器屏幕等低功耗配件形态是潜在变量。",
+        "url": "https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/",
+        "source": "Hacker News",
+        "score": 2,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://tmos.org.au/wp-content/uploads/2026/11/Dr-Le-with-a-sample-with-large-image-of-Australian-map-landscape_low-res-scaled.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-11-24",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/10/logitech-pebble-up-mouse-transforms-into-a-vertical-configuration-for-power-users/Logitech-Pebble-Up-mouse-1.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-26",
-    "items": [
-      {
-        "brief": "**Belkin 半固态电池** iPhone 移动电源上手：10000mAh USB-C 版与 5000mAh MagSafe 版（15W Qi2），铝合金机身且比预期轻得多。半固态电池首次下放到消费级充电配件，是充电品类的形态级变量。",
-        "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
-        "source": "9to5Mac",
-        "score": 5,
-        "recurring": true,
-        "tier": "每日头条",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03234.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "**OLED iPad mini 8** 本周发布：2021 年以来首次大改，换用 OLED 屏幕并刷新芯片，是苹果少见的非 Pro 线重大升级。屏幕形态变化会直接带动保护壳、支架、磁吸配件的新一轮换机需求。",
-        "url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "**触屏 OLED MacBook Pro** 本周登场，苹果将首次在笔记本线引入触控，售价定位偏高。这打破苹果数十年的产品哲学，触控笔、支架、扩展坞等配件生态可能随之重估。",
-        "url": "https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week/",
-        "source": "9to5Mac",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&#038;strip=all&#038;w=1600"
-      },
-      {
-        "brief": "TechCrunch 汇总当前最热的 **AI 可穿戴与 AI 硬件**，覆盖 Muse Charm、Bee、Friend、Plaud 等已可购买的产品。是快速摸清 AI 硬件赛道真实在售阵容的一份清单。",
-        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-        "source": "TechCrunch",
-        "score": 4,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849"
-      },
-      {
-        "brief": "Reddit 热议「**AI 别针为什么失败**：没人想对着自己的衬衫说话」，直指 AI 可穿戴的交互形态根本问题。对规划 AI 硬件的团队是一份反面教材式的用户洞察。",
-        "url": "https://www.reddit.com/r/gadgets/comments/1xdin2n/ai_pins_failed_because_nobody_wants_to_talk_to/",
-        "source": "Reddit",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": ""
-      },
-      {
-        "brief": "The Verge 上手 **Crkd Nitro Deck 2**：为 Switch 与 Switch 2 打造的滑入式手柄壳，59.99 美元，延续霍尔摇杆优势，但摇杆与面键间距过近。是掌机配件形态与手感取舍的典型案例。",
-        "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "**Wuben** 把 500 流明手电与刀片塞进仅 40 克的机身，主打口袋级 EDC。极致轻量化+多功能合一的思路，对便携 3C 配件的形态设计有直接参考价值。",
-        "url": "https://www.yankodesign.com/2026/10/24/wubens-tiny-flashlight-packs-500-lumens-and-a-blade-into-40-grams/?utm_source=rss&utm_medium=rss&utm_campaign=wubens-tiny-flashlight-packs-500-lumens-and-a-blade-into-40-grams",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/wubens-tiny-flashlight-packs-500-lumens-and-a-blade-into-40-grams/WUBEN-G6-Ultra-Slim-Multi-Use-Keychain-Light.jpg"
       }
     ]
   }

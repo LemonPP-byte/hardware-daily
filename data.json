@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-11-26",
+    "items": [
+      {
+        "brief": "**Nothing Ear (note)** 把耳机充电盒做成 AI 会议记录器，主打「最佳入耳音质」，官方承诺 **12 月 8 日**公布更多细节。充电盒承载 AI 录音这一新形态，是 TWS 配件价值重估的信号，值得图拉斯关注耳机盒的二次功能化方向。",
+        "url": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
+        "source": "Engadget",
+        "score": 5,
+        "recurring": false,
+        "tier": "每日头条",
+        "image": "https://www.engadget.com/img/gallery/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/l-intro-1795622251.jpg"
+      },
+      {
+        "brief": "Anker **MagGo 2-in-1 Qi2 充电支架**在亚马逊直降 35%、省 19 美元，可同时给 iPhone 和耳机充电，倾斜充电板专为 StandBy 模式设计。头部充电品牌在磁吸支架形态上的持续迭代与价格战，直接影响图拉斯同类产品的定价与卖点设计。",
+        "url": "https://www.androidauthority.com/anker-maggo-2-in-1-qi2-stand-deal-3739435/",
+        "source": "Android Authority",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": ""
+      },
+      {
+        "brief": "**三星 Galaxy S27 Ultra** 通过 CB 认证，确认支持 **60W 充电**（20V 档），延续 S26 Ultra 首次采用的 60W 方案。旗舰机充电功率站稳 60W，对第三方 GaN 充电头与车载快充的功率档位规划是明确的风向标。",
+        "url": "https://www.gsmarena.com/the_samsung_galaxy_s27_ultra_gets_certified_with_60w_charging-news-75631.php",
+        "source": "GSMArena",
+        "score": 4,
+        "recurring": false,
+        "tier": "成熟品牌",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-s27-ultra-60w-charging-certificate/-184x111/gsmarena_000.jpg"
+      },
+      {
+        "brief": "一款智能戒指在睡眠追踪之外，清醒时还能充当 **AI 记录员**，把戒指从「戴在手指上的日记本」升级为随身输入设备。可穿戴形态叠加 AI 记录功能，是 AI 硬件里少见的极简载体，值得关注其交互与续航取舍。",
+        "url": "https://www.yankodesign.com/2026/11/25/this-smart-ring-tracks-your-sleep-and-becomes-your-ai-note-taker-when-youre-awake/?utm_source=rss&utm_medium=rss&utm_campaign=this-smart-ring-tracks-your-sleep-and-becomes-your-ai-note-taker-when-youre-awake",
+        "source": "Yanko Design",
+        "score": 4,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/this-smart-ring-tracks-your-sleep-and-becomes-your-ai-note-taker-when-youre-awake/ring-01.jpg"
+      },
+      {
+        "brief": "Google Home 的 **Familiar Faces** 人脸识别功能下放到沃尔玛 **35 美元 Onn 户外摄像头**和 77 美元泛光灯摄像头，但需订阅 Google Home Premium。AI 能力向低价智能家居硬件渗透，说明软件订阅正在成为硬件的新利润层。",
+        "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+        "source": "The Verge",
+        "score": 3,
+        "recurring": false,
+        "tier": "AI 硬件",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "brief": "配件厂 Thinborne 放出 **Galaxy S27 系列**四款机型（S27/S27+/S27 Pro/S27 Ultra）手机壳上手视频，等于提前泄露机身轮廓。对手机壳品类而言，这是提前锁定开模节奏与磁吸结构设计的关键情报。",
+        "url": "https://www.gsmarena.com/case_maker_leaks_galaxy_s27_series_cases_in_handson_video-news-75638.php",
+        "source": "GSMArena",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/galaxy-s27-series-thinborne-cases-leak/-184x111/gsmarena_00.jpg"
+      },
+      {
+        "brief": "一款**磁带造型蓝牙音箱**，把复古卡带外观做成可携带的音频配件，主打送礼与情绪价值场景。在便携音频同质化严重的当下，用形态叙事撬动购买欲，是配件类产品可借鉴的差异化思路。",
+        "url": "https://www.yankodesign.com/2026/11/25/a-cassette-shaped-bluetooth-speaker-worth-making-a-mixtape-for/?utm_source=rss&utm_medium=rss&utm_campaign=a-cassette-shaped-bluetooth-speaker-worth-making-a-mixtape-for",
+        "source": "Yanko Design",
+        "score": 3,
+        "recurring": false,
+        "tier": "新锐产品",
+        "image": "https://www.yankodesign.com/images/design_news/2026/11/a-bluetooth-speaker-hidden-in-a-cassette-shaped-stocking-stuffer/cassette-speaker-01.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-11-25",
     "items": [
       {
@@ -1968,74 +2036,6 @@
         "recurring": false,
         "tier": "新锐产品",
         "image": "https://www.yankodesign.com/images/design_news/2026/10/mcdonalds-china-turns-old-happy-meal-toys-into-a-french-fry-shaped-wireless-mouse/McDonalds-French-Fries-8.jpg"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-27",
-    "items": [
-      {
-        "brief": "**Anker 万圣节大促全场充电产品 8 折**，涵盖其最受好评的充电器与移动电源。作为充电类头部品牌的价格动作，是观察北美充电配件促销节奏与价格带的直接窗口，对图拉斯定价与促销策略有参考价值。",
-        "url": "https://www.wired.com/story/anker-halloween-sale-oct-2026/",
-        "source": "Wired",
-        "score": 4,
-        "recurring": false,
-        "tier": "每日头条",
-        "image": "https://media.wired.com/photos/6adfb111ce126e8759a8370d/191:100/w_1280,c_limit/Anker%20Halloween%20Sale%20deals%20102026%20top%20art%20SOURCE%20Anker.jpg"
-      },
-      {
-        "brief": "**Even Realities 推出玳瑁纹新镜框**，评论称光凭设计就愿意买下这副智能眼镜。这家深圳新锐用「先做好一副眼镜」的思路切入 AI 眼镜赛道，与 Meta、Google 的路径形成对照，对智能穿戴外观设计有启发。",
-        "url": "https://www.yankodesign.com/2026/10/26/even-realities-new-tortoise-shell-frame-is-so-gorgeous-id-buy-the-smart-glasses-just-for-the-design/?utm_source=rss&utm_medium=rss&utm_campaign=even-realities-new-tortoise-shell-frame-is-so-gorgeous-id-buy-the-smart-glasses-just-for-the-design",
-        "source": "Yanko Design",
-        "score": 4,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/even-realities-new-tortoise-shell-frame-is-so-gorgeous-id-buy-the-smart-glasses-just-for-the-design/even_realities_brown_2_1.jpg"
-      },
-      {
-        "brief": "**Nothing Ear 3A 降噪耳机降至历史最低价**，四款配色在亚马逊、沃尔玛、百思买同步促销。Nothing 以配色与设计驱动的平价音频策略持续奏效，是 3C 配件品牌做「设计差异化」的典型样本。",
-        "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-        "source": "The Verge",
-        "score": 3,
-        "recurring": false,
-        "tier": "成熟品牌",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "brief": "Wired 评测 **Google Fitbit Edge**：对老 Fitbit 用户是受欢迎的升级，但**取消 NFC 支付**被视为令人费解的倒退。智能穿戴在功能取舍上的失误，是硬件产品定义阶段的典型反面案例。",
-        "url": "https://www.wired.com/review/google-fitbit-edge/",
-        "source": "Wired",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://media.wired.com/photos/6adf55bb4342ac0de5548459/191:100/w_1280,c_limit/Google%20Fitbit%20Edge%20Review%20102026%20top%20art%20SOURCE%20Google.jpg"
-      },
-      {
-        "brief": "**Oura 再次起诉 Ultrahuman**，指控其 Ring Pro 侵犯两项专利，直接威胁后者在美国智能戒指市场的回归。智能戒指赛道专利战升级，将影响该品类的入场门槛与供应链选择。",
-        "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-        "source": "TechCrunch",
-        "score": 3,
-        "recurring": false,
-        "tier": "AI 硬件",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800"
-      },
-      {
-        "brief": "**LISEN 迷你移动电源**在亚马逊降价 21%，**10000mAh 容量 + 45W USB-C 输出**塞进旅行友好尺寸，价格跌破 32 美元。小体积高功率的充电宝形态持续走热，是充电类选品的高频方向。",
-        "url": "https://www.androidauthority.com/lisen-10-000mah-travel-charger-down-3728239/",
-        "source": "Android Authority",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/LISEN-Small-Portable-Charger-Press-Image.jpg"
-      },
-      {
-        "brief": "**罗技 Pebble Up 鼠标可变形为垂直握持姿态**，面向重度用户兼顾便携与人体工学。在罗技 Mobi Fold 之后继续在形态可变上做文章，是 3C 配件「一物多用」设计思路的又一案例。",
-        "url": "https://www.yankodesign.com/2026/10/26/logitech-pebble-up-mouse-transforms-into-a-vertical-configuration-for-power-users/?utm_source=rss&utm_medium=rss&utm_campaign=logitech-pebble-up-mouse-transforms-into-a-vertical-configuration-for-power-users",
-        "source": "Yanko Design",
-        "score": 3,
-        "recurring": false,
-        "tier": "新锐产品",
-        "image": "https://www.yankodesign.com/images/design_news/2026/10/logitech-pebble-up-mouse-transforms-into-a-vertical-configuration-for-power-users/Logitech-Pebble-Up-mouse-1.jpg"
       }
     ]
   }
